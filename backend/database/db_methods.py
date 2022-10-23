@@ -1,4 +1,4 @@
-from db_connector import DbConnector
+from database.db_connector import DbConnector
 from sqlalchemy import *
 import sqlalchemy
 class DbMethods():
@@ -18,13 +18,10 @@ class DbMethods():
         )
     def location_search_db(self,lat,log,keyword):
         lat_max = lat + 0.01
-        #lat_max = round(lat_max,2)
         lat_min = lat - 0.01
-        #lat_min = round(lat_min,2)
         log_max = log + 0.01
-        #log_max = round(log_max,2)
         log_min = log - 0.01
-        #log_min = round(log_min,2)
+
         stmt = select([self.locations]).where(and_(and_(between(self.locations.columns.latitude, lat_min, lat_max), between(self.locations.columns.longitude, log_min, log_max)), self.locations.columns.keyword == keyword))
         result = self.connection.execute(stmt)
         #print(result.fetchall())
@@ -49,7 +46,7 @@ class DbMethods():
 
         stmt = select([self.routes]).where(and_(and_(and_(between(self.routes.columns.s_lat, s_lat_min, s_lat_max), between(self.routes.columns.s_long, s_log_min, s_log_max)), between(self.routes.columns.d_lat, d_lat_min, d_lat_max)), between(self.routes.columns.d_long, d_log_min, d_log_max)))    
         result = self.connection.execute(stmt)
-        print(result.fetchall())
+        # print(result.fetchall())
         return result.fetchall()
     
     def route_insert_db(self,source,destination,list):
