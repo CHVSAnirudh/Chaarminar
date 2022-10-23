@@ -27,11 +27,9 @@ class GetImage:
             for chunk in response:
                 f.write(chunk)
             f.close()
-        self.add_background(path)
+        self.add_background(path,self.name)
     
-    def add_background(self,path):
-        lpath = [x for x in path.split('/')]
-        name = lpath[-1][:-4]
+    def add_background(self,path,name):
         bg_path = PROJ_FILE + "/images/bg.png" 
         bg_img = Image.open(bg_path).convert('RGB')
         ht = bg_img.height
@@ -41,10 +39,13 @@ class GetImage:
             image = image.resize(((2*width//3) + 20, 2*ht//3))
             bg_img.paste(image,(120,120))
             I1 = ImageDraw.Draw(bg_img)
-            #font = ImageFont.truetype('arial.ttf',45)
-            I1.text(((width//2), 2*ht//3 + 200),name,font = font ,fill = 'rgb(254, 1 , 1)')
+            font = ImageFont.truetype(PROJ_FILE + '/utils/arial.ttf',45)
+            try:
+                I1.text(((width//2), 2*ht//3 + 200),name ,font = font,fill = 'rgb(254, 1 , 1)')
+            except Exception as e:
+                pass
             bg_img.save(path)
         generate()
         
-test = GetImage("job2","AcYSjRh6wf7hgpIuaUcS3aoQkwTasQqUVVh13068pfqjvk-r-K6xJ1CxXK85Agzp-krT8vOHDc38Fa8ADKIxNgrSjk1ypBanDe2P1DvdieUZq23UnMpX9_34gBCfZueVlUMcRRrIx8xjFSB7NpC1Cl-bst8UteEVC9ADDxMluZ29LfYWQOwV","panda")
+#test = GetImage("job2","AcYSjRh6wf7hgpIuaUcS3aoQkwTasQqUVVh13068pfqjvk-r-K6xJ1CxXK85Agzp-krT8vOHDc38Fa8ADKIxNgrSjk1ypBanDe2P1DvdieUZq23UnMpX9_34gBCfZueVlUMcRRrIx8xjFSB7NpC1Cl-bst8UteEVC9ADDxMluZ29LfYWQOwV","panda")
 

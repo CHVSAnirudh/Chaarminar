@@ -1,0 +1,928 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhuVt3YwBWsUtedmdSMXjuJmuwLVp4Sj8Owy5BYbpSmrKbmPgQB_oRIjAII6UtuIV-pgllnnumdy_2M4vjXEH1mmG9mZG-qOmkq9krvACAc53Sefe7zFdrD9LmOsSd_6U1mhSFVbld8Kt4XOlzZHU4fn3h7guDj8Dv4LVmkNPuhiGJnn59E7Y4ggmfB83ImjCw9w0cKUW2PiOx1DPlVRT44ZFubXvW6Qzrvv7u2c1cpS5D6BXbp1TH1uPsylv3ZGvOEzhzuIb3vkJtOy_MDXGZ12yAfCHBaBgdmCxskSMnxj0lCIkyMKSqBWW67eS8ebN71cR4gykNFGC0hAjdqfOnjzrzh9ilbdRdjwzSpK2AeL8t8PSp1B2M9ZrEG6Njt9nrRhAtaMJ94tt8h-o1yhcTVrZKABGFx_rNKotHOUGxjUCzwDRmcLtFJkg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4294913,
+                    "lng": 78.4731065
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43084472989273,
+                        "lng": 78.47419307989271
+                    },
+                    "southwest": {
+                        "lat": 17.42814507010728,
+                        "lng": 78.47149342010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Indian National Flag",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3328,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114404521332922291663\">giduturi ramesh</a>"
+                    ],
+                    "photo_reference": "AcYSjRhsocSXXJWYXICmxpHKpAsTnrlDXWPp0v239VoyZ5zLWBYbBBOdTuRee303c5imXtuBE_NREgBQSrnu5q9mSH4ovkX6Pn4w8SZsM-bKwjM7Ll4MJUam1dIoGBW9tAGezZXKj0sZzShFA8r64gna1vpAPKJ5plD9VZ9cRdcEQl6xxgml",
+                    "width": 1872
+                }
+            ],
+            "place_id": "ChIJvakX8KqQyzsRx7mYg-fqSTE",
+            "rating": 4.7,
+            "reference": "ChIJvakX8KqQyzsRx7mYg-fqSTE",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 636,
+            "vicinity": "CFHF+Q6X, Necklace Road, Indira Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3773022,
+                    "lng": 78.3542532
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.37865462989272,
+                        "lng": 78.35558922989273
+                    },
+                    "southwest": {
+                        "lat": 17.37595497010728,
+                        "lng": 78.3528895701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Chetrapati Shivaji Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118272738258591732357\">gompa ramakrishna</a>"
+                    ],
+                    "photo_reference": "AcYSjRgAPss3EUjA-SVQK5vU6_Ljq3rfwl8-Q0GwFChdCyJ3RIRxq-2lY8r81X_6CPzV5dbr3G7J2VxhBFiSm7nPHQGPWN5K0YWJR7SkVB5-85BHFlf5Ra_szHDIq6krSbpOoWM5JVhXuanpaSCt3gS6k7vQbUMsBoCyhz06nTIAEx2RGBN9",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJo4I3XUyUyzsRxrXwdxba-8o",
+            "plus_code": {
+                "compound_code": "99G3+WP Hyderabad, Telangana",
+                "global_code": "7J9W99G3+WP"
+            },
+            "rating": 3.9,
+            "reference": "ChIJo4I3XUyUyzsRxrXwdxba-8o",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 55,
+            "vicinity": "126.3, Manchirevula, Hyderabad"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 17.4394596,
+                    "lng": 78.37752429999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.4501044,
+                        "lng": 78.3935317
+                    },
+                    "southwest": {
+                        "lat": 17.4288142,
+                        "lng": 78.3615169
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Hitech City Monument",
+            "place_id": "ChIJwYimpuaTyzsRpeVLB2RCivw",
+            "reference": "ChIJwYimpuaTyzsRpeVLB2RCivw",
+            "scope": "GOOGLE",
+            "vicinity": "Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3989726,
+                    "lng": 78.3774535
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40031547989272,
+                        "lng": 78.37880257989272
+                    },
+                    "southwest": {
+                        "lat": 17.39761582010728,
+                        "lng": 78.37610292010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Monument",
+            "place_id": "ChIJvVfCI8eVyzsR0aRcItK0NUo",
+            "plus_code": {
+                "compound_code": "99XG+JX Manikonda Jagir, Telangana",
+                "global_code": "7J9W99XG+JX"
+            },
+            "rating": 0,
+            "reference": "ChIJvVfCI8eVyzsR0aRcItK0NUo",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "21/1, Balaji Nagar, Sri Ram Nagar Colony, KPR Colony, Manikonda Jagir"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3959576,
+                    "lng": 78.4277946
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39725812989272,
+                        "lng": 78.4291881798927
+                    },
+                    "southwest": {
+                        "lat": 17.39455847010728,
+                        "lng": 78.42648852010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Congress Pylon",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 566,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106168661988011103518\">sharad kachhi</a>"
+                    ],
+                    "photo_reference": "AcYSjRgfadmO7823-UNECYT12iTO3O8gid-fkjW2g3RUg3qTsEEbrw6ZvsxtEyUEz6R6S2j6nWFI_6FZOHKRFQ_mBhSLUuL5HRWiU2iOF_aEyvXP-RFKQ18oHWXarzuU5ZlravaIW60tKrW2lx8F2CQH4on8RV4UbSvT7Kgzl8XwUKaOQSWi",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJwTRNjuGWyzsRxHLKJA172-0",
+            "rating": 3.9,
+            "reference": "ChIJwTRNjuGWyzsRxHLKJA172-0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 98,
+            "vicinity": "9CWH+94M, Nanal Nagar, Mehdipatnam, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4492689,
+                    "lng": 78.41776879999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45064342989272,
+                        "lng": 78.41912517989272
+                    },
+                    "southwest": {
+                        "lat": 17.44794377010728,
+                        "lng": 78.41642552010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Monument Engineers and builders",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 554,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104292419692489733358\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj8-s3vGy8S_oCXAUySIFf3BLx-0S1FHDwN1xIH-kHS4Bnqiw5xFqbPQiKWBe62kSN0y70eBgY7Is9l2taA9qs04pojbBkCwRMazy1yq3UU1l0wDA2ayK1lAZq1rKYgNlbRsn2CvP4B4d1HLBxbDf2CUgpXa_jEz0wGdIMbSZjLozjV",
+                    "width": 554
+                }
+            ],
+            "place_id": "ChIJRw9vGmuRyzsRwRoQLz8xjwQ",
+            "plus_code": {
+                "compound_code": "CCX9+P4 Hyderabad, Telangana",
+                "global_code": "7J9WCCX9+P4"
+            },
+            "rating": 0,
+            "reference": "ChIJRw9vGmuRyzsRwRoQLz8xjwQ",
+            "scope": "GOOGLE",
+            "types": [
+                "general_contractor",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Habeeb Fathima Nagar Rd, Habeeb Fathima Nagar, SPR & D Hill, Borabanda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4009335,
+                    "lng": 78.47600969999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40231987989272,
+                        "lng": 78.47731997989273
+                    },
+                    "southwest": {
+                        "lat": 17.39962022010728,
+                        "lng": 78.47462032010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Alimineti Madhava Reddy Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101055104389196463574\">Ravi Rao Pusala</a>"
+                    ],
+                    "photo_reference": "AcYSjRhg4vaH4_Bi6QCEswnEpyGmlLoCwz7d9FjmiPwX_4b-HKMQSk7aJTcpNjblgd5ZzjaZhNAuOL85-Ii9HiT3ygGbrRdFwQHCMKJ1cB6-u1nFLnHa-eo8KoMC5r-YmbNXZif01ZR7SpGfGrrxRA697WiQ88Y6djy9_jzG-u_dAFTWfa2o",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJg5QVd9-ZyzsRnpRMZ2h5lXA",
+            "rating": 4.1,
+            "reference": "ChIJg5QVd9-ZyzsRnpRMZ2h5lXA",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "CF2G+9CC, Bade Ustad Gulam Ali Khan Marg, Gun Foundry, Basheer Bagh, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3837246,
+                    "lng": 78.4000659
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.3870459,
+                        "lng": 78.40145687989272
+                    },
+                    "southwest": {
+                        "lat": 17.3826175,
+                        "lng": 78.39875722010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Amber Khana",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106305897212751676129\">sudipto chakraborthy</a>"
+                    ],
+                    "photo_reference": "AcYSjRirCt8u_xfEXxWdOP36D8l1ha8GQUeUTs7ctj8bbiBdqjPsYWAt2mEIy19HGeBAa4fCJ-L-nFl3SUfGg8ZS1iC_CL_NFqks-Bv_1VS488NCsaNHsqm7eOgiMQSVZ74_NKa_Z8GadwIJhqeBU2ag_Vq45MfiEaELGJQpkQp-xAMr1n3p",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJiVCk646WyzsRoMM49esboTE",
+            "rating": 4.3,
+            "reference": "ChIJiVCk646WyzsRoMM49esboTE",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 69,
+            "vicinity": "9CM2+F2P, Khair Complex, Golconda Fort, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3615636,
+                    "lng": 78.4746645
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.36292607989272,
+                        "lng": 78.47616367989272
+                    },
+                    "southwest": {
+                        "lat": 17.36022642010728,
+                        "lng": 78.47346402010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Charminar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105089445535375922525\">king kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRgNaL0Xtj_TxqaH8CXXk2ozkgTTpjJzARrSxzN_q3GGIDxFSQ6hstDYg311F3tZptzBntZLJ4S4CIsObtJ0A3c7TZcvHz5m-9NjgmRvEYtLQkMhxMI5zXQdeTcNAvnxYAKGDR0gaHb-5knw-msRXqc0ubK1AzlumB0Nzvd61ZjLQsx4",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJm5MaboqXyzsR-xPxquRpWss",
+            "plus_code": {
+                "compound_code": "9F6F+JV Hyderabad, Telangana",
+                "global_code": "7J9W9F6F+JV"
+            },
+            "rating": 4.5,
+            "reference": "ChIJm5MaboqXyzsR-xPxquRpWss",
+            "scope": "GOOGLE",
+            "types": [
+                "mosque",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 159348,
+            "vicinity": "Charminar Rd, Char Kaman, Ghansi Bazaar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3632541,
+                    "lng": 78.4760381
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.36463857989272,
+                        "lng": 78.47739447989274
+                    },
+                    "southwest": {
+                        "lat": 17.36193892010728,
+                        "lng": 78.47469482010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Kali Kaman",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103905992964863906346\">AVINASH YADAV</a>"
+                    ],
+                    "photo_reference": "AcYSjRggfvVttVuKg-6A8X3xdWK7D9JDmHilThmWWCowcwbbDlT73IcwEXnA7_Wez6T-omRn4xzNVOrcf2M3DsfvzPd4FUgQ0vcN4X9bHVuY2ivVsMGF3MQNyRGUPp_J130u7BlFKhkCFmzhjKSLhBaAU22Kc_0ekn7tU_FxqbHPJI28_Mdb",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ62nvsiCYyzsR7Y3q4SSUfE8",
+            "rating": 4,
+            "reference": "ChIJ62nvsiCYyzsR7Y3q4SSUfE8",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 183,
+            "vicinity": "9F7G+8C3, Panjeshah Rd, Chowk Mohammed Khan, Panje Shah, Pathar Gatti, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4147279,
+                    "lng": 78.47925579999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41610237989272,
+                        "lng": 78.48055852989272
+                    },
+                    "southwest": {
+                        "lat": 17.41340272010728,
+                        "lng": 78.47785887010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kshetrayya Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110077567879881212560\">Durgasai Domala</a>"
+                    ],
+                    "photo_reference": "AcYSjRhsJ3immQeS5zRsLK-v9JBYGFLEFnVCcS2XVrpBCyoCRGFPUgv6Ynl02ix1eibjcdILwsgkbnnYNR6fn5lIFpvZz2eaybxORLCjRQYqP9aPQdBpcfpns8i3Om1DfBZYqQYgGEcG2dZ2UMWQM6eMNvetBOaKN_ZCI5tZlXP0kVHELZV6",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ3xA5e5OZyzsR0us5zebra7k",
+            "rating": 4.3,
+            "reference": "ChIJ3xA5e5OZyzsR0us5zebra7k",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "CF7H+VPR, Tank Bund Rd, Lower Tank Bund, Kavadiguda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3959015,
+                    "lng": 78.39699999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39724957989272,
+                        "lng": 78.39839447989272
+                    },
+                    "southwest": {
+                        "lat": 17.39454992010728,
+                        "lng": 78.39569482010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Tomb of Fatima Khanam",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106810223154890591796\">Nejumudheen KV</a>"
+                    ],
+                    "photo_reference": "AcYSjRjvj2PWzt8I0lV01j_gzBm8teLt--YbsVJnDLx2t5H06cO0khxlunLBbugkL3VgfPRAn-IAxTYUs37_GkRiyj5cGtvn2Gp9Qn7ylFCMaLFPVEdnl9xnF-zzxNOG9W3gZ-dyYWofdf4B8NeYomFp6xWsjJK9hiatiC2yOXWSryoDdTR5",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJTyF3G5eWyzsRwzXWhLHHMvw",
+            "rating": 3.9,
+            "reference": "ChIJTyF3G5eWyzsRwzXWhLHHMvw",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "99WW+9R5, Qutub Shahi Tomb Rd, Qutub Shahi Tombs, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4091996,
+                    "lng": 78.4633645
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41054942989273,
+                        "lng": 78.46462657989272
+                    },
+                    "southwest": {
+                        "lat": 17.40784977010728,
+                        "lng": 78.46192692010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Khairatunneesa Tomb - [Khair-un-Nissa]",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114245149488369084507\">vishnu.ag128</a>"
+                    ],
+                    "photo_reference": "AcYSjRg1-uEjFP9iHTq4lsyLh-aXJXM60Vw8qBPolLU4CrPEGaD1sGYy4w5MsnceG466q8SQdoIUSu0UU7jafahXp0gFwArKF2-OYXtDHpvpWPwxCzMOscF2lyykTVOK4rvegiZRI-pB20Sy9aoXqI6DbZIxdmB-y53oQaNzpaTTFOrKRhMt",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJ0aUgVkOXyzsROoBJeY8r7YU",
+            "plus_code": {
+                "compound_code": "CF57+M8 Hyderabad, Telangana",
+                "global_code": "7J9WCF57+M8"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ0aUgVkOXyzsROoBJeY8r7YU",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 57,
+            "vicinity": "Taj Enclave, Khairtabad, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4541635,
+                    "lng": 78.3788788
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45547172989272,
+                        "lng": 78.38017307989271
+                    },
+                    "southwest": {
+                        "lat": 17.45277207010728,
+                        "lng": 78.37747342010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Indira Gandhi Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115821392789860672220\">Ranganayaki Srinivas</a>"
+                    ],
+                    "photo_reference": "AcYSjRg3cKmiHW33GVR74lvcvSM62Ped9zQpho-drGi-zl-6VNAyRUX0WNMhFjx_WJGdubJP3CBDliZzPNMjtqfVwzapvqYqP8z8Y1YM1WbpnGIuIIJTHMx13Ds1WdsmZAYuzWk82MydhNJJpjCoH4Qm1dfbc-vh3zDgaCauMPDBOrnwd2M4",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJmbWlhtmTyzsRA9yJayK8N-0",
+            "rating": 4.3,
+            "reference": "ChIJmbWlhtmTyzsRA9yJayK8N-0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "F93H+MH6, Hitech City Rd, Opposite Shilparamam, Surya Enclave, Madhapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3634322,
+                    "lng": 78.4750088
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.36477512989272,
+                        "lng": 78.47642077989272
+                    },
+                    "southwest": {
+                        "lat": 17.36207547010727,
+                        "lng": 78.47372112010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Gulzar Houz",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3464,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100498065936829540863\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjt5lgpvtxI9fvg1AAKfuTzQg4ihN-15D9b4ICQoBDjPHYDFkAoKRZYw7cgGQo6aOFoN8Qyk3DnSr_FXQOWfS8GDT9cF761DSMN8O_pHZM5ta-VGeXawQTrM-h-_U16O8jpUYcuh0Gxvk0hRpM4BBcbh2xhItHSinKNygHhNmR8D_fy",
+                    "width": 4618
+                }
+            ],
+            "place_id": "ChIJP-em_4mXyzsRSxZu2f5jkUU",
+            "plus_code": {
+                "compound_code": "9F7G+92 Hyderabad, Telangana",
+                "global_code": "7J9W9F7G+92"
+            },
+            "rating": 4.3,
+            "reference": "ChIJP-em_4mXyzsRSxZu2f5jkUU",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7943,
+            "vicinity": "Charminar shehran, Irani Gali, Irani Galli, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3950024,
+                    "lng": 78.3967945
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39649632989272,
+                        "lng": 78.4016574
+                    },
+                    "southwest": {
+                        "lat": 17.39379667010727,
+                        "lng": 78.39511979999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Qutb Shahi Tombs",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4016,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116150715121803205530\">ravi reddy</a>"
+                    ],
+                    "photo_reference": "AcYSjRhztwS_FgQBLQu8sO6p8dZhc59GvpEGblO7BV8LRpzGWSdtVgABK2Ri7boxjJLkMQKN0YGgpkvGq893jP1AnbwE2bOBEM2NknFHPvfntFmDODtyzuPnxJt0o3cAi7Ol8a4SXXBj8KQqVPyhfzNXkTu85dDrAie_7TnZS0WGCXW7wdX1",
+                    "width": 6016
+                }
+            ],
+            "place_id": "ChIJEadvQpeWyzsR9dHNyw6hS4A",
+            "plus_code": {
+                "compound_code": "99WW+2P Hyderabad, Telangana",
+                "global_code": "7J9W99WW+2P"
+            },
+            "rating": 4.4,
+            "reference": "ChIJEadvQpeWyzsR9dHNyw6hS4A",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16764,
+            "vicinity": "Qutub Shahi Tombs, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4570819,
+                    "lng": 78.4036412
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45843102989272,
+                        "lng": 78.40499062989272
+                    },
+                    "southwest": {
+                        "lat": 17.45573137010728,
+                        "lng": 78.40229097010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Gayatrinagar Gandhi Statue",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100451989525260728524\">murali i</a>"
+                    ],
+                    "photo_reference": "AcYSjRg2sJDSsXqfGjtu5X-ko9IDydGcWJOy-FfO_tycjqKwxZLcSgm8mYVlM7XP1zad6DlnGyniwbzOVQX0ePi6ZG-exkvIMvj5E-25io_inlOaTCG0OV_xhgCgZhFFUL7QbUCrqnS0tVeVpbsn0iKi_F8rpWwH-2_D_070lAehv42wxfh5",
+                    "width": 3008
+                }
+            ],
+            "place_id": "ChIJ-cOlem2RyzsRrMtRwAtvgoc",
+            "rating": 4.2,
+            "reference": "ChIJ-cOlem2RyzsRrMtRwAtvgoc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 238,
+            "vicinity": "FC43+RFJ, Allapur Rd, Jyothi Nagar, Gayatri Nagar, Allapur, Borabanda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4217017,
+                    "lng": 78.4845036
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42304117989272,
+                        "lng": 78.4858835298927
+                    },
+                    "southwest": {
+                        "lat": 17.42034152010728,
+                        "lng": 78.48318387010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Swami Vivekananda Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118024691362411143891\">Srinivasu Kondru</a>"
+                    ],
+                    "photo_reference": "AcYSjRjQyFUjCuk48WcwcZtdbA22JqkFKpUKmNPGvP4_GqxvkEFt_cHWmqNrBiZzbfvxjpQ7fkfnvW-huH65vPJFClykwUNPyOcpJVvfkZg6BSlQ1GX2Mbltq30qAiGF44cEK6bwda-1xOQax8s3fGYIDXjC-5sNeMIV-mfbVzDxyU2yacNJ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ1w_hJfqZyzsRhtB2U1aPuQY",
+            "rating": 4.4,
+            "reference": "ChIJ1w_hJfqZyzsRhtB2U1aPuQY",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 324,
+            "vicinity": "CFCM+MRJ, Hussain Sagar, Khairtabad, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4155657,
+                    "lng": 78.474973
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41796875000001,
+                        "lng": 78.47598395
+                    },
+                    "southwest": {
+                        "lat": 17.40835655,
+                        "lng": 78.47194015000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "\u0c2c\u0c41\u0c26\u0c4d\u0c27 \u0c35\u0c3f\u0c17\u0c4d\u0c30\u0c39\u0c02",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 760,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100500014561837073530\">Subhash India</a>"
+                    ],
+                    "photo_reference": "AcYSjRiGaFRokvTeav4KV2tMKU-Tn8pp7uUhs_hpLvE7zu5bmDsoFpnTR5tBiC13PidEucSPMcHFAoPNi3wOtZ06X3GGN8glBEuRVCUz6uLiUgpiOJjvAVKEjj48Gie775zl39RS1jiRG7iLv4dWmFTsAFQidqWQoEIiWAir-_jy1ETqbk-2",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJk_CvAViXyzsRJARbEWzvR0w",
+            "rating": 4.4,
+            "reference": "ChIJk_CvAViXyzsRJARbEWzvR0w",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20294,
+            "vicinity": "CF8F+6XH, NTR Marg, Khairatabad, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3837235,
+                    "lng": 78.40037269999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.38704645,
+                        "lng": 78.40158937989271
+                    },
+                    "southwest": {
+                        "lat": 17.38261585,
+                        "lng": 78.39888972010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Qutub Shahi Masjid",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 864,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100529990744736418104\">Tripti Patra</a>"
+                    ],
+                    "photo_reference": "AcYSjRgh9gBpXKRxIRAOHni3WNqa4mLyPvmRQP6xr23-JWuPhRGIxBLdsKit5gvg0cIqWmbmVEIhjdM2fp7eIfT5r8TsduY3mqyMWW_DE73Gt_1sKa8GbIPbBXbJUSbUkELwlOVlFtiKKB3bY1mGkYqRNwJNw3qd9sWBBHggwuYtb6eqwnzf",
+                    "width": 1152
+                }
+            ],
+            "place_id": "ChIJ4Q3flI6WyzsRG6Mt5yBwq_w",
+            "rating": 4.4,
+            "reference": "ChIJ4Q3flI6WyzsRG6Mt5yBwq_w",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 86,
+            "vicinity": "9CM2+F4Q, Khair Complex, Golconda Fort, Hyderabad"
+        }
+    ],
+    "status": "OK"
+}

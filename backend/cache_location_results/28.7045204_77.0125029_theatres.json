@@ -1,0 +1,949 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRigGtbEm8oA2US9KhYM30Qzpgl1D7ecJaKSPp6p4ZN0QsKHijJ4RUn0B0R1F1GawqpYt_0K7wUaP_Q0Xt4zaYn1e8ShyRmzURxnDs7Twdlcd4r62vmf7XlRi_a7eRbfDiGiMtU2S-Se598cx8WRYwtIQr2M84wz_sfGyRUWILYKbdb7tDW5xQXLzjGXoN2XRiQEJNhK4HmW2zquCGUVtbSluEap-8IEJbTZSDPWd8fm3tFq5TfnDsJALfgy2PK4y-LCdI3Nexq2OIUDK1EDHxNTTmOJ1w8C4ha27Ew_KMjB2MttUP2XUV5XhL86mgUVQPqLKcRsl37NyVBD4PMGc8Xb6hw5XODvJ6Y0YPg8vj3tk1txQJZ7sdGxxs6dyKpUAF3ecx3w8NIUtaIPGYqpyE5QDBtvdLI8bKqoZtBXwOc5zKYhp1KBlyo6EQ",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6384223,
+                    "lng": 77.1070098
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63975197989272,
+                        "lng": 77.10841477989273
+                    },
+                    "southwest": {
+                        "lat": 28.63705232010728,
+                        "lng": 77.10571512010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Miraj Cinemas Subhash Nagar",
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117869918990691295941\">Rohan Mishra</a>"
+                    ],
+                    "photo_reference": "AcYSjRiNmpk-LITnTLm2kZMAcAJ9W7qM9jv77iaaNH20YGrfpxHCYXgc5WYRs_hXCxnVipQiVLR38z4s56rr13kzhrChwWB_CLcUqkscx9xbGKSS_YXBvmsXNug2p1ThX4RRmjbweT62NnAqFiri8e6ToA7K8XmZdLNimABGCw2aswf_nHvS",
+                    "width": 1800
+                }
+            ],
+            "place_id": "ChIJT0ASTmADDTkRcPUrWECIkog",
+            "plus_code": {
+                "compound_code": "J4Q4+8R New Delhi, Delhi",
+                "global_code": "7JWVJ4Q4+8R"
+            },
+            "rating": 4,
+            "reference": "ChIJT0ASTmADDTkRcPUrWECIkog",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10863,
+            "vicinity": "Ivory Tower, Plot No S-26, Ajay Enclave, Subhash Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6388738,
+                    "lng": 77.0748225
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64014857989272,
+                        "lng": 77.07622837989271
+                    },
+                    "southwest": {
+                        "lat": 28.63744892010727,
+                        "lng": 77.07352872010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Sonia Theater Pvt.Ltd.",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113492821032528448070\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgCdU03l74Nraj6okM28OIv0hw7FrYxvcW5SHx17aGYj8Bz8JK3PVWEK66AsQykPSKLdvu1Z919uUjbYqFphaeH3cB1CNq8sSh9j4EA-9-wPWhQnaSI5-ltYdWdU0ud8aOSQvqMIdDoEkReLyktSlB78VmC5O6ltBiA_ui3hTKYLl7C",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJyUUBFuwEDTkRgAYOtwzSDds",
+            "plus_code": {
+                "compound_code": "J3QF+HV Delhi",
+                "global_code": "7JWVJ3QF+HV"
+            },
+            "rating": 3.9,
+            "reference": "ChIJyUUBFuwEDTkRgAYOtwzSDds",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3326,
+            "vicinity": "3, Vikaspuri Banks Rd, DDA Market, Vikaspuri, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6429228,
+                    "lng": 77.1065416
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64406957989272,
+                        "lng": 77.10811857989272
+                    },
+                    "southwest": {
+                        "lat": 28.64136992010728,
+                        "lng": 77.10541892010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "PVR Pacific Mall, Subhash Nagar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 657,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107755700386571046685\">Cinemax - Delhi</a>"
+                    ],
+                    "photo_reference": "AcYSjRhAXFUsbWSxkqd7SfZ3ADUYBrsPL28JvSvMQ84K7_KYHqfA4iFtN7VlMLR4_iKE7mZkzqUarIskj_zxL2eS_677kQhMrtP22Zhyq2joNKoqRIVBuMQ8b1Q7d-Jkq5EXmE65PH_ji2zaTcSTB2eicPUSI3q-TtRTElP7n8r2Snfr6J4S",
+                    "width": 1759
+                }
+            ],
+            "place_id": "ChIJE002yGMDDTkR39rvDQ-u9eg",
+            "plus_code": {
+                "compound_code": "J4V4+5J New Delhi, Delhi",
+                "global_code": "7JWVJ4V4+5J"
+            },
+            "rating": 4.4,
+            "reference": "ChIJE002yGMDDTkR39rvDQ-u9eg",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24422,
+            "vicinity": "Level 3, Pacific Mall, Tagore Garden, Subhash Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6912536,
+                    "lng": 76.9408275
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69273812989272,
+                        "lng": 76.94227137989273
+                    },
+                    "southwest": {
+                        "lat": 28.69003847010728,
+                        "lng": 76.93957172010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Movietime: Corona Arcade Mall, Bahadurgarh",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1235,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102512827965077726933\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgs4F100FraLo36TCfeRJBHmXkdyoy2hiIE4V0b_Q7JqXSrvnyFyxcePv3DxAmQlyrUpHz9-V4stfbnrbu_f3kqcysiC3ELe8LA2-z9tyhqN3Kdad9Vk4ZAmq3fPpaP_agPscfseznRH8SWp-LGGZlim3x33ZwuC17QN99F_zM-XJc3",
+                    "width": 4748
+                }
+            ],
+            "place_id": "ChIJz5SKX68JDTkRBLyzYxYdm58",
+            "plus_code": {
+                "compound_code": "MWRR+G8 Bahadurgarh",
+                "global_code": "7JWRMWRR+G8"
+            },
+            "rating": 3.9,
+            "reference": "ChIJz5SKX68JDTkRBLyzYxYdm58",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1049,
+            "vicinity": "behind shyam ji complex, Ram Nagar, Bahadurgarh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.730131,
+                    "lng": 77.11291609999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.73141632989273,
+                        "lng": 77.11420817989271
+                    },
+                    "southwest": {
+                        "lat": 28.72871667010729,
+                        "lng": 77.11150852010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "G3S CINEMAS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109886037434251509280\">keshav</a>"
+                    ],
+                    "photo_reference": "AcYSjRh15AC0PGYlfi20UjFnncvzY7_ZRmTgvUGF6DOlQEUEIY5dsONpwgCCrBAvcHzhz0yBKpmBe2wYwXjNX3HwRzjm9zPvQzEqzboBrBfECVOPxUV-Ub9MGNcCm8_QrOcGL80Vq9vh8PPqdXbFr-Og0iBv6P8Fu-OvAVgUy0sENQRiS0O5",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJWQT_pDABDTkRg5ooWhmu1RU",
+            "plus_code": {
+                "compound_code": "P4J7+35 New Delhi, Delhi",
+                "global_code": "7JWVP4J7+35"
+            },
+            "rating": 3.7,
+            "reference": "ChIJWQT_pDABDTkRg5ooWhmu1RU",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9319,
+            "vicinity": "Plot no-6, G3S CINEMAS, Garg Trade Centre, Sector 11, Rohini, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6296244,
+                    "lng": 77.0819392
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63109687989272,
+                        "lng": 77.08347022989273
+                    },
+                    "southwest": {
+                        "lat": 28.62839722010728,
+                        "lng": 77.08077057010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "INOX Janak Place",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2346,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102583531282266825599\">Yogesh Garg</a>"
+                    ],
+                    "photo_reference": "AcYSjRjj2bD5OJf3dqSoip294pjgsf_SnJHng0ppU0zEIwUyNtiyDqGAZFNHOerl2nYwWwETFoI72m1AKBHALuFBSlmCkxDAQQCXeQat6k-rBGMDz4vAcZrHd00qYA83_eSTyI_4mONEfFGug785V5MKgw4reUg_NxmzvippqE812SKud5dK",
+                    "width": 3905
+                }
+            ],
+            "place_id": "ChIJWf4gG78EDTkRev-EiFneyJo",
+            "plus_code": {
+                "compound_code": "J3HJ+VQ New Delhi, Delhi",
+                "global_code": "7JWVJ3HJ+VQ"
+            },
+            "rating": 3.9,
+            "reference": "ChIJWf4gG78EDTkRev-EiFneyJo",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28220,
+            "vicinity": "19, Janakpuri District Center, Janak Place, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6947153,
+                    "lng": 77.0914501
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69606422989272,
+                        "lng": 77.09284492989273
+                    },
+                    "southwest": {
+                        "lat": 28.69336457010727,
+                        "lng": 77.09014527010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Kala Mandir Cinema Hall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1872,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109654961507380707185\">Sanjeet Jha</a>"
+                    ],
+                    "photo_reference": "AcYSjRjfIFvCEMhsmP2gMShCld8AxpEwy-i4NEAxf3cqzpaP4n5QK8HJXrHjgsW8eZ6YFJMS4Ikb3TD0xgQOO3IJ4dWhRZApe4zLp72uWlzgUmTDD8ULNxKEvBdKP_AJ52TU2noCAyWmNbhGzYiH4TuyG9MVC914mO-9anRPcVxbE4jffnHZ",
+                    "width": 3328
+                }
+            ],
+            "place_id": "ChIJEexyMxQFDTkR8st5FJ_gSnM",
+            "plus_code": {
+                "compound_code": "M3VR+VH Delhi",
+                "global_code": "7JWVM3VR+VH"
+            },
+            "rating": 3.5,
+            "reference": "ChIJEexyMxQFDTkR8st5FJ_gSnM",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 56,
+            "vicinity": "Kala Mandir Rd, Block C, Mangolpuri, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6382571,
+                    "lng": 77.1071175
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63959947989272,
+                        "lng": 77.10848062989271
+                    },
+                    "southwest": {
+                        "lat": 28.63689982010728,
+                        "lng": 77.10578097010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Ajanta Cineplex",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115403878362097770750\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhCyJg-cEe1o5tZhwjW0afUy7681D18wJOOt_1jDxp-VkubyTOgLPMqK932fKbUqAWpFy5LEPj-9kTX0lKFJJR0zoMwcaVVPRAbQfUqVvViaHsGI7rs54bdJHzhjtbkNVPa-uCL3Y_cdEKxum0k8QzrPVV2pLRFRIEQX7W_7GGwRaxT",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJietz2WADDTkRHAYsej62IOs",
+            "plus_code": {
+                "compound_code": "J4Q4+8Q New Delhi, Delhi",
+                "global_code": "7JWVJ4Q4+8Q"
+            },
+            "rating": 3.7,
+            "reference": "ChIJietz2WADDTkRHAYsej62IOs",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43,
+            "vicinity": "Ajay Enclave Delhi110018, Subhash Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6390018,
+                    "lng": 77.0745651
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64017137989272,
+                        "lng": 77.07591037989273
+                    },
+                    "southwest": {
+                        "lat": 28.63747172010728,
+                        "lng": 77.07321072010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "PVR Vikaspuri Delhi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 657,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102986860620463298204\">PVR Vikaspuri</a>"
+                    ],
+                    "photo_reference": "AcYSjRhMicVvWgsooaGu2Lh6JhsABu9oUDsSXT3NJQZVPTnD-9AOdjujdeUmI7gjUnXdnjuZ8brSmmxrYWqkW-GIrIW-Rv5MbZfPyjTiJSceWRhjWnu4OWVGy8bewmC8jTzcT7qyzjdefzSFZG4OCl9e6sARuCdnPuFZqAfn9hUa7Ai70kyP",
+                    "width": 1759
+                }
+            ],
+            "place_id": "ChIJu2nHCOwEDTkRYX60B3arVDQ",
+            "plus_code": {
+                "compound_code": "J3QF+JR New Delhi, Delhi",
+                "global_code": "7JWVJ3QF+JR"
+            },
+            "rating": 3.9,
+            "reference": "ChIJu2nHCOwEDTkRYX60B3arVDQ",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23236,
+            "vicinity": "G 1 Community center, Vikaspuri, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7149577,
+                    "lng": 77.1163672
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71627642989272,
+                        "lng": 77.11808887989272
+                    },
+                    "southwest": {
+                        "lat": 28.71357677010728,
+                        "lng": 77.11538922010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Cinepolis",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106591357903787061525\">vikas kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRi1L-cs6NhRuE6DGntZoZFryMb0P_ONfuMEdBgttmVu27IgiYcLJfp-WY9NCx7dd8iivkdz5eDdFsb_EUhAKakGlkY7Nb7dpcQ77_CsWnBTzsoEl2pj9Eh1fW1oF5oNFIjr0kig8hpve9opro6ovNIfYWELfKlHW7ByoTXWKkoKXCSf",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJnfJW5FoBDTkRCKCZe_u19cc",
+            "plus_code": {
+                "compound_code": "P478+XG New Delhi, Delhi",
+                "global_code": "7JWVP478+XG"
+            },
+            "rating": 4.5,
+            "reference": "ChIJnfJW5FoBDTkRCKCZe_u19cc",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7093,
+            "vicinity": "Unity One Rohini Bhagawan Mahavir Marg Rohini West Metro Station, Sector 10, Rohini, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6912788,
+                    "lng": 76.9406623
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69250482989272,
+                        "lng": 76.94185142989272
+                    },
+                    "southwest": {
+                        "lat": 28.68980517010727,
+                        "lng": 76.93915177010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Cine Time Bahadurgarh",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105705958388235656643\">rohit gahlot</a>"
+                    ],
+                    "photo_reference": "AcYSjRih07hWs1iLXQCf0VuMdpSI3Ke7OmL5dgp7bliQgBKRbuVcQ5IUy5gRpp7moTo7tdxuASqct4wA4xrz4mlQ7W4btBUjQmsZvMJuT8UIl-HeDz_XwcqUYPdigwht-3Z3VtGi75ryltKJrd7rm5xClaDXRgv4FONvZMy01bY8w4mkKW1F",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJc4ZufUoJDTkRJf7b94W92YM",
+            "rating": 3.9,
+            "reference": "ChIJc4ZufUoJDTkRJf7b94W92YM",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2691,
+            "vicinity": "MWRR+G77, Corona Arcade, Delhi - Rohtak Road, NH9, behind shyam ji complex, Bahadurgarh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.700954,
+                    "lng": 77.11668399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70236572989272,
+                        "lng": 77.11821912989272
+                    },
+                    "southwest": {
+                        "lat": 28.69966607010728,
+                        "lng": 77.11551947010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "M2K Cinemas Rohini",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3468,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106909034286940339035\">Sunny Rathore</a>"
+                    ],
+                    "photo_reference": "AcYSjRjS8F_tro2zA_66STyPyPKzKYAhFL19S2rQsjP2qQmU1UkHWzGoOT4DS_qF9IHg13BaL2mKzLMVrZ1r6soXngk3ms7cpgAjqPFQw16iRFkIKRaLA_McK6Tpkgym3gvu_aSssd_XFBxKpkGw2HuxrR7pilnz9eOQl6R_Hlw4ZGcMgprF",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJQZJpeOMDDTkRvHyZ2MbQD7k",
+            "plus_code": {
+                "compound_code": "P428+9M Delhi",
+                "global_code": "7JWVP428+9M"
+            },
+            "rating": 4,
+            "reference": "ChIJQZJpeOMDDTkRvHyZ2MbQD7k",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24668,
+            "vicinity": "Mangalam Place District Centre, 16, M2K Rd, Sector 3, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7152167,
+                    "lng": 77.1042263
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71649982989272,
+                        "lng": 77.10567672989272
+                    },
+                    "southwest": {
+                        "lat": 28.71380017010727,
+                        "lng": 77.10297707010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Raj Photo STUDIO",
+            "place_id": "ChIJL1UVmVIBDTkRAAAAMKuZfiA",
+            "plus_code": {
+                "compound_code": "P483+3M New Delhi, Delhi",
+                "global_code": "7JWVP483+3M"
+            },
+            "rating": 0,
+            "reference": "ChIJL1UVmVIBDTkRAAAAMKuZfiA",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "5, Pocket 12, Sector 5C, Rohini, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6684804,
+                    "lng": 77.10256179999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66982727989272,
+                        "lng": 77.10389297989272
+                    },
+                    "southwest": {
+                        "lat": 28.66712762010727,
+                        "lng": 77.10119332010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Delhi Cinema",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 640,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102826401934847428283\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjpxsP8hDgZ_Gzr5-wAuQ5nTRr2kjjXsX0MKefpTP7mVTrA_G2tkWlAUtmjBzg15AQkvAB_fdD70mBbEbM0aCoeH3sndtVu8fgUpEuYPh_u6e-XT7tON3oFncdSUSdG2Ga-4Uy15ZUHDU--6IOrQtxscnFCmLKW4iBOVfnBkWvCoFDO",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJCb8JmIYDDTkRs1Bz34IZSVk",
+            "plus_code": {
+                "compound_code": "M493+92 New Delhi, Delhi",
+                "global_code": "7JWVM493+92"
+            },
+            "rating": 3.7,
+            "reference": "ChIJCb8JmIYDDTkRs1Bz34IZSVk",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 210,
+            "vicinity": "Plot No. 6, 2nd Floor, above RICHLOOK Store, Jwalaheri Village, Market, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6272467,
+                    "lng": 77.0261404
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62855512989272,
+                        "lng": 77.02754042989271
+                    },
+                    "southwest": {
+                        "lat": 28.62585547010728,
+                        "lng": 77.02484077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Sai Studio",
+            "place_id": "ChIJH6C7W4gFDTkRj2bxp6aunMc",
+            "plus_code": {
+                "compound_code": "J2GG+VF New Delhi, Delhi",
+                "global_code": "7JWVJ2GG+VF"
+            },
+            "rating": 5,
+            "reference": "ChIJH6C7W4gFDTkRj2bxp6aunMc",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Sai Studio, Dass Garden, Vipin Garden Extension, Vipin Garden, Baprola, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7184881,
+                    "lng": 77.0663629
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71983562989272,
+                        "lng": 77.06771022989271
+                    },
+                    "southwest": {
+                        "lat": 28.71713597010728,
+                        "lng": 77.06501057010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Open Theatre",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112498541771918193611\">Ramakant Rana</a>"
+                    ],
+                    "photo_reference": "AcYSjRhTDmSl203JOV4V70LiMn8nHKtfTdPhUxiSxtXMpUlrT_x5m9zoimxp9KC-Q68xDfc7B1F96625bpJlq2t-Be_gvXZCdbkUm_HijD-Nqxt3sPuR76BCyj9-wZPHk1QYJSO9BDTqgP3th5lKeeAJd4TQ9YGg35M0yCW6AShbjJc5dm22",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJpSHQwo0GDTkRJAAV_0dTJR8",
+            "rating": 5,
+            "reference": "ChIJpSHQwo0GDTkRJAAV_0dTJR8",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "P398+CH2, Pocket 5, Sector 22, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.68811,
+                    "lng": 77.0951173
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.68944437989272,
+                        "lng": 77.09647697989271
+                    },
+                    "southwest": {
+                        "lat": 28.68674472010728,
+                        "lng": 77.09377732010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Deepak Digital Movie",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108486469580783327855\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRglcmmecZ5LJWUpylN05KVTDfC66iiiMbGFtZbhFY9gHViE03Ko9GTkpOz4VbYeW9OneHeRnl7CrVMYwVKm6pKXq2Hmu0TxivaOPHqtCXpX33G2e5_GkPZTuf_mrWtgRIx4guwnSgjZKrLe80YFZa-Lb7yobA_-IwcOycnpdTn4VLC6",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ_1L_0A4EDTkRhs7OEpqxeTU",
+            "rating": 2.8,
+            "reference": "ChIJ_1L_0A4EDTkRhs7OEpqxeTU",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "F-736, Mangol Puri Industrial Area Phase I, Phase 1, Pocket B, Industrial Area, Mangolpuri, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6765857,
+                    "lng": 77.1128274
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.67797417989272,
+                        "lng": 77.11424237989272
+                    },
+                    "southwest": {
+                        "lat": 28.67527452010728,
+                        "lng": 77.11154272010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Amphi Theatre",
+            "place_id": "ChIJ7c-m3WoDDTkRvvc-yZWW0Ok",
+            "rating": 5,
+            "reference": "ChIJ7c-m3WoDDTkRvvc-yZWW0Ok",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "M4G7+J4P, Shiva Enclave, Paschim Vihar, Delhi"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 28.6311617,
+                    "lng": 77.08242969999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63252662989272,
+                        "lng": 77.08377087989273
+                    },
+                    "southwest": {
+                        "lat": 28.62982697010727,
+                        "lng": 77.08107122010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "LatestMovies",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113418746287277768867\">naveen kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRi5HU2NvqXh6_z8GKRdOp7D_XVdxDcFCxVJPjQZ29m-uavQ0bttcnuNtQfKCM3YpwXWI3knI4l2UA0qGZ0g9Tib7SG5fogjZD2ejtaZJuFczZkLP_yAVKZ_74RBqEUWwGbJaR6EmZuzJcQdbESnrYex5UKdkiUT3mawlU9sU56j5C3R",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJAQAAwBEDDTkRS-LtZqu4Mn8",
+            "plus_code": {
+                "compound_code": "J3JJ+FX Delhi",
+                "global_code": "7JWVJ3JJ+FX"
+            },
+            "rating": 3.4,
+            "reference": "ChIJAQAAwBEDDTkRS-LtZqu4Mn8",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25,
+            "vicinity": "A3, rameshnagar, newdelhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7075498,
+                    "lng": 77.1084103
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70886887989272,
+                        "lng": 77.10980657989273
+                    },
+                    "southwest": {
+                        "lat": 28.70616922010728,
+                        "lng": 77.10710692010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Delhi Theatre Beats",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106455034701158889926\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgfcf1kKze9XMi8VnsBeG0eezRVTs3MQcnK_oI3yzGLdsqFPD-kLPjvptdZvgfUFUb4rNOUx0KqVzLCxLwhccpNrNDqFAwdFJ7FMdYyGH_hpsXE1CoS7UbQ2k_unPLcwLaSjS2Tx3VKuI4ImTmRIUaZZtnCB5E2-HzyOns29ibDJd0N",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJg9TMvSwDDTkR2vEGxRCNK3M",
+            "plus_code": {
+                "compound_code": "P455+29 Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP455+29"
+            },
+            "rating": 0,
+            "reference": "ChIJg9TMvSwDDTkR2vEGxRCNK3M",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H-34, Hanuman Chowk, 2, Pocket 15, Sector 3, Rohini, New Delhi"
+        }
+    ],
+    "status": "OK"
+}

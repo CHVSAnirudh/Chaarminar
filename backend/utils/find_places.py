@@ -213,7 +213,7 @@ class FindPlaces:
             sentiment = json.load(f)
         age_list = age[self.age]
         sentiment_list = sentiment[self.mood]
-        return list(set(age_list) & set(age_list))
+        return list(set(age_list) & set(sentiment_list))
 
     def _save_in_cache(self, results, location, keyword):
         filename = f"/cache_location_results/{location[0]}_{location[1]}_{keyword}.json"
@@ -269,4 +269,4 @@ if __name__ == "__main__":
     obj = FindPlaces(17.449146, 78.349206, 28.704400, 77.102500, "happy", "mid")
     # obj._points_in_between()
     # print(len(obj.search((obj.start_latitude, obj.start_longitude), ["temple", "college", "pub"])))
-    # print(obj.get_place())
+    print(obj.get_place())

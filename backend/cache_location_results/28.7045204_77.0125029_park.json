@@ -1,0 +1,962 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRi3uXa4hD1aMmho2V-ThzKhWqRDgG2sCEw67xQEYf_17yonB99i4F1DIaPYSU_hK0GlezsjRxTCkSVYH13s698pZEDOD5bKrwzAXoZrCHyp11KnwWZzhTqzDKfAYkHGmzJOI8JbPJCptCoaJJGMHhk8YmMm2pTUUvTe3i9LLyOm42M4uizQX3AZeyfWlVoZkFwLbN_AV4RtJmNUCXncCZrZpkAN0SSJbXNYfZtgpK3RtrduP-_pN937gVmVfE79JIlVaBFF-iTxZsKRPigbXmqcTrkqFdzpEQDkmYxZgS4ZLY48qjUgniWEcmlGLiy3BqLZD2CLE6Xty2VGr64hcgkzXbkBHPOUvjhnefNOlNmS8fgw-9Wii8uzY-cFhCIoUNI-j7wZNRZVquMMDRaglcULU4quR77LT9lzfK-E5HYwLLTNgQf7",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6622025,
+                    "lng": 77.0877702
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66351677989271,
+                        "lng": 77.08940452989272
+                    },
+                    "southwest": {
+                        "lat": 28.66081712010727,
+                        "lng": 77.08670487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sunder Vihar Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117267306404558766559\">Ijas Babu</a>"
+                    ],
+                    "photo_reference": "AcYSjRgeQhyaf8Og0M5F_0B5dq8IjCeRAp2Ta9sYpWx7QPI0UY2rZk9gouXx-RtN1a1jn9oq6jNR4X4FLKWFeK8WlKPCnpz-bvGQkEkk0F09YEHTHeVnYbs3QErmv6o8-gWXk6Jns9xkJndbGLzAXfSMpa0FELjJ8-ha_lRXc60FiKuLuUpA",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ8aeQiGMEDTkRJn1CMlatMjo",
+            "rating": 4.2,
+            "reference": "ChIJ8aeQiGMEDTkRJn1CMlatMjo",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 449,
+            "vicinity": "M36Q+V4J, Kanshi Ram Shah Marg, Block 8, Sunder Vihar, Paschim Vihar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7099499,
+                    "lng": 77.1146498
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71137592989272,
+                        "lng": 77.11587887989272
+                    },
+                    "southwest": {
+                        "lat": 28.70867627010728,
+                        "lng": 77.11317922010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "MCD Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107721928895892500686\">Uday Pal</a>"
+                    ],
+                    "photo_reference": "AcYSjRjbeOO8xQtTwzWEiOT1Wk8sKunWzoaL4QydzSGv69QiVfsdOwLT3omkXtojhVLSZA_V4AV0yuCH4FgXtSBImTftUPeaeCbI0XtGBu_0kAkAr0r8ZnGRbI0avl_33ebvqt2KbUz73rJVyD3ye3ljBMeD7IxSqnx1PBEu8JmuWMYHX5G8",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJra_c5FkBDTkRJ5LTEI7CH70",
+            "rating": 3.8,
+            "reference": "ChIJra_c5FkBDTkRJ5LTEI7CH70",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 175,
+            "vicinity": "P457+XVC, Shiva Rd, Sector 7G, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7067512,
+                    "lng": 77.1062664
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70797027989272,
+                        "lng": 77.10750072989272
+                    },
+                    "southwest": {
+                        "lat": 28.70527062010728,
+                        "lng": 77.10480107010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Pocket G Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101659216074376879279\">sumit kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRgBbASGg5CDPyGZ4llUG2gQ1St5ikvecpxRfBIfHr8s0m8faAcwZyicQMTP55GGBpGPzGBu4nNB7tdtm5d1rlPZGmtLV_2itYa6XfH49Nv4S1G77-HDpgpYh8obEhHTuCdTtgVuWuJXJgVJ-eRAnrqvecR38wqb74rn_aiNlhqhND9h",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJb1qwsFUBDTkRw6pAWcrZygM",
+            "plus_code": {
+                "compound_code": "P444+PG Delhi",
+                "global_code": "7JWVP444+PG"
+            },
+            "rating": 4.1,
+            "reference": "ChIJb1qwsFUBDTkRw6pAWcrZygM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 652,
+            "vicinity": "Sector 3, Pocket 34, Sector 3H, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6711862,
+                    "lng": 77.09605289999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.677073,
+                        "lng": 77.09960914999999
+                    },
+                    "southwest": {
+                        "lat": 28.6662954,
+                        "lng": 77.09209855
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Paschim Vihar District Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110849060010626003047\">SaNtOsH SeThI</a>"
+                    ],
+                    "photo_reference": "AcYSjRi8T0_7491nWsjLYq9EtyKeKBrMG0IrPKrx22tT-os-_NQwimDLOVtVTXogtWnjsU261HnOvgaTheiD2EoYx5Jacr7NOW02lfhNGHES_tcDuGknzBIQr-RQSLgdDWkD-A-MOo7I_zzUAyNSSt2VaYdD5wcc8YJZQij444n2-qf2B3PT",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJ0TGGIHEEDTkRNi3j2r9O-Ow",
+            "rating": 4.3,
+            "reference": "ChIJ0TGGIHEEDTkRNi3j2r9O-Ow",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4146,
+            "vicinity": "M3CW+FCF, Outer Ring Rd, A-2 Paschim Vihar, Pocket GH2, Paschim Vihar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6424777,
+                    "lng": 77.0143697
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64375812989272,
+                        "lng": 77.01577527989272
+                    },
+                    "southwest": {
+                        "lat": 28.64105847010728,
+                        "lng": 77.01307562010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Shaheed Bhagat singh park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 492,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102605749571234117916\">Gopal Varshney</a>"
+                    ],
+                    "photo_reference": "AcYSjRgbYuCeOcApFTWXX8SQNPa_BCnxIDKVnpnWouzAj50fWskkn6sv1C5JIKZaFUC6i-iDuIlgpKVw3Hz0bQZIDwhyBYSb93YdAyVwFnjh3HZxP9lBXua2fUuwLkJKnujF74hs6t-QeWSgGS08EjumOfreAA4uW1ss1bUW7VRCL_j0AZQI",
+                    "width": 676
+                }
+            ],
+            "place_id": "ChIJjZGxQHwFDTkRnZxGyOl4CdM",
+            "rating": 4.2,
+            "reference": "ChIJjZGxQHwFDTkRnZxGyOl4CdM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 153,
+            "vicinity": "J2R7+XPX, Village, Nangloi - Najafgarh Rd, Baprola"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.716118,
+                    "lng": 77.10140899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71745137989272,
+                        "lng": 77.10242222989271
+                    },
+                    "southwest": {
+                        "lat": 28.71475172010728,
+                        "lng": 77.09972257010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Maharana Pratap Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114669494228639594148\">Hunter Hrs</a>"
+                    ],
+                    "photo_reference": "AcYSjRhPZ9TWC9mLj9CFw661UjchDEqaHBy1v_rzP9aOWeQeuBqbPH1d8hfZbEk4zMaf8c0wA1ArfPI-AF-mPRImVyZl_u0osFIFf0P7q7x_qnOd3CVWckHO_KdaZn6ljYF_vspgJ-5yWXOyARvAj8HIU6BRzNQgbCzUphs4bgFpcK8DDt6Y",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJe4NVo7IGDTkRaiEVtQOs5mE",
+            "plus_code": {
+                "compound_code": "P482+CH Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP482+CH"
+            },
+            "rating": 4.1,
+            "reference": "ChIJe4NVo7IGDTkRaiEVtQOs5mE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 228,
+            "vicinity": "Main Bus Stop 990, Vijay vihar Phase I, Rithala, Rohini, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6257157,
+                    "lng": 77.0701175
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62704882989272,
+                        "lng": 77.07147482989272
+                    },
+                    "southwest": {
+                        "lat": 28.62434917010728,
+                        "lng": 77.06877517010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "A-1 Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 2016,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100291890780135741448\">yash jajoria</a>"
+                    ],
+                    "photo_reference": "AcYSjRi9yeM4Wvm0q_NEWXduRBiY184o1WXHMnmerA4zka5MepxYBWtZ-E29SbPt_QNtWuGd3E0ri1quIabNxCldveUaPak1nqf-2Evi6_PgDuzTD9G5BClCzcN7z6nwvDRYGYWbgUXA4jxEWMaaIHsWCt9Yve99V_Kf-WsnzeHqy9SNoN2v",
+                    "width": 4480
+                }
+            ],
+            "place_id": "ChIJdYz76N4FDTkRanhpq34lWRw",
+            "rating": 4.2,
+            "reference": "ChIJdYz76N4FDTkRanhpq34lWRw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32,
+            "vicinity": "J3GC+72Q, Block A1, Janakpuri, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6153012,
+                    "lng": 77.0290996
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61654637989272,
+                        "lng": 77.03045307989272
+                    },
+                    "southwest": {
+                        "lat": 28.61384672010727,
+                        "lng": 77.02775342010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Park- Kakrola More",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114359164388684566526\">Rajpal Gahlot</a>"
+                    ],
+                    "photo_reference": "AcYSjRjaunOJhqJ_d7s036S30gvkRJsD47WctUnAe2bZ72ktvejuBg4b_W3HR2ZXFKFqcyXBktJgWKwYsPK08AvDvSyEsPsdGPYBdB8cykvFK-QFp13bRkV4HrKV5b6SejyJmW6crwD8rPQX2xaEQQeNooNQhxF6AfhubObbvTK5Vx1CdH6z",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJVVVVlUgFDTkRqC3sU1RvqG4",
+            "rating": 3.8,
+            "reference": "ChIJVVVVlUgFDTkRqC3sU1RvqG4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 141,
+            "vicinity": "J28H+4JH, Kakarola Housing Complex, Main Kakrola Road, Kakarola More, Patel Garden, Block WZ, Sector 15 Dwarka, Extenti, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6962748,
+                    "lng": 77.1086165
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69751307989273,
+                        "lng": 77.10959577989271
+                    },
+                    "southwest": {
+                        "lat": 28.69481342010728,
+                        "lng": 77.10689612010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Jheel Wala Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107776776779407445237\">Shani Goswami Official</a>"
+                    ],
+                    "photo_reference": "AcYSjRiD9777GFwAYuS6J0U9MX6AKcuujnx2ZRxP79SAATADuvCgG0FjxvYVvWwZe04_ReP-Wc2iDHDTjvNynI02pZM_bDhszmG3Q_fZ2gPdEVSWt0w9BJ45UE4rIDkDolSskZFCHgbkY68IzCce9sOXnhEjIDzygPp8Fik7GcJ5BPFBRQX6",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJOx2m1fsDDTkRnBMcG7L_aiU",
+            "plus_code": {
+                "compound_code": "M4W5+GC New Delhi, Delhi",
+                "global_code": "7JWVM4W5+GC"
+            },
+            "rating": 4,
+            "reference": "ChIJOx2m1fsDDTkRnBMcG7L_aiU",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1041,
+            "vicinity": "58, Dr NS Hardikar Rd, Institutional Area, Sector 3, Rohini, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6282617,
+                    "lng": 77.0783502
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62959917989272,
+                        "lng": 77.07987962989272
+                    },
+                    "southwest": {
+                        "lat": 28.62689952010728,
+                        "lng": 77.07717997010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Janakpuri west park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116498120842669136475\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjA8EDo5l-FS2tORQqHaBoZ_iun4RTOO3AZEXZpBWvrEUIYfR--qmwpJspiTr7pDewqYsHnsCCXktciVk4F1XuvICp0GmpHc3VluhLDT3xlhRvzkSqJBdkRAAGZ7zd_12aFzq0qsPvRLmcvLl6Z8OZcvEdwPFljhzD2zfjeuBXNsyTE",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJuVABqOcFDTkR267sXoZu2mE",
+            "plus_code": {
+                "compound_code": "J3HH+88 Delhi",
+                "global_code": "7JWVJ3HH+88"
+            },
+            "rating": 5,
+            "reference": "ChIJuVABqOcFDTkR267sXoZu2mE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "40, Narang Colony, Janakpuri District Center, Janakpuri, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7027761,
+                    "lng": 77.0982514
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70428552989273,
+                        "lng": 77.09972072989272
+                    },
+                    "southwest": {
+                        "lat": 28.70158587010728,
+                        "lng": 77.09702107010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Park ,Sector 1 rohini",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115028736008832612146\">Vipul Lohani</a>"
+                    ],
+                    "photo_reference": "AcYSjRjkJdUneZcXCwc6m9kTPDoIxmqSbx7YNifaZ1bT3Eowjvyn-cudchVFvYSsvE9nPPSeNOW8XUTGUwh65WqiemM6xnGD8HZRtZ4HA97go1jPN8h-BacsB3PnsD_DqGo073NbSd0kQS48_X16PoGQwK7ud3jSg5eQDOsYwTT5EFTXOZkZ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJpYaLwgEEDTkRBCdrO7KNkfk",
+            "rating": 4,
+            "reference": "ChIJpYaLwgEEDTkRBCdrO7KNkfk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 808,
+            "vicinity": "P33X+486, Avantika, Subhash Park, Rohini, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6441303,
+                    "lng": 77.1086028
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64603917989272,
+                        "lng": 77.11029067989271
+                    },
+                    "southwest": {
+                        "lat": 28.64333952010728,
+                        "lng": 77.10759102010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Woodland Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108072596799688455104\">Anupam Dubey</a>"
+                    ],
+                    "photo_reference": "AcYSjRg04ACvXdmHV2sZzEJOow-TdQxIIwehH8LWkMSzRGgCYFLJ6IBarA1oa6Wy1lUXz8nZHEjuBRy5lPN0FiC5hjE3kTYeBqm0uT_xkP_IqXazhPISL65HpdpvKHBROZ46Bm5qKidInK-sfYICTAYv5b1kz48fo3cxIQX2DlmGWgDeynKr",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJc13DeGQDDTkRXMkDw9jrbOs",
+            "rating": 4.2,
+            "reference": "ChIJc13DeGQDDTkRXMkDw9jrbOs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1221,
+            "vicinity": "J4V5+MC5, Block C, Tagore Garden, Tagore Garden Extension, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.712763,
+                    "lng": 77.109793
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71401242989272,
+                        "lng": 77.11105247989272
+                    },
+                    "southwest": {
+                        "lat": 28.71131277010728,
+                        "lng": 77.10835282010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Chhotu Ram Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110955484626428382476\">devendra kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhcifU19JF-QjiAdyeDAE5msjWthklipLC9rHzH5nRi53huXaITsbeytaOSI1B0Tduwaeaav5tbtsmp6sf-i2sO9c_NY9yrXNyPfklGWwxio5FgLjbv7G0XraVrjAmlqjwfVPg60dqokMqAfaLbDYePdZFOZSjXHSGhoqh5eernR7s",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ99AWDVEBDTkRvDfVljdamUI",
+            "plus_code": {
+                "compound_code": "P475+4W Delhi",
+                "global_code": "7JWVP475+4W"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ99AWDVEBDTkRvDfVljdamUI",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 625,
+            "vicinity": "Chhotu Ram Marg , pocket c-4, Sector 5-6 , ward, c-22, Sector 17/18 Dividing Rd, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6157961,
+                    "lng": 77.02792509999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61732102989272,
+                        "lng": 77.02923922989272
+                    },
+                    "southwest": {
+                        "lat": 28.61462137010728,
+                        "lng": 77.02653957010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Mahila Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1728,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108435527772200077643\">Ashish Vats</a>"
+                    ],
+                    "photo_reference": "AcYSjRjxz1z_m2lY0y4bIbKwpJC3BUV1Fnpqg5n8YBIB4KX6jgt-vhm1XtfJEKvfbrdnzGjb5NhQYkRd4i5SrdLdrd6mkWu7k5Si97mYt6mmpepJfy5ZVuZnmF2DefnFz08Yuu19jtn33JFkoy_ErgtfUk5ls1vkpgx8yZ3uzCaSJCk0sDbN",
+                    "width": 2912
+                }
+            ],
+            "place_id": "ChIJH8_rREYFDTkRBXUGk3X_O00",
+            "rating": 3.9,
+            "reference": "ChIJH8_rREYFDTkRBXUGk3X_O00",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1120,
+            "vicinity": "J28H+857, Kakrola Housing Complex, Main Kakrola Rd, Patel Garden Extention, Block WZ, Sector 15 Dwarka, Dwarka, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6440843,
+                    "lng": 77.0961402
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64551087989272,
+                        "lng": 77.09751932989273
+                    },
+                    "southwest": {
+                        "lat": 28.64281122010728,
+                        "lng": 77.09481967010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Chokhandi Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111064277340285042887\">M.S. Ramgarhia</a>"
+                    ],
+                    "photo_reference": "AcYSjRhqu4Ydo9nAVM-5PZt5yFU0gCSOm4yQdarRoHAECxIhCV97hA68sCjWYK4LbmcbM2Cuk5FVy4rVh_K3hGtMbQt43GgP0aqrk3oFg6bwA48FIqdLsklg9dx0iGhsFJLow0RpcTXnOxZXKq-mfBvSYh7Tgp_MuUYJYqMUR7Fsg2T2-dJy",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJRbUXZZsEDTkRJQ9LwQWL874",
+            "rating": 3.8,
+            "reference": "ChIJRbUXZZsEDTkRJQ9LwQWL874",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27,
+            "vicinity": "J3VW+JFJ, Mukhram Garden, Chaukhandi, Vishnu Garden, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6751671,
+                    "lng": 77.1012497
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.67648872989272,
+                        "lng": 77.10287237989272
+                    },
+                    "southwest": {
+                        "lat": 28.67378907010727,
+                        "lng": 77.10017272010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Krishan Lal Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101387722213097107456\">Singh Jasbinder</a>"
+                    ],
+                    "photo_reference": "AcYSjRikyQnOEvp_0jmZ1Q33Bn6Z3UWD02-IDiBYQ5PHLb_LcTR6MxgFEQWR9DQWhQVUMRpLjOxQEupwNXWVr6LgtpeNWqbeJDfJc7z0PFaWr8GxmerhLcFOIOn8yq-s9xOw63yr6aLyAhzOGImMXaDUfByLDvJILjgcOOGyE0Y7qsxDMw-d",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJo4u85nUEDTkRxTrwcmmH8To",
+            "rating": 4,
+            "reference": "ChIJo4u85nUEDTkRxTrwcmmH8To",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 351,
+            "vicinity": "M4G2+3F9, Jain Acharya Shri Atma Ram Marg, Block A 1, Krishna Apartment, Paschim Vihar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6323569,
+                    "lng": 77.06950049999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63370997989272,
+                        "lng": 77.07077652989271
+                    },
+                    "southwest": {
+                        "lat": 28.63101032010728,
+                        "lng": 77.06807687010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "VIKASPURI C BLOCK PARK",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJwy0RPbkFDTkRQYuM2VeZaew",
+            "rating": 5,
+            "reference": "ChIJwy0RPbkFDTkRQYuM2VeZaew",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "J3J9+WRR, Block C, Vikaspuri, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.67789,
+                    "lng": 77.0626575
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.67952712989273,
+                        "lng": 77.06405182989272
+                    },
+                    "southwest": {
+                        "lat": 28.67682747010728,
+                        "lng": 77.06135217010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Nangloi Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106803261643719819168\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg8nEmsaHvM4mTtavnxxUCFPsIdS7Lj9vMznfXzKm6ubbgPCsEO6CakkMSHa0TtIewssCN84azfhsSJhiQqGz3MN-9mKbaGO58H_c7gFkdcOCkvEItK6C1B-RloJIJ_TjcYaG7n4T2U1Wegq1iaPUz33wVSNWLBMny4xUok5Eq5Iya-",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJC5W4BTYEDTkR3rvi06_0MT0",
+            "plus_code": {
+                "compound_code": "M3H7+53 Delhi",
+                "global_code": "7JWVM3H7+53"
+            },
+            "rating": 3.9,
+            "reference": "ChIJC5W4BTYEDTkR3rvi06_0MT0",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 297,
+            "vicinity": "61, Khaleefa Deep Chand Marg, Nangloi Extension 2, Block D, Nangloi Extension, Nangloi, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6263293,
+                    "lng": 77.0748931
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62765007989272,
+                        "lng": 77.07629067989272
+                    },
+                    "southwest": {
+                        "lat": 28.62495042010728,
+                        "lng": 77.07359102010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "A1 Park Janakpuri",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117684780381973142716\">Chandra Shekhar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjVdowHAk6OczbbOzsXgWHUkcaehvdIH-lpPZYjuBy_LhIs-XWDnTce4jfBfJN_GrX9ZUMLpnIflDQO7Dh9xtkV4XuYzMO7VwucZhZoXuxO2nF6V9_yZyUlMcvLo3YZCw7PPtSE1sA6-5N0tk0roOxMVsNbT4JKkYxLVsL6NcHV04_b",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJedsYt8YEDTkRBfU9jfwEjnM",
+            "rating": 4.1,
+            "reference": "ChIJedsYt8YEDTkRBfU9jfwEjnM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 384,
+            "vicinity": "J3GF+GXJ, Major Deepak Tyagi Marg, Chander Nagar, Janakpuri, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7181794,
+                    "lng": 77.0679482
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71961477989272,
+                        "lng": 77.06917037989273
+                    },
+                    "southwest": {
+                        "lat": 28.71691512010728,
+                        "lng": 77.06647072010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Bamboo Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104319984133722241537\">Prince Rai</a>"
+                    ],
+                    "photo_reference": "AcYSjRhYS78ZMpWckuWELLJOh2n9IeRWdlUrviHEwtjMopKv1CbiWqq4rkyNVRVA1gER0wzDNxzTer-WPzpVGCVSnp86WF5SSJp7dgv1ZuJJfXY53k92vwIDf3sSggMUciqKYylDXwWT7Vs9mSNl3N_uWzhSd-MPgCnExRAOC-SSMoWu7GXX",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJW3fHBo4GDTkRTTf1dgMVHZs",
+            "plus_code": {
+                "compound_code": "P399+75 Delhi",
+                "global_code": "7JWVP399+75"
+            },
+            "rating": 3.9,
+            "reference": "ChIJW3fHBo4GDTkRTTf1dgMVHZs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 307,
+            "vicinity": "New Delhi,, 163, Pocket 10, Sector 21, Rohini, Delhi"
+        }
+    ],
+    "status": "OK"
+}
