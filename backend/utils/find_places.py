@@ -68,7 +68,10 @@ class FindPlaces:
 
     def _traverse_route(self, route):
         _buffer_distance = 0
-        _steps = route["routes"][0]["legs"][0]["steps"]
+        try:
+            _steps = route["routes"][0]["legs"][0]["steps"]
+        except Exception as e:
+            pass
         self._threshold = route["routes"][0]["legs"][0]["distance"]["value"] * 0.1
         for idx, _step in enumerate(_steps):
             if idx == 0:

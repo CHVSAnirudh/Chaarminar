@@ -19,7 +19,7 @@ import qs from 'qs';
 
 const directionsService = new window.google.maps.DirectionsService;
 
-const url = 'https://68d9-106-195-78-8.in.ngrok.io/temp'
+const url = 'http://localhost:5000/gen_video'
 export default function Location() {
 
     const [sourceCors, setSource] = useState({ lat: '', lon: '' });
@@ -44,14 +44,14 @@ export default function Location() {
         geocodeByAddress(inputSourceText)
             .then(results => setSource({
                 lat: results[0].geometry.location.lat(),
-                lon: results[0].geometry.location.lat()
+                lon: results[0].geometry.location.lng()
             }))
             .catch(error => console.error(error));
 
         geocodeByAddress(inputDestinationText)
             .then(results => setDestination({
                 lat: results[0].geometry.location.lat(),
-                lon: results[0].geometry.location.lat()
+                lon: results[0].geometry.location.lng()
             }))
             .catch(error => console.error(error));
 
@@ -92,7 +92,7 @@ export default function Location() {
                 .then((result) => {
                     console.log(result)
                     setVideo(result.data)
-                    localStorage.setItem('videoSrc','file:///home/andromeda/Videos/sample1.mp4')
+                    localStorage.setItem('videoSrc','/home/anirudh/Desktop/Chaarminar/frontend/public/full_video.mp4')
                 })
                 .catch((err) => {
                     console.log(err)

@@ -12,13 +12,20 @@ const Video = () => {
     }, [videoSrc]);
 
     console.log(videoSrc)
-    if (videoSrc == null) {
-        history.push("/location");
-    }
+    // if (videoSrc == null) {
+    //     history.push("/location");
+    // }
     return (
-        <video ref={videoRef} height="500px">
-            <source src={videoSrc} />
-        </video>
+        <div className='viewContainer'>
+            <div style={{ display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "center" ,height:'100%'}}>
+
+                <video autoPlay ref={videoRef} height="85%">
+                    <source src={'full_video.mp4'} />
+                </video>
+            </div>
+            <NavBar />
+
+        </div>
     )
 }
 
