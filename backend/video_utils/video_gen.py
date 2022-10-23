@@ -20,7 +20,7 @@ class VideoGen():
     
     def add_audio(self,movie_path,length):
         audio_path = PROJ_FILE + "/music/{}.mp3".format(self.mood)
-        self.final_path = PROJ_FILE + "/images/{}/".format(self.job_id) + "full_video.mp4"
+        self.final_path = '/home/anirudh/Desktop/Chaarminar/frontend/public/full_video.mp4'
         audio = mpe.AudioFileClip(audio_path)
         audio = audio.subclip(0,length)
         video1 = mpe.VideoFileClip(movie_path)
