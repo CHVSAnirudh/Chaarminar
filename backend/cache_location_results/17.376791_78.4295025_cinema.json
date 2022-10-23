@@ -1,0 +1,983 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhjahY7TCLCK0uX84H3xZOiiqKCYFk9KURMr0qHN5Sivek0uC7CpBpn55vHdjmp1D7zWyRYVNm6pLhvhqrwUJ_GV7kH8IHufuWti20nNA1lbEPH9pxRQ42q3NA79sy1bjI5If7DO_4dOQwKIfjvZsfHVlw4N9sOyleglRag5oEypfdBX4NLSPNFd9ltQ7hpRK5cK64VsIEekF31jaZSzBADJxrVzRyDJ7ajOzbqlLaZ7Hdo8aRpyVQw3aeHH98-Gckf79Cr79D3DItt79xVF_5QnXKQCyJqyVpXMe5uHJo8IJ_U-hNRw02G4sAUx1Yi0M9_lYG4oQ9tCmyXmS3cjHgykoq-i-hjkeAoLvcCGLrGa9u1_nrFQ3DajfIReK4lQU2uhvZhqjGCJKImnLl7z3ykHA3vbOvB4ceRSQbZNEMJMJXHGkv8IkQ",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4577538,
+                    "lng": 78.3632536
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45876627989272,
+                        "lng": 78.36453562989271
+                    },
+                    "southwest": {
+                        "lat": 17.45606662010728,
+                        "lng": 78.36183597010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "AMB Cinemas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 5495,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115689531067905675373\">Naga Santhosh</a>"
+                    ],
+                    "photo_reference": "AcYSjRisBL82_1wOy4qaN9095Ye5MhFvfAHDGkWLHWXFx9cEuv69HGyHMeOYPbwSymdTcg3dG77iyYTNRfSp1mYyWm-h6AYUPPu2JaGm-ldU6dQeUJFnLfyCN44Nv97B_5jnw9yrcrKBZ6Dzh3vYtNDrmysTPhudzF5pJkCstWRahmroz6nh",
+                    "width": 8064
+                }
+            ],
+            "place_id": "ChIJzWP1mY2TyzsRYEKpnj8dcR0",
+            "plus_code": {
+                "compound_code": "F957+48 Kothaguda, Telangana",
+                "global_code": "7J9WF957+48"
+            },
+            "rating": 4.6,
+            "reference": "ChIJzWP1mY2TyzsRYEKpnj8dcR0",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 74394,
+            "vicinity": "Sarath City Capital Mall, 4th, 40, Gachibowli - Miyapur Rd, Whitefields, Kothaguda"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4130477,
+                    "lng": 78.4656624
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41456277989272,
+                        "lng": 78.46693777989273
+                    },
+                    "southwest": {
+                        "lat": 17.41186312010728,
+                        "lng": 78.46423812010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Prasads Multiplex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102015792883232241891\">k adj</a>"
+                    ],
+                    "photo_reference": "AcYSjRhBW6YijQ8qlGX5VqHAgghbXiPZYktYErlnwzGJ38UMA8qw6gblvLjGx_PvsvryIQBwqm6CqZtH9psuRyA4yVOJ3dswzpcDDWuLZuUmGr7pTbMFkERXlh8guRKjA-5H-ZUAfAXxJ8FdvlvCi2mNZdCv5rtvNFcFT0v3GiLgps31baXY",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ3fpK-1qXyzsRhGzfB4TqiQ8",
+            "plus_code": {
+                "compound_code": "CF78+67 Hyderabad, Telangana",
+                "global_code": "7J9WCF78+67"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ3fpK-1qXyzsRhGzfB4TqiQ8",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 106064,
+            "vicinity": "IMAX Road, NTR Marg, behind of, Khairtabad, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4303946,
+                    "lng": 78.44834730000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43177417989272,
+                        "lng": 78.44965122989274
+                    },
+                    "southwest": {
+                        "lat": 17.42907452010727,
+                        "lng": 78.44695157010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Carnival Cinemas",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103981557827712222553\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgDYx7tIr4yCItdqWCdsP1cVkcQiLOy1lXTlmLIxBx-4smnGQvjkZ7BS03O8Uqz-MDPYnNGxBLmBeYdfdqmSjOLIhxKUtuwYt6MPLX85ZC-pnSe1E6bndyUIIknPUbMn4tmV1_124byfLdBtkzF-ETa6r02ZJ0klKVtqaEn1MnfLGiC",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJMYKKv8uQyzsRFYcP1pxrvP4",
+            "plus_code": {
+                "compound_code": "CCJX+58 Hyderabad, Telangana",
+                "global_code": "7J9WCCJX+58"
+            },
+            "rating": 3.8,
+            "reference": "ChIJMYKKv8uQyzsRFYcP1pxrvP4",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23952,
+            "vicinity": "G.S 24 Carat Building, 8-3-949/1, Pratap Nagar, Nagarjuna Nagar colony, Ameerpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4523613,
+                    "lng": 78.3629784
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45382387989272,
+                        "lng": 78.36451482989273
+                    },
+                    "southwest": {
+                        "lat": 17.45112422010727,
+                        "lng": 78.36181517010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Platinum Cinemas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 673,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114094636222029247029\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiNdg8b47SZjq06CmNsnyTNvXzwbxeM-h_Kq86lqXBtGcNBNFF47wvak1sXpFtTsVwKoF3lCmhDE56MZv_TlS8wHvdMDfs3jraA5wY7nIhBEZ39Mod5RkT-lIFiehIelfWivxc2827Y73uyl_TC3DWqA-GImAvcmH-alHSLBTktrFeu",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJ5THNCyWTyzsRb-NjqAzMdHs",
+            "plus_code": {
+                "compound_code": "F927+W5 Hyderabad, Telangana",
+                "global_code": "7J9WF927+W5"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ5THNCyWTyzsRb-NjqAzMdHs",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3732,
+            "vicinity": "3rd floor, SLN Terminus, Mall, Jayabheri Enclave, Gachibowli, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4484773,
+                    "lng": 78.4931513
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44982982989272,
+                        "lng": 78.49450712989272
+                    },
+                    "southwest": {
+                        "lat": 17.44713017010728,
+                        "lng": 78.49180747010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Tivoli Cinema",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114504098543895688538\">sandeep reddy</a>"
+                    ],
+                    "photo_reference": "AcYSjRgJWEEGp8l5x_9QI6xMdpoDTh6vI0ZqMO-FGHav4Nqj2PUjnfUUtxaVw5Zhc6UqLp6theL7FMNvZjqxOE8qoO8q20fGPfG21uJvH8TRW9248MqgN2aGBht9lNtUpiq97Difx4UTFoLjIMscHLotPqviwweAMAWy3n8qTGg-XIYzTpgA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJqdxmDU6byzsRsT5vda4p1-0",
+            "plus_code": {
+                "compound_code": "CFXV+97 Secunderabad, Telangana",
+                "global_code": "7J9WCFXV+97"
+            },
+            "rating": 3.9,
+            "reference": "ChIJqdxmDU6byzsRsT5vda4p1-0",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21459,
+            "vicinity": "NCC Ground, Gunrock Enclave, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4542647,
+                    "lng": 78.4191924
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45546562989272,
+                        "lng": 78.42054937989272
+                    },
+                    "southwest": {
+                        "lat": 17.45276597010728,
+                        "lng": 78.41784972010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Vijetha Theatre",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115456674788909736708\">Naren Chandra</a>"
+                    ],
+                    "photo_reference": "AcYSjRioCmp6HUQDzzEXYliE5BSZYF2WgmrjipS_Tl4ZW4CdkQS-ae92mMrrPZ--w3R_OjsgG5GHiwP3nuBzgXpXp07lBNciC-Ez3DGWeM0f26KrMGUpXuS2CxHH4xP8UZMN9rhXvmoC1D5YyOo-88P-IFxllCvV2L8BBoDEySGjnn90my-t",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJyWSmEBqRyzsR2ZNer0NPTFM",
+            "plus_code": {
+                "compound_code": "FC39+PM Hyderabad, Telangana",
+                "global_code": "7J9WFC39+PM"
+            },
+            "rating": 3.8,
+            "reference": "ChIJyWSmEBqRyzsR2ZNer0NPTFM",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7627,
+            "vicinity": "Snehapuri Colony, Borabanda - Allapur Rd, Snehapuri Colony, Borabanda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4327803,
+                    "lng": 78.4222936
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43412557989272,
+                        "lng": 78.42365812989273
+                    },
+                    "southwest": {
+                        "lat": 17.43142592010728,
+                        "lng": 78.42095847010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "JN Cine outdoor unit",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107670841471418677753\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgTEP9XzoGVOiM872FrrHWuJLMKXTQN1Y7-a4bjxdHp136ghT7ngeP2b5dwYMrTayxt2s9PFEpRDWwhS4hdMdF6rG13tF57PKajCVCMUiGxWW66WU5k3jwo94YdV4pE6aXE8BkjbKa4HWsPq5_GKbg8NAqxtlQSuqNcOe2dTe13l78",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJAdw-x-aRyzsR7EBVvlgrhGk",
+            "plus_code": {
+                "compound_code": "CCMC+4W Hyderabad, Telangana",
+                "global_code": "7J9WCCMC+4W"
+            },
+            "rating": 4.6,
+            "reference": "ChIJAdw-x-aRyzsR7EBVvlgrhGk",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "8-3-231/C/9/1, Sri Krishna Nagar, Yousufguda Basti, Yousufguda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3762955,
+                    "lng": 78.4750511
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.37764512989272,
+                        "lng": 78.47641492989271
+                    },
+                    "southwest": {
+                        "lat": 17.37494547010727,
+                        "lng": 78.47371527010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Svc cinemas sv cine square",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3008,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111015434559628154434\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjuqdb-WfAuCMIsGjEW7gy3rIQ8O_I7ZGUH4Kqcv6ZngCBmhZw_4O2PtC-w6C0D29Updm51lR-fy8lhZ9WcyK1aMTx28XmwNEaEu61ny7nM6swdd5bBZfjYrXthaixf4WpjUtYE_s0n2fHlyJbb2KgImhIZXfN7GRnjbNztI0X8m-mF",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJIbO-95TyyzsRg5tiXvEHUFc",
+            "plus_code": {
+                "compound_code": "9FGG+G2 Hyderabad, Telangana",
+                "global_code": "7J9W9FGG+G2"
+            },
+            "rating": 3.8,
+            "reference": "ChIJIbO-95TyyzsRg5tiXvEHUFc",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 77,
+            "vicinity": "9, Mumbai Hwy, Sri Nagar Colony, Ambedkar Colony, JP Colony, Patancheru, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4342961,
+                    "lng": 78.3868296
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43560337989272,
+                        "lng": 78.38833882989272
+                    },
+                    "southwest": {
+                        "lat": 17.43290372010728,
+                        "lng": 78.38563917010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "PVR Inorbit Mall Cyberabad",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 657,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102946746476726124212\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjw1LjFuXk9HEFiqpz5I936JG_L9M2H4qKvOmmvpipgM7USQa2swUd325ekwMiFF9SrOZHo1g6csXJlSuUHKsGnhTT2eQZMTZDtlT8gFeAWEMCtYE1brrnIYzAkkpUl0ZJ-5KbNvjQCb7cj0tRzxYD7QK2dtTWxur5Vi5StngZMMPgM",
+                    "width": 1759
+                }
+            ],
+            "place_id": "ChIJ89ElNFiRyzsRTtsx4KAEG58",
+            "plus_code": {
+                "compound_code": "C9MP+PP Madhapur, Telangana",
+                "global_code": "7J9WC9MP+PP"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ89ElNFiRyzsRTtsx4KAEG58",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23289,
+            "vicinity": "Inorbit Mall Rd, APIIC Software Layout, Madhapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4267305,
+                    "lng": 78.4529306
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42802742989272,
+                        "lng": 78.45420632989273
+                    },
+                    "southwest": {
+                        "lat": 17.42532777010727,
+                        "lng": 78.45150667010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "PVR Panjagutta Hyderabad",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104623927672423703470\">Ashok Babu Kandula</a>"
+                    ],
+                    "photo_reference": "AcYSjRj_q3eA8DWt03WJk8ZhU2RqKHUb4Kzl1gIbZLsedwvhMuO5rSLi-dgE2qslf312biUbPYIEI0W1lxJuudwyunzrOL2DGYG3rGt1nxUSQiQv2CrY-052wcCpVaI3RJmTbj1FSEc6oxY2wtojA3MhX61ixyxOWa1aWvQrTgB1I1vXEOQL",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ4RCwULWQyzsRFt0NvKEM6AM",
+            "plus_code": {
+                "compound_code": "CFG3+M5 Hyderabad, Telangana",
+                "global_code": "7J9WCFG3+M5"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ4RCwULWQyzsRFt0NvKEM6AM",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36906,
+            "vicinity": "Hyderabad Central Mall, 5th Floor Panjagutta Cross, Road, Somajiguda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3915861,
+                    "lng": 78.44146219999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39293202989273,
+                        "lng": 78.44301992989273
+                    },
+                    "southwest": {
+                        "lat": 17.39023237010728,
+                        "lng": 78.44032027010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Amba Theatre",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107615308386968897990\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgJnbybgnVQFbh6HHQHKajbus2EgovVwtlTu71hCa9HwOaFtcSGVuy8960xGJ7PmIhLdqwG4VFlOVU8hc80-wBoLrzuzcUfsoJ89HvtRRskwijZEvJrv0r23UajC72KECTcoikXjO4VX_2RjVR3iADwUms5ZHHjtxepjmy9zNiZkCeE",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJXU2uh7yXyzsRnG5JueiN1dU",
+            "rating": 3.4,
+            "reference": "ChIJXU2uh7yXyzsRnG5JueiN1dU",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 195,
+            "vicinity": "9CRR+JHP, Murad Nagar Rd, Amba Gardens, Mehdipatnam, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3905498,
+                    "lng": 78.48848860000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39184902989272,
+                        "lng": 78.48998412989272
+                    },
+                    "southwest": {
+                        "lat": 17.38914937010728,
+                        "lng": 78.48728447010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "INOX",
+            "photos": [
+                {
+                    "height": 3480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103400995433202543665\">Fazeel Usmani</a>"
+                    ],
+                    "photo_reference": "AcYSjRj2LRFCz5g9kQSa_IytkMd3caVEI0rabQbbP62oo6zUhhBZC-Q0lPDAGcMBGXkeg0Y529q3mz42JJ7qzJUUeOdEW3I3ia72Tuy4XYlJ93eiRBLT4J4f8u6SSLWfgQa5ZPoSQZv4srZjo9MFOeDckZzEQAhLdKiLwsose8Bn9BZywrKC",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJuSVuss-ZyzsRimH3tmcVVQM",
+            "plus_code": {
+                "compound_code": "9FRQ+69 Hyderabad, Telangana",
+                "global_code": "7J9W9FRQ+69"
+            },
+            "rating": 4.2,
+            "reference": "ChIJuSVuss-ZyzsRimH3tmcVVQM",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31918,
+            "vicinity": "INOX Leisure Ltd., 5th Floor,Kachiguda Cross Roads, Veer Savarkar Marg, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4152186,
+                    "lng": 78.4102063
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41673962989272,
+                        "lng": 78.41147147989273
+                    },
+                    "southwest": {
+                        "lat": 17.41403997010728,
+                        "lng": 78.40877182010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Open Air Theatre",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102103641006798761280\">Manoj Katragadda</a>"
+                    ],
+                    "photo_reference": "AcYSjRgTMg00xaFM0Ba4vYroqP8mIuobfzJeyK-mw73PagkDoWeHCcw0tZ6sSxcyErwuWd5u4IOJoHFlUwKOCe-SYpBT7MOTQ70Yl2GB9kli1lx_OuCs2kH1jVy1Fot9gNysr55ObTVfx90xtbDxNVpqZupzin04kggPS9SupieGsyuwPAmR",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ_cUKBMmWyzsRM5IgrJLnnC4",
+            "rating": 4.4,
+            "reference": "ChIJ_cUKBMmWyzsRM5IgrJLnnC4",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31,
+            "vicinity": "CC86+34J, Filmnagar Club, Film Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3907527,
+                    "lng": 78.49155840000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39193762989272,
+                        "lng": 78.49290897989272
+                    },
+                    "southwest": {
+                        "lat": 17.38923797010727,
+                        "lng": 78.49020932010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "VENKATARAMANA CINEMA",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100282844152377711022\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi7WQt_TF7wh3q11w0M4MF45Ch0-5YbD8AGHsxpEsyU3kDGrTDJuvnc-G1ma6OEAOkt2LRu-55Rk73fU19j5Juyl_N5HYg39soTRQtQX9lVQc0lTKEBoY8DieXyZ5pwvCtpFJwZ7RBVAiEMMTj5EbQoKP4KJacW324Zo8CqDxoqPiLH",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJrfyX5PmZyzsRZgfZ45s8szU",
+            "rating": 4,
+            "reference": "ChIJrfyX5PmZyzsRZgfZ45s8szU",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 565,
+            "vicinity": "9FRR+8J3, Kachiguda Station Rd, Parvarish Bagh Colony, Lingampally, Kachiguda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3905909,
+                    "lng": 78.487974
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39204087989272,
+                        "lng": 78.48932752989272
+                    },
+                    "southwest": {
+                        "lat": 17.38934122010728,
+                        "lng": 78.48662787010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Asian Tarakarama Cineplex",
+            "photos": [
+                {
+                    "height": 3468,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112385609754169705145\">Sandhya Mohan</a>"
+                    ],
+                    "photo_reference": "AcYSjRjCCdXRlI1NI3NM6cgZedNpkBchmhZS6pPdho_vnDlfOcPf3BewVQJ9sz888fsupdHRTrdT5aEl2FLlY3U3EWXL1Ma2cVTank1u7T51hoNrKp1E2DnXbFBdLo3P27rPXQ_IMatAmqxUOZEYmjatqjcqQXzEk4pe46vtRJ4snRvGLUUH",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJl01Lqc-ZyzsRwhpQvYX4pHI",
+            "rating": 3.9,
+            "reference": "ChIJl01Lqc-ZyzsRwhpQvYX4pHI",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7844,
+            "vicinity": "9FRQ+65Q, Kachiguda X Rd, Beside Big Bazar, Badichowdi, Rajamohallah, King Koti, Kachiguda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4079743,
+                    "lng": 78.49692639999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40929472989272,
+                        "lng": 78.4983495298927
+                    },
+                    "southwest": {
+                        "lat": 17.40659507010728,
+                        "lng": 78.49564987010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Saptagiri Cinema 2K 3D",
+            "photos": [
+                {
+                    "height": 3464,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104924156160995809992\">dola sundeep</a>"
+                    ],
+                    "photo_reference": "AcYSjRgxFndVQmZViU4s1mjo5nkHz4X39QaCAzna1AjFLiVBrKoWo7t6JEce3nNUqlPOwlEbq1WXecH4ha4Sdy0rf5PYDJajPOp_TctKEkfy3_7PkhivJGzzM3aqgAJb3oBnCWRfe7R34pp664k1R8u9A3H06hK2RX2sVIPkB7c7h82l_HEt",
+                    "width": 4618
+                }
+            ],
+            "place_id": "ChIJ2_C5TcCZyzsR1gqr_tctzd8",
+            "rating": 3.4,
+            "reference": "ChIJ2_C5TcCZyzsR1gqr_tctzd8",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2922,
+            "vicinity": "CF5W+5QR, R T C X Road, Musheerabad Main Rd, Chikkadpally, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3923291,
+                    "lng": 78.5158123
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39362922989272,
+                        "lng": 78.51718242989273
+                    },
+                    "southwest": {
+                        "lat": 17.39092957010728,
+                        "lng": 78.51448277010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Sree Ramana Theatre",
+            "photos": [
+                {
+                    "height": 650,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113993591465951051063\">Dharavath Srinivas</a>"
+                    ],
+                    "photo_reference": "AcYSjRgbFPj6M4AqWt6z_poun0lbTgoGNDMp72DV7ATuSUnJutyuTa-MYfhBOvFHhcrFzEbEqW8TJHaNX8kIMKTgBFbHr-YSRg5fjL8HAnkELGe-7PHXn9Y5iaHo79q-j4ERAWgqghAw6ocldjnbJIwfvpaqx-EKMfpy4lBPtinFqmlHDkoy",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJWx3t2qiZyzsRYSxvuHHS33M",
+            "plus_code": {
+                "compound_code": "9GR8+W8 Hyderabad, Telangana",
+                "global_code": "7J9W9GR8+W8"
+            },
+            "rating": 4,
+            "reference": "ChIJWx3t2qiZyzsRYSxvuHHS33M",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10913,
+            "vicinity": "Sreeramana theatre, Amberpet Main Rd, Tulasi Nagar Colony, Bagh Amberpet, Amberpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3679404,
+                    "lng": 78.52344769999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.36951107989272,
+                        "lng": 78.52485927989271
+                    },
+                    "southwest": {
+                        "lat": 17.36681142010728,
+                        "lng": 78.52215962010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Venkatadri cinemaTheatre",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110316066394043987966\">SAI Prasanth</a>"
+                    ],
+                    "photo_reference": "AcYSjRiq8QLaO7m8_ffusz9Ssa2_EwBI8IbIOtLRRYFIvq0EiVj9-SUjwxiXUoxg_U5VkIYQ6h6byor9v23UhS1m9ZYDKIZ4JKu71BcLN1x8-ofdpRRl-cI0mmNIpMZj6IYhGXtvIasq64fFoAu2_th_k7MWpagxJ4ttrudiNgI_PiZ_tuXm",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ4YKUWPaYyzsRpIg716ykjZ0",
+            "plus_code": {
+                "compound_code": "9G9F+59 Hyderabad, Telangana",
+                "global_code": "7J9W9G9F+59"
+            },
+            "rating": 3.1,
+            "reference": "ChIJ4YKUWPaYyzsRpIg716ykjZ0",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5810,
+            "vicinity": "opp. metro piller, no 1527, Dilsukh Nagar Main Rd, Madhura Puri Colony, Gaddiannaram, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3509214,
+                    "lng": 78.4747423
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.35217537989272,
+                        "lng": 78.47609952989272
+                    },
+                    "southwest": {
+                        "lat": 17.34947572010728,
+                        "lng": 78.47339987010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Cin\u00e9polis Sudha",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112930147829246653765\">Nilesh Nilayam</a>"
+                    ],
+                    "photo_reference": "AcYSjRg6cxAo7k15ZE3toS4-jQ3WoxgulNpsA-8BwUVJhELhldbdgHMWHOLnLbwO7qXb3Y8ge7SLHzqsWqHSvtMLxjbJF0yQNjNyRypyjjCORHuzj_P-4Bvu9zNG2dHnoBwbPA4X9aMn8i6_Bw_mwSwb0TUH7w8ekkV_VNA7IPIgdva4Fxs2",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ_XcycymXyzsRXad3veQCLuc",
+            "plus_code": {
+                "compound_code": "9F2F+9V Hyderabad, Telangana",
+                "global_code": "7J9W9F2F+9V"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ_XcycymXyzsRXad3veQCLuc",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14809,
+            "vicinity": "Sudha Theatre Rd, Rajpal Nagar, Lal Darwaza, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4460349,
+                    "lng": 78.3637445
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44740292989272,
+                        "lng": 78.36504957989273
+                    },
+                    "southwest": {
+                        "lat": 17.44470327010728,
+                        "lng": 78.36234992010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "PVR Cinemas atrium",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 657,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110503585903003026987\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjLi76jqrarEXqJIKfRqbOapvxWtmiKMvwfXfmpZ_s3RmmZnZYMoiHbHOgYdAmqPSffRLhJjX4qBmD9oGMLjsh6so3DCoBZ54xmPHNbiINnCWgtBod7Tpyrkg5YwaAXq2EyViV0bSv0R2bWf5-bYpWJN9Du2yJWcCi8uBAK2WIeAYZf",
+                    "width": 1759
+                }
+            ],
+            "place_id": "ChIJ3Q4W8xmTyzsR2fQ8fdZCGHE",
+            "plus_code": {
+                "compound_code": "C9W7+CF Hyderabad, Telangana",
+                "global_code": "7J9WC9W7+CF"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ3Q4W8xmTyzsR2fQ8fdZCGHE",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1434,
+            "vicinity": "3-12, Gachibowli - Miyapur Rd, Chhota Anjaiah Nagar, Gachibowli, Hyderabad"
+        }
+    ],
+    "status": "OK"
+}

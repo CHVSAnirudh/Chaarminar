@@ -1,0 +1,54 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6187503,
+                    "lng": 77.2072444
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62012212989272,
+                        "lng": 77.20818917989271
+                    },
+                    "southwest": {
+                        "lat": 28.61742247010728,
+                        "lng": 77.20548952010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Parliament Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 299,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109965994420874830658\">Er. Bhupinder Singh Brar</a>"
+                    ],
+                    "photo_reference": "AcYSjRh_DSwxGUquHTbkwUghO3HGO2niUd1IH8AIWyraoby4au6MoUOyIjCnzkaYuywTaWIYz5Q04UOhUfmUqmeU9ftZqLuWw9Y6NZ8DnU1sGBwCbVAnkqgo3OH1Nlg4namn8caoCwPDJAAkSYoVSygFOTtcxv6mkoiBOTg3X3ckogzX2OLQ",
+                    "width": 450
+                }
+            ],
+            "place_id": "ChIJg4kkcbLiDDkRTjZUHHb4rb4",
+            "rating": 4.4,
+            "reference": "ChIJg4kkcbLiDDkRTjZUHHb4rb4",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 414,
+            "vicinity": "J694+GV5, Lok Sabha Secretariat, Parliament Library Building, Pandit Pant Marg Area, New Delhi"
+        }
+    ],
+    "status": "OK"
+}

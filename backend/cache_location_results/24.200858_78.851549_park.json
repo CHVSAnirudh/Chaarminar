@@ -1,0 +1,95 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.2713867,
+                    "lng": 78.83447679999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.27273652989272,
+                        "lng": 78.83582662989271
+                    },
+                    "southwest": {
+                        "lat": 24.27003687010728,
+                        "lng": 78.83312697010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Madawara Wildlife sanctuary",
+            "photos": [
+                {
+                    "height": 739,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107723664903288802138\">madhur jain</a>"
+                    ],
+                    "photo_reference": "AcYSjRimu_drTRej05EhOcrRBIqiIqQtiqr15aIml5m8Lx7XJAfKC5wRzMxqpWhQJQAgCNdbKODVK7IkAyvmFUIfNY-y_2BuvgHpiVSWfCADeFdILYilIzTIspBnbhw7FtK42uABp0JC6pTSChp-8976Pk-VUtiJi5lW7Shxf3eWhoEQaeZx",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJDQ3SjRrleDkR_sS0iRnhQgo",
+            "rating": 5,
+            "reference": "ChIJDQ3SjRrleDkR_sS0iRnhQgo",
+            "scope": "GOOGLE",
+            "types": [
+                "zoo",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "7RCM+HQ5, Madawara Range"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.2802178,
+                    "lng": 78.9283501
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.28184032989272,
+                        "lng": 78.92937797989272
+                    },
+                    "southwest": {
+                        "lat": 24.27914067010728,
+                        "lng": 78.92667832010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Baraitha club",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108467217938371623890\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgYJoP7hHiipkz4LHJNSNUYviIS18WGzCmCZGDE4O4RqDA3u6ajKBW0hQTex_JIGzAdJZJxAtbeWEzE-SUmR-Nb2VXgbBlf1tSJrjWqFa-gPTpzI78eklaCeR6S0nNTN2t4khuF81zEklzArebGNQx3aU_4JFKsW1vyWE03d-DUDCYY",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJR9N2r6LveDkRXy224BwmVrw",
+            "rating": 5,
+            "reference": "ChIJR9N2r6LveDkRXy224BwmVrw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "7WJH+38, Alampur"
+        }
+    ],
+    "status": "OK"
+}

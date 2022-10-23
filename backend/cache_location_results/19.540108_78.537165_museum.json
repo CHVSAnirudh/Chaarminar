@@ -1,0 +1,41 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 19.5104018,
+                    "lng": 78.6328022
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.51349304999999,
+                        "lng": 78.63353252989272
+                    },
+                    "southwest": {
+                        "lat": 19.50932205,
+                        "lng": 78.63083287010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Durga Devi Temple",
+            "permanently_closed": true,
+            "place_id": "ChIJ-V15PfRh0jsRg73oPYuqam8",
+            "rating": 3.9,
+            "reference": "ChIJ-V15PfRh0jsRg73oPYuqam8",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "GJ6M+44W, muthnoor, Indervelly"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,74 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5509879,
+                    "lng": 78.0858425
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.55226507989272,
+                        "lng": 78.08717247989271
+                    },
+                    "southwest": {
+                        "lat": 26.54956542010728,
+                        "lng": 78.08447282010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "\u0926\u0947\u0938\u0940 \u0936\u0930\u093e\u092c \u0915\u0940 \u0926\u0941\u0915\u093e\u0928",
+            "place_id": "ChIJx9aHbtWvdjkR5UcAjZfbhJE",
+            "rating": 0,
+            "reference": "ChIJx9aHbtWvdjkR5UcAjZfbhJE",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H32P+98W, Unnamed Road, Kheda Mewda"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5041342,
+                    "lng": 78.11775840000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.50548582989272,
+                        "lng": 78.11913782989272
+                    },
+                    "southwest": {
+                        "lat": 26.50278617010728,
+                        "lng": 78.11643817010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Dheeraj Gurjar",
+            "place_id": "ChIJhVCnk3yldjkRxWMaGooWCYY",
+            "rating": 0,
+            "reference": "ChIJhVCnk3yldjkRxWMaGooWCYY",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "G439+M35, Unnamed Road, Hargawan"
+        }
+    ],
+    "status": "OK"
+}

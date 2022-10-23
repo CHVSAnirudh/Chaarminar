@@ -1,0 +1,51 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5138101,
+                    "lng": 78.6301787
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.51520602989272,
+                        "lng": 78.63152752989272
+                    },
+                    "southwest": {
+                        "lat": 19.51250637010728,
+                        "lng": 78.62882787010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Limra Genaralstoremuthnoor",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115536175250374255084\">shaik shareef</a>"
+                    ],
+                    "photo_reference": "AcYSjRhyPVkfR6ZMD5f0nWh_A8Rr8WvSgPUyj_euDuGNcSEXWkGo2Kg4eW3TzsLzwxrnGHsBLjUKNMVNsQuzYOEknRZ3i51WPY4csAKAigy3cVXG2TfAtDwPZjuY-1X6-yFF0SwOC29nRZ096HS9FwQxmO8-VwQQl0C7hnuSj1YDWDNDmx8O",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJJRgfUi5h0jsRdK_TQUI6P4g",
+            "rating": 4,
+            "reference": "ChIJJRgfUi5h0jsRdK_TQUI6P4g",
+            "scope": "GOOGLE",
+            "types": [
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "GJ7J+G3F, Muthnur1"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,926 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjPcs64q-oPfBH1S1kChdJEO1wGuDhxYt7-Y8LEdxYnmNG4v0pnf13GwGZrqaF3jw2hoUeGvm7M40OLfAJVEz2z_dkWr-4zKAY2eXjbZdgkMkq3mu7I6bziefYD5gCfrALvrgKfDHVWpqoD9fgzJPI0MDM5fL2gK_zBmWPMWeuQdAs1rUn-uatuo24nbJuDml4EFa-9LfetqJB5vQaRI6uHIQP53c304hLGGbxZC40rlfqi4m80TK2CJcdOQM07wXKKP2YyFmqVKfphZYiD1586OJCXsuJsSd5QzuMrEkU4ywePRuRHeevPuZkqMo_wVbkfA4CjHeWwtXx9uFQG66xjl-8QXuMkLPNeHVBM1H0HhTdUEh1t1CBcFdC3bjqb3TO50rTZCfH_iEgzTZ_vfD5fijB7lMBQtyJNKghK8CxxhDBvlf_cIg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4901263,
+                    "lng": 77.5143291
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.49150742989272,
+                        "lng": 77.51565707989272
+                    },
+                    "southwest": {
+                        "lat": 28.48880777010728,
+                        "lng": 77.51295742010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Omaxe Connaught Place",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJuWrmhx_rDDkRDYBYTxuH4Jc",
+            "plus_code": {
+                "compound_code": "FGR7+3P Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGR7+3P"
+            },
+            "rating": 4.3,
+            "reference": "ChIJuWrmhx_rDDkRDYBYTxuH4Jc",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3012,
+            "vicinity": "Block H, Beta II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4579842,
+                    "lng": 77.52813979999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45957402989272,
+                        "lng": 77.52933952989272
+                    },
+                    "southwest": {
+                        "lat": 28.45687437010728,
+                        "lng": 77.52663987010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MSX Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109465499875492099307\">Rupam Kumari</a>"
+                    ],
+                    "photo_reference": "AcYSjRjDS6lsWd9kfDbeIJWETLoDUqe4US97WcopCeURsrsh9mMM134y95sKMrw2huajsgptSGBu9xbnZBRctNszhNIesELSIDDlbMC87NC1tJmIZLKkPu1XXXgDHxx7vGRY8Pm4ZoNrA2bs-4_uZAdW6CfJ4qFug6Rsvj1HijfzJ6QjDSKl",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ7bcfWiXADDkRFS8wr_7GbaA",
+            "plus_code": {
+                "compound_code": "FG5H+57 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG5H+57"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ7bcfWiXADDkRFS8wr_7GbaA",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8704,
+            "vicinity": "601 \u2013 602, 6th Floor, Ocean Heights, Sector \u2013 18 Block F, Industrial Area, Sector Swarn Nagri, Plot No. K-4, 4th Ave, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4646154,
+                    "lng": 77.50803429999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46532915,
+                        "lng": 77.51070045
+                    },
+                    "southwest": {
+                        "lat": 28.46247415,
+                        "lng": 77.50629945
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ansal plaza Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJO8AkacfrDDkRlEJdwaTF-Qc",
+            "plus_code": {
+                "compound_code": "FG75+R6 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG75+R6"
+            },
+            "rating": 3.8,
+            "reference": "ChIJO8AkacfrDDkRlEJdwaTF-Qc",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3991,
+            "vicinity": "ANSAL PLAZA MALL SHOPPING COMPLEX, Pari Chowk, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5001258,
+                    "lng": 77.407709
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.50140472989272,
+                        "lng": 77.40922462989272
+                    },
+                    "southwest": {
+                        "lat": 28.49870507010727,
+                        "lng": 77.40652497010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "The X Mall, Sector-129, Noida",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 780,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108665676054911609967\">Manohar Sinha</a>"
+                    ],
+                    "photo_reference": "AcYSjRjOJzQDE8IwFLKeoKDbEHMRLTEYuP7ypsB6kXSVNlMseSXKQRDihwThtwutFS6qqG-lBXSxexL1DeQlZlPXuSKVmgAVUSnMn_a4e5t84-IvmjT5Sg05COVXwWzC0I-EafeNV3O_eiILUZZ6sKXFSROVKj66xF82dXF77rB-A60txa7E",
+                    "width": 1040
+                }
+            ],
+            "place_id": "ChIJwaRgbPTpDDkRn9CJ7wRXpjE",
+            "plus_code": {
+                "compound_code": "GC25+33 Noida, Uttar Pradesh",
+                "global_code": "7JWVGC25+33"
+            },
+            "rating": 3.9,
+            "reference": "ChIJwaRgbPTpDDkRn9CJ7wRXpjE",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "Plot No- 3CA, Noida-Greater Noida Expy, Sector 129, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5009032,
+                    "lng": 77.4093127
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.50215027989272,
+                        "lng": 77.41066362989272
+                    },
+                    "southwest": {
+                        "lat": 28.49945062010728,
+                        "lng": 77.40796397010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Uptown Square",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2752,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101838007378778277995\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiUiS97JVAn-mjc-mTzFnx1XBK5_Iyc5jEoNmPq1Njk1uxWReGKQHjMQ2m9hWnZEuysIWE8Tl7aaFlqhwAC9D3vONtDX--I0UjorQnwLdHX-ANbZlsX1SFj15xvlEJBkt40t1QlwtBgOnmssVRwc0QilZYFb59v1CBy1iQL3N-yUu7v",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJxzKsEevpDDkRl90dq2eTtEo",
+            "plus_code": {
+                "compound_code": "GC25+9P Noida, Uttar Pradesh",
+                "global_code": "7JWVGC25+9P"
+            },
+            "rating": 4.4,
+            "reference": "ChIJxzKsEevpDDkRl90dq2eTtEo",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 138,
+            "vicinity": "Advant Navis Business Park, Advant Navis Business Park Towerc, Tower D, Plot 7, Noida-Greater Noida Expy, Sector 142, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4885066,
+                    "lng": 77.5065959
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48988082989272,
+                        "lng": 77.5079903298927
+                    },
+                    "southwest": {
+                        "lat": 28.48718117010727,
+                        "lng": 77.50529067010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shopping Centre",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111042242464707364565\">prakashpanchal999</a>"
+                    ],
+                    "photo_reference": "AcYSjRjiP8RZvaYJ7aSq95whja6h4MlJ1u0tTqGOUGgValSykDTeMpK5AOnZnBhHMXCxbI36V1cGQso4fC-LjYhgMjAHtp4NDUTKyMSeo5wSf0dcPpbksUPsUXAf0JHdev0RTslTJT-XVCk6aNBw-78u4BuZ_0_Jhsuc-WizBspXLJEkfDAr",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJNaJcvmfqDDkRkDJTBJeE0EM",
+            "plus_code": {
+                "compound_code": "FGQ4+CJ Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGQ4+CJ"
+            },
+            "rating": 3.8,
+            "reference": "ChIJNaJcvmfqDDkRkDJTBJeE0EM",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 156,
+            "vicinity": "Block G, Gamma II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4525346,
+                    "lng": 77.5263114
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45588655,
+                        "lng": 77.5282192
+                    },
+                    "southwest": {
+                        "lat": 28.45129035,
+                        "lng": 77.52371879999998
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "The Grand Venice Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110849771768325359231\">miraj singh</a>"
+                    ],
+                    "photo_reference": "AcYSjRiX6Us2F59swts759gQJylBRKmxSNAVdzbttElMBmWW0D7Ayt5BQoYHujlHP5RoX-qYpIjdOjyiB70I-uO8LKwhIe8nbhAUq9fDzAUrZ3AEgi5yjacLabkiJt5nxHr1MiQxfwO2IyaoBEibv8U-UdFRJdI7zaCvcswFK856jvlXZ6Yg",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJVV4dVTDADDkRwt02xANyB_Q",
+            "plus_code": {
+                "compound_code": "FG3G+2G Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG3G+2G"
+            },
+            "rating": 4.2,
+            "reference": "ChIJVV4dVTDADDkRwt02xANyB_Q",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41891,
+            "vicinity": "Plot No SH3, Site IV, near Pari Chowk, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4583187,
+                    "lng": 77.5279102
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45960322989272,
+                        "lng": 77.52907072989272
+                    },
+                    "southwest": {
+                        "lat": 28.45690357010728,
+                        "lng": 77.52637107010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Inox mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJxy-EIH7BDDkR7Abzj4CxaAY",
+            "plus_code": {
+                "compound_code": "FG5H+85 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG5H+85"
+            },
+            "rating": 3.9,
+            "reference": "ChIJxy-EIH7BDDkR7Abzj4CxaAY",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 520,
+            "vicinity": "Block F, Surajpur Rd, Block F, Industrial Area, Surajpur Site 4, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4400272,
+                    "lng": 77.5451976
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.44143282989272,
+                        "lng": 77.54672832989273
+                    },
+                    "southwest": {
+                        "lat": 28.43873317010728,
+                        "lng": 77.54402867010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vansia Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113286692131002359764\">Barun Varma</a>"
+                    ],
+                    "photo_reference": "AcYSjRhDwrp0cZbks3OyqqPBv62eHIpgbCOQ6P-sC2HX3sqR93tFSCrEATpInbkU-fwbf-pkDpordw5-fbQ_ylHNVOQSXGPmBHDbdbXxjCyrdVwoPT3igNXKBtYUCxu_ibEaZUDSJlvlJNNCtFuQgBwO_ip_l-BIfxnNkLVM-YMit6RiZeAG",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJcR44yW7ADDkRPpXg5sJMtgo",
+            "plus_code": {
+                "compound_code": "CGRW+23 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVCGRW+23"
+            },
+            "rating": 4.1,
+            "reference": "ChIJcR44yW7ADDkRPpXg5sJMtgo",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30,
+            "vicinity": "4, near Radison hotel, Industrial Area, Surajpur Site 4, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4529024,
+                    "lng": 77.52565369999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45408467989272,
+                        "lng": 77.52672927989272
+                    },
+                    "southwest": {
+                        "lat": 28.45138502010728,
+                        "lng": 77.52402962010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "CENTRAL",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJlXM5m-fBDDkRjLsM_VtOumQ",
+            "plus_code": {
+                "compound_code": "FG3G+57 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG3G+57"
+            },
+            "rating": 3.8,
+            "reference": "ChIJlXM5m-fBDDkRjLsM_VtOumQ",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "department_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29,
+            "vicinity": "NEAR, Greater Noida Central,THE GRAND VENICE MALL, Pari Chowk, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4761266,
+                    "lng": 77.55908509999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47753642989272,
+                        "lng": 77.56048082989273
+                    },
+                    "southwest": {
+                        "lat": 28.47483677010728,
+                        "lng": 77.55778117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shopping Complex - Omaxe Palm Greens",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1799,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105661804619390261689\">Leena C</a>"
+                    ],
+                    "photo_reference": "AcYSjRgshHLNlVRD8vFNALIxKTQniUNENQnoClOWT2EjfgybSjq82bO8PqQtvfq2i54GSzNWN99sL9KvWFqLOzDK7PZydIyDDWaBQVl8kmzEzJec5pcClGius1XT1s0HSuZn00vwkhz6pMiaTSHgbPp5fVo6Kt0Qe5Ruxb-yX5LimYUv6FlM",
+                    "width": 3650
+                }
+            ],
+            "place_id": "ChIJzVapCqvqDDkRJnQ4VdJcWOY",
+            "rating": 4.2,
+            "reference": "ChIJzVapCqvqDDkRJnQ4VdJcWOY",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 223,
+            "vicinity": "FHG5+FJ4, MU, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5091113,
+                    "lng": 77.47724219999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51039312989272,
+                        "lng": 77.47855722989271
+                    },
+                    "southwest": {
+                        "lat": 28.50769347010728,
+                        "lng": 77.47585757010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "BNT MALL",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJfyC1ajjADDkR56MZC514WFE",
+            "rating": 3.6,
+            "reference": "ChIJfyC1ajjADDkR56MZC514WFE",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 49,
+            "vicinity": "GF5G+JVX, Surajpur, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4814471,
+                    "lng": 77.47947429999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48275657989273,
+                        "lng": 77.48076697989272
+                    },
+                    "southwest": {
+                        "lat": 28.48005692010728,
+                        "lng": 77.47806732010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Habitech Qube Crystal Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116064484527645066952\">Akshat Vashisht</a>"
+                    ],
+                    "photo_reference": "AcYSjRgPuftRqj9UOfSREzVGYl5AhJhSiVuEb6smFknte3eYNJiq7e1m6iUr3PIhoj7o_HIY4L-eMtujUBByYe1M8G-j2--7n1IhTcCayxhzTI6vsHD5b5OvgzZ4z0v_GioUz157b3Ac8GC9XHSU1F5AVPmwPfG5b-xGm60ZvYuDrxlKUCmd",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJoasuKBrqDDkRfshyDsl6Nkg",
+            "plus_code": {
+                "compound_code": "FFJH+HQ Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFFJH+HQ"
+            },
+            "rating": 3.4,
+            "reference": "ChIJoasuKBrqDDkRfshyDsl6Nkg",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 185,
+            "vicinity": "Knowledge Park III, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4578233,
+                    "lng": 77.499118
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45938772989272,
+                        "lng": 77.50027012989273
+                    },
+                    "southwest": {
+                        "lat": 28.45668807010728,
+                        "lng": 77.49757047010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "EXPO PLAZA",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJnb1m7KzBDDkRgZnbeUFSJTU",
+            "rating": 4.1,
+            "reference": "ChIJnb1m7KzBDDkRgZnbeUFSJTU",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "FF5X+6H7, Knowledge Park II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4774313,
+                    "lng": 77.5082788
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47882717989272,
+                        "lng": 77.50969532989274
+                    },
+                    "southwest": {
+                        "lat": 28.47612752010728,
+                        "lng": 77.50699567010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gulmohar Shopping Complex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ-90U6snrDDkRO3LQAHJep6U",
+            "rating": 5,
+            "reference": "ChIJ-90U6snrDDkRO3LQAHJep6U",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "FGH5+28F, Gulmohar Shopping Complex, Block A, Beta I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4489554,
+                    "lng": 77.4725893
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45042822989272,
+                        "lng": 77.47397237989273
+                    },
+                    "southwest": {
+                        "lat": 28.44772857010728,
+                        "lng": 77.47127272010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gulshan",
+            "place_id": "ChIJg7VsUfbBDDkRgCIGBktH1WA",
+            "plus_code": {
+                "compound_code": "CFXF+H2 Noida, Uttar Pradesh",
+                "global_code": "7JWVCFXF+H2"
+            },
+            "rating": 0,
+            "reference": "ChIJg7VsUfbBDDkRgCIGBktH1WA",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "plot no c3 e1 sec 129, Noida-Greater Noida Expy, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4817846,
+                    "lng": 77.4987093
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48316032989272,
+                        "lng": 77.50009257989272
+                    },
+                    "southwest": {
+                        "lat": 28.48046067010728,
+                        "lng": 77.49739292010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Alfa Greater Noida Market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103719571698902676996\">Shivam 9911659470</a>"
+                    ],
+                    "photo_reference": "AcYSjRjiyk7i7DE-zi343KGgu2tim1Y7dq9PRwG1kMemdB9rI39QDwNviGCaw-hIEBoTTm43TG6BH3CR8HtPtiQlNNM2HxXbbNfrDDXh4SsyY56LBL2bM6j4B2pHNVTW1XKoyX1b4D7oO0MB5vcFzLUewsfv-WZNigrJguy16M_IZyRxKTWH",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJXz-PIGzqDDkRosHNJyw2bLg",
+            "plus_code": {
+                "compound_code": "FFJX+PF Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFFJX+PF"
+            },
+            "rating": 4.2,
+            "reference": "ChIJXz-PIGzqDDkRosHNJyw2bLg",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41,
+            "vicinity": "23, Amritpuram, Block E, Chandila, Gamma 1, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.512273,
+                    "lng": 77.48082610000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51361767989272,
+                        "lng": 77.48218817989272
+                    },
+                    "southwest": {
+                        "lat": 28.51091802010728,
+                        "lng": 77.47948852010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Heena shopping center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117120368809679335112\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhHBJaZATjzeaMFunsPMxs6rGabWbaqfc-DdqPp3y62vPrkhTAsK6tc2tSlO2HNklaKg5e3HC2DQvhPPBUXBUQOaQhXuDkYxIbnhMvEXQm3CaC9AIGcH3DliqMnG_ymW1P-ZwkinwhLZ76R53kTQgRDjyovcJuYuVjydVtWBoNvCqxv",
+                    "width": 1840
+                }
+            ],
+            "place_id": "ChIJXzEzl9LrDDkR5J2bxC7FT5w",
+            "rating": 3.9,
+            "reference": "ChIJXzEzl9LrDDkR5J2bxC7FT5w",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "GF6J+W84, Surajpur, Greater Noida, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4710939,
+                    "lng": 77.511375
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47223202989272,
+                        "lng": 77.51288227989271
+                    },
+                    "southwest": {
+                        "lat": 28.46953237010728,
+                        "lng": 77.51018262010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "shopping world",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107668194803878713250\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjlq8KvcZ4eFyq-H26hGwgwaKGBHaW923tRJSRsWRl3U2_EMySLWOmc6ikPDFicHnl2O_gx7wL-4Q185tdqQs4xaPo57K9su5AfhngiOuUqoVgJw0OE8Fm1EO9QyfNPBjes-5K3bSlEzUOJ6DnklRzpA5LQ8G-blWOfZLhijYxdu4on",
+                    "width": 291
+                }
+            ],
+            "place_id": "ChIJHYczI13BDDkROvug1YBvvTk",
+            "plus_code": {
+                "compound_code": "FGC6+CG Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGC6+CG"
+            },
+            "rating": 0,
+            "reference": "ChIJHYczI13BDDkROvug1YBvvTk",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "2nd flour, 254, Alfa Marg, Alpha-I Commercial Belt, Block C, Alpha I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4739914,
+                    "lng": 77.5124881
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47526122989272,
+                        "lng": 77.51389862989274
+                    },
+                    "southwest": {
+                        "lat": 28.47256157010728,
+                        "lng": 77.51119897010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Alpha Plaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108361821098846061583\">Aashish Maurya</a>"
+                    ],
+                    "photo_reference": "AcYSjRhusGKf-gDs674l2drklJ7mRx6CgRifVZZCs3bFoLcfYDKEzSvo4rpcTH-IRUlKCLfaEL8EPSVcYZiVAT-RXtudj2oYnadeug6jnpmqlneA49-wQCEFuTCFqLWAsyHcKYq-MSdOn1BHLoGhIBWhMlGPBi6UkDYvSIvdv66ne3BPSKOM",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ4fB1JXzqDDkRoVko6BB_lYk",
+            "plus_code": {
+                "compound_code": "FGF6+HX Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGF6+HX"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ4fB1JXzqDDkRoVko6BB_lYk",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 348,
+            "vicinity": "1st Cross St, Block E, Alpha I, Greater Noida"
+        }
+    ],
+    "status": "OK"
+}

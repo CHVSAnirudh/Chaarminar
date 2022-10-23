@@ -1,0 +1,916 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRi3lQHa31o79dHfzNt6hctIMxADVxvyhKbFCustF0uv2M4kZynlIzyHja0CDzYMEZ7jWMwJ_hjZcRF9iOycQ3PzreyZOiaV_QYDwQPq72cUU_eHVfCmvU9gmpfb-YMmCj5MZv1wExnHuftBDgiWLxlaWdwvmAv6wmTc8AItbrOLO5QBWUPLWc7--X2hPM_VAlAh3nOc_fQxkOLXz6z3Z1qIdMxHhP7tKNXIWv_TsaaFZkttMqm4sqPShFr2InYPYoyX-3NfWK-XrrH-VvH0I6WAap-bAqT74sv5QKvF5w3KJ_0HJa8wdZZ-eJtmT5Mc-Nx7nUwf9Bh2WOu2eWpope9jUR0Pf5jA7YYoGJ2_LQLhMnQPwtaM9u4gyFOq64wl0cqae9vPahZ-YnPU0b0SCdeCmFteMa_VIvNe6kQ2lfJh3kySZ3aq",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.529694,
+                    "lng": 78.35298399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.53110252989272,
+                        "lng": 78.35433232989271
+                    },
+                    "southwest": {
+                        "lat": 17.52840287010728,
+                        "lng": 78.35163267010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Staffing Aggregator Platform Find 10x more qualified candidates for jobs in just 1 day! | Hirextra",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101324966020353661354\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjeBCGKQ3lLBC-gIDznWLDys97Dtu-VXZKQc6aJFaX2JPNPSikeZBZ7dEfJVSNnLxENbkfy0iChgYk8mJl092oM5mFzsY7FzgQzz-ASSvPvkpENDh7crdkQddsA5cCnqNkZyr_hwtyd_7c_hNpcNMXh0ftc-DAJBeYhTMNLixafFccO",
+                    "width": 1536
+                }
+            ],
+            "place_id": "ChIJNRG7IJGNyzsRur8vi6f4NpE",
+            "plus_code": {
+                "compound_code": "G9H3+V5 Hyderabad, Telangana",
+                "global_code": "7J9WG9H3+V5"
+            },
+            "rating": 4.2,
+            "reference": "ChIJNRG7IJGNyzsRur8vi6f4NpE",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27,
+            "vicinity": "8-9/04, Plot No. 04,1st Villa, Sai Anuraag Colony,, Jana Chaitanya Housing Board, Bachupally, opp. Volvo Bus Service Centre, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4898553,
+                    "lng": 78.38946059999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49120247989272,
+                        "lng": 78.39082007989272
+                    },
+                    "southwest": {
+                        "lat": 17.48850282010727,
+                        "lng": 78.38812042010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Techfynder India PVT",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1335,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108951343503549626393\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgNUzYbuyzkwescRbrnfypb0392bhunUeQAMQDE9cDF3JJJS8gJ4F7HdcGKx7tRUXjYI4tKOrLh_MXo1EIJ0IKE2bF1K7dL8hGPwjeEpGnggLlJf3gsMslf4oEDZRnXnDum87fM_3IBieHI-Vo822FhLtQDHdD7vRQOr9h5nnG2r49n",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJawUBhxKRyzsREH0ezolnbPY",
+            "plus_code": {
+                "compound_code": "F9QQ+WQ Hyderabad, Telangana",
+                "global_code": "7J9WF9QQ+WQ"
+            },
+            "rating": 4.9,
+            "reference": "ChIJawUBhxKRyzsREH0ezolnbPY",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 85,
+            "vicinity": "Unit No:213, 2nd Floor Manjeera Trinity corporate, Kukatpally Housing Board Colony, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4440607,
+                    "lng": 78.4403863
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44542732989272,
+                        "lng": 78.44176677989273
+                    },
+                    "southwest": {
+                        "lat": 17.44272767010728,
+                        "lng": 78.43906712010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Orbit Staffing Innovision",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJKxwPTs-QyzsRI0F9JBGsE5s",
+            "plus_code": {
+                "compound_code": "CCVR+J5 Hyderabad, Telangana",
+                "global_code": "7J9WCCVR+J5"
+            },
+            "rating": 3.8,
+            "reference": "ChIJKxwPTs-QyzsRI0F9JBGsE5s",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 48,
+            "vicinity": "407 & 408, Aditya Trade Centre, Ameerpet, Hyderabad, Telangana, 500038 23733329"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4360563,
+                    "lng": 78.39378599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43736837989272,
+                        "lng": 78.39511792989272
+                    },
+                    "southwest": {
+                        "lat": 17.43466872010728,
+                        "lng": 78.39241827010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "TechoMinds Pvt Ltd",
+            "place_id": "ChIJkf0C7FqRyzsR6NFjjNzDgTQ",
+            "plus_code": {
+                "compound_code": "C9PV+CG Madhapur, Telangana",
+                "global_code": "7J9WC9PV+CG"
+            },
+            "rating": 1,
+            "reference": "ChIJkf0C7FqRyzsR6NFjjNzDgTQ",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "3-179/NR SURVEY 179, Kavuri Hills Phase 2 Rd, Guttala_Begumpet, Madhapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.44959,
+                    "lng": 78.422681
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45094132989272,
+                        "lng": 78.42407002989272
+                    },
+                    "southwest": {
+                        "lat": 17.44824167010728,
+                        "lng": 78.42137037010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Techridge Staffing India (P) Limited",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 542,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102250627305519637583\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiK_jg8FgutRU9EmVCJaRwTTincnQAb6Smo-SaC66hl9ETe-vTayTDEXMfKOmTS3CvNqUOxC74zY5So_VB7p8P5zQpj_UmC-jwOtU01FesR3wNXs3Iu8znMpo-rWlkxlIyZHNfe4CIPAyaJylQBN2KZJ9WFcYYw9EA18iZmcfS9YILc",
+                    "width": 530
+                }
+            ],
+            "place_id": "ChIJhZCbfmGRyzsR4GotA_BXKSY",
+            "plus_code": {
+                "compound_code": "CCXF+R3 Hyderabad, Telangana",
+                "global_code": "7J9WCCXF+R3"
+            },
+            "rating": 4.4,
+            "reference": "ChIJhZCbfmGRyzsR4GotA_BXKSY",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "8-3-167/B/526, Opposite Lucky Function Hall Sriram Nagar, Cross Road, Moti Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.490539,
+                    "lng": 78.39667
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49189932989272,
+                        "lng": 78.39799697989271
+                    },
+                    "southwest": {
+                        "lat": 17.48919967010728,
+                        "lng": 78.39529732010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "J M Air temp",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115127996763616349843\">J M Air Temp Airconditioner &amp; Refrigerator&#39;s</a>"
+                    ],
+                    "photo_reference": "AcYSjRjoSNq-iW4_KrKy_MQqSaL7orsnysuH2YjOtGX3s6NR-vFLKEsJ8GZpqvvkmhnEd19AComo6ZXZEeJZCs6sHE6fZgyYJqe2j3hFkwQx281WmhySn9guvJjNKVFDzJm53BIh_BgulOULNu4XG5usV6wtVCYieNjYsZY0wYDp1oAxhsC8",
+                    "width": 2160
+                }
+            ],
+            "place_id": "ChIJC61Hz5KRyzsR01taWpvFOso",
+            "plus_code": {
+                "compound_code": "F9RW+6M Hyderabad, Telangana",
+                "global_code": "7J9WF9RW+6M"
+            },
+            "rating": 4.6,
+            "reference": "ChIJC61Hz5KRyzsR01taWpvFOso",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "Road No 4, K P H B Colony, Kukatpally, Kukatpally, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4456116,
+                    "lng": 78.38682450000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44696317989272,
+                        "lng": 78.38817907989272
+                    },
+                    "southwest": {
+                        "lat": 17.44426352010728,
+                        "lng": 78.38547942010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Maneuver (Placement Assistance)",
+            "place_id": "ChIJDwdMf2CRyzsRhejPCYVDr8g",
+            "rating": 5,
+            "reference": "ChIJDwdMf2CRyzsRhejPCYVDr8g",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "C9WP+6PC, Vaibhav hills, Silicon Valley, Madhapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4091291,
+                    "lng": 78.43134309999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41048592989272,
+                        "lng": 78.43269547989273
+                    },
+                    "southwest": {
+                        "lat": 17.40778627010728,
+                        "lng": 78.42999582010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "IQ FACILITY SERVICES",
+            "place_id": "ChIJfxaBEyeXyzsRACqUJuo8Vvs",
+            "plus_code": {
+                "compound_code": "CC5J+MG Hyderabad, Telangana",
+                "global_code": "7J9WCC5J+MG"
+            },
+            "rating": 0,
+            "reference": "ChIJfxaBEyeXyzsRACqUJuo8Vvs",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "number 14, NBT Nagar Rd, NBT Nagar, Banjara Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4902983,
+                    "lng": 78.396426
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49162372989272,
+                        "lng": 78.39782867989271
+                    },
+                    "southwest": {
+                        "lat": 17.48892407010728,
+                        "lng": 78.39512902010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Dhruv Consulting Services",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110759919513635459515\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg-jiMlkAaVbC5gvkMxVIkiwRtpqgGgBnch7xMpEKmwDfUHdpQpDj5NocPQ3q-eQSsM2RkL93zgbOHRfMqvgMhdgTylCnaRGlRFE3-DL6F3EIiwUIlDbT0Eo8nuKud2LZg2DxUVy5mRaLN-C22P90Z9g_hyC5E6VnPvyi1lePK1RTCY",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJtztgMEmXyzsRyTQdH_c5btU",
+            "plus_code": {
+                "compound_code": "F9RW+4H Hyderabad, Telangana",
+                "global_code": "7J9WF9RW+4H"
+            },
+            "rating": 4,
+            "reference": "ChIJtztgMEmXyzsRyTQdH_c5btU",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67,
+            "vicinity": "Banda Residency, #302, Remedy Hospital Ln, Kukatpally Housing Board Colony, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4735163,
+                    "lng": 78.3872875
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.47484787989272,
+                        "lng": 78.38863137989271
+                    },
+                    "southwest": {
+                        "lat": 17.47214822010728,
+                        "lng": 78.38593172010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "TalentBeacon HR Solutions Pvt Ltd",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 811,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109131261986930134274\">TalentBeacon HR Solutions Pvt Ltd</a>"
+                    ],
+                    "photo_reference": "AcYSjRgISRpOqL4d73rNfEUPAOVsHtqG-trJQO8-Zmdn1JldrkwziJqMKuEOtEp6qrH4WaQG2IAJVDAuRy3oqSylWO31ny5OdMvL3Ou6DQZScNSj0h8KCuZWx3p2yfOQREUqszSv2mfY8ttMltjnmWnhUQUHOACvotcrpp_JqGUtmXRXfTty",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJQ6VLNVyRyzsR8hWZG4w0B40",
+            "plus_code": {
+                "compound_code": "F9FP+CW Hyderabad, Telangana",
+                "global_code": "7J9WF9FP+CW"
+            },
+            "rating": 4.1,
+            "reference": "ChIJQ6VLNVyRyzsR8hWZG4w0B40",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "Plot No:62,Sri Towers,1st Floor,KPHB 7th Phase, JNTU - Hitech City Road, Kukatpally, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4987273,
+                    "lng": 78.39475209999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50014007989272,
+                        "lng": 78.39612077989271
+                    },
+                    "southwest": {
+                        "lat": 17.49744042010727,
+                        "lng": 78.39342112010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "JH Management Solutions Private Limited",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1664,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101948140666369693236\">gowri sankar</a>"
+                    ],
+                    "photo_reference": "AcYSjRh_wMVbGqLy08sRf6vWTV9Z53xNC_RjOby6XWn0U0BKh9iaxAagFjxcotdFSHNEWKs4lzl6hstkl_kFUK3_7QxEQmi0Bsr-uB2MEcPlD49llMxR4wJ0wuf7rrHvxq8LsrCAaFys6xevt-48zz1cM1EYmcBlkEqzLE_wlrwXBG-vzNVu",
+                    "width": 1692
+                }
+            ],
+            "place_id": "ChIJCzYt9_GRyzsRRG7mSRlzx98",
+            "plus_code": {
+                "compound_code": "F9XV+FW Hyderabad, Telangana",
+                "global_code": "7J9WF9XV+FW"
+            },
+            "rating": 5,
+            "reference": "ChIJCzYt9_GRyzsRRG7mSRlzx98",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "finance",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Addagutta Society - HMT Hills Rd, Addagutta Society, Jal Vayu Vihar, Kukatpally, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5006888,
+                    "lng": 78.39577340000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50203582989272,
+                        "lng": 78.39713542989273
+                    },
+                    "southwest": {
+                        "lat": 17.49933617010728,
+                        "lng": 78.3944357701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "you & me career solutions",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ-2ntKO6RyzsRmTsY2WqupIg",
+            "plus_code": {
+                "compound_code": "G92W+78 Hyderabad, Telangana",
+                "global_code": "7J9WG92W+78"
+            },
+            "rating": 5,
+            "reference": "ChIJ-2ntKO6RyzsRmTsY2WqupIg",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "Gade Ashok Reddy Plot no : 389,Hno:2-23-371/1, Flot no 501, Avinash Arcade, HMT Hills Rd, Kukatpally Housing Board Colony, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.493642,
+                    "lng": 78.4049564
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49502367989272,
+                        "lng": 78.40632337989271
+                    },
+                    "southwest": {
+                        "lat": 17.49232402010728,
+                        "lng": 78.40362372010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Chaitra Soft",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 657,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115125769772721263815\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRie1QYxcxO2arS5cKgWOJQSPxhATvb9Ej6Kp1Kfv1vfokPx688AttKihPbEr-Q80ZzFQO_-KPQxPV0bdxIo6_0QiGQunoh-DXin3AWXCyAiQAzgkmT1YEVT3P85wXBPIIeqvppuSCNsF40_egc8DT8QnvoTbfFSrv-C-7dNlG3VdR9r",
+                    "width": 876
+                }
+            ],
+            "place_id": "ChIJt_vfbuuRyzsRrRWKytGi7HA",
+            "plus_code": {
+                "compound_code": "FCV3+FX Hyderabad, Telangana",
+                "global_code": "7J9WFCV3+FX"
+            },
+            "rating": 3.8,
+            "reference": "ChIJt_vfbuuRyzsRrRWKytGi7HA",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21,
+            "vicinity": "AS Raju Nagar 503, 5th floor, Sai Nikethan Building, Usha Mullapudy Road, Kukatpally Housing Board Colony, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4993077,
+                    "lng": 78.4094515
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50065687989272,
+                        "lng": 78.41080662989272
+                    },
+                    "southwest": {
+                        "lat": 17.49795722010727,
+                        "lng": 78.40810697010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Kashyap Staffing Solutions",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 263,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109138006936174927990\">Shiva Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRgISwof0oVr1jhkfeig8PqIHfyQ-HrfV5iVcs1ffY_XPZaYoK5nHPT8oZtblX3XfBZxx0XqT7yrwmIJN3BZlPmt40eSt3cHo5wzzY-blUASNxy9fWwCQUDRMqh4a23xXz-0KupfYPz0Na9Vv8o5TI9CVA1E2191vuypaHF6dmey22P3",
+                    "width": 857
+                }
+            ],
+            "place_id": "ChIJi5HzKcKRyzsRX3-oWcjcDcc",
+            "plus_code": {
+                "compound_code": "FCX5+PQ Hyderabad, Telangana",
+                "global_code": "7J9WFCX5+PQ"
+            },
+            "rating": 3.6,
+            "reference": "ChIJi5HzKcKRyzsRX3-oWcjcDcc",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "29, Road No. 2, Vijaya Nagar Colony, Kukatpally, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3940577,
+                    "lng": 78.4424861
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39540072989272,
+                        "lng": 78.44382392989273
+                    },
+                    "southwest": {
+                        "lat": 17.39270107010728,
+                        "lng": 78.44112427010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "AimGrowth Consultancy Services LLP",
+            "place_id": "ChIJBZZNjRCXyzsRU0rG9avDe10",
+            "rating": 0,
+            "reference": "ChIJBZZNjRCXyzsRU0rG9avDe10",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Office no 301, 3rd floor, Madan tower, opp- Goutham Model School, above Vets Medical Hall, Mehdipatnam, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5065915,
+                    "lng": 78.4263062
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50799982989272,
+                        "lng": 78.42767072989272
+                    },
+                    "southwest": {
+                        "lat": 17.50530017010728,
+                        "lng": 78.42497107010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Hindu temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1952,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114930253625573272139\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgPvLzue5OewtkQAkDi63d59Tm9m3bc9zAWR48B3dX4R0lkeu8CIVhcTENmgrVOCDM8zaFAnY00it46CHzkJ5C7GfaOUYbmUBdiOnG7r3ysIqFePbskSYPezebYPAZcmvO6gilAL3Wgp926tXRjdQOQS5YQalNoiwikr27pMn9Oare3",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJdTGgLMCRyzsRyUuhNDimEvk",
+            "plus_code": {
+                "compound_code": "GC4G+JG Hyderabad, Telangana",
+                "global_code": "7J9WGC4G+JG"
+            },
+            "rating": 0,
+            "reference": "ChIJdTGgLMCRyzsRyUuhNDimEvk",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "near kanyaka parameshwari temple, Block 27, Jagathgiri Gutta, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4918311,
+                    "lng": 78.3936145
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49314362989272,
+                        "lng": 78.39505317989273
+                    },
+                    "southwest": {
+                        "lat": 17.49044397010728,
+                        "lng": 78.39235352010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Xcel Hires Management Solutions Pvt. Ltd.",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 828,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107418571166644439584\">Xcel Hires Management Solutions Pvt. Ltd.</a>"
+                    ],
+                    "photo_reference": "AcYSjRhih1LAblwme7wDfYZf7nkwAQCSrN_-CXvQBm1ZO_-r893EEhAUX9lG-NL7JeFy0lhiHRTFu-sHZ9ZOPIx74bQlp97lDE3yQ--2h6SIS2Z0B7G-hgbKZ6YcHyCuGYWTW1Z7B6cDP0f9kgk8bdOc_XWPqcpkFCIyD7FkbXyjx2dJrjwi",
+                    "width": 2485
+                }
+            ],
+            "place_id": "ChIJFTVkx7-RyzsR7RSvZkzh-qo",
+            "plus_code": {
+                "compound_code": "F9RV+PC Hyderabad, Telangana",
+                "global_code": "7J9WF9RV+PC"
+            },
+            "rating": 4.5,
+            "reference": "ChIJFTVkx7-RyzsR7RSvZkzh-qo",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26,
+            "vicinity": "# 503, Manjeera Majestic, Commercial, Kukkatpally Housing Board Rd, KPHB Phase I, Kukatpally, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.457442,
+                    "lng": 78.3730078
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45878667989272,
+                        "lng": 78.37436987989273
+                    },
+                    "southwest": {
+                        "lat": 17.45608702010728,
+                        "lng": 78.37167022010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "ARSEN Management Consultants",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108116793354036929232\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiJ0InV6bsMhdsf9XlFZ49JhPAV6TK6oEpZx9MJBoeEjJroJxwnl3940KQEngBGAt2VJicQLllN3D6J5sPczStQLXUZaYz4q5noc8JtHX0LWqFVckoFvykaNOKY6XMqD6j-KOu0KJbPymQXeVZ9n5mIZPofzrmnoLrYN6O_Yi1Te8s",
+                    "width": 598
+                }
+            ],
+            "place_id": "ChIJ60a13tyZyzsRP5PEeEyRjWE",
+            "plus_code": {
+                "compound_code": "F94F+X6 Hyderabad, Telangana",
+                "global_code": "7J9WF94F+X6"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ60a13tyZyzsRP5PEeEyRjWE",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18,
+            "vicinity": "Rajapushpa Business Centre, Stoneridge Centre Level 3 & 4, Survey no.12 & 13, Kondapur Main Road, opp. Google, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4433334,
+                    "lng": 78.3878891
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44464877989272,
+                        "lng": 78.38924297989273
+                    },
+                    "southwest": {
+                        "lat": 17.44194912010728,
+                        "lng": 78.3865433201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Aspire Info Services",
+            "place_id": "ChIJ-dI0RV6RyzsR0UqWmT3uoqo",
+            "plus_code": {
+                "compound_code": "C9VQ+85 Hyderabad, Telangana",
+                "global_code": "7J9WC9VQ+85"
+            },
+            "rating": 2.9,
+            "reference": "ChIJ-dI0RV6RyzsR0UqWmT3uoqo",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "#302, Plot No.1-98/15/1/192, Nitya Jyothi Sri Towers, Arunodaya Colony,Madhapur, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.442349,
+                    "lng": 78.3833784
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44377632989272,
+                        "lng": 78.38475792989271
+                    },
+                    "southwest": {
+                        "lat": 17.44107667010728,
+                        "lng": 78.38205827010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "CIEL HR Services Pvt Ltd | Hyderabad",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110700054319149013737\">CIEL HR SERVICES HYDERABAD</a>"
+                    ],
+                    "photo_reference": "AcYSjRhgmrlSGb04dgRVW_otgZShNz_uAFuvKKcDn57TmP08YAOVvSUIP29JIE0S9_6uQTL8wO-GNOQbE5Bg9wI4waaTrV1GajD_Jr5LM_rZtgUxNxUJ4xO3upi21YtHkGcKoFd_zK_IYHok2jR-DokwCJbFeZh7471DO7yGKzcbeY0jWF9u",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJCUVxD-GTyzsRwwNtHLtPPlM",
+            "plus_code": {
+                "compound_code": "C9RM+W9 Hyderabad, Telangana",
+                "global_code": "7J9WC9RM+W9"
+            },
+            "rating": 4.1,
+            "reference": "ChIJCUVxD-GTyzsRwwNtHLtPPlM",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "Level 1, Mindspace Tower, Vittal Rao Nagar, Next To Westin Hotel, HITEC City, Hyderabad"
+        }
+    ],
+    "status": "OK"
+}

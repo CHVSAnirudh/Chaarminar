@@ -1,0 +1,818 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRis4rg-IFMJkk8FgevOYwvSCrXy2rnA5YZOfuXKEU600igZETDNTm_A_pwt8s23bD0s8t24GhC3RQZl5ir3PmA1kySTpcS1laTt4-pAR6-LLYVI8FNKFClsxeYQskpYIWPbb1_ObNh1YMQvzeVzyDrwtTkz50NTfPu8FmVwTMOGPHyxi6bOBE0lF7in_OC_IgHXBn0F6V15cuc30bGdrImbnQL76IL6B8SRbuEimXrDB3CC5LWjVD1CjVd-UlyN8qfxgORW6veUwHtwDrTpulKmDkY3Ecr8fr6syiUeeZJaDMafRgDXSfSce_VangT--9_XsKbmogDEqyksaXJ82Pu7Kk6Tg5vugvN3x37J2G_GvHyt31IPXAyda8CRQwcoXwMV7sgPCBThwWCPtFJsZDA4HR5LgN4AMTeb5zi5-TFomYn-oRIJPA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8853284,
+                    "lng": 78.33131
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88660777989272,
+                        "lng": 78.33268372989272
+                    },
+                    "southwest": {
+                        "lat": 25.88390812010728,
+                        "lng": 78.32998407010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "L.G. Plaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJkWliDRsfdzkROyvvUcgh2Ws",
+            "plus_code": {
+                "compound_code": "V8PJ+4G Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8PJ+4G"
+            },
+            "rating": 4.3,
+            "reference": "ChIJkWliDRsfdzkROyvvUcgh2Ws",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "Sarafa Bazar, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8858844,
+                    "lng": 78.332369
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88724202989272,
+                        "lng": 78.33374517989272
+                    },
+                    "southwest": {
+                        "lat": 25.88454237010728,
+                        "lng": 78.33104552010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Balaji Complex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110261037467051519242\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRibtdeJYUAIl5uxPR5vQSKt4bFWduqCNWJUmPmS-ZZlqDwJkX9QDNCmtNjwOHFApPVO_oghPyN_oobtBUBrk21mLk0iTUSSQ-Cs4eF9-SjHsQM_uEClQturS1c4XQn_zjl_jAXtfeuoatcUM3eBBdIIC2dC2jKm9sX8YqNl1K1P-YwG",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJIRwtZhsfdzkRUo5m-rbwKHk",
+            "rating": 3.8,
+            "reference": "ChIJIRwtZhsfdzkRUo5m-rbwKHk",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 327,
+            "vicinity": "V8PJ+9W5, Shubhash Ganj, Thakur Baba Rd, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8795495,
+                    "lng": 78.3401674
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88088667989272,
+                        "lng": 78.34146582989273
+                    },
+                    "southwest": {
+                        "lat": 25.87818702010728,
+                        "lng": 78.33876617010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bhadoria Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJmdjPc08fdzkR8iZssFrObbQ",
+            "rating": 0,
+            "reference": "ChIJmdjPc08fdzkR8iZssFrObbQ",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "V8HR+R37, Gwalior - Jhansi Rd, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.882522,
+                    "lng": 78.3274386
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88390187989272,
+                        "lng": 78.32872542989273
+                    },
+                    "southwest": {
+                        "lat": 25.88120222010728,
+                        "lng": 78.32602577010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dabra Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJRfOSChofdzkRYtRDMSEeWoU",
+            "rating": 4.7,
+            "reference": "ChIJRfOSChofdzkRYtRDMSEeWoU",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "V8MG+2X6, Subhash Ganj, Magrora, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.886089,
+                    "lng": 78.3324722
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88742452989272,
+                        "lng": 78.33377162989272
+                    },
+                    "southwest": {
+                        "lat": 25.88472487010728,
+                        "lng": 78.33107197010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Anand Emporium",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105550224511493221158\">Neetesh Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRiazpEL7IE5KlzOeYS09Ik0MZelelmBJHfFqe_1s0E-Itd_70Iat2ePs1BEIuq-BuyIm_NKOJP2DuzafN3IjxyZ9P2T0RgFd58oBefsWglmDgj4-ebPaEKj4tfTzzEiaPEEnSxinoHnl-gHClgKpzfoXTnkFks7g0vgqeCwxq37u2hx",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJQzxtXRsfdzkR_KTdFiIMJfQ",
+            "rating": 4.7,
+            "reference": "ChIJQzxtXRsfdzkR_KTdFiIMJfQ",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "V8PJ+CXQ, Thakur Baba Rd, Subhash Ganj, Darshan colony, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.88623,
+                    "lng": 78.335241
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88765972989272,
+                        "lng": 78.33656317989272
+                    },
+                    "southwest": {
+                        "lat": 25.88496007010728,
+                        "lng": 78.33386352010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Purendra mall",
+            "place_id": "ChIJ29y2SZ8fdzkR3HmMplXFvVU",
+            "rating": 0,
+            "reference": "ChIJ29y2SZ8fdzkR3HmMplXFvVU",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "V8PP+F3X, Bhumi Diagnostics Rd, Shriram Colony, Subhash Ganj, Darshan colony, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.886249,
+                    "lng": 78.338159
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88756962989272,
+                        "lng": 78.33938897989273
+                    },
+                    "southwest": {
+                        "lat": 25.88486997010727,
+                        "lng": 78.33668932010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "R.K.PLAZA",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111857291664228389210\">gaurav khu</a>"
+                    ],
+                    "photo_reference": "AcYSjRgKeUutduiPdxpihmYlL2tnPO8loIUEdOUdxNj7rMrr_mXoAmQubp9Tdq-L-nfM6Cs0-7urOLh-F0XLMlPrhZ1FLk_FvIMPfaDJ3tgFNQZckIfzJkv0R2oLUzybWKZ99SokJSiI1tfn97toEGve-0tMBylBilxej4WX5AFUceL2A_Ej",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ18QpBEofdzkRBNdmRcuXUJ8",
+            "rating": 3.9,
+            "reference": "ChIJ18QpBEofdzkRBNdmRcuXUJ8",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31,
+            "vicinity": "V8PQ+F7V, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8958528,
+                    "lng": 78.3269131
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89721602989272,
+                        "lng": 78.32826682989273
+                    },
+                    "southwest": {
+                        "lat": 25.89451637010728,
+                        "lng": 78.32556717010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u091c\u0947\u0932 \u0930\u094b\u0921 \u0921\u092c\u0930\u093e \u0917\u093e\u0902\u0935",
+            "place_id": "ChIJC9Pe6BofdzkRCCcvH8jUzBM",
+            "plus_code": {
+                "compound_code": "V8WG+8Q Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8WG+8Q"
+            },
+            "rating": 2.5,
+            "reference": "ChIJC9Pe6BofdzkRCCcvH8jUzBM",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Unnamed Road, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8920326,
+                    "lng": 78.3287694
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89337787989272,
+                        "lng": 78.33014112989272
+                    },
+                    "southwest": {
+                        "lat": 25.89067822010728,
+                        "lng": 78.32744147010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Siddh Guru sirandhne baba shopping Mall",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJnYZyOxsfdzkRLQ2XXzg4aZ8",
+            "rating": 0,
+            "reference": "ChIJnYZyOxsfdzkRLQ2XXzg4aZ8",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "V8RH+RG6, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8782949,
+                    "lng": 78.3355351
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.87964552989272,
+                        "lng": 78.33688522989272
+                    },
+                    "southwest": {
+                        "lat": 25.87694587010728,
+                        "lng": 78.33418557010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rathore General Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJEU9-LlofdzkRazmkuYp3ris",
+            "plus_code": {
+                "compound_code": "V8HP+76 Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8HP+76"
+            },
+            "rating": 3.5,
+            "reference": "ChIJEU9-LlofdzkRazmkuYp3ris",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Thakur Baba Rd, jagdama colony, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8815795,
+                    "lng": 78.3169102
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88290982989272,
+                        "lng": 78.31825477989273
+                    },
+                    "southwest": {
+                        "lat": 25.88021017010728,
+                        "lng": 78.31555512010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "OM SAI RAM GENERAL STORE &STATIONARY",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 6864,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114014685638686690881\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhkt0Fcc63DCXSWIE0GtGUwIhd6kz99FwP0Bx3xz5IwV5-SA8PwkJmSV-LG2TrQ2QbKQhkf4UIiE1s2Nn_kGz3IXncHgsFboiedPx_W5FR4X20uSEiCc27y1WkKgWT_6sRi3d9YEpw4tXDAmRJobrC4sI16V4N1tIfgbzwr9EUYwKPd",
+                    "width": 1492
+                }
+            ],
+            "place_id": "ChIJQ18XsDgfdzkRPp-Rypq3nTk",
+            "plus_code": {
+                "compound_code": "V8J8+MQ Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8J8+MQ"
+            },
+            "rating": 3,
+            "reference": "ChIJQ18XsDgfdzkRPp-Rypq3nTk",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Chinor Rd, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9625073,
+                    "lng": 78.3059796
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.96655519999999,
+                        "lng": 78.30860775
+                    },
+                    "southwest": {
+                        "lat": 25.961158,
+                        "lng": 78.30510355
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Suraj",
+            "place_id": "ChIJayMKiULhdjkR0iGdRzeq7aY",
+            "rating": 0,
+            "reference": "ChIJayMKiULhdjkR0iGdRzeq7aY",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "X874+295, Samudan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9919444,
+                    "lng": 78.2823815
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.99329567989272,
+                        "lng": 78.28373237989271
+                    },
+                    "southwest": {
+                        "lat": 25.99059602010728,
+                        "lng": 78.28103272010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "S. S. D. General Stores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107108776927651725821\">Rishi Gupta</a>"
+                    ],
+                    "photo_reference": "AcYSjRgHQm7zabN91YsMwWM4i8xW_HwS68dEY8HkaOjyKFzUllxEtkD7qWBpEMdCznG5E8DLG_FjxZbz7FDoj4Ld9-nE1kmaiCNTKggeR22a0zyzCQI00rXoSBfjVdLNP1lss77dOC9fn1uFno2XZ9jqcRT4vIkntRqT3-yTvibRfuOIyrs",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJS0Lsjy3edjkRu2Qj0M4Fsho",
+            "rating": 2.7,
+            "reference": "ChIJS0Lsjy3edjkRu2Qj0M4Fsho",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "X7RJ+QXC, Chiruli - Tekanpur Rd, Pathak Colony, Tekanpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8917142,
+                    "lng": 78.3356288
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89297622989272,
+                        "lng": 78.33697132989272
+                    },
+                    "southwest": {
+                        "lat": 25.89027657010728,
+                        "lng": 78.33427167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Badami complex",
+            "place_id": "ChIJn5XmWUgfdzkRZScw6CLzf-Q",
+            "plus_code": {
+                "compound_code": "V8RP+M7 Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8RP+M7"
+            },
+            "rating": 3.4,
+            "reference": "ChIJn5XmWUgfdzkRZScw6CLzf-Q",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Bus Stand, Power House Road, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9023903,
+                    "lng": 78.3314966
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.90379617989273,
+                        "lng": 78.33282022989272
+                    },
+                    "southwest": {
+                        "lat": 25.90109652010728,
+                        "lng": 78.33012057010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Prakash Complex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 554,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115435508552462474999\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj9yKf747AmzmxWYwB7jntAFNvIVByi9dvDpMrHx0o5lGw3wgsX9HNCSDh4w0qCi2KdnrBSGTJlTX2IMT2SbyupbsMInaiR7PQYbzPCj23LRR6HX4VP6cns07xC5Oa5yeqkKdt2jGmzOwLYumWiwl-A9AGmJhVjRo9c2Mo4ukKw9m0N",
+                    "width": 554
+                }
+            ],
+            "place_id": "ChIJJ3dG3bofdzkRuls3eVFK3RA",
+            "plus_code": {
+                "compound_code": "W82J+XH Dabra, Madhya Pradesh",
+                "global_code": "7JQWW82J+XH"
+            },
+            "rating": 5,
+            "reference": "ChIJJ3dG3bofdzkRuls3eVFK3RA",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Pichore, tiraha, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8827604,
+                    "lng": 78.3423061
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88406722989272,
+                        "lng": 78.3436413298927
+                    },
+                    "southwest": {
+                        "lat": 25.88136757010728,
+                        "lng": 78.34094167010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Priyal Kirana And General Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ-azCfaYfdzkReKf6LKrZ2Qs",
+            "rating": 5,
+            "reference": "ChIJ-azCfaYfdzkReKf6LKrZ2Qs",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "V8MR+3V9, near Sardar Bachan Singh, dongrilla, Deedar Colony, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8843423,
+                    "lng": 78.34347
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88572482989272,
+                        "lng": 78.34483332989272
+                    },
+                    "southwest": {
+                        "lat": 25.88302517010728,
+                        "lng": 78.34213367010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shivam Kirana Dabra",
+            "place_id": "ChIJr_S0sF0fdzkRsnFZEGRA8zg",
+            "rating": 5,
+            "reference": "ChIJr_S0sF0fdzkRsnFZEGRA8zg",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "V8MV+P9Q, Buzurg"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8861355,
+                    "lng": 78.3309645
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88743582989272,
+                        "lng": 78.3323331298927
+                    },
+                    "southwest": {
+                        "lat": 25.88473617010728,
+                        "lng": 78.32963347010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Reware Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJIynMNgsfdzkRfKnBy2c9yo0",
+            "rating": 0,
+            "reference": "ChIJIynMNgsfdzkRfKnBy2c9yo0",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "V8PJ+F94, Subhash Ganj Road, Subhash Ganj, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8859986,
+                    "lng": 78.3287249
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88739602989272,
+                        "lng": 78.33005587989273
+                    },
+                    "southwest": {
+                        "lat": 25.88469637010727,
+                        "lng": 78.32735622010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Amritsar Fashion Zone",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJO0g0eoofdzkRiNVfmBpQT9w",
+            "rating": 5,
+            "reference": "ChIJO0g0eoofdzkRiNVfmBpQT9w",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "V8PH+9FX, Jangipura, Subhash Ganj, Tiwari Pura, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8826436,
+                    "lng": 78.32525559999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88392202989272,
+                        "lng": 78.32655992989271
+                    },
+                    "southwest": {
+                        "lat": 25.88122237010728,
+                        "lng": 78.32386027010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shiv provision dabra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJc4DXKlIfdzkRHQBxSMgF_A0",
+            "rating": 3.6,
+            "reference": "ChIJc4DXKlIfdzkRHQBxSMgF_A0",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "V8MG+342, Gayatri Mandir Road, Magrora, Dabra"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,82 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1666337,
+                    "lng": 78.01240349999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16798527989273,
+                        "lng": 78.01372882989273
+                    },
+                    "southwest": {
+                        "lat": 27.16528562010728,
+                        "lng": 78.01102917010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "NEEDSA1",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJVVVVFdF2dDkRTvOszZljfGk",
+            "rating": 5,
+            "reference": "ChIJVVVVFdF2dDkRTvOszZljfGk",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Krishna Mandir Park, Prithvinath, Fatak, Shahganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1373675,
+                    "lng": 78.01612680000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.13872832989273,
+                        "lng": 78.01747727989272
+                    },
+                    "southwest": {
+                        "lat": 27.13602867010728,
+                        "lng": 78.01477762010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Rainnbow Consultancy",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJdXU6kDJ3dDkRmDWSgOE1ius",
+            "plus_code": {
+                "compound_code": "42P8+WF Agra, Uttar Pradesh",
+                "global_code": "7JVW42P8+WF"
+            },
+            "rating": 0,
+            "reference": "ChIJdXU6kDJ3dDkRmDWSgOE1ius",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H-33, Kastoori Vihar Rd, Arun Market, Gopal Pura, Agra"
+        }
+    ],
+    "status": "OK"
+}

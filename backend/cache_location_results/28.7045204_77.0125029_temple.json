@@ -1,0 +1,862 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhBfZESmxLURQcOUKvBaav7KC7emeyws4N9ZFfVBUSVxR3pTT5rrkiQPDPHBLrf3_7FWUSrR58XQATF6L2l9X1BmAdFahU8jnTqi_7ptR1F6Yl6sjLIP2YttBXuBhaI8aBzhqMFz3E9mhZgcEqaYk4D63dwZLNQvOXq6vulcTYeUy9djVe2agFNsyRVg5X4ye4dLAh1bX6chrv2W0JcH3NrPQYNxG6Gf5Y_Vl4Xtt7YYR0LOGMtYk74xBp5YrRJa9feF4CKoZ_KsO5ARDl1jf5Lf_pmF8o1G6uOhlQaX4MGuKthApk79eoXUAZSPDMl70EfJAiZom467YL8OFw7L8po7LYlNaI6Me9Vlx1KsP6ItUyCimthfn-HqCqfRwxKhIXpWjZGkaGMt4AMxw05NHVs7OilPitKoHG1wQyBduAekb-P4knmPRI",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7123692,
+                    "lng": 77.0707183
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71372862989272,
+                        "lng": 77.07207637989272
+                    },
+                    "southwest": {
+                        "lat": 28.71102897010728,
+                        "lng": 77.06937672010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJkQkRgJoGDTkRpXYombdygnw",
+            "rating": 5,
+            "reference": "ChIJkQkRgJoGDTkRpXYombdygnw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "P36C+X8W, Pocket 12, Sector 20, Rohini, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6380464,
+                    "lng": 77.0935738
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63938897989272,
+                        "lng": 77.09493092989271
+                    },
+                    "southwest": {
+                        "lat": 28.63668932010728,
+                        "lng": 77.09223127010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 3280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103338558436142936582\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRik0d3j4r2PcIX_XdY9QqBpqWs6j4_oGUH_aa45b-cn866PA5zxQ0MB-Yy-bg246HWsRKgzB0-138N_QUbnFWQuTlKniIi8S86SBVRehSwLpu4MKsAI-17TG06c8vm2-sgB111mAXcf4iBpyxvnV7XHBOb7sDFFSHBlnFZvaCDXdETH",
+                    "width": 1840
+                }
+            ],
+            "place_id": "ChIJ-ygOppkEDTkR6bUy0-QL75I",
+            "rating": 3,
+            "reference": "ChIJ-ygOppkEDTkR6bUy0-QL75I",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "J3QV+6CF, Old Market, Block 16, Tilak Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6582699,
+                    "lng": 77.10644719999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.65960772989272,
+                        "lng": 77.10779717989271
+                    },
+                    "southwest": {
+                        "lat": 28.65690807010728,
+                        "lng": 77.10509752010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116787324158018844739\">Laxman Kulshrestha</a>"
+                    ],
+                    "photo_reference": "AcYSjRiDOTX0neWPJlgtheIhrF_Gufe3rnIDU6gtUn474BmlTsQ7Uopp5qgoioCCo93Sea4OVuiop3225AHWb9YOmSdi_qtEVyDxYWH_amwFaR-G4zRSdi7J8sybuMWCeTeT5q3MphSzj8DOL7HU6FFuIuPcX_TzUZyjlt3gLNNxXMZ7pbiZ",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJR73wY38DDTkRVKQwyOWTa-4",
+            "plus_code": {
+                "compound_code": "M454+8H Delhi",
+                "global_code": "7JWVM454+8H"
+            },
+            "rating": 4.6,
+            "reference": "ChIJR73wY38DDTkRVKQwyOWTa-4",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "K 567, C, 110018, Block RG, Raghubir Nagar, Tagore Garden Extension, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6172071,
+                    "lng": 77.06442059999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61856472989272,
+                        "lng": 77.06577037989274
+                    },
+                    "southwest": {
+                        "lat": 28.61586507010728,
+                        "lng": 77.06307072010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJfXE5Gn4FDTkRvG5hVW33CFg",
+            "plus_code": {
+                "compound_code": "J387+VQ New Delhi, Delhi",
+                "global_code": "7JWVJ387+VQ"
+            },
+            "rating": 0,
+            "reference": "ChIJfXE5Gn4FDTkRvG5hVW33CFg",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "65/2, Vijay Vihar, Vani Vihar, Block-O, Parjapat Colony, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7265891,
+                    "lng": 77.0327574
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72792642989272,
+                        "lng": 77.03410807989272
+                    },
+                    "southwest": {
+                        "lat": 28.72522677010728,
+                        "lng": 77.03140842010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJNwhO-jsHDTkREzIZjvOopJc",
+            "rating": 0,
+            "reference": "ChIJNwhO-jsHDTkREzIZjvOopJc",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "P2GM+J4R, Saheed Bhagat Singh Nagar, Karala, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6269979,
+                    "lng": 77.10331649999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62829482989272,
+                        "lng": 77.10466532989271
+                    },
+                    "southwest": {
+                        "lat": 28.62559517010728,
+                        "lng": 77.10196567010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 2006,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115753078988213558109\">Srinivas Rao</a>"
+                    ],
+                    "photo_reference": "AcYSjRgEFyFeXc_RpYdANmOiSvqvBlZwIXA8gjIfTRT3ILkvfP7ykcogpJzrNeY4t4fRFVfcDG9I9_oErviyXuPt3yoZu8UBYE6EUkHUp481bM2O1DqlA-uXqno8NgIHdU08zXkbEkiFGskCpt3GxnxpSmcHWEqxI8SLEoFmqzaFcNzl69qw",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJM-DHUJ4DDTkRVhskvh2SJnc",
+            "rating": 4.6,
+            "reference": "ChIJM-DHUJ4DDTkRVhskvh2SJnc",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "J4G3+Q8W, Block CL, Hari Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.71507,
+                    "lng": 77.07317979999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71641897989272,
+                        "lng": 77.07456842989272
+                    },
+                    "southwest": {
+                        "lat": 28.71371932010728,
+                        "lng": 77.07186877010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJsch5nqYHDTkRqLXzccfn_p8",
+            "rating": 5,
+            "reference": "ChIJsch5nqYHDTkRqLXzccfn_p8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "P38F+27F, Sector 20, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6200139,
+                    "lng": 77.0626024
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62136952989272,
+                        "lng": 77.06394987989272
+                    },
+                    "southwest": {
+                        "lat": 28.61866987010728,
+                        "lng": 77.06125022010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105696452596799082219\">rajesh choudhary</a>"
+                    ],
+                    "photo_reference": "AcYSjRiWh0XStX1-agCUS3-fLIGk92vULcEyT3M68WhNnVisR-zahTxFHJu2GMFGiBDNvm7BT3quWirifFpbPWGyUoiHn4wtLdixS8ZEe2JVukN-_jddTOGXBIofImx-jtuS0XQnvNozKgNmKu14Rt8s22JWRUYKGzLlOigYUB8N3-vySxtH",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJYwhZqtAEDTkRQP6hMNcAa8M",
+            "rating": 4,
+            "reference": "ChIJYwhZqtAEDTkRQP6hMNcAa8M",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "J3C7+224, Mangal Bazar, Gurudwara Kalgidhar Marg, Uttam Nagar East, Uttam Nagar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7021463,
+                    "lng": 77.11089439999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70348402989272,
+                        "lng": 77.11229417989273
+                    },
+                    "southwest": {
+                        "lat": 28.70078437010728,
+                        "lng": 77.1095945201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1594,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114767154018054678126\">rishi chaudhary</a>"
+                    ],
+                    "photo_reference": "AcYSjRjY_VIijzt8-pJI89S7n04Rkl2fzqvRujs95i-aDEUDPDuWyIaz-e-E2VT_kVGdUmbK2u-H2faP0VthcSvpQEKO5xnFGB9-tEoRqxJ8zmWuB1esSEUgZ09L199l6CPkawziF4yCNYvkJZxX2sezjKgsupvPzOL-goKuFdIZxP6C0maR",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJuZdqq_0DDTkRNi9GXFailh4",
+            "rating": 4.4,
+            "reference": "ChIJuZdqq_0DDTkRNi9GXFailh4",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "P426+R8Q, Sector 3, Pocket 10, Sector 3B, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6382746,
+                    "lng": 76.9516556
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63960967989272,
+                        "lng": 76.95299707989273
+                    },
+                    "southwest": {
+                        "lat": 28.63691002010727,
+                        "lng": 76.95029742010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4618,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115924001480698484614\">satish kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhJIi-YVMhRL83d2XMED8PFE5b8KLQNfMP8TJW3q_pN4FWkrcMIhbfX9Ctmus8W2kubjuNJ6XIbbqJIbDyoQOb7PFcQ0-wFty1DfqB-pqchX-EeHLzgDX_vqi7D9bceHbIoabsPwK0hYAsabgOGNpP6WeCStuEFWSX2nUv8-xZRGiUK",
+                    "width": 3464
+                }
+            ],
+            "place_id": "ChIJH--pmGUPDTkRSBNaRHIB08I",
+            "rating": 0,
+            "reference": "ChIJH--pmGUPDTkRSBNaRHIB08I",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JXQ2+7MC, Naveen Palace, Jharoda Kalan, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6219229,
+                    "lng": 77.0432269
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62325332989272,
+                        "lng": 77.04457617989272
+                    },
+                    "southwest": {
+                        "lat": 28.62055367010728,
+                        "lng": 77.04187652010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hindu Shiv Temple",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106800085027235434432\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg0UcPs3v4JZFsxaW29tyIxeOUhJ65cL4Y2Xa1RkFZi6S-kEBDwEOzn-xGpFxRsRrps5lFyNoMPDxlPWyVO070c0a6NA8sSnh13U1k_er9SMXm4Hy-JjyzsBbhjfAFcaqfsHeVeSUBmp3qOF813fTuyQaATxAufD0oPK_TIPXouUxJD",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJATPEFjsFDTkRePwJafiu2zM",
+            "rating": 4.8,
+            "reference": "ChIJATPEFjsFDTkRePwJafiu2zM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "J2CV+Q79, Nawada Extension, Nawada, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6638911,
+                    "lng": 77.1118144
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66523947989272,
+                        "lng": 77.11316402989272
+                    },
+                    "southwest": {
+                        "lat": 28.66253982010728,
+                        "lng": 77.11046437010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJFZLZcYMDDTkRQXnVoiR2JLw",
+            "rating": 4.4,
+            "reference": "ChIJFZLZcYMDDTkRQXnVoiR2JLw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "M476+GPF, Road No. 77, Pocket 1, Paschim Puri, Punjabi Bagh, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7395984,
+                    "lng": 77.0606063
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.74094807989272,
+                        "lng": 77.06199327989272
+                    },
+                    "southwest": {
+                        "lat": 28.73824842010727,
+                        "lng": 77.05929362010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103171681931873363069\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjwgu0pnx5mVWoZUc_oWfriM3artbn6N1Py99223JfP0dPFLHatJyrb4sgs_VUPtWjANSI6n7dMd3DEQ6LIiauu31qoyG5dRA5vBA8Z8O77CwiRfalcLU6eiabnwdZ0upMOp0owuYbN4GIYQzbwoo3EPySy41eLwt2jrg_aRCueSvVD",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJzWbL8_sGDTkRYVTDkU0J-18",
+            "rating": 4.4,
+            "reference": "ChIJzWbL8_sGDTkRYVTDkU0J-18",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "P3Q6+R6Q, Rajiv Nagar Extension, Sector 37, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7282441,
+                    "lng": 77.0580277
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72958722989273,
+                        "lng": 77.05937747989272
+                    },
+                    "southwest": {
+                        "lat": 28.72688757010728,
+                        "lng": 77.05667782010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "SHIV TEMPLE",
+            "place_id": "ChIJ8RBS98kHDTkRDdpXLEM0kB4",
+            "rating": 0,
+            "reference": "ChIJ8RBS98kHDTkRDdpXLEM0kB4",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "P3H5+76R, Jain Colony, Sector 38, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6327466,
+                    "lng": 77.0277365
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63409342989273,
+                        "lng": 77.02910002989272
+                    },
+                    "southwest": {
+                        "lat": 28.63139377010728,
+                        "lng": 77.02640037010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shiva's ancient temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 653,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115487197566885698040\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhI4KANLSWDb7OdqrisnTjBZiWGYx8GwQ-GRSL9NJkLbJr_1RXlK8nfft5SQYl70xsKuAAiEL6TnOrkVF2N0duASknWw2qkLKYEN6ptlObQfXe5QIpgrJ6091iAfVC00LGvvKLhYXJwLIxGeBQeChJikfyULoHi7TQApXo2A0V6rgRC",
+                    "width": 470
+                }
+            ],
+            "place_id": "ChIJE3RKlKcFDTkRR_WJE0fSTsQ",
+            "plus_code": {
+                "compound_code": "J2MH+33 New Delhi, Delhi",
+                "global_code": "7JWVJ2MH+33"
+            },
+            "rating": 0,
+            "reference": "ChIJE3RKlKcFDTkRR_WJE0fSTsQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "43, Mohan Garden, Block E, Laxmi Vihar, Nawada, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6323547,
+                    "lng": 77.0595388
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63370532989272,
+                        "lng": 77.06086682989272
+                    },
+                    "southwest": {
+                        "lat": 28.63100567010727,
+                        "lng": 77.05816717010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101844178344156276755\">Neetu Rani</a>"
+                    ],
+                    "photo_reference": "AcYSjRg9VgmxVhHRSkAdvNMV2jmUTJEgc4Z6Qv9VVIcDECkX0hMrpdXkHHgla000AudZQ96278wEAKepJR17T7sk_YXeAHm4vAUy3PyfV_jAYr8CDv2xsox5K97mawgSYJkIeQf6Q7IXkmlM_bCtw88Q1b0byDTfxetTtxC0pjJXSsLSKvEz",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJO5mUieAEDTkRtwLe8bP_5s4",
+            "rating": 4.4,
+            "reference": "ChIJO5mUieAEDTkRtwLe8bP_5s4",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "J3J5+WQX, Hastsal Vihar, Hastsal Village, Hastsal, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6467963,
+                    "lng": 77.0586094
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64818457989272,
+                        "lng": 77.06000947989273
+                    },
+                    "southwest": {
+                        "lat": 28.64548492010728,
+                        "lng": 77.05730982010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shiv Mandir (Temple)",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110726030596092499945\">Bikesh Shrestha</a>"
+                    ],
+                    "photo_reference": "AcYSjRh1V7_Mo-0ft6GgaiOfV--xv0pe30qMy7-3a_QMt0n-9etfDpafEhNa_C1j2y02L07z9002_xGaOcSjk8KJ2KfCZAxvFgrGCOOkBT6HS-ZlOgWjqjBVwbG2ywWWKxhxLf1Nd8_2znU7ci3w8dZMJTd5WIVdzfpuXWwI8d1GRJmvgD6O",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJSyDmt_0EDTkROs5YdzpzaIA",
+            "rating": 4.2,
+            "reference": "ChIJSyDmt_0EDTkROs5YdzpzaIA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30,
+            "vicinity": "J3W5+PC9, Nilothi Village, Nilothi, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6309487,
+                    "lng": 77.01158509999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63229702989272,
+                        "lng": 77.01284747989271
+                    },
+                    "southwest": {
+                        "lat": 28.62959737010727,
+                        "lng": 77.01014782010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "temple kali da",
+            "place_id": "ChIJcxNaFmAFDTkR_PrFDwOQPt8",
+            "rating": 0,
+            "reference": "ChIJcxNaFmAFDTkR_PrFDwOQPt8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J2J6+9JF, Bajrang Chowk , Jai Vihar, Baprola Rd, near Shri Ram Garden Vatika, Nangli Vihar Extension, Najafgarh, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6362542,
+                    "lng": 77.0968832
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63761002989272,
+                        "lng": 77.09822352989272
+                    },
+                    "southwest": {
+                        "lat": 28.63491037010727,
+                        "lng": 77.09552387010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Mandir",
+            "place_id": "ChIJwR18uScFDTkRGqvxtguapyw",
+            "plus_code": {
+                "compound_code": "J3PW+GQ New Delhi, Delhi",
+                "global_code": "7JWVJ3PW+GQ"
+            },
+            "rating": 0,
+            "reference": "ChIJwR18uScFDTkRGqvxtguapyw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Metro Station, 29/2, opp. Tilak Nagar, Ashok Nagar, Tilak Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6694374,
+                    "lng": 77.05231119999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.67071922989273,
+                        "lng": 77.05366042989272
+                    },
+                    "southwest": {
+                        "lat": 28.66801957010728,
+                        "lng": 77.05096077010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shri Laxmi Narayan Temple",
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116809238161125197081\">Anand Kumar Gupta</a>"
+                    ],
+                    "photo_reference": "AcYSjRjNpHPrxlPMEEojHXIVGM6Hj9aENZ-feRvv_cHCtYZ7iUa4obTqizeaP0O7xvEHH0zQJFb_gKvh9ml8gJDWMpwMwXzdJVNQtMDnArAB1croDf0rqZR8NGgm3_3kB52FC9p0uoHDQl0XWJh44VaUkTi016WfKG9mueyQvcOC6go7Z8H0",
+                    "width": 3468
+                }
+            ],
+            "place_id": "ChIJOdgYy7gFDTkRyk1lD-oaeTk",
+            "plus_code": {
+                "compound_code": "M392+QW Delhi",
+                "global_code": "7JWVM392+QW"
+            },
+            "rating": 5,
+            "reference": "ChIJOdgYy7gFDTkRyk1lD-oaeTk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "A/3, Kunwar Singh Nagar, Kamruddin Nagar, Delhi"
+        }
+    ],
+    "status": "OK"
+}

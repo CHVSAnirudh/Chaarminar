@@ -1,0 +1,834 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgn3pYIFj3zerJi8ja79tiFMXSGqM56QxncQWyBm0sSZTti947ZfzKajNexWoAPMSRBCXsR8X3xm3223yC7KzXufpubDiuOtOOIvGDDd2FXlMqi13GKZWvkDsaXPywwWAyF52hGW2IHZ6yuu-OUPiYzSnF16z-dheHlAIj10qK_NEKSuvpal52c2leUBt5RdAZzSskp3Vn5d6isEBJMxRzaP0ho5DYZofHNkr8CMbb0aIOlBS0VaXlKdw8JIqSTmURiyGYDX3rcQZ_HGdvgpwUvDGTLAmRFkRkZlEbECXimypRcKtKT05NjLt2WOxk__mCRcpfrOzH1N81RmLi6cuht35uCc66GhdO-PDMPnD9ZRnyrOYCWDTo0eoLIsInG10tJ1gxjsdCnszhfFLiwVL01rQZtb7ziVCIQB8A1XU8oYWvjz7pM",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8896411,
+                    "lng": 78.3347082
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89094737989272,
+                        "lng": 78.33608307989272
+                    },
+                    "southwest": {
+                        "lat": 25.88824772010728,
+                        "lng": 78.33338342010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Gandhi Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115758798860453773457\">Vivek Rana</a>"
+                    ],
+                    "photo_reference": "AcYSjRj2v3zLsjWIWBz5NeAYQ8f0uOkpCImB4Qkw82LddfTM59E546uTu4MxaA-SoeMNaKz-hJXoNCJP_UB8X2ES5dTnSBPk8VCmQrE3ON2kHEdYkr9JBz9scRZIf9pf4UU8opih87-_YpiuS2e4hVLNyoUjeU0AaxHMEzCs7tKAjxs1_qCR",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJW3V-bA4fdzkRD1lTqe1Mupc",
+            "rating": 3.8,
+            "reference": "ChIJW3V-bA4fdzkRD1lTqe1Mupc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 40,
+            "vicinity": "V8QM+VV4, Unnamed Road, Usha Colony, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8945625,
+                    "lng": 78.3372031
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89579782989272,
+                        "lng": 78.3385039798927
+                    },
+                    "southwest": {
+                        "lat": 25.89309817010728,
+                        "lng": 78.33580432010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Park",
+            "place_id": "ChIJcUmQo68fdzkR57Fk7RhTKsU",
+            "rating": 2,
+            "reference": "ChIJcUmQo68fdzkR57Fk7RhTKsU",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "V8VP+RVG, Teacher Colony, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9634017,
+                    "lng": 78.38677489999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.96466232989272,
+                        "lng": 78.38816512989271
+                    },
+                    "southwest": {
+                        "lat": 25.96196267010728,
+                        "lng": 78.38546547010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Ambedkar Park",
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104534814671666450603\">JAIKANT TIWARI</a>"
+                    ],
+                    "photo_reference": "AcYSjRjcNfTV1YI139Rm38j3SOC7_49P9rgfWO8PqNzOWXe5KDWAKSxGYc6Puj-qI8hKvTtM4qCV7GYFJTvv_4J-0v5tZj7RPCYUSRE4PCeUCyW-2kvtETGWd7zgnCWhR5h8hCjsVglJcSEtHn8KsSPsa3SAlLvZlmLuvWwTbY0RsC4WJCF4",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJs7omHx3idjkR2gwIb58BSjk",
+            "rating": 4.1,
+            "reference": "ChIJs7omHx3idjkR2gwIb58BSjk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "X97P+9P6, ward no 10, Pichhore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9716109,
+                    "lng": 78.25074649999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.97296527989272,
+                        "lng": 78.25220717989272
+                    },
+                    "southwest": {
+                        "lat": 25.97026562010727,
+                        "lng": 78.24950752010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0905\u092e\u0930\u0941\u0926 \u0915\u093e \u092c\u0917\u0940\u091a\u093e \u092d\u0930\u0925\u0930\u0940",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ49ACrrPfdjkRg_0ePAdQJns",
+            "plus_code": {
+                "compound_code": "X7C2+J7 Bharthari, Madhya Pradesh",
+                "global_code": "7JQWX7C2+J7"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ49ACrrPfdjkRg_0ePAdQJns",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Bharthari"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9286335,
+                    "lng": 78.31739859999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.92980772989272,
+                        "lng": 78.31878587989272
+                    },
+                    "southwest": {
+                        "lat": 25.92710807010728,
+                        "lng": 78.31608622010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "baba sahab park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109515923615689451273\">Ashwin Tirkey</a>"
+                    ],
+                    "photo_reference": "AcYSjRjtsqWlxZm74V3KyooUnvQXPX4aylKKt76cNfFTpo6Z2ByCx3QNHn5jIYSDeBoP2vgE4gRvfvijhE9j-ErJayIRs7Jas-UwC6WUQRJRwBDAuq9y62zmvhmE4WFNfgEuWX0gyasdk8G67_FAjV8FdoIx6ohW1UXCzDcXvcsYdlfhYbbA",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJT2MuQMIfdzkRG-MH9CQKKTY",
+            "rating": 3.8,
+            "reference": "ChIJT2MuQMIfdzkRG-MH9CQKKTY",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25,
+            "vicinity": "W8H8+FX2, Simariya Road, Chak Brijpur, Simariya"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9093583,
+                    "lng": 78.27476999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.91076152989272,
+                        "lng": 78.27606907989271
+                    },
+                    "southwest": {
+                        "lat": 25.90806187010728,
+                        "lng": 78.27336942010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0a17\u0a41\u0a30\u0a26\u0a41\u0a06\u0a30\u0a3e \u0a2e\u0a3e\u0a24\u0a3e \u0a38\u0a3e\u0a39\u0a3f\u0a2c \u0a15\u0a4c\u0a30 \u0a1c\u0a40",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103923990482261710328\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhiRL5rpSRsLdHU7xOvtAOHzuzMna9IgJmr4kdESZD2AoAeF3xirem9Z6Uv6bHpYHZFGzzxTHK01y4LEJrgYJEL8pFtwW4-Xl7YtVJ44npngJkf-OpIqYHnUi8JSdVn0hAbSSh6TBtGzG6daRgkyIilWtsoWxrNg6tANbAGtG8zz3Mt",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJO9QAwywhdzkRazD-QfYhgRM",
+            "rating": 5,
+            "reference": "ChIJO9QAwywhdzkRazD-QfYhgRM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "W75F+PWR, Simiriya Tal Rd, Patharra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.977182,
+                    "lng": 78.3548201
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.97841877989272,
+                        "lng": 78.35611722989272
+                    },
+                    "southwest": {
+                        "lat": 25.97571912010728,
+                        "lng": 78.35341757010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Been Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117768265970851027919\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhtX7lHzMFiz3UK_KPBmAv0UMgX5vVSDRaSmzXKDKpL010PvkfBHq0lVFB7FG8t9GSyfP0yslndm-jHN6lXpBR5G6KAPDNKvMRx9oKNfR3wUCFg0VygH-V0DwsKSWhMIcau_tyNQE8c7VdL6TONAQ2xXlznOxgw49tkCpFrpNdaAGG4",
+                    "width": 1836
+                }
+            ],
+            "place_id": "ChIJW_5Q5LvhdjkRyNdt1UfwcdM",
+            "rating": 4.3,
+            "reference": "ChIJW_5Q5LvhdjkRyNdt1UfwcdM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "X9G3+VWG, Biramdhana"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.009377,
+                    "lng": 78.2680292
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.01071072989273,
+                        "lng": 78.2693828798927
+                    },
+                    "southwest": {
+                        "lat": 26.00801107010728,
+                        "lng": 78.26668322010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Amodhini Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3463,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107364441205974053899\">What The FUCK</a>"
+                    ],
+                    "photo_reference": "AcYSjRjHek3kKviord6Zxh7xjz-w8176u6nu1zEYFMarSI2TwMhx0uY3cqu8MiziFS5wThJmDBHWtuy7vsP6FSPh8TRXwKsWYWkuJRxU2F2p956z75juabdXe2URKNTsgUdlJAJUDx04kjPFkLl9hZ-zRriSF7yb0tfCvmmr9RdjJLPsgfeZ",
+                    "width": 4618
+                }
+            ],
+            "place_id": "ChIJ6WQ9MUDedjkRF1OI-9cZdIo",
+            "rating": 4,
+            "reference": "ChIJ6WQ9MUDedjkRF1OI-9cZdIo",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 92,
+            "vicinity": "2759+Q62, Beragarh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9275217,
+                    "lng": 78.3168766
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.92869957989272,
+                        "lng": 78.31813007989274
+                    },
+                    "southwest": {
+                        "lat": 25.92599992010728,
+                        "lng": 78.31543042010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Children's Park",
+            "place_id": "ChIJiyhvIHcfdzkRMYIgzgdZt5w",
+            "rating": 0,
+            "reference": "ChIJiyhvIHcfdzkRMYIgzgdZt5w",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "W8H8+4R, Chak Brijpur, Simiriya Tal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.998978,
+                    "lng": 78.301589
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.00039952989272,
+                        "lng": 78.30291887989272
+                    },
+                    "southwest": {
+                        "lat": 25.99769987010728,
+                        "lng": 78.30021922010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Kushwah garden",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3468,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117956691603054792821\">sanjay kushwah</a>"
+                    ],
+                    "photo_reference": "AcYSjRgsVagc0WM3nMte_vTpp188P8ctO9iRup156cgy-3axznUS_XrsEI-u7c_KGrJP9UNkm3zctZ0Zre9llfX23tlZVLQCZZFWs93nfJqhnPA_iDGj9ISLzKAL63SAzh45nYqjuzjILw8X6WwHztsF8lj5F2mpOXoIfO-V_cjfUFFcpbD_",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJT-PE_YTgdjkRAvqtVN-B2Xk",
+            "rating": 5,
+            "reference": "ChIJT-PE_YTgdjkRAvqtVN-B2Xk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "X8X2+HJW, Chiruli - Tekanpur Rd, Chiruli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8493275,
+                    "lng": 78.35864389999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.85044407989272,
+                        "lng": 78.35994167989273
+                    },
+                    "southwest": {
+                        "lat": 25.84774442010728,
+                        "lng": 78.35724202010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Green nature Haripur",
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110199310221888853514\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhrXPkw_up5vV9fZEjTmih5itB6w6nZRwegzC5z_vCKWbXTx9NoM5nGn7PvChtuPbkUIi5DCp4mfUc6960YAgUKKtV336VItJFUxDyhDUv6cFWlr9xteklmI_p0XsjgvMyI6g3BfoHpxnL32zP1q_7aHl0MlhIjmVkAweFi6hrkX0Az",
+                    "width": 2322
+                }
+            ],
+            "place_id": "ChIJd8ajiBYZdzkRt9UoqT_P9_g",
+            "rating": 4,
+            "reference": "ChIJd8ajiBYZdzkRt9UoqT_P9_g",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "R9X5+PFJ, Dabra Bypass Rd, Geydol Khurd"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.985378,
+                    "lng": 78.2494066
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.98692212989272,
+                        "lng": 78.25486270000002
+                    },
+                    "southwest": {
+                        "lat": 25.98422247010728,
+                        "lng": 78.2475879
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Maitreya Van",
+            "photos": [
+                {
+                    "height": 4224,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118167986879614300386\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjRFoTqrImqqup72OjWTzRtPQqOGVWbpJwVStEl5vHHXprbHd-HWGtZZrqvrG04c9lr-vSv8wRMp3YuXApAE5rUVWefGNTBtP1fZLwBZ6bW-9VrWRDYrNU6YM0oUf4dG4HtS6UC2VQRP1hWgi7hGLlvvYhbtCkc80tsSk7WYFyNmlNa",
+                    "width": 3136
+                }
+            ],
+            "place_id": "ChIJYct3kwHfdjkRgQ4Zi8KwstY",
+            "rating": 4.7,
+            "reference": "ChIJYct3kwHfdjkRgQ4Zi8KwstY",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "X6PX+5Q3, Fatehpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8821515,
+                    "lng": 78.3059734
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88341742989272,
+                        "lng": 78.30719162989273
+                    },
+                    "southwest": {
+                        "lat": 25.88071777010728,
+                        "lng": 78.30449197010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Mishra Farm House",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101853839000065233327\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjI4NYt-AA1QG51j_qUVXYysS7aQI7-75W8HfP41tI7TXmAn_ZKo9P4xcDiYFYkZUiiXCq2W1YwUVanIwx6vLUfLJdCrzNY0RQ7SvFO1UhVO4MSHsehIkDVFiN371Y0_uEey2DB1uJ-ZKbQZI47cO9MABf_VCcwanXGvrdIxASIVuVN",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJjbH3j9IfdzkRwSdUZm52a2w",
+            "rating": 3.7,
+            "reference": "ChIJjbH3j9IfdzkRwSdUZm52a2w",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "V8J4+V99, Chinor Rd, Ramgarh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8812631,
+                    "lng": 78.3132291
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88251627989272,
+                        "lng": 78.31474032989271
+                    },
+                    "southwest": {
+                        "lat": 25.87981662010728,
+                        "lng": 78.31204067010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+            "name": "\u0915\u094b\u0939\u093f\u0928\u0942\u0930 \u0917\u093e\u0930\u094d\u0921\u0928",
+            "place_id": "ChIJRcPwkYYfdzkR58KVtgNyS7g",
+            "rating": 0,
+            "reference": "ChIJRcPwkYYfdzkR58KVtgNyS7g",
+            "scope": "GOOGLE",
+            "types": [
+                "campground",
+                "park",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "V8J7+G75, \u091a\u0940\u0928\u094b\u0930 \u0930\u094b\u0921, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9435271,
+                    "lng": 78.287904
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.94492147989272,
+                        "lng": 78.28926747989271
+                    },
+                    "southwest": {
+                        "lat": 25.94222182010727,
+                        "lng": 78.28656782010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Manoj kadam",
+            "place_id": "ChIJ-QmXn-7fdjkRwUdweVU5qNY",
+            "rating": 3.5,
+            "reference": "ChIJ-QmXn-7fdjkRwUdweVU5qNY",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "W7VQ+C56, Patha Panihar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8807395,
+                    "lng": 78.30885940000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88201632989272,
+                        "lng": 78.31017137989274
+                    },
+                    "southwest": {
+                        "lat": 25.87931667010728,
+                        "lng": 78.30747172010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Mr Anshul modi house",
+            "place_id": "ChIJ3-eS4YwfdzkRS5-wWJSJ9UM",
+            "rating": 0,
+            "reference": "ChIJ3-eS4YwfdzkRS5-wWJSJ9UM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "V8J5+7GX, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8833176,
+                    "lng": 78.3364617
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88477777989272,
+                        "lng": 78.33780902989272
+                    },
+                    "southwest": {
+                        "lat": 25.88207812010728,
+                        "lng": 78.33510937010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sahnayi marriage garden",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111483039228901811568\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjNh8AHjjwkYrQG7Ovjhsl26zHqclYd6RlUbdKtIf994KqPiNzKwPEdwEy6_Xy-P_QGQOQKTdEwP9GtgYIHuoJ0Z-MUaPfSQRSY7KcoAYTkeumYpiJqcA3IqhAm4GVyopPeQTmPagAIe8b3eZGh6HaBnlcDbBWwC8uWTvbYEfEVxLul",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJtRZNXvAfdzkRQO_-JCWvgyo",
+            "rating": 4.1,
+            "reference": "ChIJtRZNXvAfdzkRQO_-JCWvgyo",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27,
+            "vicinity": "V8MP+8HG, Gali Number 4, Darshan colony, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8796764,
+                    "lng": 78.3362173
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88101427989272,
+                        "lng": 78.33760292989271
+                    },
+                    "southwest": {
+                        "lat": 25.87831462010728,
+                        "lng": 78.33490327010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "prakhar suryavanshi house",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJAaOTUc0fdzkRWWji-OREYUY",
+            "plus_code": {
+                "compound_code": "V8HP+VF Buzurg, Madhya Pradesh",
+                "global_code": "7JQWV8HP+VF"
+            },
+            "rating": 0,
+            "reference": "ChIJAaOTUc0fdzkRWWji-OREYUY",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Buzurg"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.890028,
+                    "lng": 78.347763
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89133627989272,
+                        "lng": 78.34923402989273
+                    },
+                    "southwest": {
+                        "lat": 25.88863662010727,
+                        "lng": 78.34653437010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Monu Viswakarema",
+            "place_id": "ChIJ82_NFP0fdzkRAHO4D2Gwef8",
+            "rating": 0,
+            "reference": "ChIJ82_NFP0fdzkRAHO4D2Gwef8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "V8RX+246, Unnamed Road, Buzurg"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8946833,
+                    "lng": 78.335363
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89600717989272,
+                        "lng": 78.3366227798927
+                    },
+                    "southwest": {
+                        "lat": 25.89330752010728,
+                        "lng": 78.33392312010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Rangmahal garden",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 581,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103787855505590254936\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj3AqSXlVsmaSCGH0-GSWsHS5kzGgU5VX3b5SiDRbjid1vKaHteOtBdlvM_50B1g6004bLu0pnUDxkpGn3qy0r1nziurw04OfWwJsAT0fWe3-5ekQCA5AyMrvUaV0eyGEgRW_0kUVCXgOMvwdUwLfyRyIFE_6Hn8-DqSYQAVWBZfiE8",
+                    "width": 1032
+                }
+            ],
+            "place_id": "ChIJxa8_4fQfdzkRm46ZeMw0qOg",
+            "rating": 4.1,
+            "reference": "ChIJxa8_4fQfdzkRm46ZeMw0qOg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "V8VP+V4H, Dabra"
+        }
+    ],
+    "status": "OK"
+}

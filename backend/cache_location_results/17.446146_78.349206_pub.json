@@ -1,0 +1,1034 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRju_8brFCqMUKsJD9efmfZRxeJGj1ua9-GZ2U-Us72EBIgkgJ7SX1V5gu5YRaMy6cuEhavcQDiaOibsGViFnm34p35liKpV7_XvyNqDBGr5Ov9zEsHt0HJi2qg7KroCrkVKeucPpRzOd6dK2-S_ZABJAZoBQ_qEjIVoZmjIskH4zYybI0Z3WjsNi8jCjWm8NGWBzD9PtJsGfQ3qoOx95adLRO9C-LvCaMpmm2ZoL0HyWm6JGp6DYfQPesEsp24cr0qdqv6e9ZoobBn0_poEaQt5a_w4RYBRcyXrY3ZPwLiodwoC1AVNQAhXzjqpRs5UkqEAEw2tBiE_we20vQXsSB7hNdM6qpa9C_p9EFJietJrEL1SIzc-jDZnfy7S7eomWw15dFpw8PzKKiFGX70JDoQRl5MgQk3wwMI7iPmvnD2VjavlKTg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4322922,
+                    "lng": 78.3752052
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43362172989272,
+                        "lng": 78.37643392989271
+                    },
+                    "southwest": {
+                        "lat": 17.43092207010728,
+                        "lng": 78.37373427010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Cock & Bull Hyderabad",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117095217623695620089\">Sathish Umapathy</a>"
+                    ],
+                    "photo_reference": "AcYSjRjo6VuRq40D4zgCXvehvUjLpQlrWocfnd56T03KjWEFqaq5jZpC9fFJ5FIsB1YB7MdF1vvc0mxdXEW18gcSWyO3ePsK9gDkzkRUQrNoUlHESswrptq06OyyYSUIDopZtENm38RxZJuJwNo-3Rk417Hg5g0N6CIyMfri9E9r9kN60Tas",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJY0xs4TiTyzsRs5BUy67L2ok",
+            "plus_code": {
+                "compound_code": "C9JG+W3 Madhapur, Telangana",
+                "global_code": "7J9WC9JG+W3"
+            },
+            "rating": 4.4,
+            "reference": "ChIJY0xs4TiTyzsRs5BUy67L2ok",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 814,
+            "vicinity": "The Skyview 10 Towers, Upper Ground Floor, Raidurg, Madhapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4345084,
+                    "lng": 78.3868103
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43580557989272,
+                        "lng": 78.38835732989271
+                    },
+                    "southwest": {
+                        "lat": 17.43310592010728,
+                        "lng": 78.38565767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Cyberabad Pub Exchange",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113654633946421015346\">Shubham Pandey</a>"
+                    ],
+                    "photo_reference": "AcYSjRgZB0xivFLLH7IMN_U-qUzOdfU-wQh8H6Rqzj3mDKiLiATolVy40QmcCfNv3eSVnpI6gWN2h1EC-zwD-2Doyo9bZIWl_7ZbfLboOPWbAZSxvMp-nBhhsPm4VzH_GULlY95euJRrnkKC82RB-t3qOx7OYL5hdqxxNZ9_7A9NJMWW3RFP",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJLS_QM1iRyzsR9JC5vt9yfPI",
+            "plus_code": {
+                "compound_code": "C9MP+RP Hyderabad, Telangana",
+                "global_code": "7J9WC9MP+RP"
+            },
+            "rating": 4.1,
+            "reference": "ChIJLS_QM1iRyzsR9JC5vt9yfPI",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 439,
+            "vicinity": "L5, Inorbit Mall Rd, Mind Space, HITEC City, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4298821,
+                    "lng": 78.41129
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43132187989272,
+                        "lng": 78.41264357989273
+                    },
+                    "southwest": {
+                        "lat": 17.42862222010728,
+                        "lng": 78.40994392010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "By The Bottle",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 640,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108496611522617810490\">kalyan raj</a>"
+                    ],
+                    "photo_reference": "AcYSjRhUQwlLloUjZKxwlE4ATUAVSGQhuEucdiRHeCbmKZOVhq6tWMPWqLXx7KnVC6OZBmM1_pT90ZdDEUVdJ-CrbCIoEufrsK_h9b9vRIs_xd-mZjVopyjRBCYboVOXpbHRkgIJ0OxDMl5ETeY3klfY2ibLpAjCVp8mw4mS5m3kt4B8yTWu",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJsX-ImDaRyzsR1Ez-HQrGRrk",
+            "plus_code": {
+                "compound_code": "CCH6+XG Hyderabad, Telangana",
+                "global_code": "7J9WCCH6+XG"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJsX-ImDaRyzsR1Ez-HQrGRrk",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4573,
+            "vicinity": "1217/A, Rd Number 36, Jubilee Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4285058,
+                    "lng": 78.4180578
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42997162989272,
+                        "lng": 78.41923082989274
+                    },
+                    "southwest": {
+                        "lat": 17.42727197010728,
+                        "lng": 78.41653117010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Spoil",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107931944736775391525\">Baba Shaheer</a>"
+                    ],
+                    "photo_reference": "AcYSjRgPfDiid9CDBD7Xh4NqPAZtEgaNglkO_Tby0wv2h00RmsC0knIsM1vr3OA3Jn9JYIXYCPnxkqPqcw1bIbtx7veuHHpttLZstPjqykWpYAu7M7tJLCUzyue5uzk77FK1ec7f2xnUoqW3GpL7LsHI_nY8tf79W-qbF8PWZ_Xlsv4BP34J",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJG9SRDDKRyzsRRv0Pw_iItAU",
+            "plus_code": {
+                "compound_code": "CCH9+C6 Hyderabad, Telangana",
+                "global_code": "7J9WCCH9+C6"
+            },
+            "price_level": 3,
+            "rating": 3.8,
+            "reference": "ChIJG9SRDDKRyzsRRv0Pw_iItAU",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1471,
+            "vicinity": "4th Floor Anshu Colors Building 8-3-293/82, A/70, Road No. 1, opposite Chiranjeevi eye and Blood bank, Jubilee Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4358303,
+                    "lng": 78.4007616
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43728672989272,
+                        "lng": 78.40189287989273
+                    },
+                    "southwest": {
+                        "lat": 17.43458707010728,
+                        "lng": 78.39919322010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "36 Downtown Brew Pub",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100150399454523351928\">Haris K R</a>"
+                    ],
+                    "photo_reference": "AcYSjRg3huBRNkiCN6iwf_gC0WR4lnd8YJFDe5O-4demBtCMaL-Z03HvkGUjzReUbmmNdVPCIW0jz_RIlbnJLm5FnpFE7bKvZ91tchx7k2nhqKniSL6TFbGWjPF1JMmv2fxLmzoz458OJxYNi-ZE4RlEJeGd87QrnKo8hf-9GLXizE6yUb7L",
+                    "width": 3501
+                }
+            ],
+            "place_id": "ChIJQ9qj6EWRyzsRUyhWlJmVS7w",
+            "plus_code": {
+                "compound_code": "CCP2+88 Hyderabad, Telangana",
+                "global_code": "7J9WCCP2+88"
+            },
+            "price_level": 3,
+            "rating": 4.2,
+            "reference": "ChIJQ9qj6EWRyzsRUyhWlJmVS7w",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3720,
+            "vicinity": "753, Rd Number 36, CBI Colony, Jubilee Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4331197,
+                    "lng": 78.3744016
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43443997989272,
+                        "lng": 78.37586857989272
+                    },
+                    "southwest": {
+                        "lat": 17.43174032010728,
+                        "lng": 78.37316892010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Pour House7, PH7",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2930,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112157518748306201483\">snehasish</a>"
+                    ],
+                    "photo_reference": "AcYSjRgnDJXuM99pI91lpaU5mtSI7nOu4IdLncB9R5B-RTXZnuNeei5GGQcw2m_c3snPM--IUXcJxywMMjRmkSbG0kwKhguoCGFQPc2FaUMPCjnSEXKkdtrqh2esQmhpoNs2st9lxhJKJgjklMONqbVUjlIyW48PD8IjtQgckWc-7KyL7QDp",
+                    "width": 3907
+                }
+            ],
+            "place_id": "ChIJu1E2y_qTyzsR0e2loZ_N0is",
+            "plus_code": {
+                "compound_code": "C9MF+6Q Hyderabad, Telangana",
+                "global_code": "7J9WC9MF+6Q"
+            },
+            "rating": 3.8,
+            "reference": "ChIJu1E2y_qTyzsR0e2loZ_N0is",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2354,
+            "vicinity": "CB Square, Plot 113 - 115, Hitech City Main Rd, Above Jayabheri Maruti Suzuki showroom, Lumbini Avenue, Gachibowli, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4577638,
+                    "lng": 78.3641856
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45868047989272,
+                        "lng": 78.36541752989272
+                    },
+                    "southwest": {
+                        "lat": 17.45598082010728,
+                        "lng": 78.36271787010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Irish pub",
+            "place_id": "ChIJW1vwWMiTyzsRkCPf3oZ0zFE",
+            "plus_code": {
+                "compound_code": "F957+4M Kondapur, Telangana",
+                "global_code": "7J9WF957+4M"
+            },
+            "rating": 3,
+            "reference": "ChIJW1vwWMiTyzsRkCPf3oZ0zFE",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "6F - 111 - 115, Gachibowli - Miyapur Rd, Whitefields, Kondapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4312856,
+                    "lng": 78.4069669
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43270867989272,
+                        "lng": 78.4083829798927
+                    },
+                    "southwest": {
+                        "lat": 17.43000902010728,
+                        "lng": 78.40568332010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Amnesia Lounge Bar",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2958,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111862648098007743633\">Akshay Reddy</a>"
+                    ],
+                    "photo_reference": "AcYSjRi9XdxT-oWWzSS1d0Z0zkmxvsvZZFUH9jrzEXauul1SMYkEPg9Ntisdul5a8Hhm_vg4AOT30WklVfO-6RxgRQ-W3d-m135Y2dfNT0dP-joxHOiTnM-nafytUO_DNy2w9dMj-YxF1itCBVKYVQXFoXRsp3dAKqBmEGskXg2I3dzHHaI_",
+                    "width": 3944
+                }
+            ],
+            "place_id": "ChIJUz512EmRyzsR1YQrPNfZcd4",
+            "plus_code": {
+                "compound_code": "CCJ4+GQ Hyderabad, Telangana",
+                "global_code": "7J9WCCJ4+GQ"
+            },
+            "rating": 4.1,
+            "reference": "ChIJUz512EmRyzsR1YQrPNfZcd4",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5611,
+            "vicinity": "Jaya Chambers, 1102, Rd Number 36, CBI Colony, Jubilee Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4297141,
+                    "lng": 78.4109481
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43119487989272,
+                        "lng": 78.41230262989272
+                    },
+                    "southwest": {
+                        "lat": 17.42849522010728,
+                        "lng": 78.40960297010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Club Rogue",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104077612449538723731\">Sandeep Kowdley</a>"
+                    ],
+                    "photo_reference": "AcYSjRh6oVvzl9QFTe5ikJiEdVNGYRh2ACtZayVPMDVVGrLwqw6WauOd5NfR3Klq2VMxwAUvgs1Ouvu8mlPyzGu9XXDRqv9ufmHOMDhIVS3rdSW7cWoAglpzovyiJ-f52x20KPSoZ8fiTvyIuLlsAtjRuFc7lDfJ2fxXEQt9rRNFpmvZTqm2",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJTSqHMI-RyzsRRXHwrRhnpCk",
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJTSqHMI-RyzsRRXHwrRhnpCk",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3701,
+            "vicinity": "CCH6+V9P, Rd Number 36, Opposite Jaguar Showroom, Jubilee Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.499435,
+                    "lng": 78.3858669
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50079167989272,
+                        "lng": 78.38716242989271
+                    },
+                    "southwest": {
+                        "lat": 17.49809202010728,
+                        "lng": 78.38446277010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Killer Pub",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1125,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103082550037265457386\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRifHyX9uJJ8EHtWBXhlU1I5tmVtsnTr_0D6lPN4eTsjfkIk3i6KFdH5UwLIZI49jA961nTIRN45U6WBMZ7oFW0GURTsHcWqq_xO3_waK7JG4uVYIP0vl2Ml8yxyzfB-IeAhywlbRLh6ouSFEjdzhmdMSMAvFwhB7o2_VsSyPQBDkPes",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJQ0XuGKyRyzsR8L__In2QeqE",
+            "plus_code": {
+                "compound_code": "F9XP+Q8 Hyderabad, Telangana",
+                "global_code": "7J9WF9XP+Q8"
+            },
+            "rating": 4.5,
+            "reference": "ChIJQ0XuGKyRyzsR8L__In2QeqE",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 261,
+            "vicinity": "MCH BLOCK NO.2 , Bhavyas Akhila Exotica Commercial Complex 1-2-22/ Sbrae/ 8th Floor, beside Bramaramba Theatre, Kukatpally, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4417212,
+                    "lng": 78.376809
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44307097989272,
+                        "lng": 78.37817857989272
+                    },
+                    "southwest": {
+                        "lat": 17.44037132010727,
+                        "lng": 78.37547892010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Bakkyard Gastro pub",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117860794119452896242\">Bezire Business View</a>"
+                    ],
+                    "photo_reference": "AcYSjRjTD4LpdsRcyg1fuWyqiuAvyQFvnSHKNpuijlE8N4nzGBmAODuPDLbLFg13ISfyn3CLYGuK_YFKDmO9M7AbnNU7h5RKSJiX84rQpxJzNIRyOe4J8atcP4OxvZiIymHdfnw3oWN1JldfDDnD9OO7RwIhIbs-Fp4erj_wmxJ82PGKZJYs",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJg0ET3uaTyzsRCcEcImHiVLU",
+            "plus_code": {
+                "compound_code": "C9RG+MM Hyderabad, Telangana",
+                "global_code": "7J9WC9RG+MM"
+            },
+            "rating": 4,
+            "reference": "ChIJg0ET3uaTyzsRCcEcImHiVLU",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "21, Hitech City Main Rd, HUDA Techno Enclave, HITEC City, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4522994,
+                    "lng": 78.39079029999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45355102989272,
+                        "lng": 78.39212857989273
+                    },
+                    "southwest": {
+                        "lat": 17.45085137010728,
+                        "lng": 78.38942892010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "STR8UP NIGHT CLUB",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102335297437697529186\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg_kXofeep2FDnd-4QK9RtuaT8RhJN5pLxJqsG_mTP-9DfzwSVD1_wCirix8mjpUlBzxLLG8PY1mU4cdf8YSIvsKVJ1irzXq1vILFarth0zK5vDBz7SlLZZFsp3hznMUMVsiv0nhmCU5hMgrrcRtb_kcv3htPa9mZC_LhiTcrgU_k8p",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJT7ZisguRyzsRWd3wbCfvSqI",
+            "plus_code": {
+                "compound_code": "F92R+W8 Madhapur, Telangana",
+                "global_code": "7J9WF92R+W8"
+            },
+            "rating": 3.8,
+            "reference": "ChIJT7ZisguRyzsRWd3wbCfvSqI",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1771,
+            "vicinity": "100 Feet Rd, Ayyappa Society, Chanda Naik Nagar, Madhapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4523348,
+                    "lng": 78.3632756
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45370527989272,
+                        "lng": 78.36460747989271
+                    },
+                    "southwest": {
+                        "lat": 17.45100562010728,
+                        "lng": 78.36190782010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "10 Downing Street - Gachibowli",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106102509896710291464\">Cleo Fernandes</a>"
+                    ],
+                    "photo_reference": "AcYSjRj0rWWXnrKxbqMXt9E_bSZdh76_StD8UTliX6A6169T2mz6oMGMjT9DuxB-xvsVpx_qSZWQaRm0Ykumvh7RWCbSeKhHOYTe80wgs2_R7f0jcd2kkOWkaHUYpaDO9M313oYm6nKh8rJIKiRfmuzj6fZySuuz0X-v8bCZrpRnZsIrfxFk",
+                    "width": 3680
+                }
+            ],
+            "place_id": "ChIJ5-joE8eTyzsRaehg1eTusM4",
+            "plus_code": {
+                "compound_code": "F927+W8 Hyderabad, Telangana",
+                "global_code": "7J9WF927+W8"
+            },
+            "price_level": 3,
+            "rating": 4.2,
+            "reference": "ChIJ5-joE8eTyzsRaehg1eTusM4",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5642,
+            "vicinity": "SLN Terminus, 133, Botanical Garden Rd, Gachibowli, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4414418,
+                    "lng": 78.35855339999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44281397989272,
+                        "lng": 78.35991417989271
+                    },
+                    "southwest": {
+                        "lat": 17.44011432010728,
+                        "lng": 78.35721452010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "BAMBOO STREET PUB",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105889893893692623342\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiO80t0n0b3QASFCXnYtAC6Dr17v2pROWjP1x2IlswEttNYZo_wRJ8d8vzfR7iDQDVo4AZ05NTf3kArQIrZwd1RqGGZd_6gZjeGcFGuZbl0FGsK3MZHbfzvfXxU_3-F2vYOB8ac9c-ZrXF_VqVP69ou__tijWs2oZ8oA2zHWJwNDKWO",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ73e4qZWTyzsRyFbRpKAariI",
+            "plus_code": {
+                "compound_code": "C9R5+HC Gachibowli, Hyderabad, Telangana",
+                "global_code": "7J9WC9R5+HC"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ73e4qZWTyzsRyFbRpKAariI",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 113,
+            "vicinity": "4th Floor, opp Himagiri Hospital, Vinayak Nagar, Gachibowli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4378422,
+                    "lng": 78.3982387
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43923877989272,
+                        "lng": 78.39953412989271
+                    },
+                    "southwest": {
+                        "lat": 17.43653912010728,
+                        "lng": 78.39683447010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Carpe Diem",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113100388351488119645\">Mohd Younus</a>"
+                    ],
+                    "photo_reference": "AcYSjRjy1-wGhKvcqOjJd0LRTVwLws9c8EeFl7REjQ1CNTac19GtgXUYeA6LacgQs0wwWku_tyryJlvFLuWGbp6_ofaPRY9cpckQFgD05OipKiRHb5gekCjD2LxPUTR6yKLtX5T53BMOJ7DWPL8i1UNpZSqDSVbLiBf-J0ZUB0pXRD5Lt6gC",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ2ZYxoSmRyzsRjdm-Ym4I-QA",
+            "plus_code": {
+                "compound_code": "C9QX+47 Hyderabad, Telangana",
+                "global_code": "7J9WC9QX+47"
+            },
+            "price_level": 3,
+            "rating": 4.1,
+            "reference": "ChIJ2ZYxoSmRyzsRjdm-Ym4I-QA",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "bar",
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2313,
+            "vicinity": "724/A, Rd Number 37, CBI Colony, Jubilee Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4622295,
+                    "lng": 78.37705509999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.46361897989272,
+                        "lng": 78.37829342989272
+                    },
+                    "southwest": {
+                        "lat": 17.46091932010728,
+                        "lng": 78.37559377010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Snort - Pub & Night Club in Madhapur Hyderabad",
+            "photos": [
+                {
+                    "height": 2176,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112696493195816407323\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgoeajU_ZaDCOgZ2lqd1ma6kXRCTIbD-ow7AJgiunpwFeOjXZgelILWhcWQdIZDq4ObyY5v0AEcHWPjj4YwpDqgpHZnKCO9_CTJB1PIsVnSZ0PCuyeNico9GElcg67OsDDWeBqKmnJK8eDTShn5ok-esgfoH63tCbXH8v8Svwb2G2Lm",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJhawCzvqTyzsRkyN0jHEUggI",
+            "plus_code": {
+                "compound_code": "F96G+VR Khanammet, Telangana",
+                "global_code": "7J9WF96G+VR"
+            },
+            "price_level": 3,
+            "rating": 4,
+            "reference": "ChIJhawCzvqTyzsRkyN0jHEUggI",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2875,
+            "vicinity": "Survey no 41/6, Opposite Meenakshi Sky lounge, Hitex Road, Khanammet"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.429577,
+                    "lng": 78.4027211
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43100827989272,
+                        "lng": 78.40413452989272
+                    },
+                    "southwest": {
+                        "lat": 17.42830862010728,
+                        "lng": 78.40143487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Prost",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101995067297121299789\">Sai Chintala</a>"
+                    ],
+                    "photo_reference": "AcYSjRi7_mD94pVe6-Y2pBr5PlNSOoFnB4lT9Oddkhw-36wZwX8VFp2Q_8XpNOJv3L6NFIvrNQag7iMYQ-i-tIW_7mNU3rboCNlSvDmf20NS60A6p_fjQjP9QM95W4cQU_1pd7fSxVe3o4pavMzRG4o2MhPJob1aYLMIBbZjqQJjXzIGNeuJ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJPU_G2E6RyzsRs95LdTHxZek",
+            "plus_code": {
+                "compound_code": "CCH3+R3 Hyderabad, Telangana",
+                "global_code": "7J9WCCH3+R3"
+            },
+            "price_level": 3,
+            "rating": 4.3,
+            "reference": "ChIJPU_G2E6RyzsRs95LdTHxZek",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13006,
+            "vicinity": "besides Quadro living, Plot # 1026, Rd Number 45, CBI Colony, Jubilee Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4247846,
+                    "lng": 78.43802889999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42615812989272,
+                        "lng": 78.43937842989271
+                    },
+                    "southwest": {
+                        "lat": 17.42345847010728,
+                        "lng": 78.43667877010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "TOS - Tales Over Spirits",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3984,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101435318944702341904\">sanchay gumidelli</a>"
+                    ],
+                    "photo_reference": "AcYSjRgRiingMO-XhP6_0emILmI12-iI6Jaxj5QcJMVF72Yt1mrDZ_hMO9HafA6bZ2GZE9OuJQVMmuhzRbkh6kzVzLN8z7JNNnqbYKV-YBoUKRahV8Ko1s6xsTQgvqAOV-5ej0AqDp8cPEhKLYFCImdjSbghGGFizrVKHaLx3H48YUEZ_4TR",
+                    "width": 2988
+                }
+            ],
+            "place_id": "ChIJz3JD1iyXyzsRcWUakNzIRX0",
+            "plus_code": {
+                "compound_code": "CCFQ+W6 Hyderabad, Telangana",
+                "global_code": "7J9WCCFQ+W6"
+            },
+            "price_level": 3,
+            "rating": 3.9,
+            "reference": "ChIJz3JD1iyXyzsRcWUakNzIRX0",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "night_club",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1966,
+            "vicinity": "Plot no 15 & 16, UBI Colony, Rd no 3, opp. lane to Qmart, Banjara Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4620077,
+                    "lng": 78.3674552
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.46333532989272,
+                        "lng": 78.36881602989273
+                    },
+                    "southwest": {
+                        "lat": 17.46063567010728,
+                        "lng": 78.36611637010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Club 8 Kondapur",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1860,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112927345666624941922\">pRince bAnGa</a>"
+                    ],
+                    "photo_reference": "AcYSjRgrdxTa0E6u04xFcrEmHhzjNqH2kGXTyjmExJmnlnL3yQ0HDfmquUvD202wrvWeIP4yjCm_XhoYFIB0R9b0GkEEXQfOf7YRgCguiXPeu4oRr3GWmjzWGbsSk-1moIsNG0mhmYWBW7gIw8kX9elAlikEzX7_YkQVvHk90qGvNuLfmKMe",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJN6ncZzOSyzsRpHVONz0-8IY",
+            "plus_code": {
+                "compound_code": "F968+RW Hyderabad, Telangana",
+                "global_code": "7J9WF968+RW"
+            },
+            "price_level": 2,
+            "rating": 3.7,
+            "reference": "ChIJN6ncZzOSyzsRpHVONz0-8IY",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1764,
+            "vicinity": "SRI KRISHNA RESIDENCY, 148, 3rd St, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4291307,
+                    "lng": 78.4184923
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43057802989272,
+                        "lng": 78.41994452989272
+                    },
+                    "southwest": {
+                        "lat": 17.42787837010728,
+                        "lng": 78.41724487010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "GOT PUB",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ5eOG9y2RyzsRZmJViT0dFjY",
+            "rating": 4,
+            "reference": "ChIJ5eOG9y2RyzsRZmJViT0dFjY",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "CCH9+M95, Park View Enclave, Jubilee Hills, Hyderabad"
+        }
+    ],
+    "status": "OK"
+}

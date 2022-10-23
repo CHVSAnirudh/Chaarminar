@@ -1,0 +1,477 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5187044,
+                    "lng": 78.6290119
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.52015227989272,
+                        "lng": 78.63054992989272
+                    },
+                    "southwest": {
+                        "lat": 19.51745262010728,
+                        "lng": 78.62785027010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Zoou park",
+            "place_id": "ChIJDQovhnth0jsRxTtbiDBqgVk",
+            "rating": 0,
+            "reference": "ChIJDQovhnth0jsRxTtbiDBqgVk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GJ9H+FJJ, Adilabad(U)"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5286293,
+                    "lng": 78.5664061
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.53002977989272,
+                        "lng": 78.56753797989272
+                    },
+                    "southwest": {
+                        "lat": 19.52733012010728,
+                        "lng": 78.56483832010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Tosham GP golden park",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103366770694823292520\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRixw-3w8wF0wfuknPntK7RoaDH7JCNxCiDR8gMGn1O4ZJ5mFKRIDHVOKss31a6vNSMV3jolPDZlMhsb-nGP1PB9g-kktICvtsT1bLk9TiIh0kTZ9HZp0tUR7g0MaqkcQ7mP9Dm3k6kXMFbJY_gmQOC1YuJieg-t4pGnz81-xrbwHkis",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJHUSoePJh0jsR_Hl4KlXVHC0",
+            "rating": 5,
+            "reference": "ChIJHUSoePJh0jsR_Hl4KlXVHC0",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "GHH8+FH2, Tosham,Gudihathnoor, Tosham"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5227885,
+                    "lng": 78.6285419
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.52413032989272,
+                        "lng": 78.63012942989272
+                    },
+                    "southwest": {
+                        "lat": 19.52143067010728,
+                        "lng": 78.62742977010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Zoou park",
+            "place_id": "ChIJryJ7zm9h0jsRlieQHRUcrdg",
+            "rating": 0,
+            "reference": "ChIJryJ7zm9h0jsRlieQHRUcrdg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GJFH+4C7, Adilabad(U)"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.6227613,
+                    "lng": 78.50623379999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.62438122989272,
+                        "lng": 78.50698897989271
+                    },
+                    "southwest": {
+                        "lat": 19.62168157010728,
+                        "lng": 78.50428932010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Mavala Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102729032769374693631\">gaddamsreddy</a>"
+                    ],
+                    "photo_reference": "AcYSjRjh4VZZLEcekirSmSB02n7R_yUJC2INXmVhx4hiEkdVNW0nIOAZ-nilgwhhIQD6a82EU32MVAmC-8j7axTNFO17_tu-_P5sYvGc7Q97ktO6QzN8O90N2TKpnz1wwoWZR-zBOoZ6o95QDVbnCY3Xo23p0m9kjNwdbbaaK01u2EPYhKOA",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ_aTmqcVd0jsR15RpMI9-fJc",
+            "rating": 4,
+            "reference": "ChIJ_aTmqcVd0jsR15RpMI9-fJc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 435,
+            "vicinity": "JGF4+4F5, Adilabad(U)"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.476837,
+                    "lng": 78.61484899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.47820927989272,
+                        "lng": 78.61595747989271
+                    },
+                    "southwest": {
+                        "lat": 19.47550962010728,
+                        "lng": 78.61325782010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "DURVA's \u0c35\u0c4d\u0c2f\u0c35\u0c38\u0c3e\u0c2f \u0c2d\u0c42\u0c2e\u0c3f",
+            "place_id": "ChIJRYh5uiFj0jsRKNINAbJSuEc",
+            "rating": 0,
+            "reference": "ChIJRYh5uiFj0jsRKNINAbJSuEc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FJG7+PW Durva's Agriculture land, Dharmasagar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.528392,
+                    "lng": 78.5635362
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.52974787989272,
+                        "lng": 78.56485272989272
+                    },
+                    "southwest": {
+                        "lat": 19.52704822010728,
+                        "lng": 78.56215307010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Navi mini park",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103366770694823292520\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi-inXD7p123XNIdUBL19r2Xd8Io6lKvzBUOeWXo0lF45pm2oLw9MHdmWiXtjzBGuoTIp7jnIR1vU_xt6ZiN3fVeMLQwYz82Pmk5_Nm_5ud3PqVnmBqgepZ-lU9m7LOH0Wlh4B5GI-WYdvgBxNSuHrn7fxOwgoxufzzxyv8HdSqLIcU",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJMVoJ9qhn0jsRHE4Zi7Uxmrk",
+            "rating": 5,
+            "reference": "ChIJMVoJ9qhn0jsRHE4Zi7Uxmrk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "GHH7+9C3, Unnamed Road, Tosham"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5503243,
+                    "lng": 78.5688061
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.55201897989272,
+                        "lng": 78.569641
+                    },
+                    "southwest": {
+                        "lat": 19.54931932010728,
+                        "lng": 78.5663014
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Pulichar water falls",
+            "photos": [
+                {
+                    "height": 3558,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103366770694823292520\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgaMXV_c9q_4w1KhWKPA-YUmKkf9zvcjb6tBeKJ8nR90Fg0T46dA-Mrrjp38OaSmeAkkjp3avo9hxME8RntAMjiXt2BpUcvyxxPOQs0fpSTuGHGZbVWUnW4s8IlRpL9tXLkPYc_XsxZnQw0w9Cvw-sr-NQPmQnkLZM6F-GrctHhlZUB",
+                    "width": 3334
+                }
+            ],
+            "place_id": "ChIJlRjwIuFh0jsRvQgNSGrncms",
+            "rating": 5,
+            "reference": "ChIJlRjwIuFh0jsRvQgNSGrncms",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "HH29+4GF, Unnamed Road, Chinchughat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5019637,
+                    "lng": 78.62864549999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.50331662989272,
+                        "lng": 78.62980352989271
+                    },
+                    "southwest": {
+                        "lat": 19.50061697010728,
+                        "lng": 78.62710387010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Munde.saikiran",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100991396544661917622\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgDZUCPQ_pxVxj1c9JiMc1SFi1CsN_09gCupzVBziYVkx2AZFIIUkBCEM6KgV8oAosiblbSWQ6MtvfPb8Q4Z6Yuz0kCVI81IOAk9PQOhB7742pzYt1yZuQ0y2Nj87YX7UR2r2w3pDnWFRSAq0QGJ9f6Z-8vkejKDxLUr4ywyIifHbf2",
+                    "width": 1800
+                }
+            ],
+            "place_id": "ChIJIYiNJCBh0jsRSeZbRgBjEM4",
+            "rating": 5,
+            "reference": "ChIJIYiNJCBh0jsRSeZbRgBjEM4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "GJ2H+QFJ, Muthnur1"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5012194,
+                    "lng": 78.6240871
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.50276777989273,
+                        "lng": 78.63033955000002
+                    },
+                    "southwest": {
+                        "lat": 19.50006812010728,
+                        "lng": 78.62200295
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Kendre foam house \ud83c\udfe0",
+            "photos": [
+                {
+                    "height": 4080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110647264316969940936\">Nageswara Rao</a>"
+                    ],
+                    "photo_reference": "AcYSjRh5uZOfgO6J0OsTivZ2w3tEk0RzQ4YFRNX87XdFyXUQt6qZW3E5w1QOQyZJY4fXGaGOuZ3GNNyNp37z01hBGxZgUMmtlhpYCODsW8GXRbNhzl5VWVtLK55GjjDZYkSnWhE0kLNa5dtC1iEpEza8xPC2BDp0enaBMxqyXLCX7Vpzw8m9",
+                    "width": 3072
+                }
+            ],
+            "place_id": "ChIJbSoTrUVh0jsR_N1lrYQw-iE",
+            "rating": 0,
+            "reference": "ChIJbSoTrUVh0jsR_N1lrYQw-iE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GJ2F+FJP, Mendapalle"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5130892,
+                    "lng": 78.6277513
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.51457717989273,
+                        "lng": 78.62908807989272
+                    },
+                    "southwest": {
+                        "lat": 19.51187752010728,
+                        "lng": 78.62638842010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Shivakumar jaiswal Function hall",
+            "place_id": "ChIJ43vkLAZh0jsRnzC0ZaZfAiQ",
+            "rating": 0,
+            "reference": "ChIJ43vkLAZh0jsRnzC0ZaZfAiQ",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GJ7G+8X7, Muthnur1"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5139102,
+                    "lng": 78.5068781
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.51525562989272,
+                        "lng": 78.50822802989273
+                    },
+                    "southwest": {
+                        "lat": 19.51255597010728,
+                        "lng": 78.50552837010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Khan family",
+            "place_id": "ChIJkcYHlPhn0jsREZCj2TCHKnw",
+            "rating": 4,
+            "reference": "ChIJkcYHlPhn0jsREZCj2TCHKnw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "GG74+HQ6, Service Rd, Dongargaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5119297,
+                    "lng": 78.6298585
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.51333912989272,
+                        "lng": 78.63120927989272
+                    },
+                    "southwest": {
+                        "lat": 19.51063947010728,
+                        "lng": 78.62850962010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Santosh chate",
+            "place_id": "ChIJ2ZiasG5h0jsRULQN8kxcDPc",
+            "rating": 4,
+            "reference": "ChIJ2ZiasG5h0jsRULQN8kxcDPc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "GJ6H+QWH, Unnamed Road, Muthnur1"
+        }
+    ],
+    "status": "OK"
+}

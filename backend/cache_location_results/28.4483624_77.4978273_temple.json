@@ -1,0 +1,875 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRggqCsukAun81g2k6RD_VXqKGv-HurXZUIHTmGZyj_LZRZRcfDv3Pg3J0hCGLb92tcOr5O_AACNg0sydgSJJFKbIGEcQyOmqFECK1xrbvrFR2gozT7ajojWj2rzk0-U0rpFN70Fk2phOzUVZ95CRVopjgxYoPjvjBxGrugLisOj4YcW8gbS0-FDMcoOVkew2bIQiQONbjk7hV9nexUEUCsxgR9fNTDVNTmC58UDqq85cqOVRURB3QA3z9KC63hRCmqrU1R361rdICVOIZeS851Vh0noejBOiVc7SmuLIQGpI8jW018-GnkLARCjyvq5wJy6DwWKerVjD08StkB7QzI2-27Sp8yQLH3IDgM4YoHVwlLoNCskBK4t44ysDLSVBm5ojoi5a6am40KwHFNqgmi8uypBB6W89ae__wgV1wwqCp_ujbLXftU",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4600654,
+                    "lng": 77.5593384
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46135677989272,
+                        "lng": 77.56072707989271
+                    },
+                    "southwest": {
+                        "lat": 28.45865712010728,
+                        "lng": 77.55802742010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJ-1WnhdTBDDkRTOc4GPC58UQ",
+            "rating": 0,
+            "reference": "ChIJ-1WnhdTBDDkRTOc4GPC58UQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FH65+2PV, Omicron I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5160602,
+                    "lng": 77.3968435
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51743202989272,
+                        "lng": 77.39815617989272
+                    },
+                    "southwest": {
+                        "lat": 28.51473237010728,
+                        "lng": 77.39545652010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 668,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105007854202070368230\">nishant.jalan05</a>"
+                    ],
+                    "photo_reference": "AcYSjRhSF3YEfThGTSYXs0cf9JNAL_dMsZGD6bnfCwkVFz_y_sQwUAj9qWUxKd3PcAXx72vn7jcgV2rajm4DEZRN1LATUT4QjcXF2_MJTMONxU5LE8TnyQXGsAK6GWqgIV1oA1bc8YPKXgU3DZ6t1CrxpAbIJZoWDD_AJhIasUjHU50UjGVw",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJD13U343vDDkR0F2xtAO5lDQ",
+            "plus_code": {
+                "compound_code": "G98W+CP Noida, Uttar Pradesh",
+                "global_code": "7JWVG98W+CP"
+            },
+            "rating": 4.5,
+            "reference": "ChIJD13U343vDDkR0F2xtAO5lDQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Cleo County, Sector 121, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5264239,
+                    "lng": 77.4200146
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.52775397989272,
+                        "lng": 77.42132762989272
+                    },
+                    "southwest": {
+                        "lat": 28.52505432010728,
+                        "lng": 77.41862797010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Raghunath Temple",
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111940961962034097320\">Ashu Malaviya</a>"
+                    ],
+                    "photo_reference": "AcYSjRgk92tu8UPynxI4HeaWGLDl1p7NGV4hwiHY-42uTsXriFKwyBwdOdZFHV1PHT64f73C39uDJEzJQg82BaYBOAc46dDt5ZW7JxddX0TwYmuSY6ZumdiSuTRZEUSrCpLfNAmtPZrpTr5_iy282EIE2-CX8c58Dm7IuPO5YBueaxcoX29m",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJbRznv-DoDDkR7RZPCBRMD8w",
+            "plus_code": {
+                "compound_code": "GCGC+H2 Noida, Uttar Pradesh",
+                "global_code": "7JWVGCGC+H2"
+            },
+            "rating": 4.1,
+            "reference": "ChIJbRznv-DoDDkR7RZPCBRMD8w",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "Unnamed Road, 201305, Yakubpur, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4722181,
+                    "lng": 77.4402504
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47356387989272,
+                        "lng": 77.44158417989273
+                    },
+                    "southwest": {
+                        "lat": 28.47086422010728,
+                        "lng": 77.43888452010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hare Krishna Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1944,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115232237530236077632\">vijay kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRitonC81OGzUpG1HJyietA3BigcMMXEsaRRbWxognYFQIEkiBHtDGgsa7dOIiGeOIwYqcblnYMrDzZdXs0ZssB6OeCR_2Pmvq4nxUYAN4tfTCl-D5cQkvB6X4JJaXiy7hicmJzOrsAt0YZdNFxDmEkSmhwfIRRiJTIQb4H1xvvuuUeF",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJ3QtGtcTpDDkRJRogM7b7lxI",
+            "rating": 4.3,
+            "reference": "ChIJ3QtGtcTpDDkRJRogM7b7lxI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "FCCR+W36, Sector 161, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4508814,
+                    "lng": 77.5128227
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45221702989272,
+                        "lng": 77.51408637989272
+                    },
+                    "southwest": {
+                        "lat": 28.44951737010728,
+                        "lng": 77.51138672010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103501874011234121527\">one man</a>"
+                    ],
+                    "photo_reference": "AcYSjRj3XtzHPRacAc8POLrkXG8Awn7RrkJk-zPfZthuF_L2k8tMR4L3OOPNG8qsGkabFY_fEgd-zHQw3jLCOX2q7SQXy9jkYH52VRu3wzYtvQ9HIv_86ytJSxnrKUrDyapmrNrOOWjR0PjzI_QcrSapK6Yi_OWQUu37OXOUHEVgXY9doKop",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJRd63eirBDDkRU5UiMngoEDo",
+            "rating": 5,
+            "reference": "ChIJRd63eirBDDkRU5UiMngoEDo",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "FG27+944, Senior Citizen Apartment, Phi II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4878695,
+                    "lng": 77.5264249
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48924132989272,
+                        "lng": 77.52775877989272
+                    },
+                    "southwest": {
+                        "lat": 28.48654167010728,
+                        "lng": 77.52505912010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103923287654097085662\">Rohit siur</a>"
+                    ],
+                    "photo_reference": "AcYSjRjXZRQl-I6UEPIoFYfiiTa3ee8XzfIwIOU-M61iYn2y1bhFQoR0JNmrV5YXZFzXfSPEnd3JrIkPWgZmfkIuF-B7sCgr4wK6xDmGgB9dPQq1ilzhEVDJFxSBsPqt2P1t75LnedJfn2bBY8cduKs1u5BCzxQKNnspZDdhlcu5M_aiqbT8",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJieTt-UrrDDkR7u3VGP-NW5k",
+            "rating": 4,
+            "reference": "ChIJieTt-UrrDDkR7u3VGP-NW5k",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "FGQG+5H9, Jacaranda Estate, Eta I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4687456,
+                    "lng": 77.48513729999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47015422989272,
+                        "lng": 77.48658127989272
+                    },
+                    "southwest": {
+                        "lat": 28.46745457010728,
+                        "lng": 77.48388162010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "I.T.S Temple",
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100163360271065838553\">FAIZAN ARIF</a>"
+                    ],
+                    "photo_reference": "AcYSjRhG0BjGH1NhGPc77ccP2X8fiqCqVmlxkZWrguafLza103uUsNdwjBDwso4iXj_TsSquVDRWz_6SWHHyyhom-kI8-BdfkRHqImYN_KNvg11wduCE0jvrkI_puvJm0Q4ttK3hyM2VTzMbVIjfOp_Y0bGX-2NKWOvRnP7bh4bAkqTM3g9l",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJJUtbGgnqDDkRlgCqKESzhn0",
+            "plus_code": {
+                "compound_code": "FF9P+F3 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFF9P+F3"
+            },
+            "rating": 4.7,
+            "reference": "ChIJJUtbGgnqDDkRlgCqKESzhn0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "Plot No:47, APJ Abdul Kalam Rd, Knowledge Park III, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4787683,
+                    "lng": 77.5353859
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48007177989272,
+                        "lng": 77.53677337989272
+                    },
+                    "southwest": {
+                        "lat": 28.47737212010728,
+                        "lng": 77.53407372010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110960940233352279763\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiqQXwSsFiVsc30QkXjOBfYMZCC1vDl7eWJnvRoA6xey7jwiXoMs5v0mwBLC0ILinQ2g0ZsMIsIgaWqLPQeKoQhomLqgFUHrGHtdb6ppUmdBHHZgKwuCraQrE9sqlGm9wMMmIbl9G1TojVTn_HqNsQckka3OpiVlwSkGxd3-5GTkQbj",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ40wRxdjrDDkRaNF5FGmmWm4",
+            "rating": 5,
+            "reference": "ChIJ40wRxdjrDDkRaNF5FGmmWm4",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "FGHP+G49, Purvanchal Silver City - 2, Pi I & II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4702589,
+                    "lng": 77.5056075
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47166122989272,
+                        "lng": 77.5069273798927
+                    },
+                    "southwest": {
+                        "lat": 28.46896157010728,
+                        "lng": 77.50422772010725
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shiv Temple",
+            "photos": [
+                {
+                    "height": 1428,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107225621424687646508\">Deepak Sharma</a>"
+                    ],
+                    "photo_reference": "AcYSjRgcM7zimqYQIoLjGUO6dD9jZl-prL_ZsWpm-DWNxlVRHlkOcDwOs4wG3hSBTIaL3lsJjEeefykHzbO1PKq5O6cB_s-ukLUZHtKqnPM8Cbh7-9tBSw7fvdFpiSWS0YZXbwnwFyhAQlcfccqZdTbfMGkgNOGvMSkC24ZpUO5R9Ji-4qXa",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJG0_QznnqDDkRaSRI_CxIDuE",
+            "rating": 4.5,
+            "reference": "ChIJG0_QznnqDDkRaSRI_CxIDuE",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 40,
+            "vicinity": "FGC4+37J, Knowledge Park I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4566651,
+                    "lng": 77.4613445
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45807077989272,
+                        "lng": 77.46267967989272
+                    },
+                    "southwest": {
+                        "lat": 28.45537112010727,
+                        "lng": 77.45998002010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shree Shiv Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3060,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109366363506035451609\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjPtMwhDk49Bj9EK-oxfelBbItdBFmidJ2a2o9i9K-u51sisG8fqUfjTWGo6uTg8WQpEr0C71HGmSXQARHtIARkFqhtuVS7Yw6g8LbMxvBIQUIJiA15A78jUbWJI9uf-VryZ-ubJS4AeDfWY2HNXULtxMKZEJ6jF7uDZJxJX-F8tCT9",
+                    "width": 4080
+                }
+            ],
+            "place_id": "ChIJz4ep1QXCDDkRdEaJsZUw-Iw",
+            "rating": 4.4,
+            "reference": "ChIJz4ep1QXCDDkRdEaJsZUw-Iw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "FF46+PHF, Village Badali Bangar, Sector 154, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5135151,
+                    "lng": 77.4455469
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51485937989272,
+                        "lng": 77.44689197989273
+                    },
+                    "southwest": {
+                        "lat": 28.51215972010728,
+                        "lng": 77.44419232010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "\u0936\u093f\u0935 \u092e\u0902\u0926\u093f\u0930",
+            "place_id": "ChIJZ6qQzMvpDDkRUNxpCFYFflU",
+            "rating": 0,
+            "reference": "ChIJZ6qQzMvpDDkRUNxpCFYFflU",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GC7W+C67, Kulesara, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4311273,
+                    "lng": 77.55807159999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.43234887989272,
+                        "lng": 77.55958752989272
+                    },
+                    "southwest": {
+                        "lat": 28.42964922010728,
+                        "lng": 77.55688787010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "SHIV MANDIR",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJo2IezH7ADDkRFg_NVBgetMQ",
+            "rating": 5,
+            "reference": "ChIJo2IezH7ADDkRFg_NVBgetMQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "CHJ5+F64, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4693272,
+                    "lng": 77.4391825
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47057402989272,
+                        "lng": 77.44054502989272
+                    },
+                    "southwest": {
+                        "lat": 28.46787437010728,
+                        "lng": 77.43784537010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shiv Hanumaan temple",
+            "place_id": "ChIJUxs-0L_pDDkR2WQuyP7g-bw",
+            "rating": 0,
+            "reference": "ChIJUxs-0L_pDDkR2WQuyP7g-bw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FC9Q+PMM, Chandila Marg, Sector 162, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4925936,
+                    "lng": 77.5691071
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.49394342989272,
+                        "lng": 77.57045722989271
+                    },
+                    "southwest": {
+                        "lat": 28.49124377010728,
+                        "lng": 77.56775757010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111602651477007205392\">Ankur Tyagi</a>"
+                    ],
+                    "photo_reference": "AcYSjRiXjSBPq8mfJmOl4su3GXpOjH2ebyEjyy3fO8EtneMFlygdzh4U3VMhxR6PZnk_5SiDDiYtOEC6hTk3CHknvcvs2cMJmRgVsCiIgORATslQRI7xmnOuRqT31awACFomUQgOXyZyXn201tx8QOs_bCQ1BmbPXmQzVuD24qJhVlfKPDpF",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJecwIJv2VDDkRtPaxm-9D014",
+            "plus_code": {
+                "compound_code": "FHV9+2J Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFHV9+2J"
+            },
+            "rating": 5,
+            "reference": "ChIJecwIJv2VDDkRtPaxm-9D014",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "House No. 682SF, Sector MU 2, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5262693,
+                    "lng": 77.4336687
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.52762162989272,
+                        "lng": 77.43501937989272
+                    },
+                    "southwest": {
+                        "lat": 28.52492197010728,
+                        "lng": 77.43231972010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJTS44hF_pDDkRZJmaugdi9Oc",
+            "rating": 0,
+            "reference": "ChIJTS44hF_pDDkRZJmaugdi9Oc",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GCGM+GFF, Kulesara, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4018759,
+                    "lng": 77.42077429999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.40322107989272,
+                        "lng": 77.42213452989272
+                    },
+                    "southwest": {
+                        "lat": 28.40052142010728,
+                        "lng": 77.41943487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Hanuman Temple",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108309057607102674691\">Abhay Narayan</a>"
+                    ],
+                    "photo_reference": "AcYSjRgCsSdMnDJin_QlLr6vduwxqEOjriEET3rurIn_QHqzPzh_tH91qSAVnDXkFC3-vIJpIdHFHwBTLQ-iwBn5GDCW0QwVGt7jvij6taGqgahwUz0HfTvHsfrtgfAtCCs9tyOX6REQbhw8VW33BZbQUWZOrkg1hhE3VP7ZQ6ptkZ4V_5IV",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJt2lqBXnDDDkR9Fqr49VXkgs",
+            "rating": 5,
+            "reference": "ChIJt2lqBXnDDDkR9Fqr49VXkgs",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "CC2C+Q82, Unnamed Road, Faridabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4720403,
+                    "lng": 77.5649005
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47338717989271,
+                        "lng": 77.56630387989271
+                    },
+                    "southwest": {
+                        "lat": 28.47068752010727,
+                        "lng": 77.56360422010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Trilokeshawar Nath Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109944430863865081610\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgD1RTduwGLj3NcTLWkFzCQRBeylAzmtSXhnrsqDVGp9I6SOUaGUqMk7lvHqEl0RXVSnDzIMCyNXWR5sxIAWiZIlfp5n1b9uwKkBYK8XzZQOAICA5Nl4Tg6JrXPn5297A7dHfBNr-uDqn6WX-oGw7NRZfyl9BoYe_w6gOKax_nC2JyW",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJa1_sI6m_DDkRBnwjDQNubj0",
+            "rating": 4.8,
+            "reference": "ChIJa1_sI6m_DDkRBnwjDQNubj0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "FHC7+RW9, Block D, Sector MU 1, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4899272,
+                    "lng": 77.5093509
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.49124417989272,
+                        "lng": 77.51078902989272
+                    },
+                    "southwest": {
+                        "lat": 28.48854452010728,
+                        "lng": 77.50808937010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110600865087652102298\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgRSupxON8tfblE8IGtkXc8eb1riHhBrLLKBH0VDurrLJEiy8bnkYWnSnok4oLq4rIGYL-OMcyBB5tRMj4qQhncUchm070RR0ZTWI6YlrWifUEyfRzhTYCScFtKtT25KoMaoW3R8gw-05ohK7wQbLRyp4NYoqFs_meidc2LYZNronFh",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJMZO1XmfqDDkRA3DEX99F8vw",
+            "rating": 4.4,
+            "reference": "ChIJMZO1XmfqDDkRA3DEX99F8vw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "FGQ5+XPH, Block G, Gamma II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4463874,
+                    "lng": 77.5042777
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.44774972989272,
+                        "lng": 77.5056447798927
+                    },
+                    "southwest": {
+                        "lat": 28.44505007010728,
+                        "lng": 77.50294512010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shiva Temple",
+            "place_id": "ChIJk9f3vanBDDkRsNHEqsHYpDQ",
+            "plus_code": {
+                "compound_code": "CGW3+GM Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVCGW3+GM"
+            },
+            "rating": 0,
+            "reference": "ChIJk9f3vanBDDkRsNHEqsHYpDQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "C-20, NSG Society, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5349768,
+                    "lng": 77.41390419999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.53623922989271,
+                        "lng": 77.4152210298927
+                    },
+                    "southwest": {
+                        "lat": 28.53353957010727,
+                        "lng": 77.41252137010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shree Shiv Mandir",
+            "place_id": "ChIJz85rO9voDDkRsPTuuIv96-8",
+            "rating": 4.6,
+            "reference": "ChIJz85rO9voDDkRsPTuuIv96-8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "GCM7+XGW, Hosiery Complex, Block D, Noida Phase-2, Yakubpur, Noida"
+        }
+    ],
+    "status": "OK"
+}

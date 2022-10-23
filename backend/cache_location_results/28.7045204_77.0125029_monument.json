@@ -1,0 +1,219 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.626427,
+                    "lng": 77.035376
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62777757989272,
+                        "lng": 77.03669617989272
+                    },
+                    "southwest": {
+                        "lat": 28.62507792010728,
+                        "lng": 77.03399652010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Monument Shop",
+            "place_id": "ChIJ1eZNpD8FDTkRJB76i31PyBc",
+            "plus_code": {
+                "compound_code": "J2GP+H5 Delhi",
+                "global_code": "7JWVJ2GP+H5"
+            },
+            "rating": 0,
+            "reference": "ChIJ1eZNpD8FDTkRJB76i31PyBc",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Dwarka More, Shop No. 16, Som Bazar Rd, Mohan Garden, Nawada, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7389371,
+                    "lng": 77.0642196
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.74032367989273,
+                        "lng": 77.06556717989272
+                    },
+                    "southwest": {
+                        "lat": 28.73762402010728,
+                        "lng": 77.06286752010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Ambedkar Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111058138864594271098\">aniket sagar</a>"
+                    ],
+                    "photo_reference": "AcYSjRilmsTbpNUy8kUNT0Iis2CVM2icEilOuEESxnpdVZNNaClzpBXUE-FzrkRuXTKKa2RU0Ht_dnLsSULcdYErO4kTCpur_VS5Ppik-JIr0svj1K42evAZM5YmbRSQBM2clDbuy2YhXbCyWKZsFvjeIxMFzyeClZxCAbFy1-Zn2itDZ0Gb",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJrz4NvfsGDTkRhcOFuqiqVsY",
+            "plus_code": {
+                "compound_code": "P3Q7+HM Delhi",
+                "global_code": "7JWVP3Q7+HM"
+            },
+            "rating": 4.1,
+            "reference": "ChIJrz4NvfsGDTkRhcOFuqiqVsY",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 125,
+            "vicinity": "BLOCK-G, Naveen Vihar, Rajiv Nagar Extension, Sector 37, Rohini New Delhi, Delhi 110086"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 28.7939687,
+                    "lng": 77.0944406
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.79530837989272,
+                        "lng": 77.09578777989272
+                    },
+                    "southwest": {
+                        "lat": 28.79260872010728,
+                        "lng": 77.09308812010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Heritage Monument",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 580,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101388400016672120868\">Divyansh Sultania</a>"
+                    ],
+                    "photo_reference": "AcYSjRj4QWjqbUAc7iRVSrPYYXS95-qMoKzmBZ1LYnJKTrzgKT9FIZ-Zz3rC8ipLBxcCoZYVBxN6zOdbqVucaYH_LjCHXsEG9nzE2z4y4qaaW2e2X0ggh8FySKZ4q0Az8Tg7trwhvWvhkQRQtjmBKmcnbJKOqtj7H0haoTfO6s_Xl98v2VDI",
+                    "width": 1084
+                }
+            ],
+            "place_id": "ChIJgw7wMFYHDTkRDmQkMXzOtac",
+            "rating": 4.5,
+            "reference": "ChIJgw7wMFYHDTkRDmQkMXzOtac",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Q3VV+HQW, Holambi Khurd, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7405675,
+                    "lng": 77.11499979999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.74190102989272,
+                        "lng": 77.11637512989273
+                    },
+                    "southwest": {
+                        "lat": 28.73920137010728,
+                        "lng": 77.11367547010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shiv Darsan The Monument Shop",
+            "place_id": "ChIJq2t6cpYBDTkRXsG43mnxu5s",
+            "plus_code": {
+                "compound_code": "P4R7+6X New Delhi, Delhi",
+                "global_code": "7JWVP4R7+6X"
+            },
+            "rating": 0,
+            "reference": "ChIJq2t6cpYBDTkRXsG43mnxu5s",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shiv Darsan Rohini Sec 17, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6351931,
+                    "lng": 77.0564492
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63646252989272,
+                        "lng": 77.05773647989272
+                    },
+                    "southwest": {
+                        "lat": 28.63376287010728,
+                        "lng": 77.05503682010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Barah Dari Village Hastsal",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116324281957274904297\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg5_EUxs3WX9cL-Kv5pNyd61Yfxt_VpI5anFNslcm87ZvQQ_LIiIBZvEOakmldLD2_fktJ--9oV9EhyfnU6SzOZTBqWLMQZbycmNrQD0DhdZMSGblsJlSUSCiueb6puIg8mawOyjBcXCRRXwhq_IFZBNxESZTBlihjYAszBO4cS5Jus",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJC2gd4OEEDTkRPBc2LBcWAe0",
+            "rating": 3.7,
+            "reference": "ChIJC2gd4OEEDTkRPBc2LBcWAe0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 81,
+            "vicinity": "J3P4+3HG, Deep Enclave, Hastsal Village, Uttam Nagar, New Delhi"
+        }
+    ],
+    "status": "OK"
+}

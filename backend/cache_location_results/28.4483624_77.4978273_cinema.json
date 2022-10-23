@@ -1,0 +1,696 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4644143,
+                    "lng": 77.507603
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46580022989272,
+                        "lng": 77.5089030298927
+                    },
+                    "southwest": {
+                        "lat": 28.46310057010728,
+                        "lng": 77.50620337010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "PVR Cinemas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111901502103635867889\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhFJ6Z2A2t_YCMDL7LIJ0lSfh2ae2RCAOKPlK0JaaXv3ybQjQwxVLeVuA3bbzrSWvsBppnDOw9jKEruUSCEnKJC_0dD4XFJe7C1hkGAuPZK1A76juPZlMI5BBmGeqhFHCWPBxmHO1szOtDZgjVnQdoUMzjvITVrPQd-zj3dtCNCINg4",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJpfL7I_jBDDkRPuI6kviWiDA",
+            "plus_code": {
+                "compound_code": "FG75+Q2 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG75+Q2"
+            },
+            "rating": 4.3,
+            "reference": "ChIJpfL7I_jBDDkRPuI6kviWiDA",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 392,
+            "vicinity": "201310 Amit Nagar, Tugalpur Village, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4575604,
+                    "lng": 77.5284161
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45937822989272,
+                        "lng": 77.52949317989273
+                    },
+                    "southwest": {
+                        "lat": 28.45667857010728,
+                        "lng": 77.52679352010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "INOX Cinema",
+            "photos": [
+                {
+                    "height": 2256,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100836573045321425654\">vikas singh</a>"
+                    ],
+                    "photo_reference": "AcYSjRg195j-X7e5-kQorPJQ_AVTf1omfsFR__FzKp0e6K3pPIqcsxuaZgpq9-8Zk1PbDaLfjzCzhg-QpwnFUmu2PZ9eM506afskoO7_MMqWsdpE25ceTdk6vZIV_oejt6BvMcgpX2lSaqE2PdjSfls7OpHuvSza7LHCEuGyOfE26-kjd369",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJDXPWTSXADDkRrKkOE2AgsRE",
+            "plus_code": {
+                "compound_code": "FG5H+29 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG5H+29"
+            },
+            "rating": 4.1,
+            "reference": "ChIJDXPWTSXADDkRrKkOE2AgsRE",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5261,
+            "vicinity": "Gate No. 1, 3rd Floor, MSX Mall, Swarn Nagari, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5087709,
+                    "lng": 77.4740223
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51007052989272,
+                        "lng": 77.47539712989271
+                    },
+                    "southwest": {
+                        "lat": 28.50737087010728,
+                        "lng": 77.47269747010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Sonic World Mall Greater Noida",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105841655809450032796\">Prabhakar Rahi</a>"
+                    ],
+                    "photo_reference": "AcYSjRiaCnQKbYGbo9xg1wQiw-fdIAnf4pg18ZfEmLvSPQNFZBkPaBXcs-lvLk1U_y9j07ArqGwhMOGB32qzqXUk9irGoxADQSLP1fUojAsrMDmvc7xP8KQLdCi_5BA8SQ0nf8EQRE8atRcaNrU-V08QzgN18hyyr6JKP8hadatvoe3nu81f",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJs_3bWSvqDDkRdjxW0RGDrLg",
+            "rating": 3.7,
+            "reference": "ChIJs_3bWSvqDDkRdjxW0RGDrLg",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1512,
+            "vicinity": "GF5F+GJ2, Lakhnawali Rd, Ecotech-II, Lakhnawali, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4880903,
+                    "lng": 77.5135487
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48917782989272,
+                        "lng": 77.51479437989272
+                    },
+                    "southwest": {
+                        "lat": 28.48647817010728,
+                        "lng": 77.51209472010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "INOX Omaxe Connaught Place Mall",
+            "photos": [
+                {
+                    "height": 2992,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103754913885153217142\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjCDg8nqxQsBHp_63f2YIH4n2EpsDBVCoDuEATIIKAGIY4gQhazOIy2hwB4nd-ihUemdjlM3gIJV4bIwdFtB0B2pvNDFYpExv4MoA7FcqDMlLouqbnWN_yGpNUD0dHeOoXxSjkGQmt60Al8vht_2jTT_fmNeSWgdjCpGr_Ry3mK-nfv",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJA5ifVGDqDDkR0VBdskOn3_Q",
+            "plus_code": {
+                "compound_code": "FGQ7+6C Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGQ7+6C"
+            },
+            "rating": 4.4,
+            "reference": "ChIJA5ifVGDqDDkR0VBdskOn3_Q",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5377,
+            "vicinity": "INOX Leisure Ltd, 2nd Floor, Omaxe Connaught Place Mall, H Block, Sector, Beta II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.463294,
+                    "lng": 77.51111139999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46506962989272,
+                        "lng": 77.51236172989272
+                    },
+                    "southwest": {
+                        "lat": 28.46236997010728,
+                        "lng": 77.50966207010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Movie Time Cinemas",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109527157468351590640\">witch craft</a>"
+                    ],
+                    "photo_reference": "AcYSjRi6i1CcA4p7RVF8F6TlMBISH5AaD-ZGG8m7jbrT2wTlpHuFfvbUhD7Xdxx6hnn-KfKG2L9LDqq4Cf_6Po_pOOIg4VefmIDKCBhC4gGZV_lO3-gjDBaFJtgcLwsU_1H2O8nRK9uah6A_CyLdqNuC6eRT57tO027edhlODPOAgmps9SeS",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJkbkVndbBDDkRIQXtDg1RY5I",
+            "plus_code": {
+                "compound_code": "FG76+8C Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG76+8C"
+            },
+            "rating": 3.7,
+            "reference": "ChIJkbkVndbBDDkRIQXtDg1RY5I",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2859,
+            "vicinity": "Omex Nri City Mall, 2Nd Floor Parichok, Omega IV, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4648,
+                    "lng": 77.508568
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46621227989272,
+                        "lng": 77.50988612989273
+                    },
+                    "southwest": {
+                        "lat": 28.46351262010728,
+                        "lng": 77.50718647010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "PVR Ansal Plaza Greater Noida",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116616311957233199040\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhERBwq5VOkQ9cILUZSzIV6YW28AsD9CCAuapCB3_dwEPRdE56YqxpCV9L_PG8g6VmTCWp9xNfN3vl8RRr2Op6erBN2mkHD2QABtjI-dce7_sSKAMQyr8cvevSBf6kGChiwBtAxxUhodxGicpvCljIRoS_4Xz7F74aL20CbKdeKD4My",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJfV60WYLBDDkRZl5muTviGfc",
+            "plus_code": {
+                "compound_code": "FG75+WC Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG75+WC"
+            },
+            "rating": 3.9,
+            "reference": "ChIJfV60WYLBDDkRZl5muTviGfc",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1141,
+            "vicinity": "Plot No. -1/C, Near, Pari Chowk, Knowledge Park I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.454226,
+                    "lng": 77.5259865
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45551417989272,
+                        "lng": 77.52744797989273
+                    },
+                    "southwest": {
+                        "lat": 28.45281452010728,
+                        "lng": 77.52474832010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Cin\u00e9polis Grand Venice",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102547487888827632141\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRirP7OkKUylaAAL25a2-3iI1ASQsyw2kL9hLiDDWm-Pz2it0QumE9pUsvgqyiactcRI8rLQkGpXBzJOJNMxwhNLSSJYzs6tjJnw1RdD7PajhwNVPlJC2DAWU1QvguPFM3bIaOcxIPZF9XAa0sF9W1f572sBFv18Xc6ru5ywDCofmTVD",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJrwzwpZjBDDkRbENkLPxa2BY",
+            "plus_code": {
+                "compound_code": "FG3G+M9 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG3G+M9"
+            },
+            "rating": 4.3,
+            "reference": "ChIJrwzwpZjBDDkRbENkLPxa2BY",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6676,
+            "vicinity": "near, Grand Venice Mall,Ground Floor, Plot No. SH 3, Pari Chowk, Surajpur Site 4, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5175438,
+                    "lng": 77.51822899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51891497989272,
+                        "lng": 77.5196217298927
+                    },
+                    "southwest": {
+                        "lat": 28.51621532010727,
+                        "lng": 77.51692207010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "AR ENTERTAINMENT NEWS",
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106675657938893636123\">SATVIK TIWARI</a>"
+                    ],
+                    "photo_reference": "AcYSjRgB8KVIjop2YL9GTLVw08zZbGY7K7b0LUJxVIRxUFszTHrMpmXo5p4yDkYTMa3BKFm3Sj8mVJko80iCCi1hJ6hJMOvLOyF-wDDtGQM-0r1bjBFHaL0ra_HWB5xGM5vaBq0ti5nrFAzkTDei2HEEHIcvGVOGTw7tkwRSvfnXItU4mmhA",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJjXJj5dTrDDkRiHT6XJ0zCs0",
+            "rating": 0,
+            "reference": "ChIJjXJj5dTrDDkRiHT6XJ0zCs0",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GG99+279, Surajpur Industrial Area, Block E, UPSIDC Site C, Surajpur, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.512888,
+                    "lng": 77.47868319999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51419112989272,
+                        "lng": 77.4800409798927
+                    },
+                    "southwest": {
+                        "lat": 28.51149147010728,
+                        "lng": 77.47734132010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Temper",
+            "place_id": "ChIJt2reT5HrDDkRQlM27H2lZiE",
+            "plus_code": {
+                "compound_code": "GF7H+5F Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVGF7H+5F"
+            },
+            "rating": 0,
+            "reference": "ChIJt2reT5HrDDkRQlM27H2lZiE",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Rakesh Temper, Surajpur Durga Tokig, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4856832,
+                    "lng": 77.53734399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48688832989272,
+                        "lng": 77.53880247989271
+                    },
+                    "southwest": {
+                        "lat": 28.48418867010728,
+                        "lng": 77.53610282010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Premaenterprise",
+            "place_id": "ChIJSZ1DapbqDDkRAAAA0IHQU0c",
+            "plus_code": {
+                "compound_code": "FGPP+7W Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGPP+7W"
+            },
+            "rating": 0,
+            "reference": "ChIJSZ1DapbqDDkRAAAA0IHQU0c",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Plots No80, Greater Noida"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 28.4646737,
+                    "lng": 77.5081161
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46611887989272,
+                        "lng": 77.50933767989272
+                    },
+                    "southwest": {
+                        "lat": 28.46341922010727,
+                        "lng": 77.50663802010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Roxy 7D Cinema",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101952038246925620555\">NAWAID AKHTAR</a>"
+                    ],
+                    "photo_reference": "AcYSjRgw4LbkeDaMOlYEEG9mxR0oyyM36pu_aM6Lmlyn3cO1e6KjSZ6SBcUCpLbVXJiVR7NDRfzatHVu1kX1uTMvbjR5gWlHkX_QyvH6qWbUs1M9GV4KW8ozqgxvliTNDZ9Y1DOAsVfPekpfK14fm41EJFapv1wdarK7Sz6q-93MaXCDAATp",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJ66eTUNbBDDkRPz0-_dLrP9g",
+            "plus_code": {
+                "compound_code": "FG75+V6 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG75+V6"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ66eTUNbBDDkRPz0-_dLrP9g",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "201310, Amit Nagar, Tugalpur Village, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5114282,
+                    "lng": 77.4077622
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51279712989272,
+                        "lng": 77.40906837989273
+                    },
+                    "southwest": {
+                        "lat": 28.51009747010728,
+                        "lng": 77.40636872010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Ganpati banking service",
+            "photos": [
+                {
+                    "height": 2000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116207779022903062831\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgayZfseeosVC05btOU3xctihfSuv-I9vQX41ONLlAZwFuGQ7Df9FHR566PmlF4e82WmAgbfIILsEOOQQnFToKUpzRrA8Tg1SHSO4Miy_6AqIolck_Eip_sdebwT7GT0sf6mHgArTvQ-CmaI8VJYag3-qXxnrHeS7NSqcuQqR_5IKAl",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJY5phZfHoDDkRAAAAMPdB73g",
+            "plus_code": {
+                "compound_code": "GC65+H4 Noida, Uttar Pradesh",
+                "global_code": "7JWVGC65+H4"
+            },
+            "rating": 0,
+            "reference": "ChIJY5phZfHoDDkRAAAAMPdB73g",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "11 noida, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5158794,
+                    "lng": 77.4717201
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51711907989273,
+                        "lng": 77.47295322989272
+                    },
+                    "southwest": {
+                        "lat": 28.51441942010728,
+                        "lng": 77.47025357010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mohan Palace Cinema Hall",
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110018562850976557450\">brajesh namdev</a>"
+                    ],
+                    "photo_reference": "AcYSjRjsf59_IIY9BuMBO-vYH416oaf8ZoQNZuw6ANidqchabGFJo3F2rFfQU-DfSycrRFi7OGYGdZfw76Sv34fDyrzbbGJxMHbsiChhAsU4t7LK6o3UDIULndjNCxxA98Szz6VIv_n3pLms6fywl4OwNjQ5SlfR3c6VOEtFMQpkcRHnlJXH",
+                    "width": 398
+                }
+            ],
+            "place_id": "ChIJg9Byc9brDDkROxWs5uH64Ug",
+            "rating": 3.5,
+            "reference": "ChIJg9Byc9brDDkROxWs5uH64Ug",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35,
+            "vicinity": "GF8C+9M5, Surajpur, Greater Noida"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 28.5375128,
+                    "lng": 77.4074818
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.53886262989272,
+                        "lng": 77.40883162989273
+                    },
+                    "southwest": {
+                        "lat": 28.53616297010728,
+                        "lng": 77.40613197010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "VIDALLON MINI SOUND",
+            "permanently_closed": true,
+            "place_id": "ChIJdUxcWbvpDDkRihpOhVvjE2o",
+            "plus_code": {
+                "compound_code": "GCQ4+2X Noida, Uttar Pradesh",
+                "global_code": "7JWVGCQ4+2X"
+            },
+            "rating": 0,
+            "reference": "ChIJdUxcWbvpDDkRihpOhVvjE2o",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Phase2 Block16 Lot27 Pamayanang Maliksi, Pasong Kawayan II, General Trias< Cavite, Phase-2, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4725407,
+                    "lng": 77.4966513
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47391247989272,
+                        "lng": 77.49810612989272
+                    },
+                    "southwest": {
+                        "lat": 28.47121282010728,
+                        "lng": 77.49540647010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ctrl Alt Cinema",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100758394690444758115\">Meghnaa Kothari</a>"
+                    ],
+                    "photo_reference": "AcYSjRhTXDZbO_HMBoWNnAUUF4N7RVRdGgY0vvfGNFLm3pTo-yLuZ5nvVln7n4VaSKdjLd0xkVsgt_WPISTMRwc4G7gL5G8t0vq9LGjhI0ogh_08yIgvyt_S9ZNc9qodlI99EuZzM0hLFjtquc6TGecDlZ2PoKMEEbdwizvFrjsC67fasqgl",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJjVNlEFTrDDkRkWq9IlAqgn4",
+            "plus_code": {
+                "compound_code": "FFFW+2M Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFFFW+2M"
+            },
+            "rating": 4.9,
+            "reference": "ChIJjVNlEFTrDDkRkWq9IlAqgn4",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Kaladham Society, Knowledge Park II, Greater Noida"
+        }
+    ],
+    "status": "OK"
+}

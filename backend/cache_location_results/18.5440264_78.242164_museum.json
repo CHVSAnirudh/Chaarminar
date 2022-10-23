@@ -1,0 +1,133 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4857061,
+                    "lng": 78.28381399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.48710757989272,
+                        "lng": 78.28499307989273
+                    },
+                    "southwest": {
+                        "lat": 18.48440792010728,
+                        "lng": 78.28229342010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Sc Camuinitey hall",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111481161970654936015\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhrvx9QVwPugmpvvS6jZjCCJymvAl2DFfjB0A7Dbk47TqD0Xs9qNpZl_5DCyCSGvfQ0gX7ef6eNGO0nQSUAqL8dwpbrTTe1Bn-KodFC8vBn801VXXwMub0ecQ0FfFAE0iVWJYhKIJsm9Tm2tes0te6vzUQwnnTkSOz4N5bIiyUYki8r",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJLevXMIjLzTsRVK3cqGyBRw8",
+            "plus_code": {
+                "compound_code": "F7PM+7G Sirnapally, Telangana",
+                "global_code": "7JCWF7PM+7G"
+            },
+            "rating": 5,
+            "reference": "ChIJLevXMIjLzTsRVK3cqGyBRw8",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Sirnapally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4643783,
+                    "lng": 78.1480043
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.46566317989272,
+                        "lng": 78.1493322798927
+                    },
+                    "southwest": {
+                        "lat": 18.46296352010728,
+                        "lng": 78.14663262010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Dargah (Peer)",
+            "place_id": "ChIJO7R_h_HNzTsRz9yGPJsInss",
+            "rating": 0,
+            "reference": "ChIJO7R_h_HNzTsRz9yGPJsInss",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "F47X+Q62, SOMARAM, Yacharam"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 18.4847515,
+                    "lng": 78.2819626
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.48613632989272,
+                        "lng": 78.28332407989271
+                    },
+                    "southwest": {
+                        "lat": 18.48343667010728,
+                        "lng": 78.28062442010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Chatrapathi Shivaji Statue",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108410999286823179629\">Praveen Gopu</a>"
+                    ],
+                    "photo_reference": "AcYSjRi61rkob4Olj97RA0xYB8Qco8ylISsCLZVoGTUsNKm9gTjHa6971_TvpI_Dva84OqIZAjshnzUReFsthJw0-q21Z780mcGC2w_P-bTZIdWAyU8XOA6YHuCHqBsudbIKZ2qrXsN0gIsTg6P7LjCwwA2NVvP0F-_ZIqvLCZdWezxegSBZ",
+                    "width": 1536
+                }
+            ],
+            "place_id": "ChIJ_at4H4bKzTsR89J2IdJ4a3A",
+            "rating": 5,
+            "reference": "ChIJ_at4H4bKzTsR89J2IdJ4a3A",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "F7MJ+WQ4, Sirnapally"
+        }
+    ],
+    "status": "OK"
+}

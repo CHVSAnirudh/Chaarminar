@@ -1,0 +1,979 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRh6FIk0nG8QLUyWo9bxEUqd_FfiMvVHGsH5NH3vJQgnYXdictXsdy-p6yUEo2QmrnqTo--oK4zC4fFiUpYHk7hD5bul4Nua800mMnTJ3TKHtXBIwFqysbeboY_L2dpaNKh0AV9uOAjgJoRmKCIlCKFDmgHX8oluFa-wSEFgFnCFEK5wZOO-JJwYjJdeKmxgMIN5fx6m3JAdBe0hBuGRtSCjPz4g6dI2tO_nB4PLx4oIQCz6OiTWRfstubc6aKZGXX6G341Kn3He6uGIypZvIQAuUvU56BPxDvcgPNiAXIJaFsH0O6S5sI0Kog6AgV2Td57IfxFkNuQIFeKODZJ12MBbH87fErqFYXQce241-1d6iKPpCA47s1FlROMBOl7-TlVzAAT1Ox-QhWLW5Z8qEkf3Bjq7X8JWjsaUkdtNDQUbvOpf9sTf",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6300607,
+                    "lng": 77.0812322
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63146992989272,
+                        "lng": 77.08292157989274
+                    },
+                    "southwest": {
+                        "lat": 28.62877027010728,
+                        "lng": 77.08022192010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Liquid Bar & Lounge",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103363451852658311740\">Yash Raj</a>"
+                    ],
+                    "photo_reference": "AcYSjRgACdw_DXSXs4pzKS1XV9Pgfqv0iHXqSBafy37eNx-oBNthAj3v7dnZ4CxlXPMftkluj4pJSg8kplCMKs54-_ldBzg6wIH8fQn1ZoXuqdpOqT8Hbr6zQFos1c3YbOCVW50U0BtcD2ouKwxELBYpddQv2zVQ7dfj5wfZy6YwRhJUHWbZ",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJJahfrnwBDTkRPUdPohdz1TM",
+            "plus_code": {
+                "compound_code": "J3JJ+2F Janakpuri, New Delhi, Delhi",
+                "global_code": "7JWVJ3JJ+2F"
+            },
+            "rating": 3.9,
+            "reference": "ChIJJahfrnwBDTkRPUdPohdz1TM",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 319,
+            "vicinity": "West Metro Station, Jaina Tower 1, Districk Centre, TC, Janakpuri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6241356,
+                    "lng": 77.063206
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62548512989272,
+                        "lng": 77.06455517989272
+                    },
+                    "southwest": {
+                        "lat": 28.62278547010728,
+                        "lng": 77.06185552010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "10/10 cafe lounge",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 810,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101402187562122370942\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhh19TxwUVMueUvY4URsJHvLq2ZKElDMJSnxnO5fvLbSNElrrftSzlhEfMgui4j3uMwkSe1fZ6MJ5PlZ4xNTCowNRIe8y4qU5r8PrdDCQ6eHwVdZ0tSZR446N-2D7XkymzvWDCOnsb2n-Mu5aZOW1JfhxxvxDVX00PCUdsRcrhLSUU9",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJH5YU4IsFDTkRV0ixdyFbbWg",
+            "plus_code": {
+                "compound_code": "J3F7+M7 Delhi",
+                "global_code": "7JWVJ3F7+M7"
+            },
+            "rating": 3.8,
+            "reference": "ChIJH5YU4IsFDTkRV0ixdyFbbWg",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Wz 246 b /5, opp. pillar no 657, Uttam Nagar East, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6290985,
+                    "lng": 77.0826087
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63039322989272,
+                        "lng": 77.0839978798927
+                    },
+                    "southwest": {
+                        "lat": 28.62769357010728,
+                        "lng": 77.08129822010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "BarShala",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 645,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100662530262317642520\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjmmtZG3NDz-6dqmff4dcVpJwDKoxn2L9xVgelxhU2jMukCYe3sXOjQ_gNnxobp__R1pa1XLjoQQoYsd5o0Avb6dOhEsevTNQ6FrcffiKAfptQaLmu4uxZEQXqtk4A0Jd2mJvLcICtjtvfapdQcE56IxuQBh5JBqpEVH_znvrKgHH96",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJTxrH4L4EDTkRvxhr-tomXx8",
+            "plus_code": {
+                "compound_code": "J3HM+J2 New Delhi, Delhi",
+                "global_code": "7JWVJ3HM+J2"
+            },
+            "price_level": 1,
+            "rating": 4.2,
+            "reference": "ChIJTxrH4L4EDTkRvxhr-tomXx8",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "liquor_store",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4946,
+            "vicinity": "29, ND-58, opp. Janakpuri Authority, Janakpuri District Center, Janakpuri, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6724173,
+                    "lng": 77.0780723
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.67375862989273,
+                        "lng": 77.07945082989272
+                    },
+                    "southwest": {
+                        "lat": 28.67105897010728,
+                        "lng": 77.07675117010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "United cocktails & fizz services",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113122739546798491545\">gautam soni</a>"
+                    ],
+                    "photo_reference": "AcYSjRi8KPU7ADxhIjysDsGHZD12kv_8gPOQfvxNhXA6_otFucLC9M3HNoJKQtKPISJdymj7w94z_FtX_CoxVAvUbBbMUJvlMGcIhsSemg4UkQLFu5ecSpgvSJTJdsD4Iqq-_Y8Bgd_vyjpeNTjkWbfgXXXhoQb3ANBEvlMbHuWsoRwtyt7P",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ3Szgq4MFDTkRhzcd7i_T2rc",
+            "rating": 5,
+            "reference": "ChIJ3Szgq4MFDTkRhzcd7i_T2rc",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "M3CH+W6F, PVC Market, Jawalapuri Extension, Paschim Vihar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7124762,
+                    "lng": 77.10347829999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71392777989272,
+                        "lng": 77.10488912989271
+                    },
+                    "southwest": {
+                        "lat": 28.71122812010728,
+                        "lng": 77.10218947010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Liqouifire Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114570107560221356336\">Dilli De Munde</a>"
+                    ],
+                    "photo_reference": "AcYSjRhj-lgNCTGvMfUmQpeDChHuRfYLU7VSkLDue6u0vMZ1SeYdyjrdZanCAAf4cDo8yhhYQjKgHtDtgxeg1P8R5dNf12Jfyyry0dnAv_eDj_36X9CHxZiGwunYtB42qBuJEG7APLN6zTlaiDFuXqNAV2JfvPkn5zvkoYHzjEIerCpyYjUU",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJS65hJlMBDTkR0Pc-9RxrwFI",
+            "plus_code": {
+                "compound_code": "P463+X9 Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP463+X9"
+            },
+            "rating": 3.8,
+            "reference": "ChIJS65hJlMBDTkR0Pc-9RxrwFI",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 94,
+            "vicinity": "2nd floor plot no.10 service centre, above Axis Bank Branch, Sector 5, Rohini"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6983936,
+                    "lng": 77.1146648
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69975787989272,
+                        "lng": 77.11607952989273
+                    },
+                    "southwest": {
+                        "lat": 28.69705822010728,
+                        "lng": 77.11337987010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Jannat- the heaven Restaurant and Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2168,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107072287262765519808\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgCXutSByLKRGPaKPBvaT5Hn0f9MgyNk7q057O-w152EhpiibBwuRnuVxlaAkvEmyBiwJKcjA-qsCqxAdpLZuwndaowdzSd6huuvSX7k2V-_SABZuHJ7qgLsEndS36XdkWacQn3xLR-63pQvEc0n4i9wFKn-xgdgdIMdLnZRUAhVC_9",
+                    "width": 3616
+                }
+            ],
+            "place_id": "ChIJ9ZFytL0DDTkRcXWsn2BlIkQ",
+            "plus_code": {
+                "compound_code": "M4X7+9V Delhi",
+                "global_code": "7JWVM4X7+9V"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ9ZFytL0DDTkRcXWsn2BlIkQ",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "cafe",
+                "night_club",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 359,
+            "vicinity": "Unit No : 210 to 217 , 2nd floor Mangalam Paradise Mall, Sector 3, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6297388,
+                    "lng": 77.11328449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63107367989272,
+                        "lng": 77.11464477989273
+                    },
+                    "southwest": {
+                        "lat": 28.62837402010727,
+                        "lng": 77.11194512010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "CHILL BAR",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104889222200769123650\">puja jain</a>"
+                    ],
+                    "photo_reference": "AcYSjRght3O28AwoRX-VQYBFK5PJi0r3iCeTjRlNPigG1sRRkOHnV7DKB6SI0mjZqOuErLtkEc02awMBgn3JOv5MeT34Ru7zWvNe9TrCHhoKMeZ0Hm0XDcwrViYpQ53dEsEo4I_YOCGvoWw4IepErrWz8V4Q5jIBK-1C5tkuwEBwTnsRs7WU",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJeyX_T1sDDTkRAO7YjGH2eSY",
+            "plus_code": {
+                "compound_code": "J4H7+W8 New Delhi, Delhi",
+                "global_code": "7JWVJ4H7+W8"
+            },
+            "rating": 3.9,
+            "reference": "ChIJeyX_T1sDDTkRAO7YjGH2eSY",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "3, Mahakavi Goswami Tulsidas Marg, Hari Enclave, Hari Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6174296,
+                    "lng": 77.1114485
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61881037989272,
+                        "lng": 77.11276922989272
+                    },
+                    "southwest": {
+                        "lat": 28.61611072010728,
+                        "lng": 77.11006957010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "SAAKI Restro & Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 605,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116907973143833660079\">Soumen Mishra</a>"
+                    ],
+                    "photo_reference": "AcYSjRhK8ZofOPdtfIUKBaC4DZgbg0X01dID-5qrChYI_f6ILWwcvxn0BO-Bgr_fhbIuBl2_xSm586TcAr7Q_OpZMmkDz9O7DNqjM3cnJiNvfzRJJJGuetjOMKan44ZIOlRQKGWMB7HwwU9-2FP4H4WuSQ-werO5DOIvumosGKZX-yi2fIlT",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJqb44qkgDDTkRw0G-jUM4HaY",
+            "plus_code": {
+                "compound_code": "J486+XH New Delhi, Delhi",
+                "global_code": "7JWVJ486+XH"
+            },
+            "rating": 3.9,
+            "reference": "ChIJqb44qkgDDTkRw0G-jUM4HaY",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 121,
+            "vicinity": "D-4, Satguru Ram Singh Rd, Mayapuri Industrial Area Phase II, Mayapuri, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6959952,
+                    "lng": 76.9213675
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69743267989272,
+                        "lng": 76.92277757989272
+                    },
+                    "southwest": {
+                        "lat": 28.69473302010728,
+                        "lng": 76.92007792010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "The Bank Bar & Lounge",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114470069393767387797\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgSvu6p1OTtkvH6T2LrlE-EVY0nzxOrzyT9Kn5O1Y30NkjwdUxZsQ3R-AExyvAnRG_AlVt3TtER1W5HREIKypA6-0y5kuLw5rxeauvbn-0bab0RPc1OaAxW4guEvWtrqMTLdis03WVOQiQSLnfzyi6zD1A4hGLtXW0law680W2ocmve",
+                    "width": 4928
+                }
+            ],
+            "place_id": "ChIJHxtXDlcJDTkRYWex8yebLfo",
+            "plus_code": {
+                "compound_code": "MWWC+9G Bahadurgarh",
+                "global_code": "7JWRMWWC+9G"
+            },
+            "rating": 3.8,
+            "reference": "ChIJHxtXDlcJDTkRYWex8yebLfo",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 189,
+            "vicinity": "Delhi Rohtak Road, Adjacent PNB Bank, Bahadurgarh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6239721,
+                    "lng": 77.0499925
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62532087989272,
+                        "lng": 77.05137822989272
+                    },
+                    "southwest": {
+                        "lat": 28.62262122010728,
+                        "lng": 77.04867857010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Bar Chemistry Delhi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117799732701867795115\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRindkeW2Sr5g89d9KAiiLJcNej_IkVuuI6HRJ0-u4oaTNZ0M3ReAWqd_cz9652WDv-cIZBCQMfc0jnGXZMIkp2FDP-r-NQMHXWQZEWSNcGd5btPjLN9KLYQAdULwDv_SnJxsH-ajIgRD7564BpiPc3sSgjOTEb_AOcsRMAEYDSXgtfX",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJXzFsj2IFDTkRBYPtjLWu6-o",
+            "plus_code": {
+                "compound_code": "J2FX+HX New Delhi, Delhi",
+                "global_code": "7JWVJ2FX+HX"
+            },
+            "rating": 4,
+            "reference": "ChIJXzFsj2IFDTkRBYPtjLWu6-o",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "E- 56 B, Chankya Place, Part- 1, Uttam Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6636273,
+                    "lng": 77.1061694
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66498652989273,
+                        "lng": 77.10755347989272
+                    },
+                    "southwest": {
+                        "lat": 28.66228687010728,
+                        "lng": 77.10485382010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "yuganshu mittal",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJz65hZrQDDTkR-s7eTHmgDRE",
+            "rating": 0,
+            "reference": "ChIJz65hZrQDDTkR-s7eTHmgDRE",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "M474+FF3, B4 Block, Paschim Vihar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6328994,
+                    "lng": 77.085169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63422762989272,
+                        "lng": 77.08653037989271
+                    },
+                    "southwest": {
+                        "lat": 28.63152797010728,
+                        "lng": 77.08383072010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Liquor",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJf3UuYfgFDTkRR3ZT5UlKmkI",
+            "plus_code": {
+                "compound_code": "J3MP+53 New Delhi, Delhi",
+                "global_code": "7JWVJ3MP+53"
+            },
+            "rating": 0,
+            "reference": "ChIJf3UuYfgFDTkRR3ZT5UlKmkI",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "775, Najafgarh Rd, New Mahavir Nagar, Tilak Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.711938,
+                    "lng": 77.10317409999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71323517989272,
+                        "lng": 77.10459582989272
+                    },
+                    "southwest": {
+                        "lat": 28.71053552010728,
+                        "lng": 77.10189617010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "The Metro Restaurant and Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110747235087399399156\">Ankur Saxena</a>"
+                    ],
+                    "photo_reference": "AcYSjRguaZxXIuS-Ge_kjibLFvFBmWWkYHyjvNCM2ustZA2rkc7aN_5WY-AXr5QPr_otArRKEizBSsUIzVV8U0Z4NdQwEt3X0x4liKcWCItXHI4VAuyLIOLcR1BBYpQrd6ZCefeVcxrAp9mpF6t38A9iZsDYyxtnwutDfIfu8GbwriaOyjXS",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ5aYgMlMBDTkRUCc8me3KyVs",
+            "plus_code": {
+                "compound_code": "P463+Q7 Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP463+Q7"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ5aYgMlMBDTkRUCc8me3KyVs",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 89,
+            "vicinity": "Aggarwal Plaza, Sir Chotu Ram Marg, Sector 5, Rohini, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6463938,
+                    "lng": 77.11648149999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64771907989272,
+                        "lng": 77.11785292989272
+                    },
+                    "southwest": {
+                        "lat": 28.64501942010728,
+                        "lng": 77.11515327010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Bar &Lounge",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110255187622928283692\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiLX1hmf7tFcK-Ya4BcgK9wF1Fnn-EACoEpGf5k-qArMGwXpp47MRKaswRqUu8NgiOWhFqq8rwqwcYuPsekxb7zfZ34E4oWlTObNVo6ZWBY6bkEsW4lq7l9MMc5Qh-2aphNU1niaWCFawqPrxj4AARDRecz5im4HHiPCoEIjvlNSTLZ",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJaRP8TygDDTkRXmIjycNo608",
+            "plus_code": {
+                "compound_code": "J4W8+HH Delhi",
+                "global_code": "7JWVJ4W8+HH"
+            },
+            "rating": 4,
+            "reference": "ChIJaRP8TygDDTkRXmIjycNo608",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Block DE, Tagore Garden, Rajouri Garden, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6209746,
+                    "lng": 77.0453866
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62232362989272,
+                        "lng": 77.04675817989273
+                    },
+                    "southwest": {
+                        "lat": 28.61962397010728,
+                        "lng": 77.04405852010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Hooka Aasan walo ka",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJk5j8PkkFDTkRLgk0C8ilx1Q",
+            "rating": 0,
+            "reference": "ChIJk5j8PkkFDTkRLgk0C8ilx1Q",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J2CW+94W, Hanuman Mandir Rd, near Metro Station, Shyam Park, Nawada Majra Village, Nawada, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.69102449999999,
+                    "lng": 76.9320549
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69243812989272,
+                        "lng": 76.93342502989273
+                    },
+                    "southwest": {
+                        "lat": 28.68973847010728,
+                        "lng": 76.93072537010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Eagle party hall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 787,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103799990245478561225\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhPNYwiUsrQV7k-r8ZFxXfUKjjxEqshzTRwNHhJPusQHWJobuHOYkjemgdQPaImkAnK_7OKFgmxEgRcIXoWOm73TT5P57UxOV-UFT5weNwFy6CbSxEdFkB5WVJFBPFiOD_QCWDpW8KMmQbZMQIxVmdT3_Hl3SUi8KnrqNxRyF35Cfwk",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ2WfW4n8JDTkRl44W9DbRpVM",
+            "plus_code": {
+                "compound_code": "MWRJ+CR Bahadurgarh",
+                "global_code": "7JWRMWRJ+CR"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ2WfW4n8JDTkRl44W9DbRpVM",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Metro pill or no 841, Main, Delhi - Rohtak Rd, opp. PC jewellers, Bahadurgarh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6191412,
+                    "lng": 77.0286385
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62052582989272,
+                        "lng": 77.02999012989272
+                    },
+                    "southwest": {
+                        "lat": 28.61782617010727,
+                        "lng": 77.02729047010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Cheers and beers",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116526880344025754053\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjNYjdSORxtQPeBAowsD7hdFxPkBfw3KMVUGiHTeMbaQLnfOCIBkpdbbyW534s_jg6o7R5r9ETp-CE2LokoiN9ST_xYcxcpM61PkIBOyJ09d0hilROwKzsPjiyDhSSLqy9keEPjfVIEZlQrmE9Ua0kmiDTHGnp_EyYVr2zl-7k3t0yV",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJk9CF0AsFDTkRHkt4M-pcQhU",
+            "plus_code": {
+                "compound_code": "J29H+MF Dwarka, New Delhi, Delhi",
+                "global_code": "7JWVJ29H+MF"
+            },
+            "rating": 4.1,
+            "reference": "ChIJk9CF0AsFDTkRHkt4M-pcQhU",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "Plot 454 1st flor metro pillar 795 near dwarka more Delhi, Dwarka, mor"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.680261,
+                    "lng": 77.0878827
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.68164757989272,
+                        "lng": 77.08923797989272
+                    },
+                    "southwest": {
+                        "lat": 28.67894792010728,
+                        "lng": 77.08653832010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Leeway Bar & Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJmxjbnpAFDTkRvxVC5OT4Pug",
+            "plus_code": {
+                "compound_code": "M3JQ+45 Delhi",
+                "global_code": "7JWVM3JQ+45"
+            },
+            "rating": 4.3,
+            "reference": "ChIJmxjbnpAFDTkRvxVC5OT4Pug",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Metro Pillar Number 300, Plot No RR 9, Mianwali Nagar, Paschim Vihar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6285436,
+                    "lng": 77.0745488
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62983192989272,
+                        "lng": 77.07592887989271
+                    },
+                    "southwest": {
+                        "lat": 28.62713227010727,
+                        "lng": 77.07322922010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "THEevent BAR",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJS0lWaMEEDTkRfCxmiDTaOwM",
+            "plus_code": {
+                "compound_code": "J3HF+CR New Delhi, Delhi",
+                "global_code": "7JWVJ3HF+CR"
+            },
+            "rating": 0,
+            "reference": "ChIJS0lWaMEEDTkRfCxmiDTaOwM",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Plot No.4, Ist Floor, Najafgarh Rd, Bijwasan, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.754607,
+                    "lng": 77.111136
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.75592247989272,
+                        "lng": 77.11253962989272
+                    },
+                    "southwest": {
+                        "lat": 28.75322282010728,
+                        "lng": 77.10983997010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Mal Ka point",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJw7JRM48BDTkRJ1FDjoCMIOw",
+            "plus_code": {
+                "compound_code": "Q436+RF Delhi",
+                "global_code": "7JWVQ436+RF"
+            },
+            "rating": 0,
+            "reference": "ChIJw7JRM48BDTkRJ1FDjoCMIOw",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1467, Sector 27, Rohini, Delhi"
+        }
+    ],
+    "status": "OK"
+}

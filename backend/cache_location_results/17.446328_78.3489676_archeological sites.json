@@ -1,0 +1,339 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.383309,
+                    "lng": 78.4010528
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.38494122989272,
+                        "lng": 78.40453939999999
+                    },
+                    "southwest": {
+                        "lat": 17.38224157010728,
+                        "lng": 78.3998906
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Golconda Fort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116569541356763939313\">praveen reddy</a>"
+                    ],
+                    "photo_reference": "AcYSjRhACEipCIXf_DkjqfxA9vHvyQxbElHNawYI9GdXrcGQRdU9Kct-unhL9GS2792kl6rJBAU5Y8xHSJJ17FeMK9tPKPimSsfpoJRW6pBXoqjr22Jd-9yv-yXDLF3GOXfcBR3ImsH-eKRLsIr50lB2pRqqC-vcK8D2CKnAREGlIk0jO-OO",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJj6mupo6WyzsRWjNa1t_sdms",
+            "plus_code": {
+                "compound_code": "9CM2+8C Hyderabad, Telangana",
+                "global_code": "7J9W9CM2+8C"
+            },
+            "rating": 4.4,
+            "reference": "ChIJj6mupo6WyzsRWjNa1t_sdms",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 100330,
+            "vicinity": "Khair Complex, Ibrahim Bagh, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3950024,
+                    "lng": 78.3967945
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39649632989272,
+                        "lng": 78.4016574
+                    },
+                    "southwest": {
+                        "lat": 17.39379667010727,
+                        "lng": 78.39511979999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Qutb Shahi Tombs",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107944132785845957563\">Ravishankar Chaubey</a>"
+                    ],
+                    "photo_reference": "AcYSjRg0SFKcRDnu99_4BRaI2NdRfOd8WtvMUKJ7Pzt5dhhRxhEg_Z_mZ0QlB48XDWxuKmvHSOKcUTR0orA2_aj04a4o5DHbwhcypfYeS4Dt52iKGRQ4rieu7IiMcdzYO8SxLdV7o4frsqnD3qRoqkM55ti4uCI4qa6uPNTdZYGu2nHVU_zn",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJEadvQpeWyzsR9dHNyw6hS4A",
+            "plus_code": {
+                "compound_code": "99WW+2P Hyderabad, Telangana",
+                "global_code": "7J9W99WW+2P"
+            },
+            "rating": 4.4,
+            "reference": "ChIJEadvQpeWyzsR9dHNyw6hS4A",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16763,
+            "vicinity": "Qutub Shahi Tombs, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3842008,
+                    "lng": 78.4027919
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.38548227989272,
+                        "lng": 78.40436847989271
+                    },
+                    "southwest": {
+                        "lat": 17.38278262010728,
+                        "lng": 78.40166882010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bala Hissar Darwaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112568650569316790825\">Paata Vardanashvili</a>"
+                    ],
+                    "photo_reference": "AcYSjRglrhxxkhJHr8RuM0jC6G1cKPqKwjJ5Ajjki-OM6j0tFCtPWIuQnxM5a6adlXGRlpJR4uDB65RNBREIjvs3zVzQ3_MX7Abtbqrknb3DnSKPchMlwpd1MHSuFjKcSyXS0d-yOVwKhLiT30I7pCurpZUIS3C5BXhA6WwK9uNt4puXn2nN",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJv27XO4yWyzsRl9j36JwqKw8",
+            "rating": 4.4,
+            "reference": "ChIJv27XO4yWyzsRl9j36JwqKw8",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1143,
+            "vicinity": "9CM3+M4M, Khair Complex, Golconda Fort, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3837235,
+                    "lng": 78.40037269999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.38704645,
+                        "lng": 78.40158937989271
+                    },
+                    "southwest": {
+                        "lat": 17.38261585,
+                        "lng": 78.39888972010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Qutub Shahi Masjid",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112620211774964317995\">sai vyshnavi</a>"
+                    ],
+                    "photo_reference": "AcYSjRjXPIfb2Wdvng-BO6o1Y1sDa6Pcx-u7ZOHgIJB7bzA2MO8WvXlVQkFarp-N7nzTw06rOhxuUpaElC9bgoV5onB2QErxewa98VzCyvMT1q1Xczb_t2aRQCAYtovKDGps71RY2kL7qoN4AjRsRCPeHIwiwtAvWu7Cs9v7x10DNLIUpbht",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ4Q3flI6WyzsRG6Mt5yBwq_w",
+            "rating": 4.4,
+            "reference": "ChIJ4Q3flI6WyzsRG6Mt5yBwq_w",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 86,
+            "vicinity": "9CM2+F4Q, Khair Complex, Golconda Fort, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4416749,
+                    "lng": 78.36044969999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44300617989272,
+                        "lng": 78.36181552989271
+                    },
+                    "southwest": {
+                        "lat": 17.44030652010727,
+                        "lng": 78.35911587010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Gacchi Baoli stepwell",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109709562655830527643\">kartikey kashyap</a>"
+                    ],
+                    "photo_reference": "AcYSjRi7AZDCR0HrJv7n4snasEiluDYn5VPR_NMvmWwPd32jlW1LKWVFrnagIeBt6Xx-G7D_FfPVmRmkieprtQ7t5_Fil4ItvmNVi1ZhGk9WCPDJz8VA-WIWfPS7qWRR50G1GFD_fn6NXy0r1NVIQ1aO9rtwV60jWQIpmR7hg-3IFWrc87JP",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJW8ScURaTyzsRqBpYHT53scA",
+            "rating": 4,
+            "reference": "ChIJW8ScURaTyzsRqBpYHT53scA",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "C9R6+M58, Rajiv gandhi Nagar, Gachibowli, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4416929,
+                    "lng": 78.3390403
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44356797989273,
+                        "lng": 78.34003977989273
+                    },
+                    "southwest": {
+                        "lat": 17.44086832010728,
+                        "lng": 78.33734012010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mutta Rock",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118184351518097501745\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjGhmGr5Jr-C_I7jHD5NL0JWws72aI5SuIFyL-O3dZ4B6zgfvGqadbgjqfhqHJ3ihfqPo2komXuMK7zSaIvaHHzxTiNZXqrOTgnUGSYdTGCM-44w-ggL_YiwNxugPYBhT2C6M1VMPegNXv_IDnchavMx2uC6Qppg7TCvJljrOlkYT5d",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJl90J3IOTyzsR95xqnIICPNU",
+            "rating": 4.8,
+            "reference": "ChIJl90J3IOTyzsR95xqnIICPNU",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "C8RQ+MJ9, Gachibowli, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3773022,
+                    "lng": 78.3542532
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.37865462989272,
+                        "lng": 78.35558922989273
+                    },
+                    "southwest": {
+                        "lat": 17.37595497010728,
+                        "lng": 78.3528895701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Chetrapati Shivaji Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118272738258591732357\">gompa ramakrishna</a>"
+                    ],
+                    "photo_reference": "AcYSjRhUH1uPDftD8m6r51j2lZrKjSgTNijVjcBL7pTpIQEc-JNhZC03mm93EnubG60YTHm-YB7BnczuHQOPQndbGp_taM5Y8dKPdyKEddiCbMlzg2ND5_IzzlYXTzDZh49n1NWztwGYH1UnUZDFZKGGLxTY76MLSt5PpxOtCcXCSUCOmrIi",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJo4I3XUyUyzsRxrXwdxba-8o",
+            "plus_code": {
+                "compound_code": "99G3+WP Hyderabad, Telangana",
+                "global_code": "7J9W99G3+WP"
+            },
+            "rating": 3.9,
+            "reference": "ChIJo4I3XUyUyzsRxrXwdxba-8o",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 55,
+            "vicinity": "126.3, Manchirevula, Hyderabad"
+        }
+    ],
+    "status": "OK"
+}

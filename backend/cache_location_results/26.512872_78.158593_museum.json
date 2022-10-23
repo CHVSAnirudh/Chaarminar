@@ -1,0 +1,53 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.4306996,
+                    "lng": 78.2041435
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.43202087989272,
+                        "lng": 78.20545292989272
+                    },
+                    "southwest": {
+                        "lat": 26.42932122010728,
+                        "lng": 78.20275327010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Padhavali",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100214821480947288311\">Prerna Chaturvedi</a>"
+                    ],
+                    "photo_reference": "AcYSjRi6UyrBCUk2BzDKeTw6W6MDdSXSym-Kf8ZWX2LtPrnTJE25SiqDikuWq79UohdkEVxLsbONL4pPaTf4dLFYUb-fMMEiesChGQ6ufYeGNkRADLY8vujkYp5ZWcoUQVIo-gABlA3WtRerCEQoAukIVlZJrkUDR3TzQ3RLaNxcCXKYGbJc",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJVVVVZXa8djkRSXJ2b4v9-b4",
+            "rating": 4.5,
+            "reference": "ChIJVVVVZXa8djkRSXJ2b4v9-b4",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47,
+            "vicinity": "C6J3+7MC, Padhavali"
+        }
+    ],
+    "status": "OK"
+}

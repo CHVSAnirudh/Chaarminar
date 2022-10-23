@@ -1,0 +1,953 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRirFoxxe5HOh0NZrWfcnQLXpw4Y6ol1GCmpBU7ZYOrNSN9xA18eOHSECQ7u7YWDD7DIhA9wYtcTl7JmKZ1CxrdoMbUFh2FImks_nH0MPpPVuVfKLloVDcx_G0hztKMTK47zb-_GS3ZOQY_Mo30Hu85gfVaHBqYXCqSI35VdM7OTbdTbma7P3ieTNrMdAYphezrMwPSYE5b2yA34xO-pq0pbzGtpggzXuIsX5mQvTuVcUPdMVwkhflneXhrJ_Ykwvjb4ShluPS_n4sGi0D3eXzmEVpB7DyxXOUhC7mxfpkLPatG_1c9Pyg3p0zmiH2FFXb7zFWCNRxs5qIYaG61hprL4PIAmMvWs3c_iYyyyfGeymTGAoFhU83GU5RZnTtp3iAJz8i0g1kgLL9FaTl7NYa510V6kwF5syF0FqVuw9RYXzyQIv17U",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4027774,
+                    "lng": 78.4452644
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40403507989272,
+                        "lng": 78.44662312989271
+                    },
+                    "southwest": {
+                        "lat": 17.40133542010728,
+                        "lng": 78.44392347010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Municipal Corporation Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1970,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118242999177419225361\">Karthik Smarty</a>"
+                    ],
+                    "photo_reference": "AcYSjRjMvFX-CjHZ7BEc6aBPwpQuJf1H5gsOYgYjl9Dw6UuzoTJeOuDOmEb73aT4TXXIiDDRs2JZUM3yAiHO4nQM3TVFpiXtqDK-9Vr_e9cCdzGu_10DB5l44jYNqvu_HtRyfFtYWELZdjHzWKYR57oK6KLmcfXc7bzQ0eNSshMpHibxCdfu",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ8wjLjD2XyzsR-YA79YbNhjU",
+            "plus_code": {
+                "compound_code": "CC3W+44 Hyderabad, Telangana",
+                "global_code": "7J9WCC3W+44"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ8wjLjD2XyzsR-YA79YbNhjU",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 513,
+            "vicinity": "Sri Ram Nagar Colony, Ahmed Nagar, Owaisipura Rd, Sriramnagar Colony, Ahmed Nagar, Banjara Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3999485,
+                    "lng": 78.40937219999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40133012989272,
+                        "lng": 78.41063472989272
+                    },
+                    "southwest": {
+                        "lat": 17.39863047010728,
+                        "lng": 78.40793507010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Aditya Nagar Colony Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103112602242400944899\">Muhammad Javeed</a>"
+                    ],
+                    "photo_reference": "AcYSjRgk8wf92CyWkGn5D8a0QFHBvQ-qxnxKSgJBIj02R1pbldrsTFjb5iZZEZoSZbhGuhyadEXmhHKUR8D-SxX3iGhGZEtA216Jbn23M6AcLywte0CAKe-jsLGn0LJ2A_nVCoSwYSfF9wG5FK0DxKSR5nbPQRy9VGOrJsiowbgELGnOvcGK",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJtayug-qWyzsRnouBqV5wkWk",
+            "rating": 3.8,
+            "reference": "ChIJtayug-qWyzsRnouBqV5wkWk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 364,
+            "vicinity": "9CX5+XPH, Aditya Nagar Colony, Surya Nagar, Toli Chowki, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4304544,
+                    "lng": 78.4424219
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43166292989272,
+                        "lng": 78.44391112989274
+                    },
+                    "southwest": {
+                        "lat": 17.42896327010728,
+                        "lng": 78.44121147010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sri Nagar Colony Park",
+            "photos": [
+                {
+                    "height": 2976,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108083798482374459354\">Srinivas Mamidi</a>"
+                    ],
+                    "photo_reference": "AcYSjRhd9nzmcJydzNZO1Rj1cT1-rMEsIFb8W6gkaRtjziAHlx6XtXaW9dncdizG06A9F4jLChENsi0IwQOM_4GSIhiHcBAYShGY4wUwKv-_mpwZJOac4rzF3sLSdglRqzG5BtCQSQHhKgggQ3jqGq9MG5NL8CUJmUV8Q_XCJUE6jNpGHsU0",
+                    "width": 3968
+                }
+            ],
+            "place_id": "ChIJfwrK6c2QyzsRJE4FFsF63Q4",
+            "rating": 4.1,
+            "reference": "ChIJfwrK6c2QyzsRJE4FFsF63Q4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1849,
+            "vicinity": "CCJR+5XM, Yella Reddy Guda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3970853,
+                    "lng": 78.4649546
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39856867989272,
+                        "lng": 78.46630737989271
+                    },
+                    "southwest": {
+                        "lat": 17.39586902010728,
+                        "lng": 78.46360772010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Nahid Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101763362150112591255\">Ali Anwer</a>"
+                    ],
+                    "photo_reference": "AcYSjRhPpZPzZAb8fpSZSUrZbBEfgiKnlLCB53BzlPonzdjTiFDSw89FLxNi104__tD1rM-GlOQm_E8zeqIrSjTgHfqXwmCge0sXUFokym-gPlXmtQHGyJztunEMdfA1w5dJs8VG3asDKTq2yEQRNb3nNjD2CIwUU7QkrNW8g3mu0jkwwmaJ",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJSdsR5mWXyzsRiJDBcbNUa-Y",
+            "rating": 4.2,
+            "reference": "ChIJSdsR5mWXyzsRiJDBcbNUa-Y",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 508,
+            "vicinity": "9FW7+RXP, Hill Park Rd, Red Hills, Lakdikapul, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3763825,
+                    "lng": 78.4423285
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.37782672989272,
+                        "lng": 78.44373062989273
+                    },
+                    "southwest": {
+                        "lat": 17.37512707010728,
+                        "lng": 78.44103097010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Municipal Park Karwan",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114179020826003520898\">veeru</a>"
+                    ],
+                    "photo_reference": "AcYSjRj2j6CY3dSbjw2bcDFuLvF3g2pso6ps-8iliugcdAGkh2Ei5AcEWMQzaeeRsACIF2QAAFEL8vS-7KpXJSmdoWAPaUeAAP5FqfbaTqijjyUPEfzVKAUwSDhMrKbbMISuZ46yOFMhLx_nuflmN22Tr3-4OuRXHD3wW3oBUjzyN72wLVbP",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJp_yRx6eXyzsRmPRjqQ8dejA",
+            "rating": 4.1,
+            "reference": "ChIJp_yRx6eXyzsRmPRjqQ8dejA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 238,
+            "vicinity": "9CGR+HW4, Kulsumpura, Gudimalkapur, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3912009,
+                    "lng": 78.4292353
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39249812989272,
+                        "lng": 78.43066027989272
+                    },
+                    "southwest": {
+                        "lat": 17.38979847010728,
+                        "lng": 78.42796062010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Padmanabhanagar Park",
+            "photos": [
+                {
+                    "height": 798,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107011592171762380438\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg5wfLkYrjAgP1oYDNG9lDvw2YgLP0Q54sgvExZX1t-DwpU7Kf9fRZFMQbTlvLwXQDCIJ6a7fDt3kxeFgVf_GfPt4qkEYLeOBX0eF9zIKaV9yvRHeXJDH5bsSysdmhWeARd_Qzi4kN31jG1kOYCMB7PT5MqB2_aB8jmm1F5oBAXStZc",
+                    "width": 1242
+                }
+            ],
+            "place_id": "ChIJjYVQcnWXyzsRLKAjuyoJQwg",
+            "rating": 5,
+            "reference": "ChIJjYVQcnWXyzsRLKAjuyoJQwg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "9CRH+FMQ, Sapthagiri Nagar Colony, Brindawan Colony, Rethibowli, Mehdipatnam, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3168831,
+                    "lng": 78.450304
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.31806047989272,
+                        "lng": 78.45173657989272
+                    },
+                    "southwest": {
+                        "lat": 17.31536082010728,
+                        "lng": 78.44903692010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "GHMC Park and Playground",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105582795302789664136\">Sai Tarun</a>"
+                    ],
+                    "photo_reference": "AcYSjRhq2bI3dGh7wuF_idqqbBf_EOhU5pKGBDHIuqgbEvQ8Oa9y5TqZ6M_wNnSGjPJc-23rn4Cv9l3Yd2923jWxn68W0JMHmG7xO9Q5jBpGPwwgqQgvKi_Z7CL1M5ii0QCwU6nTJIu47fd5YldIbymP2x90q6zG6WskXe4maUmps03Xq0Hz",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ7YvRomm9yzsRLXTDqhrYyfg",
+            "plus_code": {
+                "compound_code": "8F82+Q4 Hyderabad, Telangana",
+                "global_code": "7J9W8F82+Q4"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ7YvRomm9yzsRLXTDqhrYyfg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 133,
+            "vicinity": "8-2-198, Inner Ring Rd, Mylardevpally, Subhan colony phase ll, Chandrayangutta, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3931896,
+                    "lng": 78.491682
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39452212989272,
+                        "lng": 78.49308772989272
+                    },
+                    "southwest": {
+                        "lat": 17.39182247010728,
+                        "lng": 78.49038807010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Public Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115670906659035540055\">Sai chandra Nellikanti</a>"
+                    ],
+                    "photo_reference": "AcYSjRiKXWWfvAePCQm6Y9eRCgXQ0Dp1i6sUpHec1RFnmKknhpaSKVoWaXFIZ__blxZl1fEho43A5UdasulKMMhLXV9wIX20moRcXpau1ECuLEgxkfrZ7Z58B7p6AZo2aM0de7JeFep7IPIekZ_SSkgjizju8j65sYE0snOKplIdj5F3iXNB",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ__8_Qs-ZyzsRKjuX-oD2aRk",
+            "rating": 4.1,
+            "reference": "ChIJ__8_Qs-ZyzsRKjuX-oD2aRk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 42,
+            "vicinity": "9FVR+7MF, Basant Nagar Colony, Kachiguda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4376699,
+                    "lng": 78.4583607
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43901042989272,
+                        "lng": 78.45975432989273
+                    },
+                    "southwest": {
+                        "lat": 17.43631077010728,
+                        "lng": 78.45705467010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "GHMC Park",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116726208335821044992\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhPYSE1Hv4q0I-I8SCEYw9jUzzaaekCuDxdXW1CpOzmJy18PIyUuM3cXN_1dnFfTGkE-FCp7I7P8iA8NINekosbKxgLNl1_Lzqvg09UbOxW9lyE9uyBnbBsrVbeIw_MW605WxAHhUTMGX163qsYi0nBszL_K66hIAqYGJ9o-bUuqhgl",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJe-qHq7CQyzsRWVpVM0IPBL0",
+            "rating": 3.4,
+            "reference": "ChIJe-qHq7CQyzsRWVpVM0IPBL0",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "CFQ5+389, Amodfilms.Com Contact for Ad Films, Uma Nagar, Begumpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4367951,
+                    "lng": 78.4547656
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43810512989272,
+                        "lng": 78.45618027989272
+                    },
+                    "southwest": {
+                        "lat": 17.43540547010728,
+                        "lng": 78.45348062010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Pingale Public Park",
+            "photos": [
+                {
+                    "height": 12000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101242623885070354250\">murali rao</a>"
+                    ],
+                    "photo_reference": "AcYSjRgZjTHLXYakgtyiFpwx7pgsYenuL4XfTjM3mBasFO_lVj0NPURiyqEE0vqk781WfFv2vRNnWgIJ35ngqPOKFRLGm7294W7LBvVzR9dawu5qO_pZ17Y9nJoWvrjoe3fq2NKZAHcPyeoIIPUgOZ7c__3cGi_p_DI4Ys6JN3ywhfTQsGZm",
+                    "width": 9000
+                }
+            ],
+            "place_id": "ChIJdag0mreQyzsReZEiOFSE-8Q",
+            "plus_code": {
+                "compound_code": "CFP3+PW Hyderabad, Telangana",
+                "global_code": "7J9WCFP3+PW"
+            },
+            "rating": 3.7,
+            "reference": "ChIJdag0mreQyzsReZEiOFSE-8Q",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "7-1-22/12, Leelanagar, Ameerpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3300724,
+                    "lng": 78.5444543
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.33140587989272,
+                        "lng": 78.54592152989272
+                    },
+                    "southwest": {
+                        "lat": 17.32870622010728,
+                        "lng": 78.54322187010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Tulja Bhavani Nagar Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 534,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102311139328068533574\">balamoni revathi</a>"
+                    ],
+                    "photo_reference": "AcYSjRin5P-b4P9cqCPVDVKUcskmKyeMUAHo0Z3MVH41I1h8qxeDzFe0dKS3qXFObYtmxL_jWtS3ziAlhlyIGMOKerobWHNwxpiR12DZiv9_cOEw3Ic_B22XEQeECE6bmP_3-Y-rm2Sus1NoF4Ymbzpfb5HybetfLF24B05RmMl2NPsr1ydE",
+                    "width": 1156
+                }
+            ],
+            "place_id": "ChIJq77l-K6jyzsRlFs8cksspPw",
+            "rating": 4.3,
+            "reference": "ChIJq77l-K6jyzsRlFs8cksspPw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "8GJV+2QG, Road No. 7, Tulja Bhavani Nagar, Sriramana Colony, Hastinapuram, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4127823,
+                    "lng": 78.4897122
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41418577989272,
+                        "lng": 78.49106897989272
+                    },
+                    "southwest": {
+                        "lat": 17.41148612010728,
+                        "lng": 78.48836932010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Gandhinagar Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118024691362411143891\">Srinivasu Kondru</a>"
+                    ],
+                    "photo_reference": "AcYSjRjA5Jj1ifRO0zVfNPM2X3ccTkXGkWoISlbqAqUAE-E7LY_zgWQokBdYbPFwBm4DFBUn4s_3PF8c56fBE3BaYVg-yYx6D986wN0Nj7D6ywZCXTawAxemgsoHMMQlLNoBWPmW8PYSIwNjI9Qw7VmqEeCPUwFXP2wb97KOL67kOBvp-9pm",
+                    "width": 1836
+                }
+            ],
+            "place_id": "ChIJQUSA5O6ZyzsRyUc_dCIy4KY",
+            "plus_code": {
+                "compound_code": "CF7Q+4V Hyderabad, Telangana",
+                "global_code": "7J9WCF7Q+4V"
+            },
+            "rating": 4,
+            "reference": "ChIJQUSA5O6ZyzsRyUc_dCIy4KY",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1523,
+            "vicinity": "1-1-744, a/2, Street Number 4, opposite SBH & Canara Bank, New Bakaram, Usyatam Residency, Gandhi Nagar, Kavadiguda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.42543,
+                    "lng": 78.5073048
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42672532989272,
+                        "lng": 78.5088314798927
+                    },
+                    "southwest": {
+                        "lat": 17.42402567010728,
+                        "lng": 78.50613182010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Padmarao Nagar Main Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1294,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105331955796537017734\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjfsyFBTRlwKOAZ2QLv19vMbC3UquWvvumwxKG8XfxtuduzvJ-dtSRL2ifkAwg-w7-k2BRXEkac8zUYre2x24JgaqvyypaZ3eeGXqpl1WnkRSkjfeN-JmamlXtIRnyOYFqjtgSre6go-EG7eDjocvzK0IRQGFOGQGohPeUmyH2P15U8",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJK0mu74iZyzsR8BOm6VXoF8w",
+            "plus_code": {
+                "compound_code": "CGG4+5W Secunderabad, Telangana",
+                "global_code": "7J9WCGG4+5W"
+            },
+            "rating": 4.2,
+            "reference": "ChIJK0mu74iZyzsR8BOm6VXoF8w",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7040,
+            "vicinity": "H no: 6 133/16/2 6-1-333/1,P NO-58, Phase 1, MIGH Colony, Walker Town, Padmarao Nagar, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3746422,
+                    "lng": 78.4839853
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.37591517989272,
+                        "lng": 78.48541947989273
+                    },
+                    "southwest": {
+                        "lat": 17.37321552010728,
+                        "lng": 78.48271982010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Nahid Park",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117925361509486800785\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg3OVdjJQgLf2lD2ACpeNpArSAQG3MzWQifWIqPd9NKocGHVRuOMc1QGCx2zKnwx0GAedJ6WhCVAaJ_An9qyDU-RrhN53459ryBBZrzKWqwDW9sPMSDZTLIZMCYAeJBlFd_WtLk2FedXnxXRXOFp_F0A5mTrjKl3cLGAW0Kwj_iZjE",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJv4RqYy6YyzsRzpYKQDsaSjw",
+            "rating": 3.7,
+            "reference": "ChIJv4RqYy6YyzsRzpYKQDsaSjw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 169,
+            "vicinity": "Chaderghat Rd, Gowliguda North, Malakpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.426469,
+                    "lng": 78.44376439999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42781117989272,
+                        "lng": 78.44509187989273
+                    },
+                    "southwest": {
+                        "lat": 17.42511152010728,
+                        "lng": 78.44239222010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "MCH Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112219694425691223992\">rajeshwar k</a>"
+                    ],
+                    "photo_reference": "AcYSjRjvo4tBcn0y04DNDKKfUq-rr6L53ClXVdekSoFnDC074MBDuL2rr72pKf4tv9Zf1gXLQRPzRt1p_Q6BeBeSqWx9bmohGwJj4TaGzE7VUrydms5y7BRij0LcMzkrUA51WUo-7i-R8ZpETmtBQDO_ccePauTJxlAxilWZ4rFaaqEWrHgW",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJl2hiJs2QyzsRS5NCfBN10PQ",
+            "rating": 3.8,
+            "reference": "ChIJl2hiJs2QyzsRS5NCfBN10PQ",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 70,
+            "vicinity": "CCGV+HGJ, Kaifi Azmi Road, Panchavati Society Colony, AK Enclave, Green Valley, Banjara Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.39883,
+                    "lng": 78.51623719999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40014822989273,
+                        "lng": 78.51766827989272
+                    },
+                    "southwest": {
+                        "lat": 17.39744857010728,
+                        "lng": 78.51496862010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Central Excise Colony Park - I",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103203386247150311447\">Sunny ever</a>"
+                    ],
+                    "photo_reference": "AcYSjRg3aPrrVTzUp4bqSh0aoYjnlIFIZEn9-_1j4ul63L7Cenoi2F1ufAtl_abM1fNQCdE0wEpytD6QS3RNnCdL3OPswPclUMBgaBJZLCudPUepte7SuvjXfDT2w3iPpMr4BuMgID2t_iqBquKrxb5yozuO_eP1aFtR1V0hwf18EXN6usN_",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJXQiElKaZyzsRBCKeixOE0Mk",
+            "plus_code": {
+                "compound_code": "9GX8+GF Hyderabad, Telangana",
+                "global_code": "7J9W9GX8+GF"
+            },
+            "rating": 4.3,
+            "reference": "ChIJXQiElKaZyzsRBCKeixOE0Mk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 267,
+            "vicinity": "2-2-647/201/12/A/1, Street Number 9, CE Colony, MCH Colony, Bagh Amberpet, Amberpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4383304,
+                    "lng": 78.44139009999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43967997989272,
+                        "lng": 78.44281062989272
+                    },
+                    "southwest": {
+                        "lat": 17.43698032010727,
+                        "lng": 78.44011097010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111982282730913888116\">Manikanta mani</a>"
+                    ],
+                    "photo_reference": "AcYSjRhSDo9IsUokr-0e32EjH3QGNdRVPzNELB5IE7do5PwfbiQYe6njNeqITpl3Amy6v8R5RxhMnxG1wxiu1hgwYujjtERHvGDhZvCzDU1y8LIFAvE75VmkCC1fHeCJ1Gr0aG4nNWkU0aVwi4dgxDTzJ-MWAIDJlnGwQ1UNWERAdzDP7271",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJT2VuSsWQyzsR1NJPk67RuxY",
+            "plus_code": {
+                "compound_code": "CCQR+8H Hyderabad, Telangana",
+                "global_code": "7J9WCCQR+8H"
+            },
+            "rating": 3.9,
+            "reference": "ChIJT2VuSsWQyzsR1NJPk67RuxY",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 672,
+            "vicinity": "Srinivasa Nagar W, Srinivasa Nagar West, Ameerpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3498316,
+                    "lng": 78.5060326
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.35104547989272,
+                        "lng": 78.50755922989272
+                    },
+                    "southwest": {
+                        "lat": 17.34834582010728,
+                        "lng": 78.50485957010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "MCH Park",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107112418355359730930\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiBEX0_JaSjhKRFmEx9XtDO5KudTMKMoaSq3pPP_E-9TWE5HwheMihK1PNx54RpS42Eohe1_Ee_1movUvJvkZC8GEc0oTFb0GI0SjmE1uAWu53HDwiLEUybgMy9IMALlgqbSZHcIcdmTUgQOWLliejQL7Ik9mfAA_TlehvKRZHvRxAV",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ7SY3X9mZyzsRwskXH9HGkxA",
+            "rating": 3.8,
+            "reference": "ChIJ7SY3X9mZyzsRwskXH9HGkxA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "8GX4+WCM, SBI Rd, Central Excise Colony, New Santoshnagar, Santosh Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.443478,
+                    "lng": 78.4329743
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44487272989272,
+                        "lng": 78.43432002989273
+                    },
+                    "southwest": {
+                        "lat": 17.44217307010728,
+                        "lng": 78.43162037010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Kalyan Nagar Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104831684716345020396\">akkireddy</a>"
+                    ],
+                    "photo_reference": "AcYSjRjZ_HafqR2qEoUzHXCPCf--a8yhBLeVgWdgxVq0YcoEexzfVHnwD3-ZDiugp7iymi6zqjmVvOlu0nNrX6qXsMQf18Fj0ZhyXzFTWH5LnqUXQW9ZbZu7sheBDg-clwB3icYrd6KYoNsUbpIEabuyKmToB_WN0iec3Ig_PydR6lVJDjxX",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJUyIJ3N6QyzsRCVX_RZHFA04",
+            "rating": 3.9,
+            "reference": "ChIJUyIJ3N6QyzsRCVX_RZHFA04",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 70,
+            "vicinity": "CCVM+95X, Kalyan Nagar Phase 1, Siddarth Nagar, Ameerpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3653811,
+                    "lng": 78.5537756
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.36668157989272,
+                        "lng": 78.55512252989273
+                    },
+                    "southwest": {
+                        "lat": 17.36398192010728,
+                        "lng": 78.55242287010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Alkapuri Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112219694425691223992\">rajeshwar k</a>"
+                    ],
+                    "photo_reference": "AcYSjRidNBLH95vFy9ndCU1L4At416tSUAjVPI9Uxew9McxJDpdJMVJrzC8mwxUP0nioS0bShgCrp8v7WS08Q8TbTKyxcde8fDaJiXd3kCmzvhqz0UgFNGlPYmS3-5cDfbm7lVaB8k_glUXaBZJss179gRKzVIvnCooEfoZkVaqs6eFgu4AH",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJxXZsMcaYyzsRqGGt_R9HS-U",
+            "rating": 4,
+            "reference": "ChIJxXZsMcaYyzsRqGGt_R9HS-U",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1591,
+            "vicinity": "9H83+5G2, Alkapuri Road, Alkapuri, Ramakrishnapuram, Nagole, Hyderabad"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,901 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhW4aEqxTIVzqsj7jmNOMWub1lQyil9R7qlmEoq8_ALAGzIXivvuj7vAaM_mvU_jLJi-JocGdCt_Y3boDe95hVJPXf6Sy6J9_SC7GtpgwKLodH7w1daMv-1-cf9VEnt_QuphRD-fpGHCR95zinKD4r3ki6qTnJJN1t1Z04iPuH0XTs00BaXJ5ViU8_0OnqLvWam_OHVNA-8NPTUu16WWwyPlpqf7NEkvWXa2syKHS4H_-Eif4T9NXJuS1SbF7QpcM60MEMeG4ZY4OSyzw5nhqomuOhZ3B29Y38PiVwN8p6cvA3MSEuUX9t0N8EM9TxrbgOPXROFslc8uzcusB4w9CTvBL1SpnnusFhRmRqhzPLa0Ufvr46x-xxyGhLaeV94KAXnlw6kS33z9gwxJLuODh5eOIRvbC11JQ67L82LWEEpA88isjjBR4k",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.475533,
+                    "lng": 78.36802290000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.47690317989272,
+                        "lng": 78.36937407989271
+                    },
+                    "southwest": {
+                        "lat": 17.47420352010728,
+                        "lng": 78.36667442010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJ4yjgvFeTyzsRmBtahm-ZQaQ",
+            "rating": 5,
+            "reference": "ChIJ4yjgvFeTyzsRmBtahm-ZQaQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "F9G9+668, near CYPRUS PALMS, Krishna Nagar Colony, Bikshapathi Nagar, Hafeezpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4350335,
+                    "lng": 78.48642679999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43638582989272,
+                        "lng": 78.48777177989271
+                    },
+                    "southwest": {
+                        "lat": 17.43368617010728,
+                        "lng": 78.48507212010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJpfuYTBuayzsReQRT-Ko0US8",
+            "plus_code": {
+                "compound_code": "CFMP+XH Hyderabad, Telangana",
+                "global_code": "7J9WCFMP+XH"
+            },
+            "rating": 0,
+            "reference": "ChIJpfuYTBuayzsReQRT-Ko0US8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "2-3-254/A/1, Ramgopal Peth 4th St, Nallagutta, Ramgopalpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3443426,
+                    "lng": 78.5132168
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.34569212989272,
+                        "lng": 78.51456857989272
+                    },
+                    "southwest": {
+                        "lat": 17.34299247010728,
+                        "lng": 78.51186892010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJ5VaX5pWZyzsRrMBs9u0FOU0",
+            "plus_code": {
+                "compound_code": "8GV7+P7 Hyderabad, Telangana",
+                "global_code": "7J9W8GV7+P7"
+            },
+            "rating": 0,
+            "reference": "ChIJ5VaX5pWZyzsRrMBs9u0FOU0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "9-5-85/1, Raji Reddy Nagar, New Santoshnagar, Santosh Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4103748,
+                    "lng": 78.50442029999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41170567989272,
+                        "lng": 78.50578517989273
+                    },
+                    "southwest": {
+                        "lat": 17.40900602010728,
+                        "lng": 78.50308552010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJnzd9zt2ZyzsRt_R9a_ELkVg",
+            "rating": 0,
+            "reference": "ChIJnzd9zt2ZyzsRt_R9a_ELkVg",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "CG63+4QV, Jamini Colony, Azamabad, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4695448,
+                    "lng": 78.4211345
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.47082307989272,
+                        "lng": 78.42248077989271
+                    },
+                    "southwest": {
+                        "lat": 17.46812342010728,
+                        "lng": 78.41978112010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Chittaramma Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101158139095711882221\">Brahma Velpula</a>"
+                    ],
+                    "photo_reference": "AcYSjRjZNWUT0EtELC_eCUkuIShWFem8Ixibbz2U1aXICfT2XkD_qiiiOMpdjGN8LmtvBBD8Hx6zmFsBX3vGLb0xke-z47rHIrPnp3DHB-lb02YrIBDcP7VeapLE9yXmg2okArZKYsPHsH-9QynnwGU7hb145gNykhBdCHkaoUgydksbyd0G",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ26g7ngeRyzsRS9q-1QfyYps",
+            "plus_code": {
+                "compound_code": "FC9C+RF Hyderabad, Telangana",
+                "global_code": "7J9WFC9C+RF"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ26g7ngeRyzsRS9q-1QfyYps",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 169,
+            "vicinity": "No 3, 352, Moosapet Cross Rd, Janta Nagar, Patel Nagar, Moosapet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4176272,
+                    "lng": 78.5126968
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41900107989272,
+                        "lng": 78.51402747989272
+                    },
+                    "southwest": {
+                        "lat": 17.41630142010728,
+                        "lng": 78.51132782010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJ4ei5LZuZyzsReBh2KwuUqN8",
+            "plus_code": {
+                "compound_code": "CG97+33 Hyderabad, Telangana",
+                "global_code": "7J9WCG97+33"
+            },
+            "rating": 4,
+            "reference": "ChIJ4ei5LZuZyzsReBh2KwuUqN8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "11-3-267/31/A, Madhura Nagar Colony, Warasiguda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3729406,
+                    "lng": 78.41414259999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.37435047989272,
+                        "lng": 78.41548892989272
+                    },
+                    "southwest": {
+                        "lat": 17.37165082010728,
+                        "lng": 78.41278927010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111098057562952870192\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh2zsfiTFpdu9O7_AfuLHyNLnCPGM6U8DJmALUGfymE77z8r24PgXH0ba4CYEztaisZGT2hGMyQ4Pa80zHXNjT7dZZIB4EqGYetKihTx6EhUE69Us2C5VTOhb9E6gyVokNCAGkNt5wB3GbkEuIi6L5MlrNlm9rJpSk1TN3OOba2VI8B",
+                    "width": 2268
+                }
+            ],
+            "place_id": "ChIJVWzx1G2XyzsRcv6denRhZiY",
+            "rating": 4.5,
+            "reference": "ChIJVWzx1G2XyzsRcv6denRhZiY",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "9CF7+5MC, Bapu Nagar, Langar Houz, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3220042,
+                    "lng": 78.4025106
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.32339032989272,
+                        "lng": 78.40384902989273
+                    },
+                    "southwest": {
+                        "lat": 17.32069067010728,
+                        "lng": 78.40114937010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2256,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110928547599267668797\">Shaik Riyazz</a>"
+                    ],
+                    "photo_reference": "AcYSjRj7qq7Dh9iWIaChXn2lYG1_YyXq-RwVqLPUTD5EZcigaEZOJi9qOcwcW8elaAgwNk4AOi6Kpyby6uMVqaGtSN15xsxvxhkFC0fmmP-NbPHd7EvFAHfGZeSDoCLfMoU8MRSQ8nqoUZdXpz9o0jzPh0oUtHn8Lts-3mE0IDz5GpLz5ygX",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJs6QkxvO9yzsRLjJ6zSILBWA",
+            "plus_code": {
+                "compound_code": "8CC3+Q2 Hyderabad, Telangana",
+                "global_code": "7J9W8CC3+Q2"
+            },
+            "rating": 4.1,
+            "reference": "ChIJs6QkxvO9yzsRLjJ6zSILBWA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 62,
+            "vicinity": "1-8-28, Rajendra Nagar Rd, Ambedkar Nagar Colony, Manikyamma Colony, Rajendranagar mandal, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.434326,
+                    "lng": 78.426824
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43564652989272,
+                        "lng": 78.42824987989272
+                    },
+                    "southwest": {
+                        "lat": 17.43294687010728,
+                        "lng": 78.42555022010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pochamma Temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3413,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111815895636489192687\">Sharathchandra sharu</a>"
+                    ],
+                    "photo_reference": "AcYSjRjPcSqBsad6y2JNbUAm50UgOwz7c1aFl4nhJZDbe5z9aAtG3oP_LT8WVmQmzcyzROIE9x3zuYFJnScWvqz7a3G1vxDgmWSwMJcLTfD8Q_vCOE2qeE_e_HGDsrkC8cvxKLBkx2XhQBEcvgJhGhSAL3fdQGd8A9yZdlN1onAUmFPJvzpd",
+                    "width": 3390
+                }
+            ],
+            "place_id": "ChIJp_sJ9iiRyzsRLl0C1xX2yTs",
+            "rating": 4.6,
+            "reference": "ChIJp_sJ9iiRyzsRLl0C1xX2yTs",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 131,
+            "vicinity": "CCMG+PPP, Krishna Nagar Main Rd, Sri Krishna Nagar, Yousufguda Basti, Yousufguda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4035069,
+                    "lng": 78.3659322
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40480222989272,
+                        "lng": 78.36725857989272
+                    },
+                    "southwest": {
+                        "lat": 17.40210257010728,
+                        "lng": 78.36455892010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109087820623065896155\">Shreedhar Bhamidipaty</a>"
+                    ],
+                    "photo_reference": "AcYSjRhMDCmGYKftHzXC5uhCb1tSuvukue0odWiINbGF8I1BAttxVxXibLK7jnQ7FoTS6Td8wVANBi77bM7fx9ONnOA5a5gpFMW4d-3fPE-8_TZABm5201hAkMqEVSF1YgSckKPsXuCYwWcQKHo04nTvI6BIzmjHFIsEuXg7B6DaU0XprtEy",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJsSkeT1mVyzsRn2ZdaC6Bc2s",
+            "rating": 4.3,
+            "reference": "ChIJsSkeT1mVyzsRn2ZdaC6Bc2s",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "C938+C9F, Anupama Homes, Manikonda Jagir"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.394793,
+                    "lng": 78.5045128
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39616442989272,
+                        "lng": 78.50588202989272
+                    },
+                    "southwest": {
+                        "lat": 17.39346477010728,
+                        "lng": 78.50318237010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Gayatri Matha Temple",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115622571628382016337\">Gowtham Vempati</a>"
+                    ],
+                    "photo_reference": "AcYSjRj11t8jD6XmQPXcqhSD8UrBZqQ8N0suj6pj9dXXE_NftIJvE97awG545E50cKQ3UW6XUby2L60NNa68Igl3w54Z-3eeVyK1uMIbjRO8HlJJw1WF8vYQGGtffphckdBb8fQw4UKLjvMd8s29_M33jBeAZgWb41otBWaa7q6rfpdDzSd9",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJJVfKD7qZyzsRgNXJnLp-mcM",
+            "plus_code": {
+                "compound_code": "9GV3+WR Hyderabad, Telangana",
+                "global_code": "7J9W9GV3+WR"
+            },
+            "rating": 4.6,
+            "reference": "ChIJJVfKD7qZyzsRgNXJnLp-mcM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "1103/9/96,, 2-2-1107/3, Amberpet Main Rd, Sai Kripa Comlplex, Tilak Nagar, New Nallakunta, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4348464,
+                    "lng": 78.4942638
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43620692989272,
+                        "lng": 78.49569262989272
+                    },
+                    "southwest": {
+                        "lat": 17.43350727010728,
+                        "lng": 78.49299297010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Chenna Keshava Temple",
+            "photos": [
+                {
+                    "height": 774,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110047818191761436771\">Akhil N Ch</a>"
+                    ],
+                    "photo_reference": "AcYSjRg2RNSulyGqC-d84hA5UVHrrN7vMV-YoMLb0WJoIbRNCp0-ZrNAXWoJzaTssWDigrgQERai1cw_n3ilJc4k4VE4DGudPpJxeJXPe4QoJiH4Odidn-yJDtIuWCS6LGGOx9xrxiTn-WmHXjTlHOgbefLozCIJFV6i3DvOKDHSQX28h_JH",
+                    "width": 1032
+                }
+            ],
+            "place_id": "ChIJn_VSMBmayzsRbWaqVCvkkEM",
+            "plus_code": {
+                "compound_code": "CFMV+WM Secunderabad, Telangana",
+                "global_code": "7J9WCFMV+WM"
+            },
+            "rating": 4.8,
+            "reference": "ChIJn_VSMBmayzsRbWaqVCvkkEM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "7-2-683, Pot Market, Monda Market, Shivaji Nagar, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4595195,
+                    "lng": 78.4116421
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.46087692989272,
+                        "lng": 78.41299412989272
+                    },
+                    "southwest": {
+                        "lat": 17.45817727010728,
+                        "lng": 78.41029447010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104398979239754395011\">Pasha Khadri</a>"
+                    ],
+                    "photo_reference": "AcYSjRj4gmOo5RF5s7D1883z6SBUrBxq4L4-zFdH2vo6fz4KFO_wa68c2A3-pOwrwh1btq1ImfnxfnRiNa_PRDB4cilx3ceI7BbRqfvtR0Krjbx2jOsrw0ZD7RvcXmpuj4hegZjaKufm3wIvqmQJTUus25t2qYs3MUyTtPTE728_FgLg3f-k",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJF85ptvWRyzsR0LnwLHyYPc4",
+            "rating": 5,
+            "reference": "ChIJF85ptvWRyzsR0LnwLHyYPc4",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "FC56+RM2, Rajiv Gandhi Nagar, Borabanda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4024525,
+                    "lng": 78.4007281
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40379802989272,
+                        "lng": 78.40219272989272
+                    },
+                    "southwest": {
+                        "lat": 17.40109837010727,
+                        "lng": 78.39949307010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJWYGbcCaXyzsRn-uRcCQ4qZc",
+            "plus_code": {
+                "compound_code": "CC22+X7 Hyderabad, Telangana",
+                "global_code": "7J9WCC22+X7"
+            },
+            "rating": 0,
+            "reference": "ChIJWYGbcCaXyzsRn-uRcCQ4qZc",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "DTDC, opp. 7 Tombs Road, Arvind Nagar Colony, Toli Chowki, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4219176,
+                    "lng": 78.43179409999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42332052989272,
+                        "lng": 78.43315852989272
+                    },
+                    "southwest": {
+                        "lat": 17.42062087010728,
+                        "lng": 78.43045887010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJfzzqY2WXyzsRxXcJtnbE7QA",
+            "rating": 0,
+            "reference": "ChIJfzzqY2WXyzsRxXcJtnbE7QA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "CCCJ+QP7, Rd Number 14, GS Nagar, Resham Bagh, Banjara Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4394647,
+                    "lng": 78.44650659999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44081647989272,
+                        "lng": 78.44782642989271
+                    },
+                    "southwest": {
+                        "lat": 17.43811682010728,
+                        "lng": 78.44512677010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pochamma Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112991111025870403833\">revanth rampathi</a>"
+                    ],
+                    "photo_reference": "AcYSjRh4t9IN1KIXwlqpDg8qQaw-U_XFOd3talu_4MLiBM3YMDyX_z5EZshjV0ZoJgPaUU1d56UiTyaHbEIoYH2pT6ui0rCNYRe7-3EhsKE8q7dcc41xGp_6aq293dFHpCw9TN_TIHkAYi0r3Aw0ZhHf-G34xYNJ8oO8F2mLTjVwtXoXDsII",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJK5vD2cWQyzsRwpqmHpKarbU",
+            "rating": 3.9,
+            "reference": "ChIJK5vD2cWQyzsRwpqmHpKarbU",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26,
+            "vicinity": "CCQW+QJJ, East Srinivasa Nagar Colony, Sanjeeva Reddy Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.400649,
+                    "lng": 78.4953932
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40197072989272,
+                        "lng": 78.49671407989273
+                    },
+                    "southwest": {
+                        "lat": 17.39927107010728,
+                        "lng": 78.49401442010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Nalla Pochamma Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105447118738764105123\">Guntupalli Rameswaram</a>"
+                    ],
+                    "photo_reference": "AcYSjRh3ZsWGHYC_W3qXq7xkQaCQqSoIhyHXAJEICbs-0F6vVs9rhBtZHk5H8OCgOf3mfWvptKmtN9MBpHrXbS8X7SST7sqj0APJeJ3D7hchRYJxkmlbcO2sWq_mEPwbTrcRqEcVFmM956aVOiQwcWPxAHVYxVgFy-GXamOZrzIgM1cEhB6J",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJp2CX3sCZyzsRZ8LHfwobNkI",
+            "rating": 4.7,
+            "reference": "ChIJp2CX3sCZyzsRZ8LHfwobNkI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "CF2W+756, Street No.12, Chikkadpally, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3560738,
+                    "lng": 78.4449941
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.35742497989272,
+                        "lng": 78.44630592989272
+                    },
+                    "southwest": {
+                        "lat": 17.35472532010727,
+                        "lng": 78.44360627010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106100566461492115157\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiYoR8iApE3xTX0wgrJcvR5mz8nT53oeo_Dfv2ImaSbIGotQz4BsMzjcotcxMtfxp5Fe66I4p67vNoorUoBoFgLfGLdX2Cc1ZDjkjOMQAgeFLO-9V8OyRQHNRGRnwmCnJY099vRtoh_f8k_-7on_pBhCKQiShcnFoql1fsY_gUvEU4R",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJu8EBnLiXyzsRAJmJCSCceJk",
+            "plus_code": {
+                "compound_code": "9C4V+CX Hyderabad, Telangana",
+                "global_code": "7J9W9C4V+CX"
+            },
+            "rating": 3.1,
+            "reference": "ChIJu8EBnLiXyzsRAJmJCSCceJk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "4-9/384/5/A/2/1, Mahmood Nagar, Kishan Bagh, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4077177,
+                    "lng": 78.4603546
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40907182989272,
+                        "lng": 78.46173997989273
+                    },
+                    "southwest": {
+                        "lat": 17.40637217010728,
+                        "lng": 78.45904032010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Bhulaxmamma Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101204681649152567416\">Sachit Mathur</a>"
+                    ],
+                    "photo_reference": "AcYSjRg5F2itT99XmkiN7qH2r0bxsphziWtjP_pmmE9Ei8dO2HhwE_QqAktDCidT4g-EwdVGv2dlPD6ZFaehFvW6PshSeNMEASju_rasH8mMZKhhM1eiRQFo9_yMA4b0rCAb2WBBOtmxCGIVnlPtNnTtSVm0xpc0pBtgc8wyCAHkBbLJgoJ1",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJC2Nkl0OXyzsRZpm98nOQBnA",
+            "rating": 3,
+            "reference": "ChIJC2Nkl0OXyzsRZpm98nOQBnA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "CF56+34Q, Khairatabad Rd, Veer Nagar, Khairtabad, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3430657,
+                    "lng": 78.47769579999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.34443882989272,
+                        "lng": 78.47904992989272
+                    },
+                    "southwest": {
+                        "lat": 17.34173917010728,
+                        "lng": 78.47635027010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "POCHAMMA TEMPLE",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100344345424915073579\">phanindra chowdary</a>"
+                    ],
+                    "photo_reference": "AcYSjRhrRuRTvlXGTzML7K7VM4SRxv-yFrqOl82tcoop0p9yZ_JGFrV0KifJIE2C4dbd3mtaXxN0N90XWxPP_uWJ8yVHTYntcHnzXsz-Yc46coqDpCrm3a4x3Z3NS_b5Q4Xp69-osP5gb8bwpyn835cP_oumRHkLQnamJboZtT-MMQnleL6j",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJlUoyAAOYyzsRZdurAtJQP8Q",
+            "plus_code": {
+                "compound_code": "8FVH+73 Hyderabad, Telangana",
+                "global_code": "7J9W8FVH+73"
+            },
+            "rating": 4.7,
+            "reference": "ChIJlUoyAAOYyzsRZdurAtJQP8Q",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "18-3-308, Kandikal Gate Rd, Jp Nagar, Chatrinaka, Ali Bagh, Lal Darwaza, Hyderabad"
+        }
+    ],
+    "status": "OK"
+}

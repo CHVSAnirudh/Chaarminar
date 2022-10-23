@@ -1,0 +1,225 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.5924684,
+                    "lng": 79.6150352
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.59386762989272,
+                        "lng": 79.61626512989271
+                    },
+                    "southwest": {
+                        "lat": 22.59116797010727,
+                        "lng": 79.61356547010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Nkd GLS bar",
+            "place_id": "ChIJZQP7TWAXgDkR8PpZwkRhruw",
+            "rating": 0,
+            "reference": "ChIJZQP7TWAXgDkR8PpZwkRhruw",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HJR7+XXJ, Pahadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.6030265,
+                    "lng": 79.5178225
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.60432082989272,
+                        "lng": 79.51906352989272
+                    },
+                    "southwest": {
+                        "lat": 22.60162117010727,
+                        "lng": 79.51636387010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Narmada Prasad",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 356,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111733284666436185511\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg-ydB5LFdX3jM7i4IXqtorlyY2HuEaen4rb7C5bmMSsMBsi21a3UuPbMqfRdkrVYpyKVvdK51OfpeRI-Af0bYW7XHE7tABbZ-q1IBevBBqKOIHybbazbq9fJqymDsRfmDx8ffmHIaCnnQnBoXaR8pMV-0IK65lpMNn0fiLtHSbLPGd",
+                    "width": 360
+                }
+            ],
+            "place_id": "ChIJg5B9XJAZgDkRq9ovMB1fyus",
+            "rating": 3.7,
+            "reference": "ChIJg5B9XJAZgDkRq9ovMB1fyus",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "JG39+649, Mahua tola, Hinotiya Ryt"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.550165,
+                    "lng": 79.60051639999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.55150362989272,
+                        "lng": 79.60192822989272
+                    },
+                    "southwest": {
+                        "lat": 22.54880397010728,
+                        "lng": 79.59922857010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "\u092e\u0922\u0908 \u0935\u0947\u0932\u0940 \u0922\u093e\u092c\u093e",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113773714618343032388\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRipeD8uqzOQLBIftzhLtXijlmFi7Njl5ISxk5_GoQppbQaThQ6jFLmPPiMRcVQ8BNRnr-5-dJpVBYSObRMbKogeGjRXhPMk93xpEM_i1bi054cRp0gZWGNMq4udvgCcS_zmB23_8AKgFKkt4OxsDU-ryQmsSfUD5kO6CO52pCPh3uY_",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ74FccM4RgDkRTAEX2lKr7BQ",
+            "rating": 4,
+            "reference": "ChIJ74FccM4RgDkRTAEX2lKr7BQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "HJ22+366, Mandai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.5996,
+                    "lng": 79.6113
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.60097057989272,
+                        "lng": 79.61254457989271
+                    },
+                    "southwest": {
+                        "lat": 22.59827092010728,
+                        "lng": 79.60984492010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Varsha Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJxddZceQWgDkRt1bZmHlQuig",
+            "plus_code": {
+                "compound_code": "HJX6+RG Samnapur, Lakhnadon, Madhya Pradesh",
+                "global_code": "7JJXHJX6+RG"
+            },
+            "rating": 2.8,
+            "reference": "ChIJxddZceQWgDkRt1bZmHlQuig",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "Lakhnadon, Seoni, NH-7, Seoni, Seoni"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.6280893,
+                    "lng": 79.64210279999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.62953812989272,
+                        "lng": 79.64338347989273
+                    },
+                    "southwest": {
+                        "lat": 22.62683847010728,
+                        "lng": 79.64068382010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Rammu Dhaba",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116777631229803030598\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhO3SONB4D7L0peKXkqwyY2RiyI0Ia-3Cxr1iYQxv0Ua65G9uxX2yFJWA1Ruq50iyZxyhFGJSAvB747NHwXZ-3DBCILh0oPHqWXUyyvP9GvPYBGDBvXZXdleLhHXkmhdvh_WZtOE0-ERGZH0Rb-LbrrIkQshv0cN_5LtjwVMBrs-fgp",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJkdj8Y3oWgDkRteYNniwje_M",
+            "rating": 2.5,
+            "reference": "ChIJkdj8Y3oWgDkRteYNniwje_M",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 33,
+            "vicinity": "JJHR+6RH, Bhilma, NH 44, Seoni"
+        }
+    ],
+    "status": "OK"
+}

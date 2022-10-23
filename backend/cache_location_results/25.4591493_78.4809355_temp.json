@@ -1,0 +1,89 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4652863,
+                    "lng": 78.56466259999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46663567989272,
+                        "lng": 78.56601242989274
+                    },
+                    "southwest": {
+                        "lat": 25.46393602010728,
+                        "lng": 78.56331277010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Ratneswar Mahadev Mandir",
+            "place_id": "ChIJ4SPRfQdxdzkRRL2iEemZxp0",
+            "rating": 5,
+            "reference": "ChIJ4SPRfQdxdzkRRL2iEemZxp0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "FH87+4V7, Unnamed Road, Khajoor Bagh, Indrapuri, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.459159,
+                    "lng": 78.570208
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46049577989272,
+                        "lng": 78.57155837989272
+                    },
+                    "southwest": {
+                        "lat": 25.45779612010728,
+                        "lng": 78.56885872010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "GTC HR CONSULTANTS - IT & Non IT Recruitment Firm | Job Placement Services in Jhansi, India",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 435,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112140593073075533110\">Global Talent Corner</a>"
+                    ],
+                    "photo_reference": "AcYSjRhkG3rFxG_VJH7PZyy-JMzk2nOYFRDOhYQ8FZkuyl4Q8TlIo1xjpR69VYOX1zK2Ep_a5KNR-rTCbVkFqEY8Wfai5ilSFLFmYxGPb69P81m5DCU0lJPsdobfHyM0BWyBO1UPeEf6j4OyJmnMv8eYITNuAmdgDda5SL4wwvsDxqkMST2Y",
+                    "width": 1043
+                }
+            ],
+            "place_id": "ChIJD0CC3NN2dzkRrCO380ciSlQ",
+            "plus_code": {
+                "compound_code": "FH5C+M3 Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH5C+M3"
+            },
+            "rating": 3.5,
+            "reference": "ChIJD0CC3NN2dzkRrCO380ciSlQ",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18,
+            "vicinity": "College Rd, Loha Mandi, Jhansi"
+        }
+    ],
+    "status": "OK"
+}

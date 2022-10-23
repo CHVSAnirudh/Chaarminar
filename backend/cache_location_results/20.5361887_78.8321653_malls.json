@@ -1,0 +1,859 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgikccidPkpjsjDcUiMBm8MuLWl-hY80EXG3_Ru3ZlTifdr43CQBAri4SxwRDDZQkLIossw5EZvjPzLxcBQye3HAV9s9P9nKvDU-JPdCQ6F-s9xYpLXxnzKfWFDMAKYvYSs-pAt9l0NTe-3ZVfv3CbpKOQXwXrTsCOc60fbNHSqkYH6fWE1_8jaLc5HUrZ2nMxSG5W0aM-VZarcRBN46Cqf1pd-cRslymYesIw1PFsEo4-PeM7T8329sxABgNNlUDZv5v00ifKzqr8aHNs28q8OHcTguxxxmg97M9DgaCc92I_gVcgsv1bVh3gVVZtsX8wPd1Ex_bTFeQKipdoCYvaMerIbTMQXK5Tiq8mn2-hPVFfftCN0fTzKogsDa-2bNOJHtodAHxPKKypnsGlmcZ_1TZdkcl5Xg92i3WTJj7miWosFQfXA0w",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5531691,
+                    "lng": 78.83555989999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55461157989272,
+                        "lng": 78.83696797989272
+                    },
+                    "southwest": {
+                        "lat": 20.55191192010728,
+                        "lng": 78.83426832010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Raisoni City Centre Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100385185270754296481\">atul urkude</a>"
+                    ],
+                    "photo_reference": "AcYSjRggfNEgqFeQFZ9dwFtNg5luH5ME01odIneGZOprWVbvrMuqTAff1Kbp7QL9Tsw2fdKiq0Wygy6VHQpYGKg0Ou0aGrOjfVXptMLbDHkfraCbxSWAYOWaylQFLBsPHIP3O9LGnEQ1FSGMg-d4vIj4dBbQXcI3GUCIaN0guDm4Dwd4yjU2",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJd2fyh7J60zsRU75CmS2fSmQ",
+            "rating": 3.4,
+            "reference": "ChIJd2fyh7J60zsRU75CmS2fSmQ",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 57,
+            "vicinity": "HR3P+767, Dag Borkhedi, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5429386,
+                    "lng": 78.8377119
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54430142989272,
+                        "lng": 78.8391232798927
+                    },
+                    "southwest": {
+                        "lat": 20.54160177010728,
+                        "lng": 78.83642362010725
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sk Complex",
+            "place_id": "ChIJgd-OuS970zsRr3mQVogwfgU",
+            "rating": 0,
+            "reference": "ChIJgd-OuS970zsRr3mQVogwfgU",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GRVQ+53G, Siddharth Nagar, Pothara Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5508151,
+                    "lng": 78.8340923
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55215382989272,
+                        "lng": 78.83556542989271
+                    },
+                    "southwest": {
+                        "lat": 20.54945417010728,
+                        "lng": 78.83286577010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ashok The Fashion Mall",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102482996651910099236\">Raviraj Mahajan</a>"
+                    ],
+                    "photo_reference": "AcYSjRgzuVQRqp6qLELPNcusp_CcesOdRpnud6qFduV99Enwe9vkFoAmonAXelQoPfjSWmn0dnOOvj16drsEMs5CKd1-EJRQ1bMRKCf1jg6ev6dvWyibruI4H_0wuDxpBVLrRLP3oPLlX2EhFD19wWpTxJEaPFe6SKK9HKiSYvoSdOmSLEY7",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJP46Vv6160zsRrtXJvh11Zvg",
+            "plus_code": {
+                "compound_code": "HR2M+8J Hinganghat, Maharashtra",
+                "global_code": "7JGWHR2M+8J"
+            },
+            "rating": 3.4,
+            "reference": "ChIJP46Vv6160zsRrtXJvh11Zvg",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 54,
+            "vicinity": "Main Rd, Dag Borkhedi, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5520441,
+                    "lng": 78.8331693
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55337557989272,
+                        "lng": 78.83451722989273
+                    },
+                    "southwest": {
+                        "lat": 20.55067592010728,
+                        "lng": 78.83181757010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Hari Om Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115817268251865619506\">Shekhar Thakre</a>"
+                    ],
+                    "photo_reference": "AcYSjRhWfgr19DtdNHGhY2nbyV3j4kRCWQ23B15FTy65phbLul_EvD8WME6IpMl1GS7Q2yvCCo9BYhURxtwI_DEeG8QQtFvz8MFKw5BqYqvMGYbuVKYo-nDCOpGL9T7BgNAEvfO-jbK114_VIxlE5QAid0EbTftSrmchFlAXtXGnicyhRsop",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJn9K9-a160zsRuL1DOP7ma4g",
+            "rating": 3.8,
+            "reference": "ChIJn9K9-a160zsRuL1DOP7ma4g",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "HR2M+R77, Urdu School Rd, Dag Borkhedi, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5516683,
+                    "lng": 78.8418289
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55301622989272,
+                        "lng": 78.84319942989272
+                    },
+                    "southwest": {
+                        "lat": 20.55031657010728,
+                        "lng": 78.84049977010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kajal shop",
+            "place_id": "ChIJ3-0V3g5l0zsR-WL9x02G1VI",
+            "rating": 0,
+            "reference": "ChIJ3-0V3g5l0zsR-WL9x02G1VI",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HR2R+MP8, Sindhi Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5429699,
+                    "lng": 78.84219879999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54427762989272,
+                        "lng": 78.84350837989273
+                    },
+                    "southwest": {
+                        "lat": 20.54157797010727,
+                        "lng": 78.84080872010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\"\u0915\u0943\u0937\u094d\u0923\u093e\u0908\" Chambers",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1232,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103393579133737432145\">Ama\u014b Khade</a>"
+                    ],
+                    "photo_reference": "AcYSjRjhgx7fnp6Lku7qFY9l-LyVq4BcY9IpmyLik97rrQYNZg4iMS7ykuDGt89RdsbAIPctTIUuvp7QKiI5gqhq5wDFkB-GL0GGZ4jsQiFqBJKTLWH1CJ0733k89BmCOS2ZfXwMaWqHkkUYP-4Ecibgqdmqw2WlBLxDn8lyTBwhzczx6tkL",
+                    "width": 816
+                }
+            ],
+            "place_id": "ChIJ9xqyvlVl0zsRFlLT5_4gBQI",
+            "rating": 4.1,
+            "reference": "ChIJ9xqyvlVl0zsRFlLT5_4gBQI",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 46,
+            "vicinity": "GRVR+5VP, Pothara Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5446174,
+                    "lng": 78.84235079999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54595982989272,
+                        "lng": 78.84369797989274
+                    },
+                    "southwest": {
+                        "lat": 20.54326017010728,
+                        "lng": 78.84099832010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Balu Pan Center Hinganghat",
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100423300510729322390\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRisoBrLJjEBeb7fbcOoO_dcj9tyvFB3c_4iAl-9nDTZFz2uC5hyLm2xHzFVCsnqOHyVfP7S7NUXTLXtaeeI4q0lxdRAFHywvl73LQJF9ySxpfuh7aSpelpcQzCnMOhdIGygTh-YyJkHyvdqdw-bs3gyxPDxp22GOhxW7wzGd1od_oDD",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJLXasSVRl0zsRALp38vKvlSk",
+            "rating": 3.7,
+            "reference": "ChIJLXasSVRl0zsRALp38vKvlSk",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "GRVR+RWX, Sindhi Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5486158,
+                    "lng": 78.8456398
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54998742989272,
+                        "lng": 78.84700052989271
+                    },
+                    "southwest": {
+                        "lat": 20.54728777010728,
+                        "lng": 78.84430087010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Nikhade Shree Sai",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJs-8OPlFl0zsRo9DqYtCPcV0",
+            "plus_code": {
+                "compound_code": "GRXW+C7 Hinganghat, Maharashtra",
+                "global_code": "7JGWGRXW+C7"
+            },
+            "rating": 1,
+            "reference": "ChIJs-8OPlFl0zsRo9DqYtCPcV0",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "442301, Nishanpura Ward, Sindhi Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5515936,
+                    "lng": 78.8412105
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55297397989272,
+                        "lng": 78.84256342989272
+                    },
+                    "southwest": {
+                        "lat": 20.55027432010728,
+                        "lng": 78.83986377010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sharvari Sadi Collection",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJubejWohl0zsROOFKqAu5oTE",
+            "plus_code": {
+                "compound_code": "HR2R+JF Hinganghat, Maharashtra",
+                "global_code": "7JGWHR2R+JF"
+            },
+            "rating": 4,
+            "reference": "ChIJubejWohl0zsROOFKqAu5oTE",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Sindhi Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.550534,
+                    "lng": 78.8363682
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55187767989272,
+                        "lng": 78.83779247989271
+                    },
+                    "southwest": {
+                        "lat": 20.54917802010727,
+                        "lng": 78.83509282010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "BHR MALL",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 349,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101169649638065246898\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhQY2n7NTW7m-1_cl8o_a5HYevjDRrFWV2wNzA6mIOg6RYFmSlQuxUH19feoxtAKRjraDFExgoNkAiBPfJxWjpm8olsZt0xJdBwHwN3ccaYfA8eQ3ZjswVWxVH6xg5vgIrSxCwzkj0GHJyTMvT9hHiukpW2ft5J4AYs05h9lvpxjcIV",
+                    "width": 621
+                }
+            ],
+            "place_id": "ChIJ12I5OVZ70zsRHpuCvO9umdk",
+            "plus_code": {
+                "compound_code": "HR2P+6G Hinganghat, Maharashtra",
+                "global_code": "7JGWHR2P+6G"
+            },
+            "rating": 5,
+            "reference": "ChIJ12I5OVZ70zsRHpuCvO9umdk",
+            "scope": "GOOGLE",
+            "types": [
+                "jewelry_store",
+                "clothing_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "shivaji ward, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5440886,
+                    "lng": 78.8280824
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54543717989272,
+                        "lng": 78.82943452989272
+                    },
+                    "southwest": {
+                        "lat": 20.54273752010728,
+                        "lng": 78.82673487010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gajanan Kiran Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJDT0HBgF70zsReZOKLdt4b4w",
+            "rating": 5,
+            "reference": "ChIJDT0HBgF70zsReZOKLdt4b4w",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "GRVH+J6P, Unnamed Road, Shastri Ward, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5517969,
+                    "lng": 78.8464836
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55316002989272,
+                        "lng": 78.84783322989271
+                    },
+                    "southwest": {
+                        "lat": 20.55046037010728,
+                        "lng": 78.84513357010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jambhule Kirana Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJawcVylFl0zsRaiRVYWtYJbM",
+            "rating": 3,
+            "reference": "ChIJawcVylFl0zsRaiRVYWtYJbM",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "HR2W+PH9, Hinganghat,, Sindhi Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.547977,
+                    "lng": 78.8497579
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54934372989272,
+                        "lng": 78.85103052989271
+                    },
+                    "southwest": {
+                        "lat": 20.54664407010727,
+                        "lng": 78.84833087010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vishal Kirana Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107136519142678416523\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjYG67xu2zgmBghG9qBSeGx5gp2YxOuYjYjee6OJqfnKW8OQ_-J0ZN0VolOpdE0tEzhgxcWhxlDReXZMGRcRl6_pXFCQt-zaU5S79A7bEnRAAagb5XvgQUgHRL3tmb0vNKiyp6f2R2ganAY76GjbQlpTp2Pp7uBVk_-FsJPgk2k3bxx",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJgy8SB1pl0zsRLi8-My1fPpE",
+            "plus_code": {
+                "compound_code": "GRXX+5W Hinganghat, Maharashtra",
+                "global_code": "7JGWGRXX+5W"
+            },
+            "rating": 4.3,
+            "reference": "ChIJgy8SB1pl0zsRLi8-My1fPpE",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Sant Tukdoji Ward, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5367364,
+                    "lng": 78.8427332
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.53813417989273,
+                        "lng": 78.84409187989272
+                    },
+                    "southwest": {
+                        "lat": 20.53543452010728,
+                        "lng": 78.84139222010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sagar Kirana And Ganeral Store",
+            "place_id": "ChIJ4-MUeqFv0zsRDFaNR832dNo",
+            "rating": 5,
+            "reference": "ChIJ4-MUeqFv0zsRDFaNR832dNo",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "GRPV+M3X, sant tukdoji ward, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5495193,
+                    "lng": 78.8417858
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55087177989272,
+                        "lng": 78.84313962989272
+                    },
+                    "southwest": {
+                        "lat": 20.54817212010727,
+                        "lng": 78.84043997010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Deepa Traders",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1040,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102991065810470109433\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiE9bBc-SF2vkBgwaMu_8seaQXEEfGqbW08y_QZe12T1tNApsaAzUE93iKFglrJiBmM6P7c5kAo9VT3cYPbg-FC1y2v2NK1iYrcGEWifyxTDg3tFvwBLEiA6uRhGjf6UweFFt06BGVf1tmJncDh3540SfkOkI_0DizItgj4vXmkVReD",
+                    "width": 585
+                }
+            ],
+            "place_id": "ChIJ95jF6U970zsRu44mryMlB_M",
+            "plus_code": {
+                "compound_code": "GRXR+RP Hinganghat, Maharashtra",
+                "global_code": "7JGWGRXR+RP"
+            },
+            "rating": 5,
+            "reference": "ChIJ95jF6U970zsRu44mryMlB_M",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Anaj line behind of Sangam gadi bandar atvadi bazar, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5529984,
+                    "lng": 78.8357661
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55435747989272,
+                        "lng": 78.83712762989272
+                    },
+                    "southwest": {
+                        "lat": 20.55165782010728,
+                        "lng": 78.83442797010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shraddha Busiplex Raisoni Complex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ2_8KPUd70zsRTtT1IxpJPpk",
+            "rating": 3.4,
+            "reference": "ChIJ2_8KPUd70zsRTtT1IxpJPpk",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "HR3P+677, jagannath ward, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.562923,
+                    "lng": 78.8583555
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.56429022989272,
+                        "lng": 78.85969757989272
+                    },
+                    "southwest": {
+                        "lat": 20.56159057010727,
+                        "lng": 78.85699792010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mayur supper shopi",
+            "place_id": "ChIJGVrBOyNl0zsR_06mVg9KpIw",
+            "rating": 5,
+            "reference": "ChIJGVrBOyNl0zsR_06mVg9KpIw",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "HV75+589, Back side of ostwal dalmill, Road, Shahalangadi, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5433397,
+                    "lng": 78.8321244
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54466907989272,
+                        "lng": 78.83344862989273
+                    },
+                    "southwest": {
+                        "lat": 20.54196942010728,
+                        "lng": 78.83074897010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bobade Kirana Store",
+            "place_id": "ChIJU_6DqTd70zsR-sTdozGSMw8",
+            "rating": 5,
+            "reference": "ChIJU_6DqTd70zsR-sTdozGSMw8",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "GRVJ+8RQ, Jawade, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5499937,
+                    "lng": 78.8423481
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55136637989272,
+                        "lng": 78.84371617989272
+                    },
+                    "southwest": {
+                        "lat": 20.54866672010727,
+                        "lng": 78.84101652010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Prajwal pan centre",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113831032873598378084\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjxafo9ltvTptmzin2exPVq47TLJaga48zv9wBnK26N62YdZBmlgpCCQt9Vr688lo677QIamDXA8Kec3FVwxsEJR6kPReBwR2WCR62rUbxbydmGVGw1-uSPV80b0eyo7kwbVv728t6JuAH937HX9wwuv7Lgy1EbZ8WJ25KaF46d7eQU",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJnxosIk1l0zsRToF8Xbnsi3Y",
+            "plus_code": {
+                "compound_code": "GRXR+XW Hinganghat, Maharashtra",
+                "global_code": "7JGWGRXR+XW"
+            },
+            "rating": 4,
+            "reference": "ChIJnxosIk1l0zsRToF8Xbnsi3Y",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "Lotan chowk, Nishanpura Ward, Sindhi Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5568282,
+                    "lng": 78.8363809
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55818142989273,
+                        "lng": 78.83766992989271
+                    },
+                    "southwest": {
+                        "lat": 20.55548177010728,
+                        "lng": 78.83497027010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Central Ward, Hinganghat",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107223984788029897212\">sandeep kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRgnpJG3zCISjWhujTsAAM_iITo_POv2cRSWzcOeq7QNEQ7FryCziOiTB1eEGinMN8MVNMg1wzCJQQFlHcZezjldHICnP4RN90xFR6WLtBBOtVS_Iz1HrbnHplVtY8dn0u3OhIL41tkAgdIDiPqop3cG_UVANykjrorGmvuh6TgO4N7H",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJNfjUbLN60zsRnIvi5SBm-c8",
+            "rating": 4.4,
+            "reference": "ChIJNfjUbLN60zsRnIvi5SBm-c8",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37,
+            "vicinity": "HR4P+PGQ, Dag Borkhedi, Hinganghat"
+        }
+    ],
+    "status": "OK"
+}

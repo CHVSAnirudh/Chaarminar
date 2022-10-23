@@ -1,0 +1,940 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjXkkZhlQH3h2pYXxGmLoOVxCBKrKady2n39qFB_2lzg44LJlvxXKhKXoEkFljeVZklsEvWiX0p-IXJcdrnrTEwxkyK6-gY-cNZ4NFyImFniR6ZIYq7oCwLthBNLH0AtVqkvPKDi-b8Asn-eSKZgrEZmyKE0Xcyt5aP9E3zCqfe9KiLQcTkYoifPqOG3Em2-IGI8a2161lzpSk5L32jR2PJnfyXhLkUOWlYsqeXRW6I5y7FmkdYO94tkc4whdodLZKsPO3khm1a754G9a68xlSid_BLdxSjOkn5-yocPqKZJHHSDM2qzIYIipUQRLPr3UeQAaLD7NCcDzy9zAnBQg0AyaimVGfk3KS6sM1XvUFFsm4GK0gaDreDrm0efoKLfL9c3YQaOhVgcts__FQ6UMywbODEaj1MYm6bmabZoOGXml7OzaNw1g",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4575952,
+                    "lng": 78.36394930000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45838532989272,
+                        "lng": 78.36562277989272
+                    },
+                    "southwest": {
+                        "lat": 17.45568567010728,
+                        "lng": 78.36292312010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sarath City Capital Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101784283408949952622\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRicRMuIX-Qm_8TAVAuNEocuDMEj6PqaiBtC69kjHYLwDwAVNYCLVsLouSAoo2AmyUO51o5OppjsJ1DM5xUymoTRjkT7mKbGmb9QFI-DNhESMHgX_oxOvqDqrAEGquglKNs7tvKOA4gbYmVb0Am1JCJImQDZ6k1kOUVgfdwCK7lGxc4C",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJiRQq9MiTyzsRsgFp-ydO_Fc",
+            "plus_code": {
+                "compound_code": "F957+2H Kondapur, Telangana",
+                "global_code": "7J9WF957+2H"
+            },
+            "rating": 4.5,
+            "reference": "ChIJiRQq9MiTyzsRsgFp-ydO_Fc",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 59504,
+            "vicinity": "Gachibowli - Miyapur Rd, Whitefields, HITEC City, Kondapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4257873,
+                    "lng": 78.43541549999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42708082989272,
+                        "lng": 78.43678252989271
+                    },
+                    "southwest": {
+                        "lat": 17.42438117010727,
+                        "lng": 78.43408287010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Lumbini Jewel Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106753238013671746295\">Anish Kashyap</a>"
+                    ],
+                    "photo_reference": "AcYSjRhSniYbOy5zZ4PBX3uxQIOjFrUUJw94owIU5VCF9XMtPqctwhynhl7xOxutxYnNzeTrrBPy4LEAPcUBNoINPnJiez9qt-eMe4kAiQqDDgPK4Ok4e400Jf_Z5ULw0Ye42ozZyD5fpcqG0LFHxJWJciEM4ucnKGZybJVCjebTzVxLLs4T",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJEUkGqtSQyzsRtuJ6sOwG9zY",
+            "plus_code": {
+                "compound_code": "CCGP+85 Hyderabad, Telangana",
+                "global_code": "7J9WCCGP+85"
+            },
+            "rating": 4,
+            "reference": "ChIJEUkGqtSQyzsRtuJ6sOwG9zY",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1135,
+            "vicinity": "Andhra Pradesh Real Estate, Green Valley, Banjara Hills, 8-2-272/28, Kaifi Azmi Road, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4343693,
+                    "lng": 78.3866087
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43526832989273,
+                        "lng": 78.38806192989271
+                    },
+                    "southwest": {
+                        "lat": 17.43256867010728,
+                        "lng": 78.38536227010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Inorbit Mall Cyberabad",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108733198356240544262\">Ramana Villart</a>"
+                    ],
+                    "photo_reference": "AcYSjRjpuJbuaWfZ3wuhbTNO2oLTV2tsDgLlGzDIy_MLm4sNiLOCuIxr-Z9tf_rY0XgwiIEQRafBdZTssYtfjEx50QoxBuvxrKqwhd05N9vQNJikUm_YKmvRKiUN3IF-nv86he5XcgLhQvWUPPYlmP4vO3hjPos-c9CVp0G7houAtbjhsKaR",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJEUdt5i-XyzsRE1OhHGknLX8",
+            "plus_code": {
+                "compound_code": "C9MP+PJ Madhapur, Telangana",
+                "global_code": "7J9WC9MP+PJ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJEUdt5i-XyzsRE1OhHGknLX8",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 113968,
+            "vicinity": "S No, 64, Inorbit Mall Rd, APIIC Software Layout, Mindspace, Madhapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.448101,
+                    "lng": 78.3844848
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44938897989272,
+                        "lng": 78.38571657989272
+                    },
+                    "southwest": {
+                        "lat": 17.44668932010728,
+                        "lng": 78.38301692010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "E Galleria",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112731077819276694672\">Guna Sekaran</a>"
+                    ],
+                    "photo_reference": "AcYSjRgwSf3bQDFsIbCOv2ehXAo1XwW5iMQllXZxUr0OtzJlgjwan_6q-Y9-ptCzaOE38r0N11rCw8o_Gtzh6KDf9ua24nPVd61G6Xu_1QMe90wDIvq2G4A4rRFN163u1wWaBIIN572MWK4tYpqRFPS-gInxa3iAko-QieSbB5VdS6N-Bl0f",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJkSCNK2CRyzsRhJmcSnQfj5E",
+            "plus_code": {
+                "compound_code": "C9XM+6Q Hyderabad, Telangana",
+                "global_code": "7J9WC9XM+6Q"
+            },
+            "rating": 4.1,
+            "reference": "ChIJkSCNK2CRyzsRhJmcSnQfj5E",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7548,
+            "vicinity": "Hitech City Metro Station, opposite to Avasa hotel, HITEC City, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4956114,
+                    "lng": 78.33254409999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49679872989272,
+                        "lng": 78.33391332989272
+                    },
+                    "southwest": {
+                        "lat": 17.49409907010728,
+                        "lng": 78.33121367010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "The Chennai Shopping Mall - Chandanagar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 332,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112157559760827644515\">Anand Raj</a>"
+                    ],
+                    "photo_reference": "AcYSjRgCZRXjjoCec6H25cpILTyXK-xuRxP5BfWN4I3R-GR3J8J9bnJVuNBAoV3BvZGANgaqe5zFbYgzz8ftfXvcZNq5QYIGxj9qGDSluINYLoQNP_WkRQ-ZkhdVRHy3QlzG_FzVxoC1u6te3mzyDHJdCHkUKFQEez5Lv-HYoQdfJrO-xz1E",
+                    "width": 443
+                }
+            ],
+            "place_id": "ChIJLXkDsY6SyzsRfrfe0AyNSD4",
+            "plus_code": {
+                "compound_code": "F8WM+62 Hyderabad, Telangana",
+                "global_code": "7J9WF8WM+62"
+            },
+            "rating": 3.9,
+            "reference": "ChIJLXkDsY6SyzsRfrfe0AyNSD4",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4042,
+            "vicinity": "Bus Stop, No. 88 & 89, Survey No. 305-309/B Sri Ramanjaneya Trade Centre, Gangaram, Chanda Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4462619,
+                    "lng": 78.3637794
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44763187989272,
+                        "lng": 78.3651188798927
+                    },
+                    "southwest": {
+                        "lat": 17.44493222010728,
+                        "lng": 78.36241922010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Atrium Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103636161240158907106\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi5ULE_FAXyTmEaQYtSocOvInJUM4tWanmrolG0sGyF6V-2pMXCRdihuPUl13TGYhg_S7UywShbVp4ujCyAvOZ-A0_XvMAchk07NSmerbTOI18OukOXjM-rgHo2vTzFTdgzCLoxN3XZpDWzdcvM1wxCFqJiPxQ9StMizqu-2NILvFR5",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJKxQNTsCTyzsR_WQ2cgkMQuo",
+            "plus_code": {
+                "compound_code": "C9W7+GG Hyderabad, Telangana",
+                "global_code": "7J9WC9W7+GG"
+            },
+            "rating": 4,
+            "reference": "ChIJKxQNTsCTyzsR_WQ2cgkMQuo",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4366,
+            "vicinity": "3-12, Gachibowli - Miyapur Rd, P Janardhan Reddy Nagar, Gachibowli, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5063669,
+                    "lng": 78.362128
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50797772989272,
+                        "lng": 78.36346312989271
+                    },
+                    "southwest": {
+                        "lat": 17.50527807010728,
+                        "lng": 78.36076347010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sriven Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103197096274636677026\">Dr Karthik Venegalla</a>"
+                    ],
+                    "photo_reference": "AcYSjRjzXkBqRH4MP_HgbRrmLLiJ7FCsB37Z8P9KRU6u06Nk9d_KT4Z3YXxWHC1P3ID5cJQo7g7eAJ0O268iAQOiAVzeVHlhpck38L1Qup38-kbQMvDTKzxqgxGozPr3dPdLiP4ZOnSa1fcweLzZPQ4xuqgv9F2B-L1Ev2bzqWUQ_yfQU6sH",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJZfX8wAySyzsRAOJPQ1EfcG0",
+            "plus_code": {
+                "compound_code": "G946+MR Hyderabad, Telangana",
+                "global_code": "7J9WG946+MR"
+            },
+            "rating": 3.7,
+            "reference": "ChIJZfX8wAySyzsRAOJPQ1EfcG0",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 823,
+            "vicinity": "Sriven Grand Mall Bolarum Road Adj Reddy's Labs Miyapur, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3943084,
+                    "lng": 78.4395205
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39581602989272,
+                        "lng": 78.44088847989272
+                    },
+                    "southwest": {
+                        "lat": 17.39311637010728,
+                        "lng": 78.43818882010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SGM Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116694199452022998121\">m.s.nagundi deodurga</a>"
+                    ],
+                    "photo_reference": "AcYSjRihjSkUNgiKiqSc-tmjz2WB1g2R3ojUHvQeIFceBd0CefKKWdpJGZMU2n74g8R9Ba4hByl6YIlAb_cj-UUTj_oPF_mNxwTmvfHTutuLK7muGVWnwcoPwxjepnpcsHPkjCgzTg4FLJCZPmouYLalmmEKM8Fy_uhfxodeRavnSLTfSXI5",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJSSZ7QhqXyzsReSkh89eDevo",
+            "rating": 3.5,
+            "reference": "ChIJSSZ7QhqXyzsReSkh89eDevo",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1598,
+            "vicinity": "9CVQ+PRC, Asif Nagar Rd, Santosh Nagar, Mehdipatnam, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4354663,
+                    "lng": 78.4022248
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43676442989272,
+                        "lng": 78.40354452989271
+                    },
+                    "southwest": {
+                        "lat": 17.43406477010727,
+                        "lng": 78.40084487010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Fortune Monarch Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3968,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109084625973767866803\">amit kishore</a>"
+                    ],
+                    "photo_reference": "AcYSjRjcLbpCtN6eufrQjHg8xWuKpSYpY3A-72V_M9oBKF1pNeJdXoEhe16tzhBtaJTVqROwuDv558p9yhhf_hmqiRkNRKS7xFoH_17Xskxw9AyX4rmMTPLNEw9IgAMLNswCejv6i4MCBj4mygAmU-IrjJtHFEZniHBsxGVmpyihVqP73HHM",
+                    "width": 2976
+                }
+            ],
+            "place_id": "ChIJObXUEEaRyzsRZRuSJ1bV14M",
+            "rating": 3.8,
+            "reference": "ChIJObXUEEaRyzsRZRuSJ1bV14M",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 420,
+            "vicinity": "CCP2+5VQ, Masjid Ln, Aditya Enclave, Venkatagiri, Jubilee Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4947631,
+                    "lng": 78.32340789999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49609657989272,
+                        "lng": 78.32475252989272
+                    },
+                    "southwest": {
+                        "lat": 17.49339692010728,
+                        "lng": 78.32205287010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Saravana Shopping Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110196242617811775832\">avvaru durga prasad</a>"
+                    ],
+                    "photo_reference": "AcYSjRjv9r19k8tlzvJUDorxZ3TvnlXyLhSybVhTSXWSYXkQIqts6Lw2NATLJ5gbuPYXvgg-R7-_JEMlTDKJfsYWGsJ9rAiB19Gl3x18ZgDQFxVNd_12HViuhsiJYJQDpjzL09BVgjw8akvGpGeBxD5h0i_5U1015G4O5xM35NZTz9kTc4P_",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJq1uCZpGSyzsRl-XN42ArOjs",
+            "rating": 3.7,
+            "reference": "ChIJq1uCZpGSyzsRl-XN42ArOjs",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 138,
+            "vicinity": "F8VF+V96, Service Rd, Gangaram, Chanda Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4961046,
+                    "lng": 78.33582969999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49736852989272,
+                        "lng": 78.33723017989271
+                    },
+                    "southwest": {
+                        "lat": 17.49466887010728,
+                        "lng": 78.33453052010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Miyapur Central",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJk7s8fNaTyzsRdjkT_p5l1u4",
+            "rating": 4.1,
+            "reference": "ChIJk7s8fNaTyzsRdjkT_p5l1u4",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1759,
+            "vicinity": "F8WP+C8W, Miyapur Main Rd, ICRISAT Colony, Miyapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4842858,
+                    "lng": 78.3888911
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.48551997989271,
+                        "lng": 78.39051072989271
+                    },
+                    "southwest": {
+                        "lat": 17.48282032010727,
+                        "lng": 78.38781107010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Nexus Hyderabad",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 598,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100597375782899332426\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjyVX5pxPz-Oiixo54x3JQo_ga1vfkz0H7qSoo1EBTNbc0a-gLB33yyj0iN3XOWTX_8RVcvO41dQR0jfbjD5nt2TnBaMok2zDe0aDj64AyMk5RuyX6S5TrbY5t0OC5waXI4UUD2PGhoTB8eExkgwlm8E6EHa7xQsklZnmbY8Dja371E",
+                    "width": 593
+                }
+            ],
+            "place_id": "ChIJD2TsmquRyzsRwPRHZog_pak",
+            "plus_code": {
+                "compound_code": "F9MQ+PH Hyderabad, Telangana",
+                "global_code": "7J9WF9MQ+PH"
+            },
+            "rating": 4.4,
+            "reference": "ChIJD2TsmquRyzsRwPRHZog_pak",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 127631,
+            "vicinity": "Kukatpally Housing Board Rd, K P H B Phase 9, Kukatpally, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4000614,
+                    "lng": 78.41479600000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40134427989272,
+                        "lng": 78.41608527989273
+                    },
+                    "southwest": {
+                        "lat": 17.39864462010728,
+                        "lng": 78.41338562010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Podium Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108743945816267897436\">Jamshed Khan</a>"
+                    ],
+                    "photo_reference": "AcYSjRiXt89RPO4cxFVzWE-31Ys2ltBVYWfaJ0yP1n5zddpaMsx3jH81xTFZVMhf5j2PNe6I7Uupn23JjP4WbkUBOBQFAGLEvWgl2KSivqlZyUVyCRDSmQtUx0QLUW2iYXtkdVYbXXPG-yOV13mbRkRAvgdpe8TCD6NyarF6frTnDjFyjbBn",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ2YDOT9GXyzsRp32AZmEP1RE",
+            "plus_code": {
+                "compound_code": "CC27+2W Hyderabad, Telangana",
+                "global_code": "7J9WCC27+2W"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ2YDOT9GXyzsRp32AZmEP1RE",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4093,
+            "vicinity": "Old Mumbai Hwy, Daulat Gulshan Colony, Janaki Nagar Colony, Toli Chowki, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.477045,
+                    "lng": 78.4233041
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.47866462989272,
+                        "lng": 78.42477097989271
+                    },
+                    "southwest": {
+                        "lat": 17.47596497010728,
+                        "lng": 78.42207132010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "The Lakeshore Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJMQHfZx2RyzsR0zVEccJUIp4",
+            "plus_code": {
+                "compound_code": "FCGF+R8 Hyderabad, Telangana",
+                "global_code": "7J9WFCGF+R8"
+            },
+            "rating": 4.6,
+            "reference": "ChIJMQHfZx2RyzsR0zVEccJUIp4",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Kukatpally, Village, Balanagar Mandal, Moosapet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4831749,
+                    "lng": 78.3932324
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.48456592989272,
+                        "lng": 78.39451432989273
+                    },
+                    "southwest": {
+                        "lat": 17.48186627010727,
+                        "lng": 78.39181467010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "NSL Centrum Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107550865568908112176\">Madhav K</a>"
+                    ],
+                    "photo_reference": "AcYSjRiaTgZZQTT2W6btS_KrXZKN0kqSNMAHHPxu0zQMCY-flXUKWmUKisSl4tbOY_iHzxJCsBAhLB_h1h1ag3DDX0e1XOpxG5D0zTEqaziR4g3OrhxSOHJ9WFjaSBT6QTdXNuoLD0emZcG53-JO2UFHafcE5ndceeqaq75gTs22pNlVokOD",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJJ1KmsY-RyzsRBn9waIRVJE0",
+            "plus_code": {
+                "compound_code": "F9MV+77 Hyderabad, Telangana",
+                "global_code": "7J9WF9MV+77"
+            },
+            "rating": 4,
+            "reference": "ChIJJ1KmsY-RyzsRBn9waIRVJE0",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11733,
+            "vicinity": "Nsl Centrum Mall, Plot No1062&1063, Road No.1 Phase 5, KPHB, opp. Forum Mall, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3944314,
+                    "lng": 78.4415667
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39566597989272,
+                        "lng": 78.44289077989274
+                    },
+                    "southwest": {
+                        "lat": 17.39296632010728,
+                        "lng": 78.44019112010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "R5 Singature Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJlzNimRCXyzsR8Hq89Byhi0c",
+            "rating": 4.3,
+            "reference": "ChIJlzNimRCXyzsR8Hq89Byhi0c",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "9CVR+QJ7, Royal Colony, Humayun Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4955783,
+                    "lng": 78.34127060000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49678527989272,
+                        "lng": 78.34265077989272
+                    },
+                    "southwest": {
+                        "lat": 17.49408562010728,
+                        "lng": 78.33995112010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Maangalya Shopping Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108306656438498454869\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhDy-FOiZka-aSGTLbvelCQJ_P64khSG7Y5ivxZHAOaXeP5d-PdBU9p6rM4KK14UwOZ3WVSJPtbBRBM0CmtgN8ShYBU_WM2AQ8AKmJkV1F1cVbEOq02eSNO9ATFcFmR2UbgJhFCdNWY1mtIgHXyn8xcvwJySJb-o1JzNvS1YgPs5qUa",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJUYNJX0OTyzsRW5aqHnNtaGs",
+            "plus_code": {
+                "compound_code": "F8WR+6G Miyapur, Telangana",
+                "global_code": "7J9WF8WR+6G"
+            },
+            "rating": 3.9,
+            "reference": "ChIJUYNJX0OTyzsRW5aqHnNtaGs",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2152,
+            "vicinity": "NH65, Sri Durga Colony, Miyapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.386842,
+                    "lng": 78.349006
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.38808922989272,
+                        "lng": 78.35034372989271
+                    },
+                    "southwest": {
+                        "lat": 17.38538957010727,
+                        "lng": 78.34764407010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "PRIME SQUARE",
+            "place_id": "ChIJD_pLX42VyzsR8bX3vJ5Up_E",
+            "rating": 4.5,
+            "reference": "ChIJD_pLX42VyzsR8bX3vJ5Up_E",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "98PX+PJJ, Shankarpalli - Hyderabad Rd, Power Welfare Society, Manchirevula, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4376958,
+                    "lng": 78.3775713
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43867772989272,
+                        "lng": 78.37938162989273
+                    },
+                    "southwest": {
+                        "lat": 17.43597807010728,
+                        "lng": 78.37668197010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "L and T metro Mega Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJc6r64YKTyzsR3mf_BzLg8UM",
+            "rating": 4.3,
+            "reference": "ChIJc6r64YKTyzsR3mf_BzLg8UM",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30,
+            "vicinity": "C9QH+32G, Silpa Gram Craft Village, HITEC City, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3859337,
+                    "lng": 78.3557423
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.38726977989272,
+                        "lng": 78.35712512989272
+                    },
+                    "southwest": {
+                        "lat": 17.38457012010727,
+                        "lng": 78.35442547010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sri balaji shopping mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJmaO4q1-VyzsRbi3zaLRpwK4",
+            "plus_code": {
+                "compound_code": "99P4+97 Narsingi, Telangana",
+                "global_code": "7J9W99P4+97"
+            },
+            "rating": 3,
+            "reference": "ChIJmaO4q1-VyzsRbi3zaLRpwK4",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Narsingi - Puppalaguda Main Rd, Narsingi"
+        }
+    ],
+    "status": "OK"
+}

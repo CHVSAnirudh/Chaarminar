@@ -1,0 +1,865 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgmwLEtTsErERTM794elgx2FCxti8nkVr5DLYVd81_3CMC6Uct06kocSPLiFfIzEN3dl1MC_i3GVJfVVHqf5jsHZXZZRCAL2E7a1C-43lw95PV61gVhRHN5yhoV6mrdFhshK9xUigDTnODU5CqPI4-0BshJtpiqK2NHzDVBnNSjUPMujSCZAY8jh2SmpCNChmfU69wModanFDITsQtG9Nv_4DthKEhePHh3JHgtZNYdQhHx7GBLR0yD0YUVIxZmmk4WKA3vVQQvON-dWNX2JD97XMFwySXr2JwNXl7E0TrEbW1McsXpOW8e9BrNmkBwu1Z2ix5DNeVTXzFSxJhmrWgSgji7HkZI9foB7VxWvBFsH-LnnWgHMBdBxyluW_x8aOQVZDwzgE5kJVCFRYhHYwPewp0S45Geh93G598UxdUIj8iH-CWTGMk",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1646086,
+                    "lng": 78.01114729999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16593042989272,
+                        "lng": 78.01249467989271
+                    },
+                    "southwest": {
+                        "lat": 27.16323077010728,
+                        "lng": 78.00979502010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Agra Philatlic museum",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106772988247838289789\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj6CtzF0FrGDcNm59jPKKTjLmqJyXTHvUhPAbTu2mnEJQhFbmZsYl9YR-6kAqqzLPmaKZaraoOBOuXLUF1PJ4pdqF5DoYa--Mu2tRXgincHf1qcRF3RXVUVbxgZCURQ40PLxd3yWzWjBY6mTUH5onxHeXjIsWPsXme_Vm8Fc7Ggn1wF",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJn-s1ekR3dDkRKjXIQdWkAkU",
+            "plus_code": {
+                "compound_code": "5276+RF Agra, Uttar Pradesh",
+                "global_code": "7JVW5276+RF"
+            },
+            "rating": 3.5,
+            "reference": "ChIJn-s1ekR3dDkRKjXIQdWkAkU",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "The Mall Road, Near, Pratappura Crossing, Baluganj, Rakabganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1731804,
+                    "lng": 78.040668
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17428932989272,
+                        "lng": 78.04181790000001
+                    },
+                    "southwest": {
+                        "lat": 27.17158967010728,
+                        "lng": 78.0378355
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Taj Museum",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113429205500663850894\">Arnab Bagchi</a>"
+                    ],
+                    "photo_reference": "AcYSjRjss7nRvsIsJNy2O65Lg3Mnjf76afOEVk1ZC4N8rCsiF_IGELNrsAZIna8BvTXG95IlqAyaepBQxcoRM7s5cZXKHvdBb-7-_vsuqtEtWNxBvIQ3G-DsEodzMiiZ0opRRFhQqVEPR2gdnSxnHk-VyB6HgpU1gtLKIAuW7cXFpK2PpObh",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJAZiicx9xdDkRKbcf4p6W3nQ",
+            "rating": 4.4,
+            "reference": "ChIJAZiicx9xdDkRKbcf4p6W3nQ",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 485,
+            "vicinity": "52FR+77F, Taj Mahal, Dharmapuri, Forest Colony, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1643953,
+                    "lng": 78.0559747
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16574512989272,
+                        "lng": 78.05732452989272
+                    },
+                    "southwest": {
+                        "lat": 27.16304547010728,
+                        "lng": 78.05462487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Chhatrapati Shivaji Maharaj museum",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 640,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109320710021977332960\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhwAHWvAAlrhNZIfO_uQjPlxGw4_6W5TTSKoGY0diqbKX-WXFdqdnrSc5IFx4vT60ObCHHMBoRqLUR2uhVSMuhkdM9a5Fku0B04qyDcEbQXvcBpLOyJNimy1wAyihWQowKV1FHfjNHlrEoO7Ztyod4RpJonX9VHO5SViaRPygWAPq-y",
+                    "width": 854
+                }
+            ],
+            "place_id": "ChIJAxpVDw9xdDkR_2jqVtHUaQo",
+            "plus_code": {
+                "compound_code": "5374+Q9 Agra, Uttar Pradesh",
+                "global_code": "7JVW5374+Q9"
+            },
+            "rating": 4.1,
+            "reference": "ChIJAxpVDw9xdDkR_2jqVtHUaQo",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 216,
+            "vicinity": "Taj East Gate Rd, Taj Nagari Phase 1, Telipara, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1925398,
+                    "lng": 78.0325981
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19386327989272,
+                        "lng": 78.03403062989271
+                    },
+                    "southwest": {
+                        "lat": 27.19116362010728,
+                        "lng": 78.03133097010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Etamad dulah monument",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105638095886025245506\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiShBtYOXxxrRBupQG-YPKF6adJ0HS_QrFpPAeoX_jS57uaLc62D-8dlEhwzj5ctZrdtwUdkMZJcTx1RhqZDBR9uNrRNpRsgTLn7xQnRzCgkIA3f2VIiF7Wp1JpoErdsuguaVgnM-n-dHVpwtSdW3c1-MJh4Up2QMdFx6_RNuqILWBF",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJU-eLs1pxdDkRkZROcKqAnQU",
+            "rating": 4.2,
+            "reference": "ChIJU-eLs1pxdDkRkZROcKqAnQU",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "52VM+232, SH 39, Moti Bagh, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.186332,
+                    "lng": 77.9250343
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18769457989272,
+                        "lng": 77.92634532989271
+                    },
+                    "southwest": {
+                        "lat": 27.18499492010728,
+                        "lng": 77.92364567010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "saheed shri bijendra smark",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJTzS1BiGIczkRYNA7p-gmraQ",
+            "rating": 5,
+            "reference": "ChIJTzS1BiGIczkRYNA7p-gmraQ",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "5WPG+G2J, Manghatai, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1749372,
+                    "lng": 78.0405626
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17605407989272,
+                        "lng": 78.04179524999999
+                    },
+                    "southwest": {
+                        "lat": 27.17335442010728,
+                        "lng": 78.03739185
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Dome",
+            "place_id": "ChIJE20O7gVxdDkREgyoBTlmQcQ",
+            "rating": 0,
+            "reference": "ChIJE20O7gVxdDkREgyoBTlmQcQ",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "52FR+X6G, Dharmapuri, Forest Colony, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1541392,
+                    "lng": 78.0505209
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15550162989272,
+                        "lng": 78.05191967989272
+                    },
+                    "southwest": {
+                        "lat": 27.15280197010728,
+                        "lng": 78.04922002010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "New Nice Marble Art & Handicrafts",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100328968128278380878\">Acco D&#39;Avies</a>"
+                    ],
+                    "photo_reference": "AcYSjRiwXqRxW77HY9YdVzq7naNN9FVruZlmWlykvY-97c2tvTZgwdjOCKU6hyOXD9jEmE05CpSuTl_wYoRe5TNQHmg9Cg0Oi7qY7RRyKreHbluEnE3LUoQKmcfrCEEBgeGznA6vKD11QnudtaSI35_IEkA1WfOhoF9uvNxbRPHpvqBEPmee",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJdQh6LBNxdDkRN7dEFdyE2RY",
+            "plus_code": {
+                "compound_code": "5332+M6 Agra, Uttar Pradesh",
+                "global_code": "7JVW5332+M6"
+            },
+            "rating": 3.8,
+            "reference": "ChIJdQh6LBNxdDkRN7dEFdyE2RY",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 34,
+            "vicinity": "Plot No. 118, Taj Nagri Rd, R.K. Puram Phase-2, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1917967,
+                    "lng": 78.01938369999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19317027989272,
+                        "lng": 78.02073892989272
+                    },
+                    "southwest": {
+                        "lat": 27.19047062010727,
+                        "lng": 78.01803927010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Realjainism Inc.",
+            "place_id": "ChIJScB7VTN3dDkR_zFL3UZSyME",
+            "plus_code": {
+                "compound_code": "52R9+PQ Agra, Uttar Pradesh",
+                "global_code": "7JVW52R9+PQ"
+            },
+            "rating": 0,
+            "reference": "ChIJScB7VTN3dDkR_zFL3UZSyME",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "27/2, Pathwari, Belanganj, Civil Lines, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.173393,
+                    "lng": 78.04151200000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17472342989272,
+                        "lng": 78.0449836
+                    },
+                    "southwest": {
+                        "lat": 27.17202377010728,
+                        "lng": 78.04035480000002
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Well",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116768425164345235765\">shahzada manzoor ahmad</a>"
+                    ],
+                    "photo_reference": "AcYSjRghbMf9qk_vWsDXzDrIDyKNyq45OQbWxTa9qLvcmL5gHfg43ot4_qPPpH_3cYOcTKUA0H6IK-lj3l4QyddTH8Fb9zbZN4ubgJoeRfpYJN3J6JlHVDWODp1at6MlhaYPxmUppLV6E_Q6a9W1dC412VggRAuTWsySs0MfBzzbmZpHUDt_",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJS7wnVMpxdDkRiFQS9jALstU",
+            "rating": 0,
+            "reference": "ChIJS7wnVMpxdDkRiFQS9jALstU",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "52FR+9J2, Unnamed Road, Dharmapuri, Forest Colony, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1539553,
+                    "lng": 78.01469589999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15530487989273,
+                        "lng": 78.01605432989273
+                    },
+                    "southwest": {
+                        "lat": 27.15260522010728,
+                        "lng": 78.01335467010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Pushiv Exports",
+            "place_id": "ChIJkcq5iHN3dDkR_g6iAWo7bAs",
+            "plus_code": {
+                "compound_code": "5237+HV Agra, Uttar Pradesh",
+                "global_code": "7JVW5237+HV"
+            },
+            "rating": 0,
+            "reference": "ChIJkcq5iHN3dDkR_g6iAWo7bAs",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "41, O.P Mahendru Road, behind \u0939\u094b\u091f\u0932 \u0915\u094d\u0932\u093e\u0930\u094d\u0915\u094d\u0938 \u0936\u093f\u0930\u093e\u091c, Agra Cantt, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1355269,
+                    "lng": 78.0734982
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.13686907989272,
+                        "lng": 78.07487552989272
+                    },
+                    "southwest": {
+                        "lat": 27.13416942010728,
+                        "lng": 78.07217587010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "RAJEEV RAJPUT",
+            "place_id": "ChIJbfKFaPhxdDkRyOR6zVZEDto",
+            "rating": 0,
+            "reference": "ChIJbfKFaPhxdDkRyOR6zVZEDto",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "43PF+695, Unnamed Road, Lakavali"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1766701,
+                    "lng": 78.00807449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17803257989272,
+                        "lng": 78.00942617989271
+                    },
+                    "southwest": {
+                        "lat": 27.17533292010728,
+                        "lng": 78.00672652010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Signature of love, taj mahal",
+            "photos": [
+                {
+                    "height": 704,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107036012483194579818\">sumantra</a>"
+                    ],
+                    "photo_reference": "AcYSjRgMp4u83O3f2m9qcUXzGdkiT3BZnMHCw3kn-bHbGRW2JihQd_U5rpFGT4LmjB2OtCTPR31ED90JEIob8bSGb8VJ6idLckemdEp6VxFWChT5_LOXXt-mR-D8fFgQXTbYZtgZzelcZdefxM_SHfM4lzW82eayrrh2I11udikm1LcbPSkC",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJA3NBlvp3dDkR-0H8qmbxfD4",
+            "rating": 0,
+            "reference": "ChIJA3NBlvp3dDkR-0H8qmbxfD4",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "52G5+M68, Sewala Jat, Panchkuian, Rakabganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1588946,
+                    "lng": 78.05474470000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16027567989272,
+                        "lng": 78.05609027989271
+                    },
+                    "southwest": {
+                        "lat": 27.15757602010728,
+                        "lng": 78.05339062010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Shams Embroideries",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116800754048515513855\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhsIRultsZ3DcoPMEk3hc309PwDMWnhNSL5LhinB9Ueyt803ik7N_z8yKorT2R1WeLA4HRwFEuz_OYEHMEnCH5b1tdnU6KMbBEQ_R2A4TXr0Trvc3s8orWEUk7BTI7JecVIB2CraUcBjQNWCc5D1FF-8D1TDHEmS5rLH99Gb1QaJnup",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJe1sl3X1xdDkR1I3DVi7mfXw",
+            "plus_code": {
+                "compound_code": "5353+HV Agra, Uttar Pradesh",
+                "global_code": "7JVW5353+HV"
+            },
+            "rating": 0,
+            "reference": "ChIJe1sl3X1xdDkR1I3DVi7mfXw",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Taj Nagri Road tdi mall, Basai Khurd, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1733943,
+                    "lng": 78.03345089999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17469947989272,
+                        "lng": 78.0347790298927
+                    },
+                    "southwest": {
+                        "lat": 27.17199982010728,
+                        "lng": 78.03207937010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Taj Mahal",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 6944,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100284503581646104484\">Priyabrata Banerjee</a>"
+                    ],
+                    "photo_reference": "AcYSjRiF8e-Otyzn3si8NQ9smT21kE8NFgppgJ5JLaC3DfAjMTggxT1OrYguGUpXzXlMezHMFrdFSR79TdCfQtd9tEdkCvKb4DHEm8m_nxaorYL-mqSEvDT61Mouk4MrW8EQZjhd5Y9iwclHvCdPetp2reKzOcm3-GA2GIknYCX3CJTu0eNg",
+                    "width": 9280
+                }
+            ],
+            "place_id": "ChIJyec7FLtxdDkRKPTWITl5lQ4",
+            "rating": 4.6,
+            "reference": "ChIJyec7FLtxdDkRKPTWITl5lQ4",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 62,
+            "vicinity": "52FM+994, Teela Bala bagh, Agra Local Bus Stand, Dharmapuri, Forest Colony, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1346918,
+                    "lng": 77.9035785
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.13602562989272,
+                        "lng": 77.90491712989271
+                    },
+                    "southwest": {
+                        "lat": 27.13332597010728,
+                        "lng": 77.90221747010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Samudayik kendra",
+            "place_id": "ChIJn9gUtHyJczkRjhB9Wy9xs40",
+            "rating": 0,
+            "reference": "ChIJn9gUtHyJczkRjhB9Wy9xs40",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "4WM3+VCX, Barara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1627017,
+                    "lng": 78.0144092
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16413522989272,
+                        "lng": 78.01577027989273
+                    },
+                    "southwest": {
+                        "lat": 27.16143557010728,
+                        "lng": 78.01307062010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Subhash Emporium",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102889277855802412070\">anshika bansal</a>"
+                    ],
+                    "photo_reference": "AcYSjRiQHXLw7rIedJEEtBzCOZwvy_eo6Bi35RgS-mtA8-_qSrLkb82UnGLzkdO2JKPRj_ctcu7YxlpY1d7gk8M_juoKqyem4jhoh57YGj0TQ7cvX8ARr0xcbcr6K5JWZd4-Uj4PQeyRw9_hPhjaBnyMP-TZ4Dw_DseVsZVOIRbavGNKr3VC",
+                    "width": 3468
+                }
+            ],
+            "place_id": "ChIJZSdZBtJ2dDkRT2mb1HkCHGA",
+            "plus_code": {
+                "compound_code": "5277+3Q Agra, Uttar Pradesh",
+                "global_code": "7JVW5277+3Q"
+            },
+            "rating": 3.9,
+            "reference": "ChIJZSdZBtJ2dDkRT2mb1HkCHGA",
+            "scope": "GOOGLE",
+            "types": [
+                "art_gallery",
+                "museum",
+                "tourist_attraction",
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 131,
+            "vicinity": "18/1, Gwalior Road, Opp BSNL office, Shahzadi Mandi,, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1766701,
+                    "lng": 78.00807449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17803257989272,
+                        "lng": 78.00942617989271
+                    },
+                    "southwest": {
+                        "lat": 27.17533292010728,
+                        "lng": 78.00672652010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Shahjahan Makbara",
+            "place_id": "ChIJgRHRVdx3dDkR45vjEuWYFR4",
+            "rating": 1,
+            "reference": "ChIJgRHRVdx3dDkR45vjEuWYFR4",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "52G5+M68, Mahatma Gandhi Rd, Dhakran Crossing, Panchkuian, Rakabganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1780809,
+                    "lng": 78.0234231
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17954027989272,
+                        "lng": 78.0253214
+                    },
+                    "southwest": {
+                        "lat": 27.17684062010728,
+                        "lng": 78.0219134
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Shah Jahani Mahal",
+            "photos": [
+                {
+                    "height": 2546,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101170702024721005089\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjl7Xg62n25mv2ESmj023TSF1x8ljhPEepvcJgFl41yHA4HhN6JqL61UBwLsO_63IzTRTyKLa8701QdUy7FPYJWyh8YsT8fIHHSCII9OIu7U27HdeZZ8wvugNK6RX4w4TVgRSbO1VLaubC7Y8jPNT2CXwOnipeaRuo3nJWSXKoqje3W",
+                    "width": 4054
+                }
+            ],
+            "place_id": "ChIJVVVVFdRwdDkRa-0DHy-8tgM",
+            "rating": 4.6,
+            "reference": "ChIJVVVVFdRwdDkRa-0DHy-8tgM",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36,
+            "vicinity": "52HF+69M, Agra Fort, Rakabganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1782707,
+                    "lng": 78.0235606
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17958472989272,
+                        "lng": 78.02527459999999
+                    },
+                    "southwest": {
+                        "lat": 27.17688507010728,
+                        "lng": 78.021929
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Roshan Ara Pavilion",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3464,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110739087665495354449\">Prabudh Sharma</a>"
+                    ],
+                    "photo_reference": "AcYSjRgwQsM-Zg6wlZLnckqpJhHX-Vc56RE0s2c1AO8LOsY_rgZAho8Gxp4_JTBzELakgI7mcKCa_Uou22E-iwGg70L6XTC12tMrAmbExJSEipXH-NCzqVWlK5pvx4knCG2EXkQ0mrJStCEOV-Ux3oqaQgO36NhOEtaP8qhfHVKqiehKKND9",
+                    "width": 4618
+                }
+            ],
+            "place_id": "ChIJ617lSNRwdDkRQp44OxIYU-s",
+            "rating": 4.3,
+            "reference": "ChIJ617lSNRwdDkRQp44OxIYU-s",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "52HF+8C3, Agra Fort, Rakabganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1350314,
+                    "lng": 78.04462699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.13634517989272,
+                        "lng": 78.04594592989272
+                    },
+                    "southwest": {
+                        "lat": 27.13364552010728,
+                        "lng": 78.04324627010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Pulwama Shaheed Smarak Koushal Rawat (COOK CRPF)",
+            "place_id": "ChIJ213NusBxdDkRrc-OXYvDFVg",
+            "rating": 0,
+            "reference": "ChIJ213NusBxdDkRrc-OXYvDFVg",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "42PV+2R5, Kahrai, Agra"
+        }
+    ],
+    "status": "OK"
+}

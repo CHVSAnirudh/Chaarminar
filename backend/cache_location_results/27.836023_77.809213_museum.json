@@ -1,0 +1,92 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.9259458,
+                    "lng": 77.7832269
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.92731552989272,
+                        "lng": 77.78453447989273
+                    },
+                    "southwest": {
+                        "lat": 27.92461587010727,
+                        "lng": 77.78183482010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Pragya Buddha Vihar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110931654195352749303\">Most important and Motivational</a>"
+                    ],
+                    "photo_reference": "AcYSjRhB39E4jm74I-7WuHcDjAxAZxPbMHOlIGLxt95reIiEZ3jMjtjNhETzK5MYwnidYFMTzG5c8Y97pJ85KSHOyH4ErmVB1Bna8UzfG-hwdeSEVRCcwdnU1aLRR0aRj_29dcC5HJW9nkZDtrCOFilq6VTQYrzWAIa4ppDz_xc-pFdngvu8",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJpRWdGo9aczkR-OW8I0Cuucg",
+            "plus_code": {
+                "compound_code": "WQGM+97 Khair, Uttar Pradesh",
+                "global_code": "7JVVWQGM+97"
+            },
+            "rating": 5,
+            "reference": "ChIJpRWdGo9aczkR-OW8I0Cuucg",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "nagla kadam Gomat, Khair"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 27.9264408,
+                    "lng": 77.80846919999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.92777112989272,
+                        "lng": 77.80982257989271
+                    },
+                    "southwest": {
+                        "lat": 27.92507147010728,
+                        "lng": 77.80712292010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "\u092c\u094d\u0930\u093e\u0939\u094d\u092e\u0923 \u0932\u0948\u0902\u0921 (Bk \u092a\u0902\u0923\u094d\u0921\u093f\u0924 \u0915\u0938\u0940\u0938\u094b\u0902)",
+            "permanently_closed": true,
+            "place_id": "ChIJnSG2REZbczkRzcAMuEirPqM",
+            "rating": 0,
+            "reference": "ChIJnSG2REZbczkRzcAMuEirPqM",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "WRG5+H9G, Kasison"
+        }
+    ],
+    "status": "OK"
+}

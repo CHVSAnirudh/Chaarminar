@@ -1,0 +1,384 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8834615,
+                    "lng": 78.3274153
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88478567989272,
+                        "lng": 78.32874962989273
+                    },
+                    "southwest": {
+                        "lat": 25.88208602010728,
+                        "lng": 78.32604997010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Shalimar bar & restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106694249965183480087\">rohit shivhare</a>"
+                    ],
+                    "photo_reference": "AcYSjRgiD8FGEHvKcsjWkkaLrIqwbzRHytSYQsIs8hA2htvGXrY-cuhyAeS8VeJKNge366EqkssKjK9EllgMZOuz5ndR3jgAy2jeVvvUSre_QuiokfqXM-NzTDB1m52n07Z1UKK0GGg-22bGuc72YQ0OKnTfIP7dY--0721BZVbSx-O9CinL",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJg2Fk7BMfdzkRNJoPESKnpzU",
+            "plus_code": {
+                "compound_code": "V8MG+9X Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8MG+9X"
+            },
+            "rating": 4.9,
+            "reference": "ChIJg2Fk7BMfdzkRNJoPESKnpzU",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Jawahar Gunj, Subhash Ganj, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8772523,
+                    "lng": 78.3236301
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.87863172989272,
+                        "lng": 78.32491967989272
+                    },
+                    "southwest": {
+                        "lat": 25.87593207010728,
+                        "lng": 78.32222002010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "THE METRO BEER BAR GINNI HOTEL",
+            "place_id": "ChIJ3xWijd8fdzkRkz84ee0z_ME",
+            "rating": 0,
+            "reference": "ChIJ3xWijd8fdzkRkz84ee0z_ME",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "V8GF+VFQ, Bhitarwar Rd, Magrora, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9014951,
+                    "lng": 78.3799564
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.90285882989272,
+                        "lng": 78.38131012989273
+                    },
+                    "southwest": {
+                        "lat": 25.90015917010728,
+                        "lng": 78.37861047010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Ajay Baghel",
+            "place_id": "ChIJLVahO3YfdzkRwr47kZMhsak",
+            "rating": 0,
+            "reference": "ChIJLVahO3YfdzkRwr47kZMhsak",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "W92H+HXW, Nibhera"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9442758,
+                    "lng": 78.2875753
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.94563307989272,
+                        "lng": 78.28894607989271
+                    },
+                    "southwest": {
+                        "lat": 25.94293342010728,
+                        "lng": 78.28624642010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Rohit korku",
+            "place_id": "ChIJ0_fnWIffdjkRoKPO7JEunRE",
+            "rating": 0,
+            "reference": "ChIJ0_fnWIffdjkRoKPO7JEunRE",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "W7VQ+P32, Unnamed Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8843108,
+                    "lng": 78.33945159999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88570807989272,
+                        "lng": 78.34078867989273
+                    },
+                    "southwest": {
+                        "lat": 25.88300842010727,
+                        "lng": 78.33808902010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Radhika Alwar Beauty Parlour",
+            "place_id": "ChIJ6-y6jhgfdzkRJM7sq2p_QK0",
+            "rating": 1,
+            "reference": "ChIJ6-y6jhgfdzkRJM7sq2p_QK0",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "V8MQ+PQ8, Raghu Nagar, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8900931,
+                    "lng": 78.33706889999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89139462989272,
+                        "lng": 78.33823942989272
+                    },
+                    "southwest": {
+                        "lat": 25.88869497010728,
+                        "lng": 78.33553977010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Prashant Hotel Veg/Non Veg /Bar ( DABRA GWALIOR BUS STAND)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 470,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109615436663855010947\">rakesh shivhare</a>"
+                    ],
+                    "photo_reference": "AcYSjRibBI6LL6Xpk69yV50VUBWkiq78W8rcudQjBCLkB-0ZXe0VX_koB2sxbYB0XIDBUmILFesib_bu8iZ2SAK7OK3YP0eA_QqXeqx0Z0FrLsiWWBOKrS6PY7owwtYkOXn-_RGIDlI_e0xRzLl2WXFunCYwZ5VW8sPkMeifbffbOM5Z7kBv",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJG8Ve8gIfdzkRXCSU2X_xvc0",
+            "rating": 3,
+            "reference": "ChIJG8Ve8gIfdzkRXCSU2X_xvc0",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "V8RP+2RX, Srinagar - Kanyakumari Hwy, Shree Ram Colony, Subhash Ganj, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8878531,
+                    "lng": 78.33731039999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88917032989272,
+                        "lng": 78.33866862989271
+                    },
+                    "southwest": {
+                        "lat": 25.88647067010728,
+                        "lng": 78.33596897010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Dhiyo Ice cream",
+            "place_id": "ChIJicxbFK0fdzkRUCyuW45shaM",
+            "plus_code": {
+                "compound_code": "V8QP+4W Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8QP+4W"
+            },
+            "rating": 0,
+            "reference": "ChIJicxbFK0fdzkRUCyuW45shaM",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Subhash Ganj, Dabra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8895691,
+                    "lng": 78.2686109
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89096937989272,
+                        "lng": 78.26987397989271
+                    },
+                    "southwest": {
+                        "lat": 25.88826972010728,
+                        "lng": 78.26717432010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Rahul kushwah",
+            "place_id": "ChIJNcYNkewhdzkR0VFJgW1kvOY",
+            "rating": 0,
+            "reference": "ChIJNcYNkewhdzkR0VFJgW1kvOY",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "V7Q9+RCH, Barol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9442757,
+                    "lng": 78.28757519999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.94563297989272,
+                        "lng": 78.28894577989271
+                    },
+                    "southwest": {
+                        "lat": 25.94293332010728,
+                        "lng": 78.28624612010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Rahul Adibasi",
+            "place_id": "ChIJZU8cAzPfdjkRoMJob0ki2bA",
+            "rating": 5,
+            "reference": "ChIJZU8cAzPfdjkRoMJob0ki2bA",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "W7VQ+P32, Unnamed Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8844415,
+                    "lng": 78.3279867
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.88580037989272,
+                        "lng": 78.32931742989273
+                    },
+                    "southwest": {
+                        "lat": 25.88310072010728,
+                        "lng": 78.32661777010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Narayan Mishra Hospital",
+            "place_id": "ChIJpQwvzCsfdzkRzeKyOZOXCgs",
+            "rating": 0,
+            "reference": "ChIJpQwvzCsfdzkRzeKyOZOXCgs",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "V8MH+Q5H, \u0930\u0947\u0932\u0935\u0947 \u0938\u094d\u091f\u0947\u0936\u0928 \u0930\u094b\u0921, Laaj Kunj, Subhash Ganj, Dabra"
+        }
+    ],
+    "status": "OK"
+}
