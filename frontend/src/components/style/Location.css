@@ -1,4 +1,4 @@
-*{
+.white{
     color: #fff;
 }
 
@@ -8,6 +8,7 @@ input{
     padding: 6px;
     margin-right: 16px;
     background-color: rgba(255,255,255,0.15);
+    color: white;
 }
 
 label{
@@ -17,14 +18,32 @@ label{
 .inputFields{
     padding:20px 10px;
     margin:0 10px;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    color: white;
 }
 
+.moodContainer{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 10px;
+    height: 40px;
+    width: 40px;
+}
 .mapContainer{
     width:90%;
-    min-height:75%;
+    height:75%;
     margin: 0 20px;
-    background-color: #fff;
+    background-color:red;
     border-radius: 10px;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content: center;
 }
 
 .filter{

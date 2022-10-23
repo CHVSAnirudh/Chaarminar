@@ -25,7 +25,7 @@ const NavBar = () => {
                     {/* Location */}
                     </div>
                 </Link>
-                <Link to="/music">
+                <Link to="/video">
                     <div className="navbarItem">
                     <img src={Music} alt="" />
                     {/* Music */}

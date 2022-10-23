@@ -4,206 +4,158 @@ import NavBar from './NavBar';
 import './../style/Location.css'
 import { Search, GpsFixed } from "@material-ui/icons"
 import './../style/Home.css'
-import {useEffect } from "react";
+import { useEffect } from "react";
 import Happy from './../images/happy.png'
 import Sad from './../images/sad.png'
 import Angry from './../images/angry.png'
 import Neutral from './../images/thinking.png'
 import Iternary from '../comps/Iternary';
 import Recommends from '../comps/Recommends';
+import Maps from '../comps/Maps';
+import { geocodeByAddress } from "react-places-autocomplete";
+import axios from 'axios';
 
-const apiKey = process.env.REACT_APP_GOOGLE_MAPS_API_KEY;
-const mapApiJs = 'https://maps.googleapis.com/maps/api/js';
-const geocodeJson = 'https://maps.googleapis.com/maps/api/geocode/json';
+import qs from 'qs';
 
+const directionsService = new window.google.maps.DirectionsService;
 
-// load google map api js
-
-// function loadAsyncScript(src) {
-//   return new Promise(resolve => {
-//     const script = document.createElement("script");
-//     Object.assign(script, {
-//       type: "text/javascript",
-//       async: true,
-//       src
-//     })
-//     script.addEventListener("load", () => resolve(script));
-//     document.head.appendChild(script);
-//   })
-// }
-
-// const extractAddress = (place) => {
-
-//   const address = {
-//     city: "",
-//     state: "",
-//     zip: "",
-//     country: "",
-//     plain() {
-//       const city = this.city ? this.city + ", " : "";
-//       const zip = this.zip ? this.zip + ", " : "";
-//       const state = this.state ? this.state + ", " : "";
-//       return city + zip + state + this.country;
-//     }
-//   }
-
-//   if (!Array.isArray(place?.address_components)) {
-//     return address;
-//   }
-
-//   place.address_components.forEach(component => {
-//     const types = component.types;
-//     const value = component.long_name;
-
-//     if (types.includes("locality")) {
-//       address.city = value;
-//     }
-
-//     if (types.includes("administrative_area_level_2")) {
-//       address.state = value;
-//     }
-
-//     if (types.includes("postal_code")) {
-//       address.zip = value;
-//     }
-
-//     if (types.includes("country")) {
-//       address.country = value;
-//     }
-
-//   });
-
-//   return address;
-// }
-
-
-
+const url = 'https://68d9-106-195-78-8.in.ngrok.io/temp'
 export default function Location() {
-//     const searchInput = useRef(null);
-//   const [address, setAddress] = useState({});
+
+    const [sourceCors, setSource] = useState({ lat: '', lon: '' });
+    const [destinationCors, setDestination] = useState({ lat: '', lon: '' });
+    const [directionsRes, setdirectionsRes] = useState();
+    const [selectedEmotion, setselectedEmotion] = useState('happy');
+    const [video, setVideo] = useState();
+    const sourceRef = useRef();
+    const destinationRef = useRef();
 
 
-  // init gmap script
-  // const initMapScript = () => {
-  //   // if script already loaded
-  //   if(window.google) {
-  //     return Promise.resolve();
-  //   }
-  //   const src = `${mapApiJs}?key=${apiKey}&libraries=places&v=weekly`;
-  //   return loadAsyncScript(src);
-  // }
+    const [Apiresponse, setApiresponse] = useState();
 
-  // do something on address change
-  // const onChangeAddress = (autocomplete) => {
-  //   const place = autocomplete.getPlace();
-  //   setAddress(extractAddress(place));
-  // }
+    const handleSubmit = () => {
 
-  // init autocomplete
-  // const initAutocomplete = () => {
-  //   if (!searchInput.current) return;
+        let inputSourceText = sourceRef.current.value;
+        let inputDestinationText = destinationRef.current.value;
 
-  //   const autocomplete = new window.google.maps.places.Autocomplete(searchInput.current);
-  //   autocomplete.setFields(["address_component", "geometry"]);
-  //   autocomplete.addListener("place_changed", () => onChangeAddress(autocomplete));
+        getDirections({ source: inputSourceText, destination: inputDestinationText })
 
-  // }
+        //below code gets lat and long for input places
+        geocodeByAddress(inputSourceText)
+            .then(results => setSource({
+                lat: results[0].geometry.location.lat(),
+                lon: results[0].geometry.location.lat()
+            }))
+            .catch(error => console.error(error));
 
+        geocodeByAddress(inputDestinationText)
+            .then(results => setDestination({
+                lat: results[0].geometry.location.lat(),
+                lon: results[0].geometry.location.lat()
+            }))
+            .catch(error => console.error(error));
 
-  // const reverseGeocode = ({ latitude: lat, longitude: lng}) => {
-  //   const url = `${geocodeJson}?key=${apiKey}&latlng=${lat},${lng}`;
-  //   searchInput.current.value = "Getting your location...";
-  //   fetch(url)
-  //       .then(response => response.json())
-  //       .then(location => {
-  //         const place = location.results[0];
-  //         const _address = extractAddress(place);
-  //         setAddress(_address);
-  //         searchInput.current.value = _address.plain();
-  //       })
-  // }
+        //API CALLING CODE INSERT BELOW
+        //SOURCECORS AND DESTINATION CORS CONRTAIN THE LAT AND LONG COordinates
 
 
-  // const findMyLocation = () => {
-  //   if (navigator.geolocation) {
-  //     navigator.geolocation.getCurrentPosition(position => {
-  //       reverseGeocode(position.coords)
-  //     })
-  //   }
-  // }
+        // apiCall({ body: body })
+    }
 
 
+    async function getDirections({ source, destination }) {
+        const res = await directionsService.route({
+            origin: source,
+            destination: destination,
+            travelMode: window.google.maps.TravelMode.DRIVING
+        })
+        setdirectionsRes(res);
+    }
+    useEffect(() => {
+        if (destinationCors.lat != '' && sourceCors.lat != '') {
+            const params = new URLSearchParams()
+            params.append('slat', sourceCors.lat)
+            params.append('slong', sourceCors.lon)
+            params.append('dlat', destinationCors.lat)
+            params.append('dlong', destinationCors.lon)
+
+            params.append('mood', selectedEmotion)
+            params.append('age', 'old')
+
+            const config = {
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded'
+                }
+            }
+
+            axios.post(url, params, config)
+                .then((result) => {
+                    console.log(result)
+                    setVideo(result.data)
+                    let videoURL=window.URL.createObjectURL(new Blob([result.data]))
+                    localStorage.setItem('videoSrc',videoURL)
+                })
+                .catch((err) => {
+                    console.log(err)
+
+                })
+        }
+    }, [destinationCors, sourceCors]);
+    console.log(sourceCors)
+    console.log(destinationCors)
 
 
+    return (
+        <>
 
-  // load map script after mounted
-  // useEffect(() => {
-  //   initMapScript().then(() => initAutocomplete())
-  // }, []);
-
-
-
-
-   return (
-    <>
-    
-    <div className='viewContainer'>
-        <div className='flex0'>
-            <div className='flex'>
-                <div className='inputFields'>
-                    <label>Origin :</label>
-                    <input/>
-                    <label>Destination :</label>
-                    <input/>
-                </div>
-                <div className='mapContainer'>   
-            .</div>
-        </div>
-        <div className='outputContainer'>
-            <div className='filter'>
-                <ul>
-                    <li> <img src={Happy} alt=""></img>
-                        </li>
-                        <li>
-                        <img src={Sad} alt=""></img>
-                            </li>
-                            <li>
-                            <img src={Angry} alt=""></img>
+            <div className='viewContainer'>
+                <div className='flex0'>
+                    <Maps sourceRef={sourceRef} destinationRef={destinationRef} directionsRes={directionsRes} />
+                    <div className='outputContainer' style={{ color: "white" }}>
+                        <div className='filter'>
+                            <ul>
+                                <li style={{ backgroundColor: selectedEmotion == "happy" ? 'cyan' : '#1e1e34' }} className='moodContainer' onClick={() => setselectedEmotion('happy')}> <img src={Happy}></img>
                                 </li>
-                                <li>
-                                <img src={Neutral} alt=""></img></li>
-                </ul>
-                <select>
-                    <option>One</option>
-                    <option>Two</option>
-                    <option>Three</option>
-                </select>
-                <input type="submit"/>
-            </div>
-            <div className='itineries'>
-                <h2>Itineries</h2>
-                <div className='iterItems'>
-                    <Iternary/>
-                    <Iternary/>
-                    <Iternary/>
-                </div>
-                <hr></hr>
+                                <li style={{ backgroundColor: selectedEmotion == "sad" ? 'cyan' : '#1e1e34' }} className='moodContainer' onClick={() => setselectedEmotion('sad')}>
+                                    <img src={Sad} alt=""></img>
+                                </li >
+                                <li style={{ backgroundColor: selectedEmotion == "angry" ? 'cyan' : '#1e1e34' }} className='moodContainer' onClick={() => setselectedEmotion('angry')}>
+                                    <img src={Angry} alt=""></img>
+                                </li>
+                                <li style={{ backgroundColor: selectedEmotion == "neutral" ? 'cyan' : '#1e1e34' }} className='moodContainer' onClick={() => setselectedEmotion('neutral')}>
+                                    <img src={Neutral} alt=""></img></li>
+                            </ul>
+                            <select>
+                                <option>One</option>
+                                <option>Two</option>
+                                <option>Three</option>
+                            </select>
+                            <input type="submit" onClick={handleSubmit} />
+                        </div>
+                        <div className='itineries'>
+                            <h2>Itineries</h2>
+                            <div className='iterItems'>
+                                <Iternary />
+                                <Iternary />
+                                <Iternary />
+                            </div>
+                            <hr></hr>
 
-                <h2>Recomendations</h2>
-                <div className='recommendations'>
-                    <Recommends name="Gas Stations"/>
-                    <Recommends name="Restaurants"/>
-                    <Recommends name="Music"/>
-                    <Recommends name="Tourist Spots"/>
-                    <Recommends name="Music"/>
-                    <Recommends name="Amusement Parks"/>
+                            <h2>Recomendations</h2>
+                            <div className='recommendations'>
+                                <Recommends name="Gas Stations" />
+                                <Recommends name="Restaurants" />
+                                <Recommends name="Music" />
+                                <Recommends name="Tourist Spots" />
+                                <Recommends name="Music" />
+                                <Recommends name="Amusement Parks" />
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div>
-        </div>
-        </div>
-    
 
-        {/* <div className="App">
+
+                {/* <div className="App">
       <div>
         <div className="search">
           <span><Search /></span>
@@ -220,9 +172,9 @@ export default function Location() {
 
       </div>
     </div> */}
-        <NavBar/>
-        
-     
-    </div></>
-   );
+                <NavBar />
+
+
+            </div></>
+    );
 }

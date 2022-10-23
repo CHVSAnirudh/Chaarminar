@@ -3,7 +3,7 @@ import './iternary.css'
 const Recommends = ({name}) => {
   return (
     <>
-        <div className='recommendItems'>
+        <div className='recommendItems'style={{color:"white"}}>
             {name}
         </div>
     </>
