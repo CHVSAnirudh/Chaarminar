@@ -1,0 +1,113 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.546764,
+                    "lng": 78.8457818
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54818077989272,
+                        "lng": 78.84716802989271
+                    },
+                    "southwest": {
+                        "lat": 20.54548112010728,
+                        "lng": 78.84446837010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "not a business",
+            "place_id": "ChIJE88ZiANl0zsRCLBQsz8XS6c",
+            "plus_code": {
+                "compound_code": "GRWW+P8 Hinganghat, Maharashtra",
+                "global_code": "7JGWGRWW+P8"
+            },
+            "rating": 0,
+            "reference": "ChIJE88ZiANl0zsRCLBQsz8XS6c",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "near kalode bhawan, Sant Tukdoji Ward, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.619872,
+                    "lng": 78.9284182
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.62126327989272,
+                        "lng": 78.92983777989272
+                    },
+                    "southwest": {
+                        "lat": 20.61856362010728,
+                        "lng": 78.92713812010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "SAHIL DJ",
+            "place_id": "ChIJ8dq80vBl0zsRqwQ5TLqnG-I",
+            "rating": 0,
+            "reference": "ChIJ8dq80vBl0zsRqwQ5TLqnG-I",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JWCH+4GM, Jamb"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5526403,
+                    "lng": 78.84769639999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55402127989272,
+                        "lng": 78.84902157989272
+                    },
+                    "southwest": {
+                        "lat": 20.55132162010728,
+                        "lng": 78.84632192010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Happy Hour Restro",
+            "place_id": "ChIJ05s7DOxl0zsRr9HGYLUJLig",
+            "rating": 5,
+            "reference": "ChIJ05s7DOxl0zsRr9HGYLUJLig",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "HR3X+334, near Dr. B.R. ambedkar collage, Sindhi Colony, Hinganghat"
+        }
+    ],
+    "status": "OK"
+}

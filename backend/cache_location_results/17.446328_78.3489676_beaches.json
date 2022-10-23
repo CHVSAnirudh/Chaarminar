@@ -1,0 +1,702 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4532027,
+                    "lng": 78.384896
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45455902989272,
+                        "lng": 78.38621352989273
+                    },
+                    "southwest": {
+                        "lat": 17.45185937010728,
+                        "lng": 78.38351387010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Arena Beach Volley Ball",
+            "photos": [
+                {
+                    "height": 1493,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108365880830978594467\">Vishal Ryakala</a>"
+                    ],
+                    "photo_reference": "AcYSjRjwuu2c8i-YGrx54TncZtzcbzU5L1136ubrGTZxhNa2Y6I2HPJWytRHXY57GepW-tJzJnrw5jxQhWUuR_6TOX_4z3EWF2KzLFe6IHPNB4XK6LAWWosRKH8g_i03PYLBPZUTWyKnq8GjGGnXo1UkwEWr6XWqARRhC_dXFgG2iP23gWAd",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJxRUtcGKRyzsRFBlhzfti8S4",
+            "plus_code": {
+                "compound_code": "F93M+7X Madhapur, Telangana",
+                "global_code": "7J9WF93M+7X"
+            },
+            "rating": 4.2,
+            "reference": "ChIJxRUtcGKRyzsRFBlhzfti8S4",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 103,
+            "vicinity": "Meridian School Rd, Ayyappa Society, Siddhi Vinayak Nagar, Madhapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4534821,
+                    "lng": 78.3855598
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45491772989272,
+                        "lng": 78.38692167989272
+                    },
+                    "southwest": {
+                        "lat": 17.45221807010728,
+                        "lng": 78.38422202010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Street Beach Volleyball Court",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101564835522312924187\">Lokesh Desam</a>"
+                    ],
+                    "photo_reference": "AcYSjRgQw26FxBEiTpv5SQlbzjzUdRMAmPbD88ea-7S2vQRBVrLQtwBfCwgHm6VjwQuW3Yq1r6sR2VrDXhHEdE3JoHyuUARMDtbxnRiMTOcw3BP6BkHQNbA1MjFeOKYYF0ACX0Xy7xAmwoxG2WhzZoMbDRPaBYP9KO0c5gaJevM5R1kGsV_4",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJj-7pZ2KRyzsRx7U8sqHT-LU",
+            "rating": 4.3,
+            "reference": "ChIJj-7pZ2KRyzsRx7U8sqHT-LU",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24,
+            "vicinity": "F93P+96V, Siddhi Vinayak Nagar, Madhapur"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 17.478198,
+                    "lng": 78.3984423
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.4927392,
+                        "lng": 78.4097426
+                    },
+                    "southwest": {
+                        "lat": 17.4678954,
+                        "lng": 78.3914861
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Rishikonda",
+            "place_id": "ChIJ9YCKEJqRyzsRPFtL1wRQJ68",
+            "rating": 3.8,
+            "reference": "ChIJ9YCKEJqRyzsRPFtL1wRQJ68",
+            "scope": "GOOGLE",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 30,
+            "vicinity": "Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4516875,
+                    "lng": 78.38643750000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45303637989272,
+                        "lng": 78.38778722989272
+                    },
+                    "southwest": {
+                        "lat": 17.45033672010727,
+                        "lng": 78.38508757010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bend-It Beach Volleyball Court",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116137928150252535857\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgevBCssXB9vbyUTCN8eOMLYlIa77bXT9oQ6aBmpsTuCfKDs3Oi9cB-CMg8bk2mD9roJruRq3jbgyfiZ7yDvWyr8oD0gs3tHFp3DqmcaTopAV9qkYtK3VL_wAOpi5vaI790H9j2pkKau5BoALih0McwaAxF9JI8xLOn_yjZkwvudk65",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ9SEDda2RyzsRCobyQze-1b4",
+            "plus_code": {
+                "compound_code": "F92P+MH Madhapur, Telangana",
+                "global_code": "7J9WF92P+MH"
+            },
+            "rating": 4,
+            "reference": "ChIJ9SEDda2RyzsRCobyQze-1b4",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "F92P+MHF, VIP Hills, Silicon Valley, Madhapur, Telangana 500081, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4384542,
+                    "lng": 78.3952162
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43975977989272,
+                        "lng": 78.39654447989271
+                    },
+                    "southwest": {
+                        "lat": 17.43706012010727,
+                        "lng": 78.39384482010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+            "name": "Beach House Car Parking",
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116818043297344948061\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRienMfa-0QFnNekTBPl-ymYn4aDPfZlVqa2mbExQWRibiIIkQdRpDSjn_slCvkfhtToLSAsuFvMKiZaPdMEIvwP-bsiTTssRtcIl5zDuRskJW70K1xOcp1ZoEM-aA_ROqIxZwtueJVWpKxGvHuW4ro6rJ9-0etmi6QdXtZNaridguzd",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJPeubNluRyzsR_kSWs8SCZCo",
+            "plus_code": {
+                "compound_code": "C9QW+93 Hyderabad, Telangana",
+                "global_code": "7J9WC9QW+93"
+            },
+            "rating": 4.5,
+            "reference": "ChIJPeubNluRyzsR_kSWs8SCZCo",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "2nd Floor, Plot No. Ext. Rd., Landmark- Opp. Water Tank, 55, Rd Number 36, Kavuri Hills, Jubilee Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4140973,
+                    "lng": 78.41082829999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41544217989272,
+                        "lng": 78.41231587989272
+                    },
+                    "southwest": {
+                        "lat": 17.41274252010728,
+                        "lng": 78.40961622010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "FNCC Beach Volley Ball Court",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJEdla78iWyzsRs5DiwLnKQj0",
+            "plus_code": {
+                "compound_code": "CC76+J8 Hyderabad, Telangana",
+                "global_code": "7J9WCC76+J8"
+            },
+            "rating": 3.2,
+            "reference": "ChIJEdla78iWyzsRs5DiwLnKQj0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "48, Road Number 6, MRC Colony, Hakimpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.530302,
+                    "lng": 78.42734159999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.53172757989272,
+                        "lng": 78.42873237989272
+                    },
+                    "southwest": {
+                        "lat": 17.52902792010728,
+                        "lng": 78.42603272010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "JR beach volleyball",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 809,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110995522584758451796\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhGziicwpj11MVfm3vwHnPvzYlaEQD5Al7_3hpyylNDuhtyFi_mf1wQxRvyJT4kHppRwgWrEfwX9NpgfzMvlh8ijaoRKH71C6NHYXmXx3Mq9XN7w1Vx6f-wVYlabDLvz2RHC2mBY570QuwvL_QYsDoA4EvNA8hhQ1hv98vCqPknHkbC",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJi5BiXrmRyzsR5L2J1qdak4A",
+            "plus_code": {
+                "compound_code": "GCJG+4W Hyderabad, Telangana",
+                "global_code": "7J9WGCJG+4W"
+            },
+            "rating": 5,
+            "reference": "ChIJi5BiXrmRyzsR5L2J1qdak4A",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "METTUKAN GUDA GAJULA RAMARAM, QUTHBULLAPUR IDA, Jeedimetla, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4092647,
+                    "lng": 78.4241819
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41058422989272,
+                        "lng": 78.4255201298927
+                    },
+                    "southwest": {
+                        "lat": 17.40788457010728,
+                        "lng": 78.42282047010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Hanumant office men beach",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108978089874019527911\">Abhi Audacious</a>"
+                    ],
+                    "photo_reference": "AcYSjRgYx62ejOiV6wuzkG4OK_Ci0d5qbfM8wS1YvE4DjL0TUIlrEqhbF9kuAxgGw9c20ertKCiSvyxdSPuv79FyMpfH6WoBqXIqnrYpQYY18dVpGnuc53wn551fk2aWSn7EcGHw11ioq4puLRHcblOUjedMFEhmE56RlwAI_D-dBUjq4-zf",
+                    "width": 1800
+                }
+            ],
+            "place_id": "ChIJ9edzbqmXyzsR5uvV5dZHR8c",
+            "plus_code": {
+                "compound_code": "CC5F+PM Hyderabad, Telangana",
+                "global_code": "7J9WCC5F+PM"
+            },
+            "rating": 5,
+            "reference": "ChIJ9edzbqmXyzsR5uvV5dZHR8c",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "44A, Venkateswara Colony, Banjara Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4400802,
+                    "lng": 78.3489168
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44142817989272,
+                        "lng": 78.35027112989272
+                    },
+                    "southwest": {
+                        "lat": 17.43872852010728,
+                        "lng": 78.34757147010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sandunes Beach Fest",
+            "place_id": "ChIJUzakEyGTyzsRupmrN5zrMBI",
+            "rating": 0,
+            "reference": "ChIJUzakEyGTyzsRupmrN5zrMBI",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "C8RX+2HM, Indira Nagar, Gachibowli, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4242424,
+                    "lng": 78.4243773
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42542367989272,
+                        "lng": 78.42566327989273
+                    },
+                    "southwest": {
+                        "lat": 17.42272402010728,
+                        "lng": 78.42296362010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Japanese Garden",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113105041752942343079\">Mukka raj kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjkryxXuS7ThEkDWwqaex9BZwrLFNOE1z2Mjcwf_0-DmMfzBiJQEvTDm8RqPi6QPxcoe1OYFCUiyHj_3wV-hEoBwBwPmeWVgyRP5_u3YPLIYiaBUj4zcAUSrxktMNyu9Y8_c2KCWNGyvN1rs50zlsRGPozbzRZX5z4fsyI__nOZZeck",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJxb21rtSWyzsREx7jT3sm92c",
+            "plus_code": {
+                "compound_code": "CCFF+MQ Hyderabad, Telangana",
+                "global_code": "7J9WCCFF+MQ"
+            },
+            "rating": 3.8,
+            "reference": "ChIJxb21rtSWyzsREx7jT3sm92c",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 234,
+            "vicinity": "8/A, Road No. 2, Park View Enclave, Jubilee Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4565108,
+                    "lng": 78.38550149999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45785497989272,
+                        "lng": 78.38690117989273
+                    },
+                    "southwest": {
+                        "lat": 17.45515532010728,
+                        "lng": 78.38420152010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sportz Pride",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 807,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111870253433063063610\">Rahil Medav</a>"
+                    ],
+                    "photo_reference": "AcYSjRj1LhiItJdPIFXmXKinOMpQHVJw_uOs2HU5Kp9N60I_J5a4iMS9EcQL4vYIA9eFeOoER2M-LQISXgrDWcJcB9DuZ6O70vYKcEH9IhWPc4MIjIos5UYBm1kOu-FMnEeV7Tj__5V93YJPw7nl-dlgLh8-0KwpyvwpELS6jFWz5A-dwjG5",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ5dlStmKRyzsRYSghwvCvOiA",
+            "plus_code": {
+                "compound_code": "F94P+J6 Madhapur, Telangana",
+                "global_code": "7J9WF94P+J6"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ5dlStmKRyzsRYSghwvCvOiA",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1195,
+            "vicinity": "Siddhi Vinayak Nagar, Madhapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4308141,
+                    "lng": 78.39181909999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43533900000001,
+                        "lng": 78.39453650000002
+                    },
+                    "southwest": {
+                        "lat": 17.4288574,
+                        "lng": 78.3909133
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Durgam Cheruvu Secret Lake Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111796853186574097906\">chrisandcass</a>"
+                    ],
+                    "photo_reference": "AcYSjRhD6sC1jmohYNek-1HGdkJwYRbMu0qYiyg2fI1hP4JVVffzuEXcKQm_dTaaBCfw8QXGz6_pLrzFTiyt92HzGHRDXgBiLdE16CFV8ulzBRrdgBeGBMjFAaZqkhiKInwRm8t-onMVqCNXJ-EqFm_iKD3v20qOGdsnEa7cVR4dssbkdZFB",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ6716HVGRyzsRwP4PNnn0_Z8",
+            "plus_code": {
+                "compound_code": "C9JR+8P Hyderabad, Telangana",
+                "global_code": "7J9WC9JR+8P"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ6716HVGRyzsRwP4PNnn0_Z8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4058,
+            "vicinity": "Plot no, 910B, Rd Number 46, Masthan Nagar, CBI Colony, Jubilee Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4904372,
+                    "lng": 78.3927799
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49180012989272,
+                        "lng": 78.39409632989273
+                    },
+                    "southwest": {
+                        "lat": 17.48910047010728,
+                        "lng": 78.39139667010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Arha Holidays Pvt Ltd -Kerala and Bali Tour & Travel Packages From Hyderabad",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100862898824894185339\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjLRukwZwoQpRqT-c-wztimR_AO9N9sI0GT851GYxHtbS80Apbid5QioveXzZQVUgynfxKv-HmmTpHXaBTCwSAwOMGGli-6kfurz3fKSrMOnJKVcLJFDV8CnIzubNJYRJkijvj3d2PBJYf0em_Q-EqABN13uHyhEusDiS0V5TLxc8yO",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ-0t9a9KRyzsRKaIPn2cy1k0",
+            "plus_code": {
+                "compound_code": "F9RV+54 Hyderabad, Telangana",
+                "global_code": "7J9WF9RV+54"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ-0t9a9KRyzsRKaIPn2cy1k0",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 110,
+            "vicinity": "Unit No. 810 & 811, Regus, Manjeera Trinity Corporate Plot No S2, Survey, No.1050, JNTU Rd, Kukatpally, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.389348,
+                    "lng": 78.32911659999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39028557989272,
+                        "lng": 78.32981145
+                    },
+                    "southwest": {
+                        "lat": 17.38758592010728,
+                        "lng": 78.32703205
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ocean Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102592640140332958290\">Pulkit Verma</a>"
+                    ],
+                    "photo_reference": "AcYSjRjlGKMLrIm8vBolBKGCztw8g2eoaTLsC1vplmlRsbk7cTw006n2cVJtVJ6jPCwf3NDmVFcpitCtfxePkWz52MGK0ofSy5jeXgWso3KVmCG1S-tsTW6sACUaTJrYrM_d-ugxBa5QA2ZW84_C8UXtt8bA_gSrVEX4UwlZiunJM06XuO_E",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJz-yO5vGUyzsR4ATtnMaEByI",
+            "plus_code": {
+                "compound_code": "98QH+PJ Gandipet, Telangana",
+                "global_code": "7J9W98QH+PJ"
+            },
+            "rating": 3.8,
+            "reference": "ChIJz-yO5vGUyzsR4ATtnMaEByI",
+            "scope": "GOOGLE",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8129,
+            "vicinity": "8, College, Survey No: 166, 167, 168 & 169, 21, Osman Sagar Rd, near CHAITANYA BHARATHI INSTITUTE OF TECHNOLOGY, Gandipet"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4427238,
+                    "lng": 78.3722219
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44418992989272,
+                        "lng": 78.37358567989271
+                    },
+                    "southwest": {
+                        "lat": 17.44149027010728,
+                        "lng": 78.37088602010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Volleyball Courts",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114398343967347771887\">murali Krishna</a>"
+                    ],
+                    "photo_reference": "AcYSjRjxyLUnWjtCpVqAazCw23d3ctaSl5JLgUlmMghs5uXIqGGEK_VHyNjkSkntihWcokoZIrAE9OMAnXPPZdVrYl-x_DeRFy6c29poRdMuN9InOo7yW68-6e9-cYRCGTomQXwwnrw1wYNQsT4QHeonR8bXdwTSsRonc_WEYDTOYJG-H_uW",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJCc7qceiTyzsR7YsAWjK8P-c",
+            "rating": 4.1,
+            "reference": "ChIJCc7qceiTyzsR7YsAWjK8P-c",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "C9VC+3VQ, Phase 2, HITEC City, Hyderabad"
+        }
+    ],
+    "status": "OK"
+}

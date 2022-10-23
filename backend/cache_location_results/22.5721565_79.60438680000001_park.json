@@ -1,0 +1,345 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.6032461,
+                    "lng": 79.60397610000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.60461882989272,
+                        "lng": 79.60532262989273
+                    },
+                    "southwest": {
+                        "lat": 22.60191917010728,
+                        "lng": 79.60262297010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Nehru Park",
+            "place_id": "ChIJs-4_tQIXgDkRfV-e8-zX6NQ",
+            "rating": 3.5,
+            "reference": "ChIJs-4_tQIXgDkRfV-e8-zX6NQ",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "JJ33+7HX, Lakhnadon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.6016003,
+                    "lng": 79.59905429999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.60301207989272,
+                        "lng": 79.60040832989272
+                    },
+                    "southwest": {
+                        "lat": 22.60031242010728,
+                        "lng": 79.59770867010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Peeyush Jain",
+            "place_id": "ChIJOWlmtlkXgDkR4GFreWascnA",
+            "rating": 0,
+            "reference": "ChIJOWlmtlkXgDkR4GFreWascnA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JH2X+JHP, Sarasdol, Lakhnadon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.5934342,
+                    "lng": 79.68108149999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.59454567989272,
+                        "lng": 79.68325995000001
+                    },
+                    "southwest": {
+                        "lat": 22.59184602010727,
+                        "lng": 79.68035534999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Gandhila View Point",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109636720169987567165\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhoj64wCCCQy55EAd9z3-1Xk-vAJQ-_6OToCkH308pzHOK9oA1O0ANxobYTmoeuFSxZ2gwhfA3oC9Mm_ndUcn_AwacdbtoKdZjNVT1Qe6RC7r_04gyJOYieive6p9eebPuR9FNOfQsHiEHDrPb06JOemo1ig3F7yulDqnQWnXomywQm",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJq6qqqmkUgDkRr4TNGlRoz1o",
+            "rating": 4.5,
+            "reference": "ChIJq6qqqmkUgDkRr4TNGlRoz1o",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "HMVJ+9CG, Gandhila"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.6101672,
+                    "lng": 79.6949181
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.61144642989272,
+                        "lng": 79.69608332989272
+                    },
+                    "southwest": {
+                        "lat": 22.60874677010728,
+                        "lng": 79.69338367010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0936\u094d\u0930\u0940 \u092c\u091c\u0930\u0902\u0917 \u092b\u093e\u0930\u094d\u092e \u0939\u093e\u0909\u0938 \u0938\u093f\u0939\u094b\u0930\u093e",
+            "place_id": "ChIJYdGw8Z0VgDkRrWM3OwCX0kM",
+            "rating": 5,
+            "reference": "ChIJYdGw8Z0VgDkRrWM3OwCX0kM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "JM6V+3X7, Sihora"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.5989907,
+                    "lng": 79.6111051
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.60035622989272,
+                        "lng": 79.61237547989272
+                    },
+                    "southwest": {
+                        "lat": 22.59765657010728,
+                        "lng": 79.60967582010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Dhanya Kumar Jain",
+            "place_id": "ChIJZwVzDSIXgDkRWbqnun0NKDw",
+            "rating": 0,
+            "reference": "ChIJZwVzDSIXgDkRWbqnun0NKDw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HJX6+JF8"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.4946768,
+                    "lng": 79.5833023
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.49642805,
+                        "lng": 79.58528987989271
+                    },
+                    "southwest": {
+                        "lat": 22.48942305,
+                        "lng": 79.58259022010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u091b\u094b\u091f\u093e \u092a\u0939\u093e\u0930 \u0930\u093e\u092f\u091a\u094c\u0930",
+            "place_id": "ChIJQ0AxceQRgDkRHcSJ9PPtTxA",
+            "rating": 0,
+            "reference": "ChIJQ0AxceQRgDkRHcSJ9PPtTxA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FHVM+V8, Kuhiya"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.4896787,
+                    "lng": 79.595385
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.49411075,
+                        "lng": 79.59780015
+                    },
+                    "southwest": {
+                        "lat": 22.48820135,
+                        "lng": 79.59457995
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0930\u093e\u092f\u091a\u094c\u0930 \u0935\u0928",
+            "photos": [
+                {
+                    "height": 4272,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102991670678768283955\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjLvbzs6Uw50cguR_mdx0XoC4K6r94QeQKGeMYNE9O6q-Os_rdo4ZSZj2vCMGFE5Ea9tb7yLZvKAYEZTiYMFXdzzhqGL_JdzS-jArMLlewRJ7jlvarrnoGOevEme4jYjyyjxfDFd8RPb0bWpFbSAwONnUYxrWbldGFLEzKD37XRNsAM",
+                    "width": 2848
+                }
+            ],
+            "place_id": "ChIJPY2IYTkRgDkRTHZ6UyqWkzQ",
+            "rating": 5,
+            "reference": "ChIJPY2IYTkRgDkRTHZ6UyqWkzQ",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "FHQW+V5C, Kuhiya"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.4904289,
+                    "lng": 79.58416969999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.49203292989272,
+                        "lng": 79.58537887989272
+                    },
+                    "southwest": {
+                        "lat": 22.48933327010728,
+                        "lng": 79.58267922010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u092c\u093e\u0938 \u0935\u0928 \u0930\u093e\u092f\u091a\u094c\u0930",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJMdH0I40RgDkRlL0XYZ02iIU",
+            "rating": 0,
+            "reference": "ChIJMdH0I40RgDkRlL0XYZ02iIU",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FHRM+5M, Kuhiya"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.5613538,
+                    "lng": 79.62702
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.56247017989272,
+                        "lng": 79.62844387989273
+                    },
+                    "southwest": {
+                        "lat": 22.55977052010728,
+                        "lng": 79.62574422010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "onion land",
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110568934710563614780\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi5bT-LMxsV-4LOtbZ6PujamNFjVNd0o3oDHnmjswFao5E51L76AKFnMsoetSib994GtExzknecCfmQWtwjIEeDh-XpYPMRBj_4bR2tPWL6Cc9m9FpjuTxz4VzQGQl250jGr-QPrn6_FKuV_u3pXNigwhlXWbppq0CzwmEN0f0Zewsm",
+                    "width": 1936
+                }
+            ],
+            "place_id": "ChIJa5yORsYRgDkRqH27RGiqWPg",
+            "rating": 5,
+            "reference": "ChIJa5yORsYRgDkRqH27RGiqWPg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "HJ6G+GRR, Pithera"
+        }
+    ],
+    "status": "OK"
+}

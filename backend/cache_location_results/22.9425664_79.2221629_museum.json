@@ -1,0 +1,40 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.89728,
+                    "lng": 79.127959
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.89860937989272,
+                        "lng": 79.12928112989273
+                    },
+                    "southwest": {
+                        "lat": 22.89590972010728,
+                        "lng": 79.12658147010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "\u092e\u093e\u0901 \u0916\u0947\u0930\u093e\u092a\u0924\u093f \u092e\u0902\u0926\u093f\u0930 ,\u0938\u093e\u0938\u092c\u0939\u0942 (\u092d\u0941\u0917\u0935\u093e\u0930\u093e)",
+            "place_id": "ChIJg3af0pmbfzkR_8XzGseZcVU",
+            "rating": 5,
+            "reference": "ChIJg3af0pmbfzkR_8XzGseZcVU",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "V4WH+W58, Chamruwa"
+        }
+    ],
+    "status": "OK"
+}

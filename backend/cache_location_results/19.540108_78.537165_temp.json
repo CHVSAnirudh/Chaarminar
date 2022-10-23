@@ -1,0 +1,49 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5725702,
+                    "lng": 78.5532194
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.57405172989272,
+                        "lng": 78.55458262989272
+                    },
+                    "southwest": {
+                        "lat": 19.57135207010728,
+                        "lng": 78.55188297010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Sonekar kumrams persa pen",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106351742527697225918\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjOt7-CfkdYZ85sDNZekd0DTC1KMFdcQq7MyP-g9Qe0AAtaLdrqBnxrqCYXxd0VO3udkkkDFK2fUHYnOTCRfIOO3eyKvuI6NHNpBaGX_OmHFXFZJrGg_rmFzmgyLEScW7799mbIkj-gRmLLwG-9Epmv2jKCouQ4TnK-2rfsTF-RYAUh",
+                    "width": 2080
+                }
+            ],
+            "place_id": "ChIJ2zc7gz5n0jsRm3Ms0yl8lBg",
+            "rating": 5,
+            "reference": "ChIJ2zc7gz5n0jsRm3Ms0yl8lBg",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "HHF3+27H, Chinchughat"
+        }
+    ],
+    "status": "OK"
+}

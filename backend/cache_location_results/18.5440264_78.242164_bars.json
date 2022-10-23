@@ -1,0 +1,165 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.604466,
+                    "lng": 78.2105856
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.60583932989272,
+                        "lng": 78.21167397989272
+                    },
+                    "southwest": {
+                        "lat": 18.60313967010728,
+                        "lng": 78.20897432010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "LAXMI WINES",
+            "place_id": "ChIJ_9dYmKXJzTsRXNxpcFGx-sc",
+            "plus_code": {
+                "compound_code": "J636+Q6 Dichpally, Telangana",
+                "global_code": "7JCWJ636+Q6"
+            },
+            "rating": 0,
+            "reference": "ChIJ_9dYmKXJzTsRXNxpcFGx-sc",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No 4, 32, near High Way Road, Dichpally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5156114,
+                    "lng": 78.1450412
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.51696122989272,
+                        "lng": 78.14639102989271
+                    },
+                    "southwest": {
+                        "lat": 18.51426157010728,
+                        "lng": 78.14369137010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Thirumala Wins",
+            "place_id": "ChIJ6UemWxLNzTsRdF3MSqSzTRI",
+            "plus_code": {
+                "compound_code": "G48W+62 Pothangal (Kalan), Telangana",
+                "global_code": "7JCWG48W+62"
+            },
+            "rating": 0,
+            "reference": "ChIJ6UemWxLNzTsRdF3MSqSzTRI",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Pothangal (Kalan)"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6185508,
+                    "lng": 78.30888879999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61990157989272,
+                        "lng": 78.31023227989272
+                    },
+                    "southwest": {
+                        "lat": 18.61720192010728,
+                        "lng": 78.30753262010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Ramadugu Wines",
+            "place_id": "ChIJK4kS-7e3zTsR8PBndMQoGr0",
+            "rating": 0,
+            "reference": "ChIJK4kS-7e3zTsR8PBndMQoGr0",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J895+CHC, Ramadugu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6128035,
+                    "lng": 78.1999768
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61418287989272,
+                        "lng": 78.20132432989271
+                    },
+                    "southwest": {
+                        "lat": 18.61148322010728,
+                        "lng": 78.19862467010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Dichpally Bus Stand",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114893187040132582024\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhCKye0Y8-nPIU20DwGJU49uQ0a-UrG6XdUwOyEwICXfhrf6FHR9LSp6Ww1-bJXSerh-9c5q5oNH3yWomEw2WPNSNd5EtcX0Lv3PIedkajd7s3UV8iXZjd4Mvswu0BHRH_YRYvVioVRjOjtkbOHWqm9Lke7-vbNH2LsHoAjoA_MUfnt",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJV5jZnFLPzTsRqCRPtpw5ckY",
+            "rating": 3.5,
+            "reference": "ChIJV5jZnFLPzTsRqCRPtpw5ckY",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 660,
+            "vicinity": "J57X+4X4, Dichpally"
+        }
+    ],
+    "status": "OK"
+}

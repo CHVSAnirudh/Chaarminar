@@ -1,0 +1,837 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1453074,
+                    "lng": 78.0408495
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.14670577989272,
+                        "lng": 78.04225117989273
+                    },
+                    "southwest": {
+                        "lat": 27.14400612010728,
+                        "lng": 78.0395515201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Lavania's Shopping Mall Complex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJURGPQkJxdDkRUcLdA3ezvbk",
+            "rating": 4,
+            "reference": "ChIJURGPQkJxdDkRUcLdA3ezvbk",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 69,
+            "vicinity": "42WR+48H, Shamsabad, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1469653,
+                    "lng": 78.05705859999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.14859867989273,
+                        "lng": 78.05854407989271
+                    },
+                    "southwest": {
+                        "lat": 27.14589902010728,
+                        "lng": 78.05584442010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "parsvnathkaushmall",
+            "place_id": "ChIJd6keDHFxdDkRz79dOcOYjug",
+            "rating": 0,
+            "reference": "ChIJd6keDHFxdDkRz79dOcOYjug",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Plot No. 4 & 5, Shop No 2, GF, Fatehabad Rd, Taj Nagri Phase 2, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1595119,
+                    "lng": 78.0569458
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16065302989272,
+                        "lng": 78.05803682989271
+                    },
+                    "southwest": {
+                        "lat": 27.15795337010728,
+                        "lng": 78.05533717010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pacific Taj Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJq1QURY9xdDkRWIHLwTDKilk",
+            "plus_code": {
+                "compound_code": "5354+RQ Agra, Uttar Pradesh",
+                "global_code": "7JVW5354+RQ"
+            },
+            "rating": 3.4,
+            "reference": "ChIJq1QURY9xdDkRWIHLwTDKilk",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "Pacific Taj, Plot No 3 E, Phase I, Taj Nagri Rd, Scheme, Basai Khurd, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1643953,
+                    "lng": 78.0559747
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16574512989272,
+                        "lng": 78.05732452989272
+                    },
+                    "southwest": {
+                        "lat": 27.16304547010728,
+                        "lng": 78.05462487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "The Royal Emporium",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJIzYn8vxxdDkRvhCWOrL-hHY",
+            "plus_code": {
+                "compound_code": "5374+Q9 Agra, Uttar Pradesh",
+                "global_code": "7JVW5374+Q9"
+            },
+            "rating": 0,
+            "reference": "ChIJIzYn8vxxdDkRvhCWOrL-hHY",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Taj East Gate Rd, Taj Nagari Phase 1, Telipara, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1543261,
+                    "lng": 78.05910999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15569172989272,
+                        "lng": 78.0604773298927
+                    },
+                    "southwest": {
+                        "lat": 27.15299207010727,
+                        "lng": 78.05777767010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "FORTUNE PLAZA SHOPPING COMPLEX,",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJNep-tBZxdDkRMw-cE54F1_c",
+            "rating": 4,
+            "reference": "ChIJNep-tBZxdDkRMw-cE54F1_c",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "5335+PJ3, PH-2, Taj Nagari, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1622482,
+                    "lng": 78.0277522
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16357877989272,
+                        "lng": 78.02906002989272
+                    },
+                    "southwest": {
+                        "lat": 27.16087912010727,
+                        "lng": 78.02636037010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Memories Shopping Centre",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJV5o3FWdxdDkRaBvPxz5plko",
+            "rating": 3,
+            "reference": "ChIJV5o3FWdxdDkRaBvPxz5plko",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "526H+V4R, Nai basti, Khairati Tola, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1587423,
+                    "lng": 78.0580229
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15992872989272,
+                        "lng": 78.05937657989273
+                    },
+                    "southwest": {
+                        "lat": 27.15722907010728,
+                        "lng": 78.05667692010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "TDI Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110046993177445557538\">Ashoury Saxena</a>"
+                    ],
+                    "photo_reference": "AcYSjRghcJv_tbUW3LfN7LUOKatCBEvZdQ8IXcjyi_4_WBDbpaQ5ani8quDYSuKlmDMkPbTTqg1WnffSvckqXu1kqsS2R5-RoNjxZaMjmLYAXyJMT7AxSUfMMtFcM9nxWTRDqkFykK8Jm1mJbWVwsQIZU4PmR4QIawJjhgjiK7AHynDE_uO2",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJG01zQQxxdDkR4DO5pTHlLTU",
+            "plus_code": {
+                "compound_code": "5355+F6 Agra, Uttar Pradesh",
+                "global_code": "7JVW5355+F6"
+            },
+            "rating": 3.2,
+            "reference": "ChIJG01zQQxxdDkR4DO5pTHlLTU",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7806,
+            "vicinity": "Plot No, 3D, Fatehabad Rd, Taj Nagari Phase 1, Basai Khurd, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1629022,
+                    "lng": 78.05529969999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16428137989272,
+                        "lng": 78.05665322989272
+                    },
+                    "southwest": {
+                        "lat": 27.16158172010728,
+                        "lng": 78.05395357010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Flavours Of India",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJgxesfSdxdDkRH9v-qj9M580",
+            "plus_code": {
+                "compound_code": "5374+54 Agra, Uttar Pradesh",
+                "global_code": "7JVW5374+54"
+            },
+            "rating": 4.5,
+            "reference": "ChIJgxesfSdxdDkRH9v-qj9M580",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Plot no 7, Taj Nagari Phase 1, Telipara, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1523531,
+                    "lng": 78.0341188
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15372037989273,
+                        "lng": 78.0354678798927
+                    },
+                    "southwest": {
+                        "lat": 27.15102072010728,
+                        "lng": 78.03276822010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shree Ram Complex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111572639524959641604\">Kapil Verma</a>"
+                    ],
+                    "photo_reference": "AcYSjRgKXR-dCkMnRieTkGlXGltn985DzXUIJDPBbgim4djIG1SFohmUnGZJ5zYZpI9hn9KKyTtMZFzCyM0P8gYzBikdVVkgqpe9jTUr-13_tzf6WSbXy0BXVtgD0fUGqJFeWTl_1edpKoGlh7LuqLu2fYZZdC7rHQkaeynMSVQF-J3cMiaS",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJxQGQfkdxdDkRKDuNgNxUJOw",
+            "rating": 4,
+            "reference": "ChIJxQGQfkdxdDkRKDuNgNxUJOw",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "522M+WJQ, Agra, Vibhav Nagar, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1614567,
+                    "lng": 78.03725299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16291217989272,
+                        "lng": 78.03862872989272
+                    },
+                    "southwest": {
+                        "lat": 27.16021252010728,
+                        "lng": 78.03592907010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "mughal handicrafts gallery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116627798298413582139\">komal goyal</a>"
+                    ],
+                    "photo_reference": "AcYSjRju_i7G1d64Ue6c1IZOsZYZm8zPnx1L1zNfregLe_Z4mIZDPH4O2oTjKlec5OAV2CrZhjZv78Kt2uE-LtYjQaJcnZzomI2Ye-eqLDV00UaC1XkYmHqTwSR3W1vVjPI_D1lSFL6xDAbN6jLJDAEP2WbhAWutnwPU94s2xMLUWX7foIaH",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJoyVtfTxxdDkRCS0pGn39KSE",
+            "plus_code": {
+                "compound_code": "526P+HW Agra, Uttar Pradesh",
+                "global_code": "7JVW526P+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJoyVtfTxxdDkRCS0pGn39KSE",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "G-2, Fatehabad Rd, Back Of Ratandeep Hotel, Bansal Nagar, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1473149,
+                    "lng": 78.05307069999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.14861162989272,
+                        "lng": 78.05449112989271
+                    },
+                    "southwest": {
+                        "lat": 27.14591197010728,
+                        "lng": 78.05179147010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Parsvanath Plaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111572639524959641604\">Kapil Verma</a>"
+                    ],
+                    "photo_reference": "AcYSjRhAzXWqstWbsOlk4kjmNqf7-qpAosSBu15aWtXl8OKOJEgxHHGMEDxd53pvxgEWTtpKbnitCmUJio4pvn_TmPE9dwySP5dZ850RJtPg8j5V59LcAUDnMmq8foye3ADpVAkbutV8TTaMxZMM0jFozgmDeJp2g0zMLwrJ1gg9VMKndO12",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJEUnlGW5xdDkRZtmsNcRcHPU",
+            "plus_code": {
+                "compound_code": "43W3+W6 Agra, Uttar Pradesh",
+                "global_code": "7JVW43W3+W6"
+            },
+            "rating": 3.8,
+            "reference": "ChIJEUnlGW5xdDkRZtmsNcRcHPU",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 54,
+            "vicinity": "Shop no 10, Panchwati Plaza, Agra, near Pasharvnath Panchvati, Kaveri Vihar Phase II, Shamsabad, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1506837,
+                    "lng": 78.03440440000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15207637989272,
+                        "lng": 78.03580602989273
+                    },
+                    "southwest": {
+                        "lat": 27.14937672010727,
+                        "lng": 78.03310637010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "V Bazaar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJF7AqQ59xdDkRzobVjaLsT7E",
+            "plus_code": {
+                "compound_code": "522M+7Q Agra, Uttar Pradesh",
+                "global_code": "7JVW522M+7Q"
+            },
+            "rating": 3.7,
+            "reference": "ChIJF7AqQ59xdDkRzobVjaLsT7E",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 168,
+            "vicinity": "Agra Shamshabad Raja Kherah Marg, near Raja Ram Ki Bagiya, Rajpur Chungi, Shamsabad, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2071429,
+                    "lng": 78.02727139999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20852527989272,
+                        "lng": 78.0286279298927
+                    },
+                    "southwest": {
+                        "lat": 27.20582562010727,
+                        "lng": 78.02592827010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Friends Palak Plaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJx0PMmyZxdDkRPfQpc1jnPcU",
+            "plus_code": {
+                "compound_code": "624G+RW Agra, Uttar Pradesh",
+                "global_code": "7JVW624G+RW"
+            },
+            "rating": 0,
+            "reference": "ChIJx0PMmyZxdDkRPfQpc1jnPcU",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Friends Palak Plaza, NH2, Langre Ki Chowki, Civil Lines, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1587508,
+                    "lng": 78.04434239999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16017412989272,
+                        "lng": 78.04577927989274
+                    },
+                    "southwest": {
+                        "lat": 27.15747447010727,
+                        "lng": 78.04307962010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kartar Singh & Son's",
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116870148938271970660\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgoucnPWy6P_eGMdEyLxX8q6go5jF-WX7vvV_OF5bgr8Dl6-dvliGs60GlQhFzwgbwSy_AUAbKIcDrnUUTX9wIY2PIVaF-OKgyJWl4tgRCa8_yRXRw4W5FdzeaFTBDcdY6r3Sgxm4Bb0w7rKHuVgV70RC-dFcQthecdlLKZb_GuA_Mo",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJTWvPtYZxdDkRpJIXzXBUg7c",
+            "plus_code": {
+                "compound_code": "525V+GP Agra, Uttar Pradesh",
+                "global_code": "7JVW525V+GP"
+            },
+            "rating": 5,
+            "reference": "ChIJTWvPtYZxdDkRpJIXzXBUg7c",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.158392,
+                    "lng": 78.06153379999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15985217989272,
+                        "lng": 78.06288702989274
+                    },
+                    "southwest": {
+                        "lat": 27.15715252010728,
+                        "lng": 78.06018737010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Laxmi complex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJU5v51TRxdDkRUBjBGJsw1RA",
+            "plus_code": {
+                "compound_code": "5356+8J Agra, Uttar Pradesh",
+                "global_code": "7JVW5356+8J"
+            },
+            "rating": 0,
+            "reference": "ChIJU5v51TRxdDkRUBjBGJsw1RA",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Khasra No. 1808, 1809 Basai Mustkil Behind Arvind Hyundai Adjusent Lord Krishna Temple Courtyard Marriat Road, Fatehabad Rd, opposite Hotel Trident, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1858464,
+                    "lng": 78.0220035
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18719257989272,
+                        "lng": 78.02341912989272
+                    },
+                    "southwest": {
+                        "lat": 27.18449292010727,
+                        "lng": 78.02071947010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mamta Trader Motiganj",
+            "place_id": "ChIJR0wrUq5xdDkR9AE7DR479Mc",
+            "rating": 3.2,
+            "reference": "ChIJR0wrUq5xdDkR9AE7DR479Mc",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "52PC+8RJ, Pipal Mandi, Mantola, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1587735,
+                    "lng": 78.05781329999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15993237989272,
+                        "lng": 78.05925072989271
+                    },
+                    "southwest": {
+                        "lat": 27.15723272010728,
+                        "lng": 78.05655107010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "De'Maya",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJmXC3JAxxdDkRcVXsQWX-iy0",
+            "rating": 3.4,
+            "reference": "ChIJmXC3JAxxdDkRcVXsQWX-iy0",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "5355+G44, Fatehabad Rd, Basai Khurd, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1847598,
+                    "lng": 78.0172501
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18610757989272,
+                        "lng": 78.01858497989272
+                    },
+                    "southwest": {
+                        "lat": 27.18340792010728,
+                        "lng": 78.01588532010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MCS Ornaments Agra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJzTYkci13dDkRoQkW0dtMLvc",
+            "plus_code": {
+                "compound_code": "52M8+WW Agra, Uttar Pradesh",
+                "global_code": "7JVW52M8+WW"
+            },
+            "rating": 4.8,
+            "reference": "ChIJzTYkci13dDkRoQkW0dtMLvc",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "30/24, Kala Mahal Rd Near Agra Pord Railway Station, Kala Mahal Rd, Near Agra Pord Railway Station, Pipal Mandi, Mantola, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2267612,
+                    "lng": 78.1305028
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.22811517989272,
+                        "lng": 78.13188322989272
+                    },
+                    "southwest": {
+                        "lat": 27.22541552010728,
+                        "lng": 78.12918357010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dev mini mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJtVcj0sZvdDkR58kx36j_PCs",
+            "plus_code": {
+                "compound_code": "64GJ+P6 Agra, Uttar Pradesh",
+                "global_code": "7JVW64GJ+P6"
+            },
+            "rating": 0,
+            "reference": "ChIJtVcj0sZvdDkR58kx36j_PCs",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "near, Kuberpur crossing,bhagupur road, Yamuna Expy, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1581486,
+                    "lng": 78.0556704
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15947652989272,
+                        "lng": 78.05702367989272
+                    },
+                    "southwest": {
+                        "lat": 27.15677687010728,
+                        "lng": 78.05432402010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Roylae Cashmere Gallery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJQ7HRmhpxdDkRHb6F66WJTq4",
+            "rating": 5,
+            "reference": "ChIJQ7HRmhpxdDkRHb6F66WJTq4",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "5354+773, Agra - Bah Rd, Basai Khurd, Tajganj, Basai"
+        }
+    ],
+    "status": "OK"
+}

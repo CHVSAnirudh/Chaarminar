@@ -1,0 +1,277 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1987492,
+                    "lng": 78.91016379999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.20010157989272,
+                        "lng": 78.91156552989273
+                    },
+                    "southwest": {
+                        "lat": 24.19740192010728,
+                        "lng": 78.90886587010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u0938\u093e\u0939\u0942 \u0915\u093f\u0930\u093e\u0928\u093e \u0938\u094d\u091f\u094b\u0930 \u092c\u0930\u0947\u0920\u0940",
+            "place_id": "ChIJkTN9sZ7peDkRROflKchWtJY",
+            "rating": 0,
+            "reference": "ChIJkTN9sZ7peDkRROflKchWtJY",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "5WX6+F3V, Barethi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1492868,
+                    "lng": 78.8850705
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.15058997989272,
+                        "lng": 78.88641297989273
+                    },
+                    "southwest": {
+                        "lat": 24.14789032010728,
+                        "lng": 78.88371332010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u092c\u0930\u094d\u0924\u0928 \u0915\u0940 \u0926\u0941\u0915\u093e\u0928",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103675493811026131338\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhOQC_ZIt3uK0RJPrBtCJ9mkqm69LBvWBMqhMmm5-JQlHprSyBLlLyTCk0Apcuy4GJVPPAUKOyrSk1RoygORZqzJpaR2vyxxNgDtMVFqj_MY_0JAtInhO7AkE103uW5URNiXub0Nl5ZmyHCRNs_7xo7dXFlJPzGHu-DMOmUr54z2XF1",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJJV1cRcLpeDkRnYa7KB9SWpg",
+            "plus_code": {
+                "compound_code": "4VXP+P2 Banda, Madhya Pradesh",
+                "global_code": "7JPW4VXP+P2"
+            },
+            "rating": 2,
+            "reference": "ChIJJV1cRcLpeDkRnYa7KB9SWpg",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Akhlesh Prajapati, \u0926\u0941\u0932\u094b\u0928\u093e, Banda"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1090495,
+                    "lng": 78.8552507
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.11093537989272,
+                        "lng": 78.85634329999999
+                    },
+                    "southwest": {
+                        "lat": 24.10823572010728,
+                        "lng": 78.85197289999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Prayas Jain",
+            "place_id": "ChIJyUGIg5XDeDkRVMvHnEo9RAg",
+            "rating": 0,
+            "reference": "ChIJyUGIg5XDeDkRVMvHnEo9RAg",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "4V54+J46, Men market bineka, Binaika"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.1962936,
+                    "lng": 78.9110729
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.19762177989272,
+                        "lng": 78.91239432989272
+                    },
+                    "southwest": {
+                        "lat": 24.19492212010728,
+                        "lng": 78.90969467010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Dinesh Kirana Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106528225375312754617\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi8tIIfoYYtQm3VQPs0Ojxwf1dohrr4DR7zcu-5PgqmALfXLNN6NAe8tq_vH-qv-VaRrfGweBeoHD9v8aWx1HIiAyTT6CfGttK0u9P7qowR14w-FJZ3fnQBHnUTJ9V89lpLlrUr1pRy18t2SGj5gi1HnlX4dyjsH5IBtGEXU8GfI0r6",
+                    "width": 1944
+                }
+            ],
+            "place_id": "ChIJnyKmvEbpeDkRza4JpzkS8pE",
+            "rating": 3.5,
+            "reference": "ChIJnyKmvEbpeDkRza4JpzkS8pE",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "5WW6+GC9, Barethi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 24.2899847,
+                    "lng": 78.794688
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.29139637989272,
+                        "lng": 78.79594927989272
+                    },
+                    "southwest": {
+                        "lat": 24.28869672010727,
+                        "lng": 78.79324962010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "MAYURI.KUSHWAHA. \u092e\u0947\u0921\u093f\u0915\u0932",
+            "place_id": "ChIJFf_r_mfleDkRv9dGqoqIZts",
+            "rating": 1,
+            "reference": "ChIJFf_r_mfleDkRv9dGqoqIZts",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "7QQV+XVW, Uldana Khurd"
+        },
+        {
+            "business_status": "CLOSED_PERMANENTLY",
+            "geometry": {
+                "location": {
+                    "lat": 24.2900274,
+                    "lng": 78.7946769
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.29139597989272,
+                        "lng": 78.79597147989271
+                    },
+                    "southwest": {
+                        "lat": 24.28869632010728,
+                        "lng": 78.79327182010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u0938\u093e\u0907\u092c\u0930 \u0915\u0948\u092b\u0947 \u0915\u093f\u0930\u093e\u0928\u093e \u092d\u0902\u0921\u093e\u0930",
+            "permanently_closed": true,
+            "place_id": "ChIJO8wvPZjleDkRNhbNnhwlH6Y",
+            "rating": 1,
+            "reference": "ChIJO8wvPZjleDkRNhbNnhwlH6Y",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "7QQV+XVX, Uldana Khurd"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 24.2887631,
+                    "lng": 78.9348408
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.29010727989272,
+                        "lng": 78.93619392989272
+                    },
+                    "southwest": {
+                        "lat": 24.28740762010728,
+                        "lng": 78.93349427010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "\u0938\u093f\u0902\u0918\u0908 \u0915\u093f\u0930\u093e\u0928\u093e",
+            "permanently_closed": true,
+            "place_id": "ChIJSbzLXMXteDkRcH5Sg8jpWPM",
+            "plus_code": {
+                "compound_code": "7WQM+GW Barayatha, Madhya Pradesh",
+                "global_code": "7JPW7WQM+GW"
+            },
+            "rating": 0,
+            "reference": "ChIJSbzLXMXteDkRcH5Sg8jpWPM",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "9165895003 9165895003, Barayatha"
+        }
+    ],
+    "status": "OK"
+}

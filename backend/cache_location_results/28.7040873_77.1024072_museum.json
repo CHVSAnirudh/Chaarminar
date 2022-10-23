@@ -1,0 +1,896 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRilFH0S4ji2WRSK7Huf-Ns6JtSg9n7IDRVQu0p2Hlxy-pR0RM62Ytiq4oEMyr9iS03Bgpwix_oiG2ol2PUpugewQtfNnESD74FQD_bmyPMgv6INr7YgIre7jPmVfZaOwIpuUdAC5HCq3cSkvCkckAlliVAaMxcIMiXqEC8u1FvCQSjB4j-4sB239fQadTGFa7wIWREp7BJkFAaG45WxkO1DAGOgep0pqMbgJsKkG4w_ZAueay9KGdjD5o3Il25JnXF6ko8sUhsq2526bj_VRTzkPcodPFEFjyxvG0VLl2-J5zaazkJ9YvI8dGJVfbuE_W8FLXBP2jMXYFKZJMnQg9-ZfMrerc40sxyl9vdJTJ1KQTfkZSlLH6-5i6v5avRCDtvNrQY5bwX2aNh1tUtbaaRzF1M3ogjhhYGY7UBqxjAG0eIpgjT2NCQ",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6188602,
+                    "lng": 77.1966837
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62021792989272,
+                        "lng": 77.19814087989272
+                    },
+                    "southwest": {
+                        "lat": 28.61751827010728,
+                        "lng": 77.19544122010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Rashtrapati Bhavan Museum",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112032085379791194432\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgD88o7ATyCy3jNM4nXnl2RgTEnmLAyhMB5qvJdiVpiKdxsm-MELGlH1zEaBikPF1mfTpfIf573OOUImEYd1oYmEtA_cFMjJzJ-5ze8XZ2HxYZchAqg1dnq2YS32-XBx7jwo2VzJjj5lJFlJoqYUme-QtTIBv4DGNxJe8iIU5vKC554",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJG9iV-ariDDkR5LmpJ5FeurI",
+            "rating": 4.7,
+            "reference": "ChIJG9iV-ariDDkR5LmpJ5FeurI",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1801,
+            "vicinity": "J59W+GMV, Talkatora Road, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7256281,
+                    "lng": 77.19855799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72699482989272,
+                        "lng": 77.20000922989273
+                    },
+                    "southwest": {
+                        "lat": 28.72429517010728,
+                        "lng": 77.19730957010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Nirankari Museum",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2976,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114754091124761744850\">Rippy Bedi</a>"
+                    ],
+                    "photo_reference": "AcYSjRgr2krgbHh_E7ktA_vxM6k3NBoEMx0-OWcPwckQ3wSnKtOmkvaBE8r6OWBuAw53nIAYIAwZS92POLPnrLJZYpu7my9orqh35HCsYMj1-OFWeqItO0_Qlpr0z7Ds99WuKQmm8ju2yn1AGzzmXDeZzt7eqKYJ-6EO5hQKP_iJw2AQU-mY",
+                    "width": 3968
+                }
+            ],
+            "place_id": "ChIJAekZxxz-DDkR37IG1P2sqw8",
+            "rating": 4.5,
+            "reference": "ChIJAekZxxz-DDkR37IG1P2sqw8",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 58,
+            "vicinity": "P5GX+7C3, Nirankari Park, Gopalpur Village, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6785828,
+                    "lng": 77.19158399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.67993932989272,
+                        "lng": 77.19293097989272
+                    },
+                    "southwest": {
+                        "lat": 28.67723967010728,
+                        "lng": 77.19023132010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Museum of the Shadows of Partition",
+            "place_id": "ChIJj9dOgg4DDTkResPMx45HRzQ",
+            "plus_code": {
+                "compound_code": "M5HR+CJ New Delhi, Delhi",
+                "global_code": "7JWVM5HR+CJ"
+            },
+            "rating": 2,
+            "reference": "ChIJj9dOgg4DDTkResPMx45HRzQ",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "University of Delhi, Sanjay Nagar, Gulabi Bagh, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6191062,
+                    "lng": 77.19714359999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62055062989272,
+                        "lng": 77.19843107989271
+                    },
+                    "southwest": {
+                        "lat": 28.61785097010728,
+                        "lng": 77.19573142010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "President House Museum Main Building",
+            "place_id": "ChIJhXHc3FLjDDkRp0hHSUMGhUY",
+            "rating": 4,
+            "reference": "ChIJhXHc3FLjDDkRp0hHSUMGhUY",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "J59W+JV2, Presidents Estate Quarters, President's Estate, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6161724,
+                    "lng": 77.0777884
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61752347989272,
+                        "lng": 77.07910177989271
+                    },
+                    "southwest": {
+                        "lat": 28.61482382010728,
+                        "lng": 77.07640212010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Horse Museum",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101158731526343091156\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiDTi5iEZVDRRrfHNl67G24li1avCgpE3RK3qntIt99JTOYKFSMfPe4AGeQ5nkQqmhMiilCRmwUopzyHUctBAOPoi6uy0eF6Y_LWD09tOzACKYvyoUoJ0gvyWklFhmohhfnpx586b0zi_30BfkaL3PiLKjNE2BVEmSo9VyYOu2BvlTz",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJnVGoihkFDTkRN792lXA0tZo",
+            "rating": 5,
+            "reference": "ChIJnVGoihkFDTkRN792lXA0tZo",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "J38H+F47, Channakya Place, 25 Feet Rd, Chanakya Place I, Janakpuri, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7237159,
+                    "lng": 77.1136138
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72484052989272,
+                        "lng": 77.11474897989272
+                    },
+                    "southwest": {
+                        "lat": 28.72214087010727,
+                        "lng": 77.11204932010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Click Art Museum",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109950043505005079991\">Vishal Gupta</a>"
+                    ],
+                    "photo_reference": "AcYSjRi5679Bd_QTb3BVLCQZE0COP_w1L70VBfZjf6ste2S5oQ1okjHCzDcI3PJuhNb-_RtHKSzbff-X73ME6nwWnW-BFzQy61ci2q5ZuPiAp-ZYIUHpbokMIUa-9nkztL1qWWBIRbrhz09xggmtug1hxuc-XE3Bf8Ltb_go2gPuPFvDLdhn",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJa5oEokgBDTkRPppuO97GtC0",
+            "plus_code": {
+                "compound_code": "P4F7+FC Delhi",
+                "global_code": "7JWVP4F7+FC"
+            },
+            "rating": 4.3,
+            "reference": "ChIJa5oEokgBDTkRPppuO97GtC0",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 219,
+            "vicinity": "Block \u2018C\u2019 Adventure Island Limited-Metro Walk, Sector 10, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6368357,
+                    "lng": 77.0938039
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63818327989273,
+                        "lng": 77.09515472989273
+                    },
+                    "southwest": {
+                        "lat": 28.63548362010728,
+                        "lng": 77.09245507010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "The colour pallet",
+            "place_id": "ChIJOSUHMwsFDTkR2Z-RtRnCs7o",
+            "rating": 0,
+            "reference": "ChIJOSUHMwsFDTkR2Z-RtRnCs7o",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J3PV+PGM, Mall Rd, Old Market, Block 24, Tilak Nagar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6438467,
+                    "lng": 77.200071
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64531102989272,
+                        "lng": 77.20148777989273
+                    },
+                    "southwest": {
+                        "lat": 28.64261137010728,
+                        "lng": 77.19878812010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Tribal Museum, jhandewalan",
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103728435194145875108\">Bhartiya Adimjati Sevak Sangh</a>"
+                    ],
+                    "photo_reference": "AcYSjRi6yfwZswwJms6xPzVAkEfrpHME49YrGs8FGUspF61ceDO0bBPW9iWEnhwlCLiGM1sKUs3v9VTFO7sF76ENewVpJwZU8KUVTDnse0l0vKdG3g3ceIUSpENnH-coBUzxj-uM43KEWi9Wxe6HievhovLE9zCmGCJw_vB_-iVdIA6CC9yP",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJR650QED9DDkRTao0y9sgdiU",
+            "plus_code": {
+                "compound_code": "J6V2+G2 New Delhi, Delhi",
+                "global_code": "7JWVJ6V2+G2"
+            },
+            "rating": 4,
+            "reference": "ChIJR650QED9DDkRTao0y9sgdiU",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "J6V2+G2C Thakkar Bapa Smarak Sadan,Link Road, Dr.Ambedkar Marg, Central Ridge Reserve Forest, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6187503,
+                    "lng": 77.2072444
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62012212989272,
+                        "lng": 77.20818917989271
+                    },
+                    "southwest": {
+                        "lat": 28.61742247010728,
+                        "lng": 77.20548952010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Parliament Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115008736386147941775\">Swati Kanchan</a>"
+                    ],
+                    "photo_reference": "AcYSjRjqxiQXyEdydgh--G56HmcZQ53EOOli7iIQoBOHobZwP0dJy7vaLnDUQCtKryfS9Hmsrgl2JLGGvvSaI118CTMi8Q74psyCEtPoe3cjQM1xWSd7Hv0VhXJRB9HSxfgIXHZgnl-4M4sFsn-yUqQcE3sU85LqBhNW5yzD4cfugZ7Vl1IC",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJg4kkcbLiDDkRTjZUHHb4rb4",
+            "rating": 4.4,
+            "reference": "ChIJg4kkcbLiDDkRTjZUHHb4rb4",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 414,
+            "vicinity": "J694+GV5, Lok Sabha Secretariat, Parliament Library Building, Pandit Pant Marg Area, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6263901,
+                    "lng": 77.1619638
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62786587989272,
+                        "lng": 77.16342627989272
+                    },
+                    "southwest": {
+                        "lat": 28.62516622010728,
+                        "lng": 77.16072662010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "National Agricultural Science Museum",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3472,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105399737504125962626\">YASH MANGLA</a>"
+                    ],
+                    "photo_reference": "AcYSjRi1bzQ63SE5K5T3S9K05efqtZDg43LKV8ffVJdsUwBNsF4vOTEX5cNuep47fntXlU1rvA2DR21Uf3qIZP83vwscij8jM7FQghHp4NEkIv32wI-k3U0SC4WVQn5ecHXX65QnaX8kF9WPxCDil36jst0Tuf1e8xtLe5v9EDBO1bOMNc1l",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJPQK7Ts4CDTkRMcJcBZUcLF0",
+            "plus_code": {
+                "compound_code": "J5G6+HQ New Delhi, Delhi",
+                "global_code": "7JWVJ5G6+HQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJPQK7Ts4CDTkRMcJcBZUcLF0",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 825,
+            "vicinity": "Bus Stand, NASC Complex, Dev Prakash Shastri Marg, Opp, Dasghara, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6464546,
+                    "lng": 77.1028619
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64780377989272,
+                        "lng": 77.10426062989272
+                    },
+                    "southwest": {
+                        "lat": 28.64510412010728,
+                        "lng": 77.10156097010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Sehmbi's Mansion",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105181438858326464287\">parminder sehmbi</a>"
+                    ],
+                    "photo_reference": "AcYSjRhAJRR2vOoCH5gUmdfXeD9RvbWDuQpBxw-CtSItgVGJP5--ubUDC8KJ5-zLMzD7QUOsd8DtLap0JQ2uhrDaxzUSGjKOhzbH971_13B6S8U3vg-m6LOt_u69fNqydgBqbqvHCMJ_bI-QwSFPieN5VA6OsgpLAm0xwbwgimyLkD8lmaj9",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJXZ_4q2IDDTkRyb4SIZePiuw",
+            "plus_code": {
+                "compound_code": "J4W3+H4 New Delhi, Delhi",
+                "global_code": "7JWVJ4W3+H4"
+            },
+            "rating": 4.5,
+            "reference": "ChIJXZ_4q2IDDTkRyb4SIZePiuw",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "E Block Rd, Pocket A, Shyam Nagar, Vishnu Garden, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6439639,
+                    "lng": 77.199466
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64548962989272,
+                        "lng": 77.20091877989272
+                    },
+                    "southwest": {
+                        "lat": 28.64278997010728,
+                        "lng": 77.19821912010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Adi Jati Sangrahalaya",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103547829012367876773\">Anupam Gogoi</a>"
+                    ],
+                    "photo_reference": "AcYSjRjh-_6wP6EmJAs56a5rxXS5B-v1sT4ltQ27GLl8rMge15NL3deCvyIaVvPZSmO-0BA7v_kbHWW_Cp-xipygQtzdZ6WKV8hb8Kpvu1Dpg5U8T8o8tu0GmJ8A2dvc9eGmhd5FtS-G3ed8SDj2nAd8gollAhYo1LAuvWSo-BkbMEwT2RoN",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJl03QGl79DDkRgcqSxb-FgDo",
+            "rating": 4.1,
+            "reference": "ChIJl03QGl79DDkRgcqSxb-FgDo",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 100,
+            "vicinity": "J5VX+HQP, Dr Bhim Rao Ambedkar Marg, Central Ridge Reserve Forest, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6956726,
+                    "lng": 77.1977507
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69701597989272,
+                        "lng": 77.19910132989271
+                    },
+                    "southwest": {
+                        "lat": 28.69431632010728,
+                        "lng": 77.19640167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Delhi Police Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108753458611037562029\">Abhishek</a>"
+                    ],
+                    "photo_reference": "AcYSjRjwC13sOt8yFX59fFvHtsDd70CLQTH7iHi9otRmXxoQv9nTNCiUXJFeCWtsmy6XdpFKqY9RLOkpBHLMAW4y0KleBBYMLryFb5xIVCwqeAYs39pC-GSegg03LGzbgmOCRNV0CY6fqvzKiD2eL715WdRQgsDd8YyRd78EozMMpkYnDprr",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJlS1ZKfT9DDkR02WAwxqawM4",
+            "rating": 4.4,
+            "reference": "ChIJlS1ZKfT9DDkR02WAwxqawM4",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47,
+            "vicinity": "M5WX+74J, Police Ground, Kingsway Camp, GTB Nagar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7040585,
+                    "lng": 77.1024497
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70541622989272,
+                        "lng": 77.10378387989273
+                    },
+                    "southwest": {
+                        "lat": 28.70271657010728,
+                        "lng": 77.10108422010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Muting Minar",
+            "place_id": "ChIJ41mrHhEBDTkRTz7ODNwUdy0",
+            "rating": 0,
+            "reference": "ChIJ41mrHhEBDTkRTz7ODNwUdy0",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "P432+JXG, Pocket 25, Sector 3G, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7153913,
+                    "lng": 77.1087646
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71681137989271,
+                        "lng": 77.11000947989272
+                    },
+                    "southwest": {
+                        "lat": 28.71411172010727,
+                        "lng": 77.10730982010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "BK center rohini sector 25",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 673,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112880649511510378191\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi111CSOEQh0baK_sOml1MvCoV97zEao9IfULQfrkbotWAI4BdwTXny2acbCLAhJ0AIrWreq-9B9B9vFtElXGOIDYRA4WIYQv6kd7raOasV1GqLRhVrAoJ2ar3EpKZgyJFhgy3Mdk2sme7TZgULL2YJ3i9BiJIUWJGefU9j-4b2AsdL",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJKRh4kXYBDTkR_y_5x2mlgMs",
+            "plus_code": {
+                "compound_code": "P485+4G Delhi",
+                "global_code": "7JWVP485+4G"
+            },
+            "rating": 2.3,
+            "reference": "ChIJKRh4kXYBDTkR_y_5x2mlgMs",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Pocket 1 house no 238, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.646875,
+                    "lng": 77.18472299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64817042989272,
+                        "lng": 77.18603387989272
+                    },
+                    "southwest": {
+                        "lat": 28.64547077010728,
+                        "lng": 77.18333422010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Thorium CS",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110984212979345722217\">Krishan Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhK31rplqFbmLPLa4FSAD-ExbTEXhYpkZjAdq2K0ARttKa7u7wiN1cjei-J2W-fGKqNjydF7T_hETVxMN72NHkWsd6oAnZdQXahwA4bhozS7s3cbKBI8YIUI5GIuc2ovFArKz0cqT3ezDodQyUA3ybKP__6wHrmzWT85XH0Tec84W71",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJ43m-uZkCDTkRdNZJ6yIuby0",
+            "plus_code": {
+                "compound_code": "J5WM+PV New Delhi, Delhi",
+                "global_code": "7JWVJ5WM+PV"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ43m-uZkCDTkRdNZJ6yIuby0",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29,
+            "vicinity": "7A/42, 1st Floor, Near Hotel Gulnar,, Karol Bagh, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7564112,
+                    "lng": 77.1796805
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.75776627989272,
+                        "lng": 77.18101472989272
+                    },
+                    "southwest": {
+                        "lat": 28.75506662010728,
+                        "lng": 77.17831507010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Bhedda Sadan",
+            "place_id": "ChIJI36hgggBDTkRwQ1MnF_hj4o",
+            "rating": 5,
+            "reference": "ChIJI36hgggBDTkRwQ1MnF_hj4o",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Q54H+HR9, Swami Dayanand Enclave, Burari, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7017605,
+                    "lng": 77.1749657
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70308192989273,
+                        "lng": 77.17641552989272
+                    },
+                    "southwest": {
+                        "lat": 28.70038227010728,
+                        "lng": 77.17371587010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Bauddha Bihar",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118443604237255144302\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgBBvh36X9egMGZTMjng2JGxx8UfJbXX18EEjJkbtbmVg_RRdKJQwOlFp7f2a9hWgJ1f5d6I2Eeul3TOvwoiZz_8qP61Ns4S0dnq4cemA7FQ23fDMGCG6lJF_UllEnEbk6Sqh4o8xGiqIdnGxUxq_zcvvRhKaTn8f7rO5Qjq72NWQ_t",
+                    "width": 2340
+                }
+            ],
+            "place_id": "ChIJq5HYkEoDDTkRQ30E1kNy1iw",
+            "rating": 0,
+            "reference": "ChIJq5HYkEoDDTkRQ30E1kNy1iw",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "P52F+PX5, Wazirpur Industrial Area Rd, Block B, Wazirpur Industrial Area, Wazirpur, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.77973249999999,
+                    "lng": 77.0211016
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.78098587989272,
+                        "lng": 77.02244672989272
+                    },
+                    "southwest": {
+                        "lat": 28.77828622010727,
+                        "lng": 77.01974707010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Gobar Museum",
+            "place_id": "ChIJKcaT8GQHDTkRuxcoiWZJCm8",
+            "rating": 5,
+            "reference": "ChIJKcaT8GQHDTkRuxcoiWZJCm8",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Q2HC+VCX, Shri Krishna Gaushala Sultanpur Dabas, Salahpur Majra Village, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6475534,
+                    "lng": 77.1053845
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64891027989272,
+                        "lng": 77.10674687989273
+                    },
+                    "southwest": {
+                        "lat": 28.64621062010728,
+                        "lng": 77.10404722010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Indian musical Kendra",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1872,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105426069043366308052\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhTZnmaZF1BUN0GpBMzjvbstAqIjeOwJn_wBcn88_lMexAUSwRv4Zvb0_fkih_CMOs3bO7xdUKyb68QpLU4W6-fLEdpGlVKQB6Hr8E5BYX3cqZXS7yUM4zffm-a43CKmIbwcha28ZwHGdSFzcfK2AnbjnKLFTjAiaWD0norDGcsAQLk",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ_YewVicDDTkRL60m8_ZL-_4",
+            "plus_code": {
+                "compound_code": "J4X4+24 New Delhi, Delhi",
+                "global_code": "7JWVJ4X4+24"
+            },
+            "rating": 0,
+            "reference": "ChIJ_YewVicDDTkRL60m8_ZL-_4",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1096, Raghubir Nagar Rd, JJ Colony, Block N, Tagore Garden, Vishnu Garden, New Delhi"
+        }
+    ],
+    "status": "OK"
+}

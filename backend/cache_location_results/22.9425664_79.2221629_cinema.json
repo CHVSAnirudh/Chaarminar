@@ -1,0 +1,135 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9466807,
+                    "lng": 79.19108469999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94808232989272,
+                        "lng": 79.1924027298927
+                    },
+                    "southwest": {
+                        "lat": 22.94538267010727,
+                        "lng": 79.18970307010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Satish Cineplex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103524555748035481164\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgl_5nRImiGBS4EQ3HpIrpdRe1xffspNF1T9jML1lc3BJD7JH2TF50pfgrEkk0knOK1zl8W-2wiC60X_RDvT6yOU62kA2A3i6X6KoxZAD2GDW4-zD1EC53hjuKMMk51TCh5NWulCQ7_TlVJcVkNYBxzzS4qWdE8iPfTDMU3U52H9Ik",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJO7ePLs-cfzkRrb2Jea9jRNs",
+            "plus_code": {
+                "compound_code": "W5WR+MC Narsinghpur, Madhya Pradesh",
+                "global_code": "7JJXW5WR+MC"
+            },
+            "rating": 3.6,
+            "reference": "ChIJO7ePLs-cfzkRrb2Jea9jRNs",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 536,
+            "vicinity": "Belapur Kar Ward, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9398084,
+                    "lng": 79.2137236
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94118697989272,
+                        "lng": 79.21505942989272
+                    },
+                    "southwest": {
+                        "lat": 22.93848732010728,
+                        "lng": 79.21235977010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "bhau chodankar",
+            "place_id": "ChIJTSFtdY6DfzkRlvdJuFkklzc",
+            "rating": 3,
+            "reference": "ChIJTSFtdY6DfzkRlvdJuFkklzc",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "W6Q7+WFH, MP SH 22, Rosra, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9472568,
+                    "lng": 79.19727180000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94857777989272,
+                        "lng": 79.19860762989272
+                    },
+                    "southwest": {
+                        "lat": 22.94587812010728,
+                        "lng": 79.19590797010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Ambaji Jewellers",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104454784446168184013\">sushil nema</a>"
+                    ],
+                    "photo_reference": "AcYSjRgj855JSE4xoyeO-kuouyUrMQLSor8Jqd6Ar5_XOy-inGrayZ0AzcppyyLYBdWtSr6TQ5GWClIRXOLA4mDSFWaLg4b8nocdrtP2zzMqHyXmWjBwRvfFzyGfyPpMR2k0sFf1twntpJbF3VDE3S16IapVdspAqPNH5mYRlyIjIYioj0rZ",
+                    "width": 2250
+                }
+            ],
+            "place_id": "ChIJZ0wpisWdfzkR0TfG2OCsAzM",
+            "rating": 3.9,
+            "reference": "ChIJZ0wpisWdfzkR0TfG2OCsAzM",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "W5WW+WW2, Narsinghpur"
+        }
+    ],
+    "status": "OK"
+}

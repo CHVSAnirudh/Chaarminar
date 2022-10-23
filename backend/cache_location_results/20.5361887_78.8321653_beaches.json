@@ -1,0 +1,47 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5427773,
+                    "lng": 78.8354119
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54415287989272,
+                        "lng": 78.83678592989273
+                    },
+                    "southwest": {
+                        "lat": 20.54145322010728,
+                        "lng": 78.83408627010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "VR Game Zone",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJrX2lQSN70zsRmEyjZ3qt9hI",
+            "plus_code": {
+                "compound_code": "GRVP+45 Hinganghat, Maharashtra",
+                "global_code": "7JGWGRVP+45"
+            },
+            "rating": 0,
+            "reference": "ChIJrX2lQSN70zsRmEyjZ3qt9hI",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Kochar Ward, beside Meghal Daily Needs, near LIC Office, Siddharth Nagar, Pothara Colony, Hinganghat"
+        }
+    ],
+    "status": "OK"
+}

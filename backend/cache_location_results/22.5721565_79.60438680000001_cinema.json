@@ -1,0 +1,51 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 22.6017198,
+                    "lng": 79.6007479
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.60307152989272,
+                        "lng": 79.60209677989272
+                    },
+                    "southwest": {
+                        "lat": 22.60037187010728,
+                        "lng": 79.59939712010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Laxmi Talkies",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115906656284618127343\">Ravi Maneshwar</a>"
+                    ],
+                    "photo_reference": "AcYSjRg-Fru8NO5BPUcn-IxsU3RMeHXCCVVgULJFaA7XA--xJH3mhJ6jCqkaGBZI2Z1-S2ocQdUdRXyJXV-fRt-drZy-aXE2c_Mr1xX-FV2db2aHhgOGpBClKscz-fe04nPCn_pkXJODBuNjTPAPCvDI8nYvNoSOKHSkutQqyBJZ6XuEEncr",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJR0OIvhwXgDkRZpJxBFC6WCI",
+            "rating": 3.5,
+            "reference": "ChIJR0OIvhwXgDkRZpJxBFC6WCI",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 52,
+            "vicinity": "JJ22+M7Q, N - South Corridor, Sarasdol, Lakhnadon"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,259 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9574065,
+                    "lng": 78.3904019
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.95872412989272,
+                        "lng": 78.39185407989272
+                    },
+                    "southwest": {
+                        "lat": 25.95602447010727,
+                        "lng": 78.38915442010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Pichhore Museum",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101629814126262809248\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhnRBQGk1A64OnB2rYHotaiVAKXippuVF77gVVxQK4qCEF0JRx1uoD9T7CSEp4BAdqjnP47XfEALWbmS3n0iQsKIqTHi_I7BWbcmyV8dcK7p4rvK0tMkg_MjgJ7dO0YLHoIdGngeYtbWchb_BZXCStT0c2c5KdMeX-kv2vfVOCVnnCq",
+                    "width": 2250
+                }
+            ],
+            "place_id": "ChIJSQkUZwzjdjkRY8aagowCLHU",
+            "rating": 4.3,
+            "reference": "ChIJSQkUZwzjdjkRY8aagowCLHU",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29,
+            "vicinity": "X94R+X56, Pichhore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.0058763,
+                    "lng": 78.2710864
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.00726287989272,
+                        "lng": 78.27250712989272
+                    },
+                    "southwest": {
+                        "lat": 26.00456322010728,
+                        "lng": 78.26980747010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "BSF Museum Tekanpur",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112580392349623578541\">kuldeep kumar kannojia</a>"
+                    ],
+                    "photo_reference": "AcYSjRg3nEByB4mEign4speV6xLNADLzz1gR16aS8dYr1s-1-37njm4kCwVoFv1MBLRjDli9RubSjnZL-F5KiTmiIqKDNZwxHWjHKLlC3VTOGpbj1bFe26S68HaibAsw1l1TNLsMj2gwueHkoLhiBncXVZwN4T6pJcb8uWjvWB4hMjRfXerX",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJvcNUWz_edjkRvpV27xgeNkE",
+            "rating": 4.5,
+            "reference": "ChIJvcNUWz_edjkRvpV27xgeNkE",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 267,
+            "vicinity": "274C+9C4, Beragarh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8927333,
+                    "lng": 78.270585
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.89408147989272,
+                        "lng": 78.27194127989272
+                    },
+                    "southwest": {
+                        "lat": 25.89138182010728,
+                        "lng": 78.26924162010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Sultan shing kushwah",
+            "place_id": "ChIJyZ8lEDchdzkRcVhOLfLWe7k",
+            "rating": 5,
+            "reference": "ChIJyZ8lEDchdzkRcVhOLfLWe7k",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "V7VC+36W, Unnamed Road, Barol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.9595905,
+                    "lng": 78.3913632
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.96107617989272,
+                        "lng": 78.39275662989272
+                    },
+                    "southwest": {
+                        "lat": 25.95837652010728,
+                        "lng": 78.39005697010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Pichore Fort",
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115579954953730158627\">Rohit Jatav</a>"
+                    ],
+                    "photo_reference": "AcYSjRg-At8j7eie4Ef9eBw3VOCExocbYPAR5qYdrivGE4C_eRQK99Jzy2LitsX7vFCVApg6PVT99V5VtsEzgYufM_umx9nqkGm3AkKgWD-KAjCqo7B0RU_eCVRTXOoDKCtrZRfv4N9KbE7Ph1qZutkeulTxFWhyf4rpEE4Df-aRQH6lv91i",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJaepsNjDjdjkRmKBGmR948Fw",
+            "rating": 4,
+            "reference": "ChIJaepsNjDjdjkRmKBGmR948Fw",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47,
+            "vicinity": "X95R+RGQ, Pichhore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.8786217,
+                    "lng": 78.3332082
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.87998262989272,
+                        "lng": 78.33459837989273
+                    },
+                    "southwest": {
+                        "lat": 25.87728297010728,
+                        "lng": 78.33189872010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "\u0938\u0902\u0918 \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f \u0921\u092c\u0930\u093e Rss Karyalai Dabra",
+            "place_id": "ChIJnS8JXNIfdzkRw2o5MfUcOg4",
+            "plus_code": {
+                "compound_code": "V8HM+C7 Dabra, Madhya Pradesh",
+                "global_code": "7JQWV8HM+C7"
+            },
+            "rating": 4,
+            "reference": "ChIJnS8JXNIfdzkRw2o5MfUcOg4",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Unnamed Road, Dabra"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 26.0056366,
+                    "lng": 78.2712707
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.00702677989272,
+                        "lng": 78.27268862989273
+                    },
+                    "southwest": {
+                        "lat": 26.00432712010728,
+                        "lng": 78.26998897010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "VT-DDW Museum Aircraft",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109857241638650590017\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjbAGdd19N65LJxcmDld9xOEnhfGklQ2BkbzbnA3To_gPPgViqOax_-8WP40twIw_gptVJLMylrGhZKLd7URJzV0I7mmV5N2F1mlV1pGyKJp4wmdwyr23hrIHaYIkx-YuUvuxZjdeaLnU_JU_nSXyn4-8jdb0zyd7_9mUB4nOequxDj",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJ-VuaRT_edjkR6CpMrEyP9j8",
+            "rating": 4.4,
+            "reference": "ChIJ-VuaRT_edjkR6CpMrEyP9j8",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "274C+7G2, Tekanpur, Beragarh"
+        }
+    ],
+    "status": "OK"
+}

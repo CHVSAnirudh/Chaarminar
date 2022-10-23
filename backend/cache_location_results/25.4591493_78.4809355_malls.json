@@ -1,0 +1,851 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRghvfSgBVJazyjPICOrUhYeI_hjNv68s07wca8LbkLqq5aaOFfRa6ltRYCb67OEr84NDZtzU8ixuaYdr0zmEYBZEc3-gPLT7p7AzITLE1id0Th2ari5_uOJ6m20OgzWlkUXDQ3DOf99sr7xr--6MGXf_NQq1FulFpG7bRxg5lXqPKfqzRPgmWrDJxNkCGmd2hKQ5rG3hlMekSVJMznG2CI7d_Ui8YgKTnM0oGwmNpr4oBG-7k_24X3wKnnc8YxP972-BFGJXFy7N0FyJerCK7ppCqR6jCyNJPMn9Zqe56DWMKgO_ExXi2K13DPqmYzQwa6rcpKDOht50LiNKEM_EK_t2EIQXxaqc8inrMCR_lYqmYuK9SunP7Z7coGKCDGcbxIx0-o40Q4lodRnJhjR5_GPutjNsda_8QBUVTggu3fBy5K7yCYSYQ",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4515801,
+                    "lng": 78.5694712
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45285012989272,
+                        "lng": 78.57085847989272
+                    },
+                    "southwest": {
+                        "lat": 25.45015047010728,
+                        "lng": 78.56815882010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "City Centre",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115978364666732834654\">Mahesh V</a>"
+                    ],
+                    "photo_reference": "AcYSjRig_clRNOmg38uQanVzFFf9SSPUKvcvfQAZQSvXk2e2C5VyjW34-4xkfafmJKrH-cSf1ftxZLo51OW7VeFa1mSSYoPHk5acS8Dzyl2j66B1YwHxc5CvqkjZmhdYx5Lho0Uqps04FyRJ906lI3Ebpi5Pob9jLvP19mdzfWCQhZyhZWCq",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJLaFuhtV2dzkR6vLFoIj-lJE",
+            "rating": 3.8,
+            "reference": "ChIJLaFuhtV2dzkR6vLFoIj-lJE",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 161,
+            "vicinity": "FH29+JQ9, Civil Lines, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4331621,
+                    "lng": 78.5634718
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.43450752989272,
+                        "lng": 78.56491692989273
+                    },
+                    "southwest": {
+                        "lat": 25.43180787010728,
+                        "lng": 78.56221727010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shopping Complex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJw51FfstwdzkR82f7C76S-ZY",
+            "rating": 3.9,
+            "reference": "ChIJw51FfstwdzkR82f7C76S-ZY",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 33,
+            "vicinity": "CHM7+799, Railway Officers Colony, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4525931,
+                    "lng": 78.56276079999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45399712989272,
+                        "lng": 78.56412067989271
+                    },
+                    "southwest": {
+                        "lat": 25.45129747010728,
+                        "lng": 78.56142102010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "New Mall Site",
+            "place_id": "ChIJVwCvCoBxdzkRui8csR_WljY",
+            "rating": 0,
+            "reference": "ChIJVwCvCoBxdzkRui8csR_WljY",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FH37+24J, Civil Lines, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4556833,
+                    "lng": 78.549585
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45698462989272,
+                        "lng": 78.55094812989273
+                    },
+                    "southwest": {
+                        "lat": 25.45428497010728,
+                        "lng": 78.54824847010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Parivar Shopping Complex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 5984,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103854957941805487185\">Prashant Sharma</a>"
+                    ],
+                    "photo_reference": "AcYSjRhWV0b2xv4gLOmBFNt07LQTjY5eftVKP09E4fnIfRFiAAFsIjjnDv9Lysz-aGcRtzd4elLIaCS3xPXsl5e8Z1cuZfR8gBiaHP4-PLhXDAe5afpcMPENArUKpZLBpWReZXxkPVnDNcoA8AGucAY6LiOwZ6a2xyk0GDUKK1svz6e8z0Yr",
+                    "width": 3366
+                }
+            ],
+            "place_id": "ChIJvYZVAiRxdzkR8daPBU3nbWQ",
+            "rating": 3.7,
+            "reference": "ChIJvYZVAiRxdzkR8daPBU3nbWQ",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24,
+            "vicinity": "FG4X+7RW, Prem Ganj, Sipri Bazar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4484539,
+                    "lng": 78.57657619999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.44973972989272,
+                        "lng": 78.57802052989271
+                    },
+                    "southwest": {
+                        "lat": 25.44704007010728,
+                        "lng": 78.57532087010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Madhur Plaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1957,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114975523799659063187\">Madhur Agrawal</a>"
+                    ],
+                    "photo_reference": "AcYSjRj3eVJ6TgE-c4V_Ts7igQdr06uP9eE2fT5iPHSWkEeu9UPqBz3njplm7rNSsJRGTdnAIFJghLMpzF2XsIeqburZzPpPdIadovBvjnN9FOP8QmivMxZ5eSSgGf_R5WaematnMQDenEqwxV_WCDzFR757nB_diuZi35_-mkGNPuN1MWs",
+                    "width": 3356
+                }
+            ],
+            "place_id": "ChIJ55x5jyh3dzkRSZOwdN6-9K8",
+            "plus_code": {
+                "compound_code": "CHXG+9J Jhansi, Uttar Pradesh",
+                "global_code": "7JQWCHXG+9J"
+            },
+            "rating": 3.5,
+            "reference": "ChIJ55x5jyh3dzkRSZOwdN6-9K8",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 51,
+            "vicinity": "in front of B R Petrol Pump, Civil Lines, Jhokan Bagh, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4732952,
+                    "lng": 78.56646889999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.47468397989272,
+                        "lng": 78.56789317989272
+                    },
+                    "southwest": {
+                        "lat": 25.47198432010728,
+                        "lng": 78.56519352010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Relince iSmart Mall",
+            "place_id": "ChIJo8uzqBt3dzkR4v-4H81_dr0",
+            "plus_code": {
+                "compound_code": "FHF8+8H Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFHF8+8H"
+            },
+            "rating": 0,
+            "reference": "ChIJo8uzqBt3dzkR4v-4H81_dr0",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "A-13, near balaji public school, Purana Sahar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4440718,
+                    "lng": 78.5769179
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.44541032989272,
+                        "lng": 78.57825987989273
+                    },
+                    "southwest": {
+                        "lat": 25.44271067010727,
+                        "lng": 78.57556022010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "CityKart",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103503200388762015713\">Abhay Jatav</a>"
+                    ],
+                    "photo_reference": "AcYSjRjKM37mMnxgLMzcfzA7_r6ZkdLzt1RtLOJ9s8MiVFSPXk1bVtQR_iveBgqQi3TovB1Oh6F5YQqzmcVnm53ZQ5eIgAy0WgEKqejJ9yWZpHM8DvNRAZZv7rweruHOrz_wZZQJr6G1rwKNyaBRd4BALm9O5TYOS_gL-T36GdFnIcjID4G7",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJebCbZy93dzkRZ3gFI96sES0",
+            "plus_code": {
+                "compound_code": "CHVG+JQ Jhansi, Uttar Pradesh",
+                "global_code": "7JQWCHVG+JQ"
+            },
+            "rating": 3.7,
+            "reference": "ChIJebCbZy93dzkRZ3gFI96sES0",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1305,
+            "vicinity": "239/1, Rai Colony, Civil Lines, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4473503,
+                    "lng": 78.56941119999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.44865867989272,
+                        "lng": 78.57075447989273
+                    },
+                    "southwest": {
+                        "lat": 25.44595902010727,
+                        "lng": 78.56805482010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rahul complex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117509468727979850914\">shilu raykwar</a>"
+                    ],
+                    "photo_reference": "AcYSjRioWwwiqKbVr_r-MhEdDlSHS49V_0uTc6v4QicabPINdWeSh0Z7OU_58SlbMtx8sZYsNTawzS1uYmgirRpd5S_YOqFIVzT1Sjp4VOUItwrds3UIK2tQF-qbZ19n5ujaEJ8aZ4JeRi_2qX5XmeuZV8VSBlQ18wXT3T5QwJYwe55ZgYfa",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJuwFopCt3dzkRFbFhJR0w38Y",
+            "rating": 4.3,
+            "reference": "ChIJuwFopCt3dzkRFbFhJR0w38Y",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "CHW9+WQV, Prathvipur, Civil Lines, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4696766,
+                    "lng": 78.55259629999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.47101342989272,
+                        "lng": 78.55394922989272
+                    },
+                    "southwest": {
+                        "lat": 25.46831377010728,
+                        "lng": 78.55124957010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Lovelymodish",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 512,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101259181621634870439\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiBBaq9wddpOXIDGQBKzvoDstUV31jMmJ67hJqazaPPbA2emGr2K2acHboN2TMtR2IhXAFHeBMpoK-_oNLX6_ELLJ9ymSLWnb-xchHPnCT76Osx7_Oy6FrF3RI-SIKioT8DePMC-YcDKE6h_mA_PdnyK8M_--6plHot3OULMJZAjRUc",
+                    "width": 512
+                }
+            ],
+            "place_id": "ChIJid4JjLFxdzkRcHUC6G5hO3Q",
+            "plus_code": {
+                "compound_code": "FH93+V2 Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH93+V2"
+            },
+            "rating": 0,
+            "reference": "ChIJid4JjLFxdzkRcHUC6G5hO3Q",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Siddheshwar Nagar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4497,
+                    "lng": 78.5702
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45097917989272,
+                        "lng": 78.57154072989273
+                    },
+                    "southwest": {
+                        "lat": 25.44827952010728,
+                        "lng": 78.56884107010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sardari Lal Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJb7VXQCp3dzkR97teElWomMY",
+            "rating": 3.8,
+            "reference": "ChIJb7VXQCp3dzkR97teElWomMY",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "CHXC+V3P, Nehru Marg, Jhokan Bagh, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4594757,
+                    "lng": 78.5785581
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46084562989272,
+                        "lng": 78.57986762989272
+                    },
+                    "southwest": {
+                        "lat": 25.45814597010728,
+                        "lng": 78.57716797010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "My jhansi home",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJTdOGa9p2dzkR4gT26zp51hw",
+            "rating": 3.8,
+            "reference": "ChIJTdOGa9p2dzkR4gT26zp51hw",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "FH5H+QCV, commercial press, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4564441,
+                    "lng": 78.5246272
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45777327989272,
+                        "lng": 78.52597272989273
+                    },
+                    "southwest": {
+                        "lat": 25.45507362010728,
+                        "lng": 78.52327307010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "BIG STORE",
+            "place_id": "ChIJUSlYuMlxdzkRj8a_N0_zi_E",
+            "rating": 5,
+            "reference": "ChIJUSlYuMlxdzkRj8a_N0_zi_E",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "FG4F+HVC, Shivpuri - Jhansi Rd, Rajghat Colony, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4488816,
+                    "lng": 78.56255349999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45012982989272,
+                        "lng": 78.56388382989272
+                    },
+                    "southwest": {
+                        "lat": 25.44743017010728,
+                        "lng": 78.56118417010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kigdom Mall",
+            "place_id": "ChIJiaU5XDlxdzkRkp11RpAB21s",
+            "plus_code": {
+                "compound_code": "CHX7+H2 Jhansi, Uttar Pradesh",
+                "global_code": "7JQWCHX7+H2"
+            },
+            "rating": 0,
+            "reference": "ChIJiaU5XDlxdzkRkp11RpAB21s",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "CHX6+HXF, Civil Lines, Railway Officers Colony, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4601022,
+                    "lng": 78.5795698
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46151417989272,
+                        "lng": 78.58094517989272
+                    },
+                    "southwest": {
+                        "lat": 25.45881452010728,
+                        "lng": 78.57824552010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vandna Collection",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103139860768025166020\">Arun Joshi</a>"
+                    ],
+                    "photo_reference": "AcYSjRi06NWtzXijrqRlykdkS9qpHIsHxclb4dKMxkUL1YbKCOx62odzjZFdxf13qCZctqe3HL38-284YAEr0ZO7shatfj__2e_TAliz0pmM4mw-r5HCNq3lmohuCnYVcdEhoNboyNZAAB8aR2ujkd4hK4IuHs4rPiGRQG3GdUtQdWOqppki",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJq6qqWtp2dzkR6oUGTpjmPiM",
+            "plus_code": {
+                "compound_code": "FH6H+2R Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH6H+2R"
+            },
+            "rating": 5,
+            "reference": "ChIJq6qqWtp2dzkR6oUGTpjmPiM",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Unnamed Road, Manik Chowk, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4154479,
+                    "lng": 78.5662454
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.41677682989272,
+                        "lng": 78.56759062989272
+                    },
+                    "southwest": {
+                        "lat": 25.41407717010728,
+                        "lng": 78.56489097010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kamlesh Gautam",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113673712757793503667\">Ashish Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRi7MfhxIEYp9Ynq0pajmh2UjK3CapG1_POBZWAMcs9ulGQPRazzZr9TqlPjZeJ4icuSa-_kLXpEZyKPwmFuxKj3pSK5B4wBYKPWwFPtEbBy4DQx8VrPxqRzQkiS1Kl1ALLK1vHxEbPBAKuc7t0E8UJQVqF-yM56Eoe1VAZ3qde1zbc",
+                    "width": 1944
+                }
+            ],
+            "place_id": "ChIJ4yIDrVJ3dzkRjDJgrbnf4ac",
+            "rating": 4.5,
+            "reference": "ChIJ4yIDrVJ3dzkRjDJgrbnf4ac",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "CH88+5FH, Hansari, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.462849,
+                    "lng": 78.57827019999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46421157989272,
+                        "lng": 78.57962737989273
+                    },
+                    "southwest": {
+                        "lat": 25.46151192010727,
+                        "lng": 78.57692772010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SHRINGIRISHI MARKET",
+            "place_id": "ChIJfbfXkIN3dzkRQYceLSJNwUM",
+            "rating": 0,
+            "reference": "ChIJfbfXkIN3dzkRQYceLSJNwUM",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FH7H+48R, Panchkuiyan, Purana Sahar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4490557,
+                    "lng": 78.5660661
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45048662989272,
+                        "lng": 78.56742972989272
+                    },
+                    "southwest": {
+                        "lat": 25.44778697010728,
+                        "lng": 78.56473007010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "CityLife",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110837530563017173635\">Prateek Shrivastava</a>"
+                    ],
+                    "photo_reference": "AcYSjRjBBrfvTKohoKvOHtEfU_pBC9CzRRRdFqNhZdGUt6748y3RkX4CQvnsSLbiGGdJY8tQ11yETINY562DtXBR7-6to1-y5oE4paPAm3hhUU77zipGBvbrSxYviiA7_cIz7WQlMKgqHhvL1t4GKOwUUtIqlQ0kOIf9eV7zbNhQS6KhtK5R",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJLe0zM9VwdzkRISqbCctsTDQ",
+            "plus_code": {
+                "compound_code": "CHX8+JC Jhansi, Uttar Pradesh",
+                "global_code": "7JQWCHX8+JC"
+            },
+            "rating": 3.4,
+            "reference": "ChIJLe0zM9VwdzkRISqbCctsTDQ",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 88,
+            "vicinity": "1078 opp. Pramod petrol pump, 284001, Civil Lines, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4550787,
+                    "lng": 78.5544656
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45642992989272,
+                        "lng": 78.5557837798927
+                    },
+                    "southwest": {
+                        "lat": 25.45373027010728,
+                        "lng": 78.55308412010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Big Bazar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJj8NjIGhxdzkRwsgSv6RK3yU",
+            "rating": 3.8,
+            "reference": "ChIJj8NjIGhxdzkRwsgSv6RK3yU",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18,
+            "vicinity": "FH43+2QP, Unnamed Road, Gwal Toli, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4143252,
+                    "lng": 78.56656579999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.41574812989272,
+                        "lng": 78.56796227989271
+                    },
+                    "southwest": {
+                        "lat": 25.41304847010728,
+                        "lng": 78.56526262010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Kirtisesh Dada Narayan Singh Shopping Complex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJiTmZfOZ3dzkRojiDZDLcXHM",
+            "plus_code": {
+                "compound_code": "CH78+PJ Jhansi, Uttar Pradesh",
+                "global_code": "7JQWCH78+PJ"
+            },
+            "rating": 4.8,
+            "reference": "ChIJiTmZfOZ3dzkRojiDZDLcXHM",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Main Rd, near Dr. Bhatia Clinic, Hansari, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4507501,
+                    "lng": 78.5703604
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45211417989272,
+                        "lng": 78.57157332989271
+                    },
+                    "southwest": {
+                        "lat": 25.44941452010728,
+                        "lng": 78.56887367010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jai complex",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJk5wq7rt3dzkRlcSfmFkIgXo",
+            "rating": 0,
+            "reference": "ChIJk5wq7rt3dzkRlcSfmFkIgXo",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FH2C+845, Jeenwan Shah Bus Stop, NH 75, Civil Lines, Cantt, Jhansi"
+        }
+    ],
+    "status": "OK"
+}

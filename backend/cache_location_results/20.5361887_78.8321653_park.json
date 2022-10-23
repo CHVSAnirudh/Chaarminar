@@ -1,0 +1,763 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjEpC3ZYabzyf7g3NW1ovDFoD3olBQnaDlp38DRunUEx-q2CJabwjzaX8ufw510JpdkWav2pDiSVY7hPVqp0NftoonEPxd6qWR_csMGmMthrVhF1TWX4m7Hz8LwC5_EBllcqnVeNQipZ69LxFaFlqKRbajqkwPqNQDO6QBbgBnP6SRbW81w3HSHYY24GxTAYQeK7ad9xBcYDq-tbCo0xnCSb15ZZ1BCpTDNU0vhPL7x3QW3b2_jC3C_lCeR7-iRKbNIVtx5qpEut8DoQ8HlGM8PpUaGsq6Kk5iRlTVIUdswttu03WXx9g7ennX8wLQu9zAEXB4dFZWVZVxCCRyNijlQEb6TZOgQebyaCvn4AWbTsb4E8KjI5275JHZ7WAOfzIP4OmmExRNUYEfHeeHqr1B3JXJI6tQEJfmaq6LKvU0L90IGO3rf",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.54309,
+                    "lng": 78.8279343
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54452672989272,
+                        "lng": 78.82930392989272
+                    },
+                    "southwest": {
+                        "lat": 20.54182707010728,
+                        "lng": 78.82660427010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Mandir park",
+            "place_id": "ChIJOXMlrhR70zsR9Td2qDl4jBs",
+            "rating": 4.5,
+            "reference": "ChIJOXMlrhR70zsR9Td2qDl4jBs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "GRVH+65M, Unnamed Road, Shastri Ward, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5481119,
+                    "lng": 78.8382256
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54945232989272,
+                        "lng": 78.83957507989271
+                    },
+                    "southwest": {
+                        "lat": 20.54675267010728,
+                        "lng": 78.83687542010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Chatrapati Shivaji Maharaj park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114688483771044042899\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi6hUWQS_JNAAZYWoX8FzUf786w4wpnIL87LADdYDkM75QmSaUuMM3lv2KhHPjTBP47m1i6LGoyDzOUcou4jz1Z-pcMyfcpfrPNWSGFQcVgstvGlcBIwpVKVor8tNIocw5RhOvLVhzYm3bgJgO89JqlnFk55QyB8gOTag1rsgYeo1uC",
+                    "width": 1944
+                }
+            ],
+            "place_id": "ChIJLz0Fq6x60zsRzm0alziPb-A",
+            "rating": 4.2,
+            "reference": "ChIJLz0Fq6x60zsRzm0alziPb-A",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 418,
+            "vicinity": "GRXQ+67X, Main Rd, Sindhi Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5629056,
+                    "lng": 78.854292
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.56430082989272,
+                        "lng": 78.85564577989273
+                    },
+                    "southwest": {
+                        "lat": 20.56160117010728,
+                        "lng": 78.85294612010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Royal Park",
+            "photos": [
+                {
+                    "height": 636,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114484005269732198074\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiQPTIG5UwCPXwrLttLgZsnIkN4RjZwEw-FodW414FNjWkZd1ZWGcS4OjdPQveiWYAcBNpiObs4u5RA-_KJBpXlO7rvPzWXzIwAEYKX_Yz7pyIIuMzUv9RLAk8l-DOaqyE8sG8hc3ytDSomtIczYGj_dj0eU1Em8MYCCXOzJQRUDXZW",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJo060a0Jl0zsRilcFjb-kmC0",
+            "rating": 4,
+            "reference": "ChIJo060a0Jl0zsRilcFjb-kmC0",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25,
+            "vicinity": "HV73+5P7, Unnamed Road, Shahalangadi, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5485851,
+                    "lng": 78.8387778
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55005487989272,
+                        "lng": 78.84013027989272
+                    },
+                    "southwest": {
+                        "lat": 20.54735522010728,
+                        "lng": 78.83743062010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Shivaji Maharaj Park Lake",
+            "place_id": "ChIJjXMNDtll0zsRMI37PN3iRyM",
+            "rating": 5,
+            "reference": "ChIJjXMNDtll0zsRMI37PN3iRyM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "GRXQ+CGJ, Sindhi Colony, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5475063,
+                    "lng": 78.8476268
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54896912989272,
+                        "lng": 78.84899922989273
+                    },
+                    "southwest": {
+                        "lat": 20.54626947010728,
+                        "lng": 78.84629957010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Children Park",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118115511042368897992\">Aniket Pokale</a>"
+                    ],
+                    "photo_reference": "AcYSjRijkZ3fbR5TZLBQV9O4CJj6KTtuIHIbwpOLUoVmXm85K361KMv0SQMN_0ueoZ7-hZNy8MqhdsMR1sXK3uycei3bjl13cf-s_9fPiDDvEBonaQq9bagv49L9fQhGG8O29u0BdrcXrNd4xHeoZ2cKlvEGWvgOy06bVRRVXuAga6pjuApw",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJT0zUyFBl0zsR2wyhg-nBGHY",
+            "rating": 3.8,
+            "reference": "ChIJT0zUyFBl0zsR2wyhg-nBGHY",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "GRXX+232, Hinganghat, Sant Tukdoji Ward, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.548348,
+                    "lng": 78.8340517
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54968212989273,
+                        "lng": 78.83539932989271
+                    },
+                    "southwest": {
+                        "lat": 20.54698247010728,
+                        "lng": 78.83269967010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Karanja chowk",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 1800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110138305146018777391\">ka.arvindh</a>"
+                    ],
+                    "photo_reference": "AcYSjRgiHswKktA8-JeCRVBP83BecrFsAoXUF0hP-JJyUqDs582ZDei_eBH3E-5isMcA4dZG069xHuKR9k4BTJBpghXjJuUYu5HHZWoSiZ5AKDoD7B-PUppmIqvemlRyzHwePr3C4UvPkqAbKX4_n0YMBSc_kPZPPQQVPn2Abtd3D3id7nK-",
+                    "width": 3200
+                }
+            ],
+            "place_id": "ChIJSzgEkyx70zsRq2TmpA2KIew",
+            "rating": 0,
+            "reference": "ChIJSzgEkyx70zsRq2TmpA2KIew",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GRXM+8JM, Karanja Chowk, Main Rd, Nehru Ward, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5481531,
+                    "lng": 78.8378068
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54946842989272,
+                        "lng": 78.83915542989271
+                    },
+                    "southwest": {
+                        "lat": 20.54676877010728,
+                        "lng": 78.83645577010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u091b\u0924\u094d\u0930\u092a\u0924\u0940 \u0936\u093f\u0935\u093e\u091c\u0940 \u092e\u0939\u093e\u0930\u093e\u091c \u0909\u0926\u094d\u092f\u093e\u0928",
+            "place_id": "ChIJuSyZOdtl0zsRwg5DBT3LkbI",
+            "rating": 5,
+            "reference": "ChIJuSyZOdtl0zsRwg5DBT3LkbI",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "GRXQ+747, Chhatrapati Shivaji Maharaj Ward, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.4876352,
+                    "lng": 78.83260159999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.48967729999999,
+                        "lng": 78.83419622989271
+                    },
+                    "southwest": {
+                        "lat": 20.4869545,
+                        "lng": 78.83149657010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0938\u0941\u0930\u0947\u0936\u092d\u093e\u090a \u092d\u0942\u0902\u092c\u0930 \u0936\u0947\u0921\u0928\u0947\u091f",
+            "place_id": "ChIJs0twtkFx0zsREP6SUu91z1A",
+            "rating": 0,
+            "reference": "ChIJs0twtkFx0zsREP6SUu91z1A",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FRQM+325, Yenora"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5268623,
+                    "lng": 78.83277799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.52831607989272,
+                        "lng": 78.83414147989271
+                    },
+                    "southwest": {
+                        "lat": 20.52561642010728,
+                        "lng": 78.83144182010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Anand sagar",
+            "place_id": "ChIJMwvodcNx0zsRwuSEZe29qNI",
+            "rating": 0,
+            "reference": "ChIJMwvodcNx0zsRwuSEZe29qNI",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GRGM+P4R, Indira gandhi ward, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5245165,
+                    "lng": 78.8176812
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.52589037989272,
+                        "lng": 78.81905427989271
+                    },
+                    "southwest": {
+                        "lat": 20.52319072010728,
+                        "lng": 78.81635462010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sant Gadge Baba Bal Udyan, Nandgaon",
+            "place_id": "ChIJx5LtyrNx0zsROkpxwA2ffYk",
+            "rating": 0,
+            "reference": "ChIJx5LtyrNx0zsROkpxwA2ffYk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GRF9+R33, Nandgaon"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.4661139,
+                    "lng": 78.742753
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.46746372989272,
+                        "lng": 78.74410282989271
+                    },
+                    "southwest": {
+                        "lat": 20.46476407010728,
+                        "lng": 78.74140317010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Yogesh pahane farm",
+            "place_id": "ChIJ22ZFB2Z30zsRHkOTmu180IA",
+            "rating": 0,
+            "reference": "ChIJ22ZFB2Z30zsRHkOTmu180IA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FP8V+C4R, Wadner"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5752871,
+                    "lng": 78.8848618
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.57656577989273,
+                        "lng": 78.88625812989272
+                    },
+                    "southwest": {
+                        "lat": 20.57386612010728,
+                        "lng": 78.88355847010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Kothari farm",
+            "place_id": "ChIJ535B5CVl0zsRIXK1yGqnU1c",
+            "rating": 0,
+            "reference": "ChIJ535B5CVl0zsRIXK1yGqnU1c",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HVGM+4W9, Ajanti"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.4499708,
+                    "lng": 78.7431533
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.45132062989272,
+                        "lng": 78.74450312989273
+                    },
+                    "southwest": {
+                        "lat": 20.44862097010728,
+                        "lng": 78.74180347010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Yogesh pahane farm",
+            "place_id": "ChIJh4adQfd30zsRXVhT3DyoUMc",
+            "rating": 0,
+            "reference": "ChIJh4adQfd30zsRXVhT3DyoUMc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "CPXV+X7J, Wadner"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.4879891,
+                    "lng": 78.73532329999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.48933892989272,
+                        "lng": 78.73667312989271
+                    },
+                    "southwest": {
+                        "lat": 20.48663927010728,
+                        "lng": 78.73397347010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Form Shri Hanumanji Ramaji Khode",
+            "place_id": "ChIJa4djayh30zsRJH8hfT4qvsg",
+            "rating": 1,
+            "reference": "ChIJa4djayh30zsRJH8hfT4qvsg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "FPQP+54W, Arvi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.558101,
+                    "lng": 78.84107039999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55944542989272,
+                        "lng": 78.84241977989272
+                    },
+                    "southwest": {
+                        "lat": 20.55674577010727,
+                        "lng": 78.83972012010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Khari Maidan",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108954568113942435391\">Pravin Wani</a>"
+                    ],
+                    "photo_reference": "AcYSjRhRl7wIGD5NWfYXWu1k-KHB204n49iOgY8Cy5CdFUYdTrrBj3hQ0BVu8X1zJlAqEa3rVNpV5geVKFwvpE4lvquHVSvtq71QJgGrJhzTD3wTRbFKn7y-Bu-OLbOVeYfENFTM9z_x5yxpeAja0685hjGIn8lAqE5FL3BxddNAfIDYV_M",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJSVWPC7Nl0zsR_MMiU9BK7wc",
+            "rating": 3.8,
+            "reference": "ChIJSVWPC7Nl0zsR_MMiU9BK7wc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "HR5R+6CW, Unnamed Road, Hanuman Ward, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5608698,
+                    "lng": 78.86286199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.56219417989272,
+                        "lng": 78.86409522989273
+                    },
+                    "southwest": {
+                        "lat": 20.55949452010728,
+                        "lng": 78.86139557010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mauli Park Hinganghat",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113045162471504819916\">Sahi Bee SohamMagic</a>"
+                    ],
+                    "photo_reference": "AcYSjRjS05_C744NeYMHrX9XrQW2_uKgGOvW-4HlVHwgd298avrS6AYmlFH-hlgm2uwxoQe9tFQrY_x8QLl8v7Ckfmxu5iC12ShhBhmYGBpLb60VC4G3KCVqw0ab8Crd7Ksj_-rt20ZW2oTUHV0wGFBPLDItVcHNPSC9Qfme_fGT-tM8r3ED",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJjT3WOmpl0zsRIPtDZRREf30",
+            "rating": 3.9,
+            "reference": "ChIJjT3WOmpl0zsRIPtDZRREf30",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 60,
+            "vicinity": "HV67+84X, Wardha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.551688,
+                    "lng": 78.79279799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55301147989272,
+                        "lng": 78.79438662989273
+                    },
+                    "southwest": {
+                        "lat": 20.55031182010728,
+                        "lng": 78.79168697010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Old peepal tree",
+            "place_id": "ChIJtWMDSzR70zsRLzm26xpL_BQ",
+            "rating": 5,
+            "reference": "ChIJtWMDSzR70zsRLzm26xpL_BQ",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "HQ2V+73W, Wani"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5541041,
+                    "lng": 78.8413624
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55537702989272,
+                        "lng": 78.84235012989272
+                    },
+                    "southwest": {
+                        "lat": 20.55267737010728,
+                        "lng": 78.83965047010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0939\u091c\u0930\u0924 \u092c\u093e\u092c\u093e \u092e\u0916\u0926\u0942\u092e \u0938\u0948\u092f\u094d\u092f\u0926 \u0936\u093e\u0939 \u0935\u093e\u0932\u0940",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101530564425454196426\">Armaan khan pathan</a>"
+                    ],
+                    "photo_reference": "AcYSjRjw70RSY6WHIZITaBVUZFgvULbS5DcVTWVstAsExSrDA75ADY0ZS6QHaTJGO7OjSwQyAM1QZ7Norj6ecWTO4EDujyUTGre-G8rgqVfsVc5QyXzQBZFNgXa5azkQrlu7AA_3y6PVLRw8RO8CBhVvhn6HPx3nkzNzUtGsPXBBe9kkQ8tk",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJcastzE9l0zsRXK2WKT78iQI",
+            "rating": 5,
+            "reference": "ChIJcastzE9l0zsRXK2WKT78iQI",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "HR3R+JGX, Aurangzeb Rd, Nannasha Ward, Jangona, Hinganghat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.4629919,
+                    "lng": 78.8071623
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.46434247989272,
+                        "lng": 78.80852427989272
+                    },
+                    "southwest": {
+                        "lat": 20.46164282010728,
+                        "lng": 78.80582462010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Khardi bhardi",
+            "opening_hours": {},
+            "place_id": "ChIJKfx5JQ5x0zsR7QWFmmGqi9c",
+            "rating": 0,
+            "reference": "ChIJKfx5JQ5x0zsR7QWFmmGqi9c",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FR74+5V, Chikmoh"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5468012,
+                    "lng": 78.838186
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.54813812989272,
+                        "lng": 78.83953457989271
+                    },
+                    "southwest": {
+                        "lat": 20.54543847010728,
+                        "lng": 78.83683492010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Park 2nd Gate",
+            "place_id": "ChIJuyDm8Ph70zsRb9EGofp4MnY",
+            "rating": 0,
+            "reference": "ChIJuyDm8Ph70zsRb9EGofp4MnY",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GRWQ+P7F, Sindhi Colony, Hinganghat"
+        }
+    ],
+    "status": "OK"
+}

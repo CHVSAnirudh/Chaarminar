@@ -1,0 +1,86 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4618332,
+                    "lng": 78.5682374
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46314892989272,
+                        "lng": 78.56973487989272
+                    },
+                    "southwest": {
+                        "lat": 25.46044927010728,
+                        "lng": 78.56703522010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Raghuram rao fortress ruins",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJreQDeJ53dzkRDJoOZHIFP9o",
+            "rating": 0,
+            "reference": "ChIJreQDeJ53dzkRDJoOZHIFP9o",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FH69+J7W, Khajoor Bagh, Indrapuri, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4528674,
+                    "lng": 78.5757292
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45401277989272,
+                        "lng": 78.57671622989272
+                    },
+                    "southwest": {
+                        "lat": 25.45131312010728,
+                        "lng": 78.57401657010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ramlia maidaan kila",
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108229206087615157597\">Santosh Singh</a>"
+                    ],
+                    "photo_reference": "AcYSjRhlW81eniqz_u-S0IqcgW10YCgkelrFm-s-IqqF3kqC48SvyOvsFvG03RzbPsb-jKY89MOPfpbaJPtLFXQhJZLqoEqWOn9kHoqdEwrJ9uKG-3FbyCp3FV1oOI6g5S3VDoTM0clZfaQe50pUea7haleD4xE9iNruRCXcq_OdhwYFiv3T",
+                    "width": 2160
+                }
+            ],
+            "place_id": "ChIJO-qPBUN3dzkRm2DUkIHJxtk",
+            "rating": 0,
+            "reference": "ChIJO-qPBUN3dzkRm2DUkIHJxtk",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FH3G+47X, Jhokan Bagh, Jhansi"
+        }
+    ],
+    "status": "OK"
+}

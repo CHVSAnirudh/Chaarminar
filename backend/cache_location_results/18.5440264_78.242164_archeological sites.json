@@ -1,0 +1,84 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4832335,
+                    "lng": 78.2812606
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.48463217989273,
+                        "lng": 78.28257332989271
+                    },
+                    "southwest": {
+                        "lat": 18.48193252010728,
+                        "lng": 78.27987367010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Matthadi Sirnapally",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJU3aiDXDLzTsRff6uzDH_gKY",
+            "rating": 0,
+            "reference": "ChIJU3aiDXDLzTsRff6uzDH_gKY",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "F7MJ+9M6, Sirnapally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.58852,
+                    "lng": 78.2061724
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.58987572989272,
+                        "lng": 78.20752052989273
+                    },
+                    "southwest": {
+                        "lat": 18.58717607010728,
+                        "lng": 78.2048208701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Gandhi Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJx_P3PKfJzTsR5kJBZSOdKgQ",
+            "plus_code": {
+                "compound_code": "H6Q4+CF Dichpally, Telangana",
+                "global_code": "7JCWH6Q4+CF"
+            },
+            "rating": 0,
+            "reference": "ChIJx_P3PKfJzTsR5kJBZSOdKgQ",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "100 feet road gandhi nagar,Dichpally (v),Dichpally (m, Dichpally"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,918 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRiRgU1tplUYT_-NuCuzO4C_Rj38xrj3G0pTUO2-cEVC4M6y1U4PPtUV9BTNuWbQVhCl6jaC4ro1MvHjhycYpU-d6ZeEoqs4HeHNmdmBlKalMnSPMBgtYR9HVqoOpQO1e5cs8Dh7OKgqnTOzK816YdoPHK4LMhe9QDgfVDlWaS7j14ooLjWh9JOzeAKxd-jLEgjnSP7HTJ2GzpnGqgIpYcW1t8cwd1YNLgpYPMD9JFSirfNeek4JFGS0UlZ8ORqodNn9iJk7qVwLg3OXZ5unNg2J1-Znrgk-sL1grJTmC-Ofs8dlzPC49zrdBBAj5U6ZZrMEqCyT5Z9Ed-UTsgiAKR4URYX3g5yfxxY3T0rBqh2IDhngrEqLw2D06YyjePf-2bHioEPm8WlOLpyx79eLlKeqbNI7qOIR5aL2bvziFZT9KNWqqJSn",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2047714,
+                    "lng": 78.0483671
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20617902989272,
+                        "lng": 78.04968107989272
+                    },
+                    "southwest": {
+                        "lat": 27.20347937010728,
+                        "lng": 78.04698142010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Dream Bar And Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114567877186504372656\">lovelesh johri</a>"
+                    ],
+                    "photo_reference": "AcYSjRj84LzcuDDsZcfDMi-IzSzp33EYew4q_TaYA3CqqZ0qvXlcDUq7oxU4DNuFT7O6V73YtW4NBimS3h5bLfbYArV0LhN_Bo5LcmReAA1keF3dg2sBv03lOF77bh7DQl38KQU9B42uu3P8qLBzdGRV6NPlxxkaIZHBJvQhC6aQpcJbr1zV",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJ96cE9JNwdDkRMi5-uveRSRg",
+            "rating": 3.5,
+            "reference": "ChIJ96cE9JNwdDkRMi5-uveRSRg",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 56,
+            "vicinity": "623X+W89, Firozabad Rd, Saiyad Chowk, T.Y.C. Phase-II, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1627358,
+                    "lng": 78.03903489999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16410932989272,
+                        "lng": 78.04043217989272
+                    },
+                    "southwest": {
+                        "lat": 27.16140967010728,
+                        "lng": 78.03773252010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Pub Zee bar and lounge",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2240,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103058251335587744929\">Apratim Sarkar</a>"
+                    ],
+                    "photo_reference": "AcYSjRiOxzHSaiMhgY5OVwAYDt3NiRy01QoOhJiBjd18xZj7UFSD2DDxQPrxbmA2BCx7QSvEtYTTP35W5WnWcwxnAIKk3g7QnyM1zqSK-Q3zP0pP83sorrG8Of3p6IURvaZzn4KxteMl0CJoOJy-3mcTSNzRHHe7MFf2plVubGlza-voBFo4",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJTSz2XHlxdDkRlavFmvV_kuI",
+            "plus_code": {
+                "compound_code": "527Q+3J Agra, Uttar Pradesh",
+                "global_code": "7JVW527Q+3J"
+            },
+            "rating": 4.1,
+            "reference": "ChIJTSz2XHlxdDkRlavFmvV_kuI",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 165,
+            "vicinity": "Near Gateway hotel, Fatehabad Rd, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1679047,
+                    "lng": 78.0384709
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16924992989272,
+                        "lng": 78.03981492989273
+                    },
+                    "southwest": {
+                        "lat": 27.16655027010728,
+                        "lng": 78.03711527010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Gee bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJq6qqpiNxdDkRmdWA-QNaYtA",
+            "rating": 0,
+            "reference": "ChIJq6qqpiNxdDkRmdWA-QNaYtA",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "529Q+49P, Miyan Nazir Rd, Paktola, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1629898,
+                    "lng": 78.0367867
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16442897989272,
+                        "lng": 78.03806257989272
+                    },
+                    "southwest": {
+                        "lat": 27.16172932010728,
+                        "lng": 78.03536292010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "GLASSY",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1172,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117698482555978877034\">GLASSY</a>"
+                    ],
+                    "photo_reference": "AcYSjRgxsMKXbbXv_AsVOS_Wtv8FIYy-2dZ7m4I4SsCkDLo7cmgivQN4ugIT_S24xRpaupWd8xzKb45MBaLWhMKcoQm7762V_rO8nkv3vS7oF1iIQJjpr78dhGlCScNQm6Lm_TqSMWeyQ4myyejsZQDS5heNJ2_t_EFzuTZh7wiNCxHOoP1y",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJywLIoTxxdDkRFy4yTGabku0",
+            "plus_code": {
+                "compound_code": "527P+6P Agra, Uttar Pradesh",
+                "global_code": "7JVW527P+6P"
+            },
+            "rating": 3.9,
+            "reference": "ChIJywLIoTxxdDkRFy4yTGabku0",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 123,
+            "vicinity": "4th Floor, Howard Plaza - The Fern, Fatehabad Rd, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1730048,
+                    "lng": 78.0400002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17420107989273,
+                        "lng": 78.04163745
+                    },
+                    "southwest": {
+                        "lat": 27.17150142010728,
+                        "lng": 78.03789565
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Atitya Bar SHIVARAMA C",
+            "place_id": "ChIJjx_1fZtxdDkRPPoFbqqzOwA",
+            "plus_code": {
+                "compound_code": "52FR+62 Agra, Uttar Pradesh",
+                "global_code": "7JVW52FR+62"
+            },
+            "rating": 0,
+            "reference": "ChIJjx_1fZtxdDkRPPoFbqqzOwA",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "22, Baitarayapura Main Road, Dharmapuri, Forest Colony, Tajganj, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.156522,
+                    "lng": 78.0595
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15775557989272,
+                        "lng": 78.06076287989272
+                    },
+                    "southwest": {
+                        "lat": 27.15505592010728,
+                        "lng": 78.05806322010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Onyx Bar",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJhbPoZA1xdDkR9WnQ5r9Cn2E",
+            "plus_code": {
+                "compound_code": "5345+JR Agra, Uttar Pradesh",
+                "global_code": "7JVW5345+JR"
+            },
+            "rating": 0,
+            "reference": "ChIJhbPoZA1xdDkR9WnQ5r9Cn2E",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "II, Fatehabad Rd, Taj Nagri Phase 2, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1543698,
+                    "lng": 78.0590588
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15576192989272,
+                        "lng": 78.06045552989272
+                    },
+                    "southwest": {
+                        "lat": 27.15306227010728,
+                        "lng": 78.05775587010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "LORD OF THE DRINKS AGRA",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 719,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112352025965215414714\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh0GjmWEyvSAcamgnf1RpqjQOO1UK5JbsOr7JBgvHdv9z9cxOKqz8wGxAZS9tM51t4xuImi5-vRIun2SQk0ngyKL5DL8LIO6rxHui-1pIwX-TGKZwwCuuEnNqgl44h44IiG4H4NKxDq2gHQWEs9_TQNYVvveM6La0oLoZZy5HyS4YEZ",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJux_7gPxxdDkR6xEZRrMHY-c",
+            "plus_code": {
+                "compound_code": "5335+PJ Agra, Uttar Pradesh",
+                "global_code": "7JVW5335+PJ"
+            },
+            "price_level": 3,
+            "rating": 4,
+            "reference": "ChIJux_7gPxxdDkR6xEZRrMHY-c",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 267,
+            "vicinity": "5th Floor, E-4, Sector - E, Taj Nagri Phase 2, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1730033,
+                    "lng": 78.0400002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17419967989272,
+                        "lng": 78.04163719999998
+                    },
+                    "southwest": {
+                        "lat": 27.17150002010728,
+                        "lng": 78.0378964
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Travasso Restaurant",
+            "place_id": "ChIJ31tc2clxdDkRI7wRLTZudrw",
+            "plus_code": {
+                "compound_code": "52FR+62 Agra, Uttar Pradesh",
+                "global_code": "7JVW52FR+62"
+            },
+            "rating": 0,
+            "reference": "ChIJ31tc2clxdDkRI7wRLTZudrw",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "3 Nessai, Margao"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1680037,
+                    "lng": 78.0490116
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16945892989272,
+                        "lng": 78.05024052989272
+                    },
+                    "southwest": {
+                        "lat": 27.16675927010728,
+                        "lng": 78.04754087010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "The Bar",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116224250092451241433\">SK Gupta IRSE</a>"
+                    ],
+                    "photo_reference": "AcYSjRhcm6_g3Du1gOYYhk1UwgokfL1N4A4RSDja0o3aZdAmPz0R2ajzXMgXh-3BATTGYT0iBsUORyXw-U3vHInmbTQ0vtpzf3smB2LiOSpA6P1z3p1AHgQKdDGumjuUEMc4Tjd-TJErDDjWWfeX9UYzDn49wYsFzUKi6gP5SK9-oC1an0R0",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJVzBW-OVxdDkRCvnqdTEjM-A",
+            "plus_code": {
+                "compound_code": "529X+6J Agra, Uttar Pradesh",
+                "global_code": "7JVW529X+6J"
+            },
+            "rating": 5,
+            "reference": "ChIJVzBW-OVxdDkRCvnqdTEjM-A",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "The Oberoi Amarvilas, Taj East Gate Rd, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1542282,
+                    "lng": 78.0592355
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15561652989272,
+                        "lng": 78.06062877989271
+                    },
+                    "southwest": {
+                        "lat": 27.15291687010728,
+                        "lng": 78.05792912010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Molecule Agra",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2614,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109549275847498334822\">Bagish Khandelwal</a>"
+                    ],
+                    "photo_reference": "AcYSjRhkdpbLI4oe9vxz8-5lUo9TOnf065a1EkSzXEkUem2ZYO84DgYbR9I-mwsvAQBTLE69etqi0YjySucoMHpumZM--1nHPTaglYoqCglozd6qnD3hyvYb4jUBcGr4b0cSOcqvg4JR2Opdu8blFumtsUKq7PYJimLJwmYil8neWMx9axKP",
+                    "width": 1203
+                }
+            ],
+            "place_id": "ChIJTQA-44FxdDkRVR_9JAIevTU",
+            "plus_code": {
+                "compound_code": "5335+MM Agra, Uttar Pradesh",
+                "global_code": "7JVW5335+MM"
+            },
+            "price_level": 3,
+            "rating": 4.4,
+            "reference": "ChIJTQA-44FxdDkRVR_9JAIevTU",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2517,
+            "vicinity": "E-4, Fatehabad Rd, Taj Nagri Phase 2, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2076793,
+                    "lng": 78.0241772
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20903302989272,
+                        "lng": 78.02551882989272
+                    },
+                    "southwest": {
+                        "lat": 27.20633337010727,
+                        "lng": 78.02281917010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Beer shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1040,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102381698752221350340\">manoj rathore</a>"
+                    ],
+                    "photo_reference": "AcYSjRiF71emQEK2p9WPQ2DuyludHjJDApX8jiZmYqfNHyxqQv_luD8Ye5CW8G-CPJvQ30AEkDVhppYh8UXdn0b5Fr1dpw4tBE5zdlRM3Oq93BSD5WSGDa4_SEIpl8uHUXg3KxhdYrRy_Lgtn9u5a-9BLEKKloUoJv8UGKIF7O1uf0nQgKX8",
+                    "width": 780
+                }
+            ],
+            "place_id": "ChIJxYwoUd9xdDkRtx_nKO4Zpus",
+            "rating": 3.5,
+            "reference": "ChIJxYwoUd9xdDkRtx_nKO4Zpus",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "625F+3MF, C Block Rd, Infront Of Kavisha Motors, Vijayanagar Colony Bypass Rd, masta ki bagichi, Langre Ki Chowki, Kamla Nagar, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1586701,
+                    "lng": 78.0454323
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15999717989273,
+                        "lng": 78.04676542989272
+                    },
+                    "southwest": {
+                        "lat": 27.15729752010728,
+                        "lng": 78.04406577010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Rajan Scotch and wine hut",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJ5zsgOkpxdDkR26Y3yoHg8b4",
+            "rating": 3.8,
+            "reference": "ChIJ5zsgOkpxdDkR26Y3yoHg8b4",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "525W+F57, Agra - Bah Rd, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1626167,
+                    "lng": 78.0561894
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16397442989272,
+                        "lng": 78.05760522989272
+                    },
+                    "southwest": {
+                        "lat": 27.16127477010728,
+                        "lng": 78.05490557010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Liquid Lounge",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 383,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117558261009502521918\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg9_2GocoXjL42HL54HdyHNmyQFF_MzdEFV0b6HsE-QittT0Fn_Q7SaKztnDFjcs9wsMgxEmaYzHX7p80tD1-oT6HteiCzX7EcsHC98dQhysLN6mZK8h9QHvmz8lkT85_A9W4tYJNZpE4Dnp4BFGwiju-MtsOgdjsbGeU3BB7i6NlyP",
+                    "width": 690
+                }
+            ],
+            "place_id": "ChIJMay5VQ5xdDkRbdz-W2bvNzc",
+            "plus_code": {
+                "compound_code": "5374+3F Agra, Uttar Pradesh",
+                "global_code": "7JVW5374+3F"
+            },
+            "rating": 4.2,
+            "reference": "ChIJMay5VQ5xdDkRbdz-W2bvNzc",
+            "scope": "GOOGLE",
+            "types": [
+                "night_club",
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27,
+            "vicinity": "Taj Hotel & Convention Centre, Taj East Gate Rd, Taj Nagari Phase 1, Telipara, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1730048,
+                    "lng": 78.0400002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17420107989273,
+                        "lng": 78.04163745
+                    },
+                    "southwest": {
+                        "lat": 27.17150142010728,
+                        "lng": 78.03789565
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Chandraprakash",
+            "place_id": "ChIJibI9AVNxdDkReaWCAaSu83c",
+            "plus_code": {
+                "compound_code": "52FR+62 Agra, Uttar Pradesh",
+                "global_code": "7JVW52FR+62"
+            },
+            "rating": 0,
+            "reference": "ChIJibI9AVNxdDkReaWCAaSu83c",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1 1, Dharmapuri, Forest Colony, Tajganj, Gorakhpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1672908,
+                    "lng": 78.05195669999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16868187989272,
+                        "lng": 78.05334357989273
+                    },
+                    "southwest": {
+                        "lat": 27.16598222010728,
+                        "lng": 78.05064392010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "\u0920\u0947\u0915\u093e \u0926\u0947\u0938\u0940 \u0936\u0930\u093e\u092c",
+            "place_id": "ChIJ6Q-OVYlxdDkRdGTJipetP9A",
+            "rating": 0,
+            "reference": "ChIJ6Q-OVYlxdDkRdGTJipetP9A",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "5382+WQ3, Telipara, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.173,
+                    "lng": 78.0400002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17419647989272,
+                        "lng": 78.0416367
+                    },
+                    "southwest": {
+                        "lat": 27.17149682010728,
+                        "lng": 78.03789789999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "MANJUNATH WINES",
+            "place_id": "ChIJdy8pmNVxdDkRNU-oWLFBn-Y",
+            "plus_code": {
+                "compound_code": "52FR+62 Agra, Uttar Pradesh",
+                "global_code": "7JVW52FR+62"
+            },
+            "rating": 0,
+            "reference": "ChIJdy8pmNVxdDkRNU-oWLFBn-Y",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Suky Road, near Fillkart, Dharmapuri, Forest Colony, Karchakn Halli, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1662434,
+                    "lng": 78.0373338
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16757222989272,
+                        "lng": 78.03864067989272
+                    },
+                    "southwest": {
+                        "lat": 27.16487257010728,
+                        "lng": 78.03594102010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Theka Desi Sharab Ki Dukan",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112287356742948817906\">Moloy Mandal</a>"
+                    ],
+                    "photo_reference": "AcYSjRiA327tRBNs--5bZNwtO1k0v_sW5pjVt32LUDVxNa_aShQXjyem_NJo_7jqJohDm47Q_5IUdR_iE5rvUkXgdb96FRaDqxzh0zvDKBOn3n0yt4zI-54rnd_FkPjhPeQXFc-4bBUnexsBAuSlYbSjf5QN6HNQrIfi6XGBIVK4ff0ZUzc4",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ1RMaZiNxdDkRZH8WZMQikoY",
+            "rating": 3.8,
+            "reference": "ChIJ1RMaZiNxdDkRZH8WZMQikoY",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "528P+FWW, Unnamed Road, Impeypura, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.155119,
+                    "lng": 78.050766
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15645682989273,
+                        "lng": 78.05212607989273
+                    },
+                    "southwest": {
+                        "lat": 27.15375717010728,
+                        "lng": 78.04942642010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Cafe Chilam Bar & Bistro",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108528865731948032251\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhCezeYikZG2BnxrqauE-xUj1QLwqFIRFoQKjxvoxBf1HspPjIPHZMzQCc7nNOYF8fuEcw-P8U1Ebav0FC50z0Q239-1y0WrogsdBdo5BKvkT76FSAU7t3sv5DHJKQt7RuY00l38XNoFz0XcA9z1r-wAhqMtD_IdDDG4O662mI0FKmT",
+                    "width": 853
+                }
+            ],
+            "place_id": "ChIJf750AhJxdDkRyixrrh2MUZE",
+            "plus_code": {
+                "compound_code": "5342+28 Agra, Uttar Pradesh",
+                "global_code": "7JVW5342+28"
+            },
+            "rating": 4.2,
+            "reference": "ChIJf750AhJxdDkRyixrrh2MUZE",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 265,
+            "vicinity": "In Hotel Gayatri Residency, Plot No: 57, behind Hotel Crystal Sarovar Premium, Taj Nagri Phase 2, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.158934,
+                    "lng": 78.057707
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16021937989272,
+                        "lng": 78.05931212989272
+                    },
+                    "southwest": {
+                        "lat": 27.15751972010728,
+                        "lng": 78.05661247010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Club Rush",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3468,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110307852468314426591\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhcIlduUnMVYeDbqe913tO0wcJ-kQqzw3oh3NvTYcGUDjSQ9WV16aJrdAgpAoDapXcZTsLWbMqXYwMyE2QCXRtJPmTeLreWA3rHMgdh2ybNh1Ej9PTweyT3-8pBTeME4r5EGWEOnjtzA7iMrwglDI04U2ZaJOoaUIVJhvURwC6kGZFO",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJFfYBuT9xdDkRx1XuRHlu2hY",
+            "plus_code": {
+                "compound_code": "5355+H3 Agra, Uttar Pradesh",
+                "global_code": "7JVW5355+H3"
+            },
+            "rating": 3.9,
+            "reference": "ChIJFfYBuT9xdDkRx1XuRHlu2hY",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 519,
+            "vicinity": "4,5,6, Level 3rd, TDI Mall, Fatehabad Rd, Basai Khurd, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2083216,
+                    "lng": 78.0175132
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20973392989272,
+                        "lng": 78.01887527989271
+                    },
+                    "southwest": {
+                        "lat": 27.20703427010728,
+                        "lng": 78.01617562010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Regal Bar & Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJYYtrZU13dDkR9jGvZnUwTk0",
+            "plus_code": {
+                "compound_code": "6259+82 Agra, Uttar Pradesh",
+                "global_code": "7JVW6259+82"
+            },
+            "rating": 3.8,
+            "reference": "ChIJYYtrZU13dDkR9jGvZnUwTk0",
+            "scope": "GOOGLE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 59,
+            "vicinity": "Bypass Rd, Sultanganj Ki Pulia, Dwarika Puram, Vijayanagar Colony, Civil Lines, Agra"
+        }
+    ],
+    "status": "OK"
+}

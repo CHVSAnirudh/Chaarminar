@@ -1,0 +1,553 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5769649,
+                    "lng": 78.27153799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.57828547989272,
+                        "lng": 78.27276887989271
+                    },
+                    "southwest": {
+                        "lat": 18.57558582010727,
+                        "lng": 78.27006922010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "JAMALUDDIN PARK",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104910809366477720063\">AF ALTHAF</a>"
+                    ],
+                    "photo_reference": "AcYSjRhXW6jP-XMciSctXXyFa5FYEwpWSx-IRyFWUYSn8hQQ2oUQ4BVR6rZRSoyPGyIZJA3SzjtSKDwNfTZL4LFAbmL8knmsLJn3nHo_k8ZBKgh_hr6EUaMPbJu0CY8KTPzK9zhUL59nmbdLq_6SiYIp3lcoOcbYCaiE_64I3-j8xdyiP52k",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJBfm6ZmzJzTsRkakUAAuUHzs",
+            "rating": 3.8,
+            "reference": "ChIJBfm6ZmzJzTsRkakUAAuUHzs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "H7GC+QJM, Lingamayya Swami Temple Road, Rampur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5102961,
+                    "lng": 78.2772835
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.51156107989272,
+                        "lng": 78.27862327989273
+                    },
+                    "southwest": {
+                        "lat": 18.50886142010728,
+                        "lng": 78.27592362010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Nilgiri Park",
+            "photos": [
+                {
+                    "height": 336,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111522105895016027082\">jagath singh pawar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjutAOPoTKfwob_JNv7WLejihzl3niuzEANyhxNCpyVo9J9Vzb_3sSWAdbtBmAbT5nokqi1KEb09ULTrJjI4c6CEbcxJmt5CABMWMkkLf9bHEYz2YNNF7heTR4f-ywuVOA9_T24uosi8Tvgbg_SgMTvlt9fFeT5ZbwPNwd_-SC8NHJx",
+                    "width": 448
+                }
+            ],
+            "place_id": "ChIJB6i7HXbLzTsR7ybhLlcyAHw",
+            "rating": 4,
+            "reference": "ChIJB6i7HXbLzTsR7ybhLlcyAHw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Station Thanda, Nallavelly, Indalwai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5898687,
+                    "lng": 78.3049994
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.59134857989272,
+                        "lng": 78.30618087989272
+                    },
+                    "southwest": {
+                        "lat": 18.58864892010728,
+                        "lng": 78.30348122010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Village park lolam",
+            "place_id": "ChIJ1VYN4T-3zTsRbSugPLWpqbs",
+            "rating": 0,
+            "reference": "ChIJ1VYN4T-3zTsRbSugPLWpqbs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H8Q3+WXX, Lolam"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6036163,
+                    "lng": 78.23197189999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.60480162989272,
+                        "lng": 78.23332072989271
+                    },
+                    "southwest": {
+                        "lat": 18.60210197010727,
+                        "lng": 78.23062107010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Urban Lands MYPI",
+            "place_id": "ChIJPVTgL9jJzTsRVEKWIIe_oTU",
+            "rating": 0,
+            "reference": "ChIJPVTgL9jJzTsRVEKWIIe_oTU",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J63J+CQ, Nadepalle"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.485527,
+                    "lng": 78.27957839999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.48688047989272,
+                        "lng": 78.28092082989272
+                    },
+                    "southwest": {
+                        "lat": 18.48418082010728,
+                        "lng": 78.27822117010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Park,Sirnapally",
+            "photos": [
+                {
+                    "height": 1197,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104698260080966539438\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjJaavl-V_4gVyBDpRrC1pggQbQYcWTavQjrwLe_RJ1yjjt9_ltAoev4cqrlHebRS_G4lYl-9ze6-SZIjtmW_rP3_2Vk6rbtMUjy2PP-q46qP-War9I_e2Hf2-rZk_6oW4AHEBYjz_UD2L9mzGhiDpzV4I0FSsB2aIidO4kz-_X55hD",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJ62kZQ0bLzTsRRIZmfmBUiHw",
+            "rating": 5,
+            "reference": "ChIJ62kZQ0bLzTsRRIZmfmBUiHw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "F7PH+6R8, Sirnapally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5834391,
+                    "lng": 78.2738073
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.58498327989272,
+                        "lng": 78.27511757989272
+                    },
+                    "southwest": {
+                        "lat": 18.58228362010728,
+                        "lng": 78.27241792010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Adnan Yasir",
+            "place_id": "ChIJpbZxsZ_JzTsR3E2ko6hCEgw",
+            "rating": 5,
+            "reference": "ChIJpbZxsZ_JzTsR3E2ko6hCEgw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "H7MF+9GF, Rampur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5729891,
+                    "lng": 78.28880989999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.57438042989272,
+                        "lng": 78.29019077989273
+                    },
+                    "southwest": {
+                        "lat": 18.57168077010728,
+                        "lng": 78.28749112010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Gaddam's agriculture land",
+            "place_id": "ChIJlyWn3qPJzTsRdx9Co0We_qk",
+            "rating": 0,
+            "reference": "ChIJlyWn3qPJzTsRdx9Co0We_qk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H7FQ+5GV, Yellareddypalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5676529,
+                    "lng": 78.2768466
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56872487989272,
+                        "lng": 78.27779605
+                    },
+                    "southwest": {
+                        "lat": 18.56602522010728,
+                        "lng": 78.27399824999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Polala Bhushan",
+            "place_id": "ChIJy_2rNWbJzTsRkvdhZUSwBco",
+            "rating": 4,
+            "reference": "ChIJy_2rNWbJzTsRkvdhZUSwBco",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "H79G+3P9, Lingamayya Swami Temple Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5702997,
+                    "lng": 78.2966617
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.57168507989272,
+                        "lng": 78.29802232989272
+                    },
+                    "southwest": {
+                        "lat": 18.56898542010728,
+                        "lng": 78.29532267010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Satla gangadhar",
+            "place_id": "ChIJr-lTbsi3zTsRa4BwQiVMnc8",
+            "rating": 5,
+            "reference": "ChIJr-lTbsi3zTsRa4BwQiVMnc8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "H7CW+4M7, yellareddy palli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6229412,
+                    "lng": 78.16171179999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.6275063,
+                        "lng": 78.16277219999999
+                    },
+                    "southwest": {
+                        "lat": 18.6214195,
+                        "lng": 78.1585306
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Hari farm",
+            "place_id": "ChIJMfEtj9HFzTsR7MglIrubE2U",
+            "rating": 0,
+            "reference": "ChIJMfEtj9HFzTsR7MglIrubE2U",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J5F6+5MG, Arepalle"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6050463,
+                    "lng": 78.17354379999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.60649997989272,
+                        "lng": 78.17487487989273
+                    },
+                    "southwest": {
+                        "lat": 18.60380032010727,
+                        "lng": 78.17217522010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Prasads",
+            "place_id": "ChIJ1R8mxy3PzTsR2uMYe5U4kNg",
+            "plus_code": {
+                "compound_code": "J54F+2C Mullangi (Binala), Telangana",
+                "global_code": "7JCWJ54F+2C"
+            },
+            "rating": 0,
+            "reference": "ChIJ1R8mxy3PzTsR2uMYe5U4kNg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Plot no 527, Mullangi (Binala)"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6322038,
+                    "lng": 78.175495
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.63358577989272,
+                        "lng": 78.17683057989272
+                    },
+                    "southwest": {
+                        "lat": 18.63088612010727,
+                        "lng": 78.17413092010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Srikanth &Brothes property",
+            "place_id": "ChIJ0TjjRfLFzTsRxV4N4exgzy4",
+            "rating": 0,
+            "reference": "ChIJ0TjjRfLFzTsRxV4N4exgzy4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J5JG+V5Q, Nizamabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6117333,
+                    "lng": 78.25022899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61324282989272,
+                        "lng": 78.25110317989271
+                    },
+                    "southwest": {
+                        "lat": 18.61054317010728,
+                        "lng": 78.24840352010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Erla Rajubai",
+            "place_id": "ChIJ2ws5paHJzTsRpcwau_S5mPM",
+            "rating": 5,
+            "reference": "ChIJ2ws5paHJzTsRpcwau_S5mPM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "J762+M3X, Unnamed Road, Suddepalle"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5588057,
+                    "lng": 78.29717939999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56016882989272,
+                        "lng": 78.29846052989272
+                    },
+                    "southwest": {
+                        "lat": 18.55746917010728,
+                        "lng": 78.29576087010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0c2a\u0c4d\u0c30\u0c15\u0c43\u0c24\u0c3f \u0c35\u0c28\u0c02",
+            "place_id": "ChIJh1KSNDK3zTsRZxhY8if1UUY",
+            "rating": 4,
+            "reference": "ChIJh1KSNDK3zTsRZxhY8if1UUY",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "H75W+GVF, Yellareddypally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6088879,
+                    "lng": 78.24303270000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61060612989272,
+                        "lng": 78.24427677989273
+                    },
+                    "southwest": {
+                        "lat": 18.60790647010728,
+                        "lng": 78.24157712010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Kotadi\u2019s polyhouse",
+            "place_id": "ChIJAwVvuqjJzTsRKiu-d17F2Hg",
+            "rating": 0,
+            "reference": "ChIJAwVvuqjJzTsRKiu-d17F2Hg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J65V+H6, Suddepalle"
+        }
+    ],
+    "status": "OK"
+}

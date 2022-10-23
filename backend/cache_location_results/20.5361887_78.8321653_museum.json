@@ -1,0 +1,51 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 20.5079525,
+                    "lng": 78.80680850000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.50926767989272,
+                        "lng": 78.80815692989272
+                    },
+                    "southwest": {
+                        "lat": 20.50656802010727,
+                        "lng": 78.80545727010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Stamford Bridge",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2240,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110296143716239586979\">Anand Borkar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhsDrypsxoE3oJOw60jbtuvSAoutqK7ttaHJI8CvZelZozMUUbzWKbP3yMLAQ7UZOAkaKNEJEWIjKQgbMW0PDT9Vc0zdX8VTGY_67heEeNF0s0rHQ33SSjszaBQ4mWynJ-kIvrXH1NycjG0RJGcnWxk3q5ssxRvXjY6ym3Ad8iEcDiZ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJJw6lDC9x0zsRsKm1gZJ9si0",
+            "rating": 5,
+            "reference": "ChIJJw6lDC9x0zsRsKm1gZJ9si0",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "GR54+5PM, Unnamed Road"
+        }
+    ],
+    "status": "OK"
+}

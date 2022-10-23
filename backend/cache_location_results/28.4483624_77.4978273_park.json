@@ -1,0 +1,945 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjQF7kEbWXLteG47GijgVa4z8JdVVML_MxJkXsMUWCxZ195hF37tgSukoUhDcznfvyGH-Gqes6hRrr30KkokZsyPA3dRNfekLXx-eiK2zwzzocleOLg6UfI8p-zCQWt4LKfgVFyCGnIeoak0z8cHXqSz7AQbJSXsCXfJMtSpM3QJnDQNz2wuILh2n53IegzYHsCfvOFgv5VSK2zgKrqAMXtD_GUGqrWW3d4AUYbG1AO5h4jxW43MgrX67sFjI4bNzM1PoWayrUjn5-Cg3NLneZUe57qvEwSMKZIuPE2WUFMZqtC1nfixtxIlgRd87Hg1_ZYQngoWVyImxpDyMnXYs-acsz4LCuVhTfyL9defTYOJtWTkLFU2Uo77a6Sd9AeNLHh_cCtD5tOPQnVzaT7QM9qQueHsD2u-zzjbaXtQbHbPUa2Gu6x",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4694656,
+                    "lng": 77.50102869999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47059917989272,
+                        "lng": 77.50252562989272
+                    },
+                    "southwest": {
+                        "lat": 28.46789952010728,
+                        "lng": 77.49982597010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Tugalpur Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102252612530866455598\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi_9LJ8Gty7nak5CBrLVdPnEd4AtBUydJKf93eO0USp293eQrOad5f9mJ88fHxHZaeU17qB-u-jshXJ-u6QZJ3NS4a50_BovuNvuURpJZYOVQDKzAj0Xy8H4As_GF27k4NqksqSLwWnkDkCp6M_A_Fqx1N-PHKuQjkUI_2dk5-nuTF-",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJdYckkq_rDDkRN7yZUMILLFE",
+            "rating": 3.8,
+            "reference": "ChIJdYckkq_rDDkRN7yZUMILLFE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "FG92+QCJ, Knowledge Park I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5127489,
+                    "lng": 77.4052363
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51429282989272,
+                        "lng": 77.40634527989272
+                    },
+                    "southwest": {
+                        "lat": 28.51159317010728,
+                        "lng": 77.40364562010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Noida Sector 137 Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108404509657879953475\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhB26z3jT20YkIecj_pjAQrrBxWTLP4dOwrs3JBFzqW6sLHv-7_NJVz_TPpqz0c_gq1MthoZ8QmoC7f50DBbQ1XQ0BnIZNaWI7-9n78sUhoZfgdckghEfgT6UiqBhje2HOE7CawBwq1UrAeqpz6Ie3Ar3x8-z55ASCYasD23v-aPG00",
+                    "width": 1842
+                }
+            ],
+            "place_id": "ChIJhZ0T1PzpDDkRQu-DRTg8Z8Q",
+            "rating": 2,
+            "reference": "ChIJhZ0T1PzpDDkRQu-DRTg8Z8Q",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "GC74+33X, Sector 137, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4594601,
+                    "lng": 77.5407482
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46087882989272,
+                        "lng": 77.54221732989272
+                    },
+                    "southwest": {
+                        "lat": 28.45817917010728,
+                        "lng": 77.53951767010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Children Park,sector 36",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113902029674601806900\">anurag dhiman</a>"
+                    ],
+                    "photo_reference": "AcYSjRhkRjy5MjtcxV43Y_FWhqAdBfPMmIJIxQilrAbEGgwUf9bkgyG43FNTCeVdVr3oS6RVSIct3rNVWGGMXVTLZHwpzbxluJRPOEERHRK5AUk6wJrUYiKd_VuB-B5qXmbGi2ivR8GeMD1yuhnynBdhU1Qn0ZNgKifc2iAgmQ4_bo1PHVZe",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJy8qPPBjADDkRDJJ28DwN-Vs",
+            "plus_code": {
+                "compound_code": "FG5R+Q7 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG5R+Q7"
+            },
+            "rating": 3.9,
+            "reference": "ChIJy8qPPBjADDkRDJJ28DwN-Vs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 226,
+            "vicinity": "B, Sector 36, RHO I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4830601,
+                    "lng": 77.5230634
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48455217989272,
+                        "lng": 77.52430342989273
+                    },
+                    "southwest": {
+                        "lat": 28.48185252010728,
+                        "lng": 77.52160377010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Palm Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114626996348111184928\">Krishna Murari</a>"
+                    ],
+                    "photo_reference": "AcYSjRieDfmSlmq8EzqAV3MI7vaeYLhiS81ZZ6yHDaAtvegFfv7u_bEA599ZdaEqSBDe_t3DTs7NbLc8QLkNNAbOr4JHbfTE93A7AlHk3yxypmOKsJ_kXrnwJyYNcps0prsH9l0CGNzeV6HScEfGFZYcCKu_fcnleq1hcJprj-IT1CCoIa72",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJ42jb4ZHqDDkRAdi8hIeJHNI",
+            "rating": 4.3,
+            "reference": "ChIJ42jb4ZHqDDkRAdi8hIeJHNI",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 539,
+            "vicinity": "FGMF+66G, D Rd, Delta 1 Block E Rd, Block F, Delta I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4592417,
+                    "lng": 77.5012289
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46045192989273,
+                        "lng": 77.50254742989273
+                    },
+                    "southwest": {
+                        "lat": 28.45775227010728,
+                        "lng": 77.49984777010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104860949546530558287\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj4OiPxFqYW4x7JziVLbVqtdemSZPIf2MeZMIZUVtQevciinsCxnK-mnnQfjbdjQoFNFFAwaCxtWU5McjYP3Lyqww5mL05dh_oFAOvrGiAmen3mIqAQcIV7G7KUxeDy2Pc1aR-j2jGAwq3JDY53HdRyJiSJoJ7T6D4lSifZGBFjTvM-",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJf_QpttvBDDkRswrCuBy3fOA",
+            "rating": 3.7,
+            "reference": "ChIJf_QpttvBDDkRswrCuBy3fOA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "FG52+MFX, Knowledge Park II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4932097,
+                    "lng": 77.5301796
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.49449572989272,
+                        "lng": 77.5315860798927
+                    },
+                    "southwest": {
+                        "lat": 28.49179607010728,
+                        "lng": 77.52888642010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Pal Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111119789921056023928\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjlNpF7iF8z4XziYYt4lhViYq14NssvFWMasLZsDSeIuUW7ynEXP8cmS0D8rea1eVCAfrdFoQiLrLSIEBBHUq-iJwmFvsRCaXLvdNkbxZ_TDogMUuCwrSNo80fdZq5xpx7gbKfSyx8_ozAn_jbVHSOrvgVQbS9DviuB7-IfF5Po6DYz",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJoXswIe3qDDkRB_tHOjuig9A",
+            "plus_code": {
+                "compound_code": "FGVJ+73 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGVJ+73"
+            },
+            "rating": 4,
+            "reference": "ChIJoXswIe3qDDkRB_tHOjuig9A",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 104,
+            "vicinity": "A-15, 1st Cross St, Cassia Estate, Eta I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4681894,
+                    "lng": 77.56579289999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46943027989272,
+                        "lng": 77.56723072989271
+                    },
+                    "southwest": {
+                        "lat": 28.46673062010728,
+                        "lng": 77.56453107010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Gulmohar Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108840720156441846574\">Subhash Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRgFdYuKWDTyQ145BXP3zbpJBpIqIo7PJh_HBkBvinKQ30GSVEYbP4DrGy2r08GPft1UiXPMXLUpYW0-zBRLTIPmBwmsXDI529esEJrSxAygEy8SC1sErcYfyYHLFFPkHfgX2ii-b_V9_l2qUUOXDttsr_uVp6yHUqVcWD8MkQgamQR0",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJc2Kk6f6_DDkRDiuuK-TqL9w",
+            "rating": 3.9,
+            "reference": "ChIJc2Kk6f6_DDkRDiuuK-TqL9w",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 125,
+            "vicinity": "FH98+78F, Block A, Sector XU - I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4720601,
+                    "lng": 77.5674224
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47332312989273,
+                        "lng": 77.56883632989272
+                    },
+                    "southwest": {
+                        "lat": 28.47062347010728,
+                        "lng": 77.56613667010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "C-2 Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116865211883237657967\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRht0jzfH9mefBXyLl4RrpAlTkY9sXSRpXHBoXJS8XclCdvU4PBHXwoMJNoNyHwAjcyql6q8kMm4RkprY8gSu49nmN5tyIYILW3uJt_ud5wDJcCD2GrjEOXeSNSv-jfceZHkGKuD-YusSn1nZZnVBcjyvvYwmJ9nEhtIIXx_mimlJ5nl",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJoRXyBv6_DDkRjtMExhWSeDQ",
+            "rating": 4,
+            "reference": "ChIJoRXyBv6_DDkRjtMExhWSeDQ",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 166,
+            "vicinity": "FHC8+RXF, Block C, Sector MU 1, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5080282,
+                    "lng": 77.4085149
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.50936077989272,
+                        "lng": 77.40990477989271
+                    },
+                    "southwest": {
+                        "lat": 28.50666112010727,
+                        "lng": 77.40720512010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1706,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105400450160854288621\">vk Taya</a>"
+                    ],
+                    "photo_reference": "AcYSjRg7C0mnFOz7iEbnJgOWQaHdRQocDXrvHe5bxcHm2a0sWHDM7TbJFBR4i87q6D6bD4wUeGAlWf_N_w4IGE609wwsIHQRqqDJUzugzNQrYevmdpfkIGm1MESHJAnKaAayywuJT66K_aMwLI8KREgi6o35PF_CGskjRQU2L_iZXmy6w4Jr",
+                    "width": 4390
+                }
+            ],
+            "place_id": "ChIJGSn8hDjpDDkROahLi2_474Q",
+            "rating": 3.7,
+            "reference": "ChIJGSn8hDjpDDkROahLi2_474Q",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "GC55+6C6, Sector 137, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5125527,
+                    "lng": 77.39904609999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51375627989272,
+                        "lng": 77.40041092989273
+                    },
+                    "southwest": {
+                        "lat": 28.51105662010728,
+                        "lng": 77.39771127010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Biodiversity Park sector 137",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJs7ltuBvpDDkRho34lCH1vZE",
+            "rating": 0,
+            "reference": "ChIJs7ltuBvpDDkRho34lCH1vZE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "G97X+2JF, Sector 92, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4747532,
+                    "lng": 77.5055009
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47618612989272,
+                        "lng": 77.50678732989272
+                    },
+                    "southwest": {
+                        "lat": 28.47348647010728,
+                        "lng": 77.50408767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Alpha-1 Park Ashok Vatika",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107492125465101995489\">Shubham Vishwakarma</a>"
+                    ],
+                    "photo_reference": "AcYSjRhNTmrLNOmK_2S21CkCFoE-h-qspAxFfRKtjpyDDFva4Rrw3uSvnTGuyuuHombVaArGjjHAgW1fWHjXdeCljwEQbY_mYxKReos0_IJ00FHQ1GqHInri6gIcOtbdRHu0XpweDpRAUXBALC-_dH68UAegK5m6Kqx4CftdcLtB9f8AD5CS",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJa414ZXrqDDkRWn4rzkqzvlQ",
+            "plus_code": {
+                "compound_code": "FGF4+W6 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFGF4+W6"
+            },
+            "rating": 4.2,
+            "reference": "ChIJa414ZXrqDDkRWn4rzkqzvlQ",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 814,
+            "vicinity": "B-31, Alpha 1 Block B Rd, Block B, Alpha I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.510884,
+                    "lng": 77.40052500000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51226337989272,
+                        "lng": 77.40184107989273
+                    },
+                    "southwest": {
+                        "lat": 28.50956372010728,
+                        "lng": 77.39914142010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Biodiversity Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100894311655349501021\">anoop</a>"
+                    ],
+                    "photo_reference": "AcYSjRhP3i9ZZyGmjHMHQ165nOGqsD2FMooThpccJWqPjqIz0fLH47Uc1y8bOkseEask-mlxtVvSJSQwBilyD7F694QEasv7aQW-SpIiGDYHRnUa_3RPoYd6z1962zGkkyUleekAa0xICOZc9yDjdYUOl-lFJ__JSCh6tUpWVMRettu7zRab",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJdZ9IUFfpDDkRys95h2hOP68",
+            "plus_code": {
+                "compound_code": "GC62+96 Noida, Uttar Pradesh",
+                "global_code": "7JWVGC62+96"
+            },
+            "rating": 4.6,
+            "reference": "ChIJdZ9IUFfpDDkRys95h2hOP68",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 336,
+            "vicinity": "Sector 91, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4641544,
+                    "lng": 77.51065679999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46536052989272,
+                        "lng": 77.51211442989273
+                    },
+                    "southwest": {
+                        "lat": 28.46266087010728,
+                        "lng": 77.50941477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Hanuman park",
+            "place_id": "ChIJG-TkKmLBDDkRtt7AhOLCVbs",
+            "rating": 0,
+            "reference": "ChIJG-TkKmLBDDkRtt7AhOLCVbs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FG76+M77, NRI City, Omega II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4331664,
+                    "lng": 77.4795097
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.43468027989272,
+                        "lng": 77.48061007989271
+                    },
+                    "southwest": {
+                        "lat": 28.43198062010728,
+                        "lng": 77.47791042010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Shaheed Bhagat Singh Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109922733820486604397\">Rohitash Singh</a>"
+                    ],
+                    "photo_reference": "AcYSjRicoKw74J7yZ8Gwzl7Z5dGxZVZz0ic7z9TPzMJfXjxE7FzqxGXxgQ0E8AfN9nUs4i7jKLiRhbcsnUAjxxWk7AsUd4PdhXF1EJSH-NPJs8gq0w_6Jjpezd9iVGwMFHxQel765-4GNbexvzYEEwYRCaL5uW9sORoxdfXPNWZuBs2kchTI",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJH0gAUo7BDDkRLAO063rQ2L8",
+            "plus_code": {
+                "compound_code": "CFMH+7R Noida, Uttar Pradesh",
+                "global_code": "7JWVCFMH+7R"
+            },
+            "rating": 4,
+            "reference": "ChIJH0gAUo7BDDkRLAO063rQ2L8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 65,
+            "vicinity": "Sector 150, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4470185,
+                    "lng": 77.5097486
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.44839507989272,
+                        "lng": 77.51109957989271
+                    },
+                    "southwest": {
+                        "lat": 28.44569542010728,
+                        "lng": 77.50839992010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "AWHO Central Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105755566437005307131\">Utparn Dubey</a>"
+                    ],
+                    "photo_reference": "AcYSjRhKYzn6omhml-P3zlTzwNq9J2O4gKIv3gPSzgq7lIzZD_zHgJZVCPBPRYu4Yzm516xmd5Wo58-oDOEOtaXU5qphAVbQLyqSXA9_q9WPH2fBmEIQO2mdd1_KlVLZ0FaUXLlM5sLjW_TPj8er4hvueLr2V7E6c00c-RZputVApRPC5MQG",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJU1VViLXBDDkRTpq4tgMbnbE",
+            "plus_code": {
+                "compound_code": "CGW5+RV Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVCGW5+RV"
+            },
+            "rating": 4.4,
+            "reference": "ChIJU1VViLXBDDkRTpq4tgMbnbE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 40,
+            "vicinity": "201310, Pocket 5, Sector Chi 1, AWHO Phase III, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4756963,
+                    "lng": 77.5020325
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47699347989272,
+                        "lng": 77.50329027989272
+                    },
+                    "southwest": {
+                        "lat": 28.47429382010728,
+                        "lng": 77.50059062010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Knowledge Park-1 Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107742229930789285580\">Tech help with Raju</a>"
+                    ],
+                    "photo_reference": "AcYSjRiSdZeyIp1KPe9hH0z_ML1vYkmdeG43MdO2m85o6oZfN91yEK9a8kefD-XJxXw8PxToB_Ip_8il9_2W8WuPEKRCAg0wZlPmhsjf6-mmlnBhLEg1nqzWznDoHsLCIhnr2oemEL2xhJegIV0B71jCc0CyBVdQ8sM3jgW-TOFoFWaxXREb",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJgUk3UnDqDDkRx_42HMvpO8k",
+            "rating": 4.1,
+            "reference": "ChIJgUk3UnDqDDkRx_42HMvpO8k",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 91,
+            "vicinity": "FGG2+7RF, Knowledge Park I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4695557,
+                    "lng": 77.4967767
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47092587989272,
+                        "lng": 77.49778132989272
+                    },
+                    "southwest": {
+                        "lat": 28.46822622010727,
+                        "lng": 77.49508167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Lovers' Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110065945228169279144\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiijSEHtwaBC23CnCdkkOXoG6lUhlBkf9bsxC1csVQzo3UNlx67auRGKChBdqR7aLqEG4PdwTXQh0Z2P4hBjlV6bpPQBJWtn5nN_sp94duxH7aloMgGjjzfygdTeKgnUGctY2FVfrnlA_aWUI6fgDZbsoLoYDILDc_j7984f7RgYz0s",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJK_H9UHTqDDkRIGennqqSMIA",
+            "rating": 4,
+            "reference": "ChIJK_H9UHTqDDkRIGennqqSMIA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 141,
+            "vicinity": "FF9W+RPC, Knowledge Park II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4610085,
+                    "lng": 77.5622697
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46264427989272,
+                        "lng": 77.56335297989273
+                    },
+                    "southwest": {
+                        "lat": 28.45994462010728,
+                        "lng": 77.56065332010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "omicron 1 (Lohiya Enclave) park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100533666456095236728\">deepak chaudhry</a>"
+                    ],
+                    "photo_reference": "AcYSjRgK6bRCP_XV2GTzYctiP45kWrLpKT1jFlga28L9KPqARgiuwxM4Za_og1bx8zZCBmP--jTamCdhXMwsf672CDlCI5tRG6tXxu1n4XCF8YDn5ZfIl0FHuM_1-O-v15lXwLZb7adVQeCch-YBgzEuWzzC8-xnSmoFKp-zFO2gFlTiORBO",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJzz7LtBu_DDkReYztOKM02po",
+            "plus_code": {
+                "compound_code": "FH66+CW Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFH66+CW"
+            },
+            "rating": 3.9,
+            "reference": "ChIJzz7LtBu_DDkReYztOKM02po",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29,
+            "vicinity": "Omicron I, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.473608,
+                    "lng": 77.55352309999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.47504612989272,
+                        "lng": 77.55502687989272
+                    },
+                    "southwest": {
+                        "lat": 28.47234647010728,
+                        "lng": 77.55232722010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "GNIDA Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1872,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104989326645509469803\">Awesome moments with friends Nikky</a>"
+                    ],
+                    "photo_reference": "AcYSjRjX7ip2taYJyxBrsmN-Y5blt5-BQrS7gjPN7MwSxEXB7I2YQ0lxDr0m8PpNqEHeLOsA0okKdURh2Q9DyfMfIgn51yY_3QoP3GhWVnOJslnBIU9oiebbPBgqU-saOZAl23OcjfuO7G7lR65iIxq-w-4hXBP6I9kwvxmLO8IH63z9ztB3",
+                    "width": 3328
+                }
+            ],
+            "place_id": "ChIJkUzErKnqDDkRbu95AGjJ_KE",
+            "plus_code": {
+                "compound_code": "FHF3+CC Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFHF3+CC"
+            },
+            "rating": 4.1,
+            "reference": "ChIJkUzErKnqDDkRbu95AGjJ_KE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 52,
+            "vicinity": "Sector, Pocket A, Omicron III, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4540856,
+                    "lng": 77.50887349999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45540547989272,
+                        "lng": 77.5102492798927
+                    },
+                    "southwest": {
+                        "lat": 28.45270582010728,
+                        "lng": 77.50754962010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Amna Park",
+            "place_id": "ChIJYX1O6PjBDDkRD-VrVEDec2w",
+            "plus_code": {
+                "compound_code": "FG35+JG Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG35+JG"
+            },
+            "rating": 2,
+            "reference": "ChIJYX1O6PjBDDkRD-VrVEDec2w",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "2, Sector Omega 1, Omega IV, Greater Noida"
+        }
+    ],
+    "status": "OK"
+}

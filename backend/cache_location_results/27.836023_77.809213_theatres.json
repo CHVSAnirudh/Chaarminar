@@ -1,0 +1,53 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7938233,
+                    "lng": 77.8563746
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.79517112989272,
+                        "lng": 77.85772227989273
+                    },
+                    "southwest": {
+                        "lat": 27.79247147010728,
+                        "lng": 77.85502262010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bankneriya gautam place",
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106576700984138240994\">lalit</a>"
+                    ],
+                    "photo_reference": "AcYSjRiLWVPTjEjNLhx2PzaoiSxSV14N1LDa7v7zBluGn6Phz7c3YuoVihzl5OAcnys_c1JZ9lsH8wlkVVAFqu0w0b3fLE0RLSv577Ca7ojHCEJUQQierWLfrk7siWFJI_iGnaiEuCAXVhx1IWkoBOE_j53Ru0JrKM3iY17M7qbopNrRUs0O",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJk2BF8KxfczkR_Q7Elc4I_zg",
+            "plus_code": {
+                "compound_code": "QVV4+GG Gurjnagaria, Uttar Pradesh",
+                "global_code": "7JVVQVV4+GG"
+            },
+            "rating": 4.5,
+            "reference": "ChIJk2BF8KxfczkR_Q7Elc4I_zg",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Vill gurjnagriya, Post, paindpur"
+        }
+    ],
+    "status": "OK"
+}
