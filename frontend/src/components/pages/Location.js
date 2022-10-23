@@ -92,8 +92,7 @@ export default function Location() {
                 .then((result) => {
                     console.log(result)
                     setVideo(result.data)
-                    let videoURL=window.URL.createObjectURL(new Blob([result.data]))
-                    localStorage.setItem('videoSrc',videoURL)
+                    localStorage.setItem('videoSrc','file:///home/andromeda/Videos/sample1.mp4')
                 })
                 .catch((err) => {
                     console.log(err)
