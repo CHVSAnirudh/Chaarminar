@@ -39,7 +39,7 @@ def gen_video(slat: float = Form(...),
             dlong: float = Form(...),
             mood: str = Form(...),
             age: str = Form(...)):
-
+    
     job_id = generate_job_id()
     
     # finding the nearby places in the route between point A to B

@@ -14,6 +14,7 @@ import Recommends from '../comps/Recommends';
 import Maps from '../comps/Maps';
 import { geocodeByAddress } from "react-places-autocomplete";
 import axios from 'axios';
+import { useHistory } from "react-router-dom";
 
 import qs from 'qs';
 
@@ -29,6 +30,7 @@ export default function Location() {
     const [video, setVideo] = useState();
     const sourceRef = useRef();
     const destinationRef = useRef();
+    const history = useHistory();
 
 
     const [Apiresponse, setApiresponse] = useState();
@@ -92,6 +94,7 @@ export default function Location() {
                 .then((result) => {
                     console.log(result)
                     setVideo(result.data)
+                    history.push("/video");
                     localStorage.setItem('videoSrc','/home/anirudh/Desktop/Chaarminar/frontend/public/full_video.mp4')
                 })
                 .catch((err) => {
