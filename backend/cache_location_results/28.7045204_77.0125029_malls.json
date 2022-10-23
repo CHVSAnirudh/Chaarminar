@@ -1,0 +1,922 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRixc9QbmBZPmdhWsHTtMC9_13kWWWe0WTk5V9cWwleNZOPyvDs8CkTC8hJ9IImY6qXA7ppNBQEtKl9HE66hx_fNXIiCXCSYyReobRiEn9yHdvTio_bvYxaTIcpMztMw5ZynvgW-7AYFjJb74oX2adDXnntAB2sh4jYIN71qrWBC8cl-YYcFvXqHPsmMByh2UMvnqr9pwznIKnJ2P-3JS_7W_9kXxNDC_o44Hs0eTvYWQiES4d-HyvNYvHXr0U8ULTTtn4WVrAKt0Gy-Ngqs0Idpr1oL5dmqxSUbyV9IW5zQ7zi5QEErk0tm7_LmrVJD-QPMIBYCEa1h388wcAttvjzubvT8WzFzQkjfoQw1-vjGW0fSyR1cTPysDZhJcH3cmikJZ4deAZEMZ9r1ABSfk3p4SmqvJ9TWM2KL5S53WvFMH7yw_NicGw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.642372,
+                    "lng": 77.10637899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64416337989272,
+                        "lng": 77.1080602298927
+                    },
+                    "southwest": {
+                        "lat": 28.64146372010728,
+                        "lng": 77.10536057010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pacific Mall Tagore Garden",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104651666021786728292\">Aditya Thakur</a>"
+                    ],
+                    "photo_reference": "AcYSjRhvln_GJbF8u6DhExmrGkSdiZIwicvgYNCdyReTgNlSCtyXJGbMpBU3S0-9reTFN706W4Vv1gJYuiVJWgiD9aiKWpKDDg3eXBiUUR2eNhtkmT33WSAcq55zBCYYP39tBUO1PQtjSUoUpJkVjDxMuvdhhJAWbbVwiDhsAQK7g9R63OYb",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJR_ftxGMDDTkRet4JPap1DCQ",
+            "plus_code": {
+                "compound_code": "J4R4+WH New Delhi, Delhi",
+                "global_code": "7JWVJ4R4+WH"
+            },
+            "rating": 4.5,
+            "reference": "ChIJR_ftxGMDDTkRet4JPap1DCQ",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 90121,
+            "vicinity": "Najafgarh Rd, Tagore Garden, Tilak Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.628435,
+                    "lng": 77.0758808
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63000502989272,
+                        "lng": 77.07758132989272
+                    },
+                    "southwest": {
+                        "lat": 28.62730537010728,
+                        "lng": 77.07488167010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Unity One Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ45maGcEEDTkRzEBD08xwmms",
+            "plus_code": {
+                "compound_code": "J3HG+FF New Delhi, Delhi",
+                "global_code": "7JWVJ3HG+FF"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ45maGcEEDTkRzEBD08xwmms",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3715,
+            "vicinity": "metro station, Unity One, Najafgarh Rd, adjacent Janakpuri West, Janakpuri, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.71896599999999,
+                    "lng": 77.1128135
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72029882989272,
+                        "lng": 77.11432277989272
+                    },
+                    "southwest": {
+                        "lat": 28.71759917010728,
+                        "lng": 77.11162312010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ambience Mall, New Delhi, Rohini",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111436211681696235164\">Shankar Choudhary</a>"
+                    ],
+                    "photo_reference": "AcYSjRguaAB_LnDQootvofDB1KLq5iIN9sqkBfYGI_h6ZE5HjfyVk14H3TxyHTrCcOM1lop_j5nzSvzJGIyChUcQqvHBr0X07Q9XX7aFeOKp3FUkV_8L84ebWp_GW1Afl6CW5S5BugC6dxtqE_amm10AQBZPjldcJS4LMErBUFpjqRscz7zo",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ9QvQmU8BDTkRX0HAdzcaWMc",
+            "plus_code": {
+                "compound_code": "P497+H4 Rohini, New Delhi, Delhi",
+                "global_code": "7JWVP497+H4"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ9QvQmU8BDTkRX0HAdzcaWMc",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2171,
+            "vicinity": "Swarn Jayanti Park, Sector 10, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6308913,
+                    "lng": 77.0817546
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63230957989272,
+                        "lng": 77.08313697989271
+                    },
+                    "southwest": {
+                        "lat": 28.62960992010728,
+                        "lng": 77.08043732010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Janakplace Shopping Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110748648695637211331\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhxclUOub6b46uyagBXGpuJI0vLnqLtLbdaoNfAN7EQE_X6SlYn_KvZgeI15fyhESH8uPIjGCfRzLqPH6YhvTa3ja-GBG3c5nikYwd_9gqYlOEabMNWltwjKrE_o4w0YF6BT382YUmAs3ZSwsTdu0CTwDDpwdTIxFQiLa_5dFLISPNi",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJxbEdC78EDTkRFfiGuL5tFPw",
+            "plus_code": {
+                "compound_code": "J3JJ+9M New Delhi, Delhi",
+                "global_code": "7JWVJ3JJ+9M"
+            },
+            "rating": 4,
+            "reference": "ChIJxbEdC78EDTkRFfiGuL5tFPw",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7038,
+            "vicinity": "Janakplace Shopping Mall, Janakpuri District Center, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.718998,
+                    "lng": 77.1129061
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72051532989272,
+                        "lng": 77.11419042989272
+                    },
+                    "southwest": {
+                        "lat": 28.71781567010727,
+                        "lng": 77.11149077010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Central",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1331,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114033165504061831992\">Siddharth Das</a>"
+                    ],
+                    "photo_reference": "AcYSjRh2QGBDIlMXjlOoAd15qUiQcn05_hXgNI7eh340Cylz-i1LD2-8G9JTKYNjbGGro3ShL5JRJQ3bBhExZC2kBB-9oJ7_s42PFW1ItuP1skkvpmA461NnuQdqzsiSMacd4RZjm1_fC10sbGo8-TXqJHxk6wTn43FUelgMUiirvT-LtVhS",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJy68qu1ABDTkRRct-xGXBDhU",
+            "plus_code": {
+                "compound_code": "P497+H5 Delhi",
+                "global_code": "7JWVP497+H5"
+            },
+            "rating": 4,
+            "reference": "ChIJy68qu1ABDTkRRct-xGXBDhU",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2986,
+            "vicinity": "Ambience mall, Swarn Jayanti Park, Sector 10, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.716351,
+                    "lng": 77.1142936
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71776182989272,
+                        "lng": 77.11569977989272
+                    },
+                    "southwest": {
+                        "lat": 28.71506217010728,
+                        "lng": 77.11300012010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "D Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104421488426261725046\">SSC AND IAS</a>"
+                    ],
+                    "photo_reference": "AcYSjRjXnF7nKq57K1Ao8FWPsgXkSgP8YJFagCoAix1gspIw4wIfycF4G34yp2MCnURCCUVkKCUnTEnDNHKiZZ_wdtdnLtBMs9D-YR6D3lPI7aweLurs9IDWG_HpkuFkLp1qP6ghsnvvEXr7uj7-QClfjuYZgl3TzoyePPPn0O7R8xvl-580",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJx2vS0rgBDTkRSpQ70n4zo04",
+            "plus_code": {
+                "compound_code": "P487+GP Delhi",
+                "global_code": "7JWVP487+GP"
+            },
+            "rating": 4,
+            "reference": "ChIJx2vS0rgBDTkRSpQ70n4zo04",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1479,
+            "vicinity": "Bhagwan Mahavir Marg, Swarn Jayanti Park, Sector 10, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7169784,
+                    "lng": 77.1143579
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71817307989273,
+                        "lng": 77.1155841798927
+                    },
+                    "southwest": {
+                        "lat": 28.71547342010728,
+                        "lng": 77.11288452010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "City Centre Rohini",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105828641823087842240\">Rajan Jha</a>"
+                    ],
+                    "photo_reference": "AcYSjRh9xwLDuYsvPfKc0FQHr8DmSK9ch5KS9yXQopDIpUoQr9tsDcWuSMvzWxbRDvsd3rGy_FK2PkL5AoTAEAE8ujRE5xMaDA0Mz2icdmI98i4hiCAt5rZTvC3z4XFtJ0xanoJdvE0UhunKN9BXO5f9g5Dr7qaTklWCnUIKtjDGfD2Mwhnx",
+                    "width": 1840
+                }
+            ],
+            "place_id": "ChIJs_3xzcABDTkRiUqjSi2yW1E",
+            "rating": 4.3,
+            "reference": "ChIJs_3xzcABDTkRiUqjSi2yW1E",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9509,
+            "vicinity": "P487+QPX, Swarn Jayanti Park, Sector 10, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7354949,
+                    "lng": 77.0940215
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.73679792989272,
+                        "lng": 77.09532937989272
+                    },
+                    "southwest": {
+                        "lat": 28.73409827010728,
+                        "lng": 77.09262972010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Omega Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ25PxTc4GDTkRtf-w6RCYHPE",
+            "rating": 3.4,
+            "reference": "ChIJ25PxTc4GDTkRtf-w6RCYHPE",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 56,
+            "vicinity": "P3PV+5JR, Pocket 5, Sector 25, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7348571,
+                    "lng": 77.11325409999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.73618257989273,
+                        "lng": 77.11464212989272
+                    },
+                    "southwest": {
+                        "lat": 28.73348292010728,
+                        "lng": 77.11194247010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Garg Trade Center Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJBeBhMdUBDTkR51wYXvKKXHM",
+            "rating": 4.1,
+            "reference": "ChIJBeBhMdUBDTkR51wYXvKKXHM",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 434,
+            "vicinity": "P4M7+W8R, Pocket 4, Sector 11E, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6687411,
+                    "lng": 77.10135550000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.67003447989272,
+                        "lng": 77.10270212989272
+                    },
+                    "southwest": {
+                        "lat": 28.66733482010727,
+                        "lng": 77.10000247010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "ARSS Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116286203551397092959\">Mukesh Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjA8UrjhUedcsbzxOJjkNyWLd_cSUH8LHbmJgaM7ngmFVKT9nYcsLcjIk803wiU6WJYwsu-HVSimgCjhYw5xDp0QiXo8lJJ0ZQQx5uzbBWCdi8s0p2k7EYLeeSvyLUP2LRHWQEwu_qb7DH1Uxgtj3_P1I561g0D2OaY-lSkKbCnogAd",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJY7g-F3gEDTkRYuVsIYKvzQs",
+            "rating": 3.8,
+            "reference": "ChIJY7g-F3gEDTkRYuVsIYKvzQs",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 316,
+            "vicinity": "M492+FGX, Friends Tower, A 2B Block, Paschim Vihar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6947017,
+                    "lng": 77.0570006
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69604722989273,
+                        "lng": 77.05834722989273
+                    },
+                    "southwest": {
+                        "lat": 28.69334757010728,
+                        "lng": 77.05564757010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Maheshwari General Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101971441281737770217\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg2hYup5alAOAFsDHTP0nGv1QWxYhgSd-lFKHQWNlywQV-2zImk4Wqu3Nj4jNrUsa8Kb0wZqhLPsLwawxfDchZg_jopV-tbs9r78hwSVZyMh3_5xS3FHTwwHxtt6rNxcowH475IqR2zkx58qpSrjLNwyKuVI02lAeAfkG4UMgEF2hSv",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJIRjPTysEDTkR_fkb_8sfiM8",
+            "plus_code": {
+                "compound_code": "M3V4+VR Delhi",
+                "global_code": "7JWVM3V4+VR"
+            },
+            "rating": 3.3,
+            "reference": "ChIJIRjPTysEDTkR_fkb_8sfiM8",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "l-10/a, 40 Feet Rd, Prem Nagar II, Prem Nagar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6982853,
+                    "lng": 77.1150588
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69963157989272,
+                        "lng": 77.11640252989272
+                    },
+                    "southwest": {
+                        "lat": 28.69693192010728,
+                        "lng": 77.11370287010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rohini W Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102289270435099825330\">i rock</a>"
+                    ],
+                    "photo_reference": "AcYSjRjngVynDziwImTJ2Gea07FlklHvCNf81cRnQd-RjeZ3wml19MZ1EBE2IpQ7Q2CcPxzTvroRPcg-5EEqRnuPJPl7gai8gPNCJCUgYFIZlvGCrVex4xxzT34I0F7IsA0gtQdaEdcepzjtdS4YUqlBtJ3a-MjQgnMXEQUD-wmtpWIat4U1",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ-VAgv-QDDTkR23PvodDrEuk",
+            "plus_code": {
+                "compound_code": "M4X8+83 Delhi",
+                "global_code": "7JWVM4X8+83"
+            },
+            "rating": 3.6,
+            "reference": "ChIJ-VAgv-QDDTkR23PvodDrEuk",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 728,
+            "vicinity": "G-33, Outer Ring Rd, Mangalam Place, Sector 3, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.725605,
+                    "lng": 77.09548600000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72706417989273,
+                        "lng": 77.09693672989272
+                    },
+                    "southwest": {
+                        "lat": 28.72436452010728,
+                        "lng": 77.09423707010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Best mega mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJmzPh1kUHDTkRff3iqjDoXJQ",
+            "plus_code": {
+                "compound_code": "P3GW+65 Delhi",
+                "global_code": "7JWVP3GW+65"
+            },
+            "rating": 4.1,
+            "reference": "ChIJmzPh1kUHDTkRff3iqjDoXJQ",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 413,
+            "vicinity": "40, Bhagwan Mahavir Marg, Pocket 19, Sector-24, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.71723829999999,
+                    "lng": 77.1150394
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71852062989272,
+                        "lng": 77.11637832989273
+                    },
+                    "southwest": {
+                        "lat": 28.71582097010728,
+                        "lng": 77.11367867010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Parsvnath Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJP2ZnTEUBDTkRQStbC5wkQz4",
+            "plus_code": {
+                "compound_code": "P487+QX Delhi",
+                "global_code": "7JWVP487+QX"
+            },
+            "rating": 3.5,
+            "reference": "ChIJP2ZnTEUBDTkRQStbC5wkQz4",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 45,
+            "vicinity": "Parsvnath Mall Under Construction, Swarn Jayanti Park, Sector 10, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6886667,
+                    "lng": 77.1077248
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69002792989273,
+                        "lng": 77.10912067989271
+                    },
+                    "southwest": {
+                        "lat": 28.68732827010728,
+                        "lng": 77.10642102010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "SSG Majesty Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115701991491052489083\">Subhash Chander Bhargava</a>"
+                    ],
+                    "photo_reference": "AcYSjRglJ0uerAXZZmLjoTMts3LAGW8ir3eHp-zIkyYWYscEItSF061OGJmeCdIvsz7fEuZ6OVoDfvR_TrzT6oTqmXQQqS8qJriOyGbt2jwIIlfxbd0GCljNkCOQru_a5nEtINREkl04gLVwGmaY0SAFVLj8E0Z-nfwk2l92CSHIx5dQJSpb",
+                    "width": 2304
+                }
+            ],
+            "place_id": "ChIJnY_jyfYDDTkRyB3V4OJnXCQ",
+            "plus_code": {
+                "compound_code": "M4Q5+G5 Delhi",
+                "global_code": "7JWVM4Q5+G5"
+            },
+            "rating": 3.7,
+            "reference": "ChIJnY_jyfYDDTkRyB3V4OJnXCQ",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 380,
+            "vicinity": "Police Lines, Maulana Azad Society, Bhagwan Buddha Housing Corporation Society, Pitam Pura, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6262695,
+                    "lng": 77.0693904
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62764832989272,
+                        "lng": 77.07072617989272
+                    },
+                    "southwest": {
+                        "lat": 28.62494867010728,
+                        "lng": 77.06802652010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "KHAYALA( PACIFIC MALL)",
+            "place_id": "ChIJAWw3acoFDTkR9Qu8bG5QRkE",
+            "plus_code": {
+                "compound_code": "J3G9+GQ New Delhi, Delhi",
+                "global_code": "7JWVJ3G9+GQ"
+            },
+            "rating": 3.7,
+            "reference": "ChIJAWw3acoFDTkR9Qu8bG5QRkE",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Shop No. LGF-006, Pacific Mall, Subhash Nagar, Community Centre, Najafgarh Rd, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7284594,
+                    "lng": 77.08561949999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72991977989272,
+                        "lng": 77.08680332989272
+                    },
+                    "southwest": {
+                        "lat": 28.72722012010727,
+                        "lng": 77.08410367010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Best Star Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115256824085553971400\">manvendra singh rathore</a>"
+                    ],
+                    "photo_reference": "AcYSjRjngqoiRvgvbIvHMYim8bbYp8F5ocSzK4h5g3kqpalVn9MGFJ3DlA9jkfsAmxedDMCWmT3r5BJ4eNR7gLuouhJ9GCO8NalmahyklOwJK5uaPibNjHsQ42S9NCAJ5Ued1VumyCINP1Kmzg1tGVhgkaSHMFLhdRQwxAbnXd9go0oXmj1i",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJsTy41sAGDTkR0hx13SbLurg",
+            "rating": 3.9,
+            "reference": "ChIJsTy41sAGDTkR0hx13SbLurg",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 226,
+            "vicinity": "P3HP+96Q, Sector 23 Rd, Pocket 7, Sector-24, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.66801839999999,
+                    "lng": 77.1119131
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66934522989272,
+                        "lng": 77.11344457989271
+                    },
+                    "southwest": {
+                        "lat": 28.66664557010727,
+                        "lng": 77.11074492010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Emaya",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 844,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103005268269643737790\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjGRk9gwt_GZW_nUi7A_ECTvno3XcUUyk1i77qmcyn2wvoEYa447Vas_1XwRk7_76bDRs_Hknv44fgXLG9537_pGshOfCyWKfYKZ-ny0xgdZlpwHdEU8FFs8WZBJiEow_T7OYNwr1CtwobHdbQL7abLNKNfkX-O4RdXESGj-T1BD_8D",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJj9ngA4UDDTkR6nri-9kirVg",
+            "plus_code": {
+                "compound_code": "M496+6Q Delhi",
+                "global_code": "7JWVM496+6Q"
+            },
+            "rating": 3.7,
+            "reference": "ChIJj9ngA4UDDTkR6nri-9kirVg",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 927,
+            "vicinity": "Plot No-1 BG-1& BG 2, Paschim Puri New Delhi, Baba Ramdev Marg, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6219426,
+                    "lng": 77.0576844
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62337802989272,
+                        "lng": 77.05901282989272
+                    },
+                    "southwest": {
+                        "lat": 28.62067837010728,
+                        "lng": 77.05631317010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "DIY mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJASZzKicFDTkRh9XnR7y104I",
+            "rating": 4.3,
+            "reference": "ChIJASZzKicFDTkRh9XnR7y104I",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "J3C5+Q3M, Prem Nagar, M Block, Param Puri, Uttam Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6324613,
+                    "lng": 77.048245
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63381362989272,
+                        "lng": 77.04963422989273
+                    },
+                    "southwest": {
+                        "lat": 28.63111397010728,
+                        "lng": 77.04693457010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shopping mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ8wFnXEEFDTkRkZsQPxsGhuQ",
+            "plus_code": {
+                "compound_code": "J2JX+X7 Delhi",
+                "global_code": "7JWVJ2JX+X7"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ8wFnXEEFDTkRkZsQPxsGhuQ",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "D41/42, Vijay Nagar, Mohan Garden, Hastsal, Delhi"
+        }
+    ],
+    "status": "OK"
+}
