@@ -1,0 +1,900 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhqVvtwSUrwuMr8rPHcxzJGqdZjPBneIMbP_wL6h9Z4oKY-R9rMnYF1UC8YJyhg-Ff3aoIkRwCfHeW_8e_jPTgsopgay-SQYfXcHMaJkLVzNqdWg99zXmcpfeMVaHvKVSCTEDffGiShEQPAxWRTCOJwm1I-bay6Mw0l0XzukCeXdlD_hKK7uNW-xZM6CEAXNEw1josXvPBOWAzcjmM87-HU_MPfxNrwGC9mEtH_jbyAoZ0Zgx7EoLuuZzKpnFB8E1OkQLqfwy3Vtm0-QNUSX2_p7m90n0dqtxpYPV8EjIiKX4a6HjOxyQpSYrz84TVuyYAtrHDTJbA8HaMp4q0nxOmigMnGV1w6SY38az-EaLnd_fg0V2tdqJNIDp79tVnxSZcgOKUoJ52YZR2RY3WuTa3oF9-wS8umIUK9ZnScBwRORjEtdcoX6cep",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.48753,
+                    "lng": 78.378633
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.48892452989272,
+                        "lng": 78.38000577989273
+                    },
+                    "southwest": {
+                        "lat": 17.48622487010728,
+                        "lng": 78.37730612010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Abhyaas Junior College",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJewGTYSGSyzsRHeCrEllX1h8",
+            "rating": 3.2,
+            "reference": "ChIJewGTYSGSyzsRHeCrEllX1h8",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "F9QH+2F6, Kukatpally Housing Board Colony, Kukatpally, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4087711,
+                    "lng": 78.41894529999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41004682989272,
+                        "lng": 78.42029447989272
+                    },
+                    "southwest": {
+                        "lat": 17.40734717010728,
+                        "lng": 78.41759482010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Residency College Of Education",
+            "place_id": "ChIJPVaUNyaXyzsRIlw3FLUITb4",
+            "plus_code": {
+                "compound_code": "CC59+GH Hyderabad, Telangana",
+                "global_code": "7J9WCC59+GH"
+            },
+            "rating": 0,
+            "reference": "ChIJPVaUNyaXyzsRIlw3FLUITb4",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "703, 2, 4/A, Rd Number 12, Banjara Hills, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3898259,
+                    "lng": 78.44068539999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39120412989272,
+                        "lng": 78.44204952989271
+                    },
+                    "southwest": {
+                        "lat": 17.38850447010728,
+                        "lng": 78.43934987010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Lb junior college",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 468,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101604815937396991896\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjuYBWsbz0sZCUzRBTGOuWqgxcDMGQ8sGuPe61VTtma5mWtEMc3N83k6Rteza2RZs7fVvEg1FsnJNonqewQn4JTAYWNmTh2PRP2KTNn3G4W__6YMxxqjCilA4X75lOCgXN9cVT4ws1DXg59kRum7V5prqHH_7A8JL8McZlBA4eu6fDL",
+                    "width": 655
+                }
+            ],
+            "place_id": "ChIJvQsNIMWXyzsR2sgzCqpnJx0",
+            "rating": 3.8,
+            "reference": "ChIJvQsNIMWXyzsR2sgzCqpnJx0",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "9CQR+W7M, Viswash Nagar, Murad Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4919168,
+                    "lng": 78.3974714
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49328427989272,
+                        "lng": 78.39878302989271
+                    },
+                    "southwest": {
+                        "lat": 17.49058462010728,
+                        "lng": 78.39608337010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Rao's College",
+            "place_id": "ChIJw-GSxZKRyzsR25cX0XDqlJc",
+            "plus_code": {
+                "compound_code": "F9RW+QX Hyderabad, Telangana",
+                "global_code": "7J9WF9RW+QX"
+            },
+            "rating": 3.9,
+            "reference": "ChIJw-GSxZKRyzsR25cX0XDqlJc",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "2nd Floor, KPHB Colony, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4815665,
+                    "lng": 78.413085
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.48289372989272,
+                        "lng": 78.41449457989272
+                    },
+                    "southwest": {
+                        "lat": 17.48019407010728,
+                        "lng": 78.41179492010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Sri Gayatri Junior College",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113321095611083630054\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRghhndtNcCTGW_uMLSRvV_zWxwAEetNuucoKDHZHElCn3gmbzuJGtkfw09n8PooS7HqcK0Z5xDGGkPuC9BNG2vmWQ15LRKC1WB9Jb9Qd0hOuyDH5nks-lyb2p4m_xTOsKuwtzrHO9KuOEcvW3gX_OgjRwF380dXf51y89Vk8Eiapa3s",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ9bUqWruRyzsR5GU66Eff0YM",
+            "plus_code": {
+                "compound_code": "FCJ7+J6 Hyderabad, Telangana",
+                "global_code": "7J9WFCJ7+J6"
+            },
+            "rating": 3.4,
+            "reference": "ChIJ9bUqWruRyzsR5GU66Eff0YM",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 87,
+            "vicinity": "H.No-12-6-2-227/1, A/B, People Hospital Rd, Vivek Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4951977,
+                    "lng": 78.3188808
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49653192989272,
+                        "lng": 78.32023037989272
+                    },
+                    "southwest": {
+                        "lat": 17.49383227010728,
+                        "lng": 78.31753072010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Pragati College",
+            "place_id": "ChIJ977yipaSyzsRe_HLmqaqc44",
+            "rating": 3,
+            "reference": "ChIJ977yipaSyzsRe_HLmqaqc44",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "F8W9+3HC, Mumbai Hwy, Gouthami Nagar Colony, Jawahar Colony, Chanda Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.494997,
+                    "lng": 78.40059
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49638007989272,
+                        "lng": 78.40188097989271
+                    },
+                    "southwest": {
+                        "lat": 17.49368042010728,
+                        "lng": 78.39918132010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Shivani College",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJlTuhmuyRyzsRpJDqtklo6Co",
+            "plus_code": {
+                "compound_code": "FCV2+X6 Hyderabad, Telangana",
+                "global_code": "7J9WFCV2+X6"
+            },
+            "rating": 0,
+            "reference": "ChIJlTuhmuyRyzsRpJDqtklo6Co",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shop No.306, II Floor, Padmavathi Plaza, near Kalamandir - Kukatpally, Hmt Sathavahana Nagar, Kukatpally, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.438433,
+                    "lng": 78.441672
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43978307989272,
+                        "lng": 78.44295177989271
+                    },
+                    "southwest": {
+                        "lat": 17.43708342010728,
+                        "lng": 78.44025212010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "VNBC JUNIOR COLLEGE",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106641956842701603370\">varma surya narayana</a>"
+                    ],
+                    "photo_reference": "AcYSjRg1uqc7Nk3ORA0oOqOzY2GHW60sK4hgWF8_-clk4ITBceeZHQunx8zkbGZLjt9PsPuc3i9uKbFfZ5thPp9dUvu98K4KdZrydxMDBaJnQs_-JQ_k5gFm2D9wCodju1-v3hiD3Bi6CVZs79JEyp5qlyRdmmozBO6B7CnsNceyBMrJyg4S",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJL5DHL5mRyzsRaArsyrTdnSw",
+            "plus_code": {
+                "compound_code": "CCQR+9M Hyderabad, Telangana",
+                "global_code": "7J9WCCQR+9M"
+            },
+            "rating": 4.6,
+            "reference": "ChIJL5DHL5mRyzsRaArsyrTdnSw",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "8/3/219/A/4, Srinivasa Nagar West, Ameerpet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4878211,
+                    "lng": 78.4120105
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.48911587989273,
+                        "lng": 78.41335102989271
+                    },
+                    "southwest": {
+                        "lat": 17.48641622010728,
+                        "lng": 78.41065137010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Pallavi College Of Teacher Education",
+            "place_id": "ChIJVdF9OWCRyzsRuIKTCcEY3Js",
+            "plus_code": {
+                "compound_code": "FCQ6+4R Hyderabad, Telangana",
+                "global_code": "7J9WFCQ6+4R"
+            },
+            "rating": 0,
+            "reference": "ChIJVdF9OWCRyzsRuIKTCcEY3Js",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "No 9, 329, Bagh Ameer, Sumitra Nagar Colony, Kukatpally, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.393323,
+                    "lng": 78.4373988
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39430632989272,
+                        "lng": 78.43892017989272
+                    },
+                    "southwest": {
+                        "lat": 17.39160667010728,
+                        "lng": 78.43622052010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "St. Ann's College For Women",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103474334148589138404\">Sameer Ahmed</a>"
+                    ],
+                    "photo_reference": "AcYSjRi-gH_CNDDFTOKfYMJJbTDpN_abn0LOIReetGrubXYdPkZmI7kROzzBVTsGuM_DKV1KC68OYVGboXvUMYB83tNL_C-c2z_aR6EH4ooOtMfU8jp8jIZajqvSpzmy_uWzUdxOBleckboAR-6miKGdIo5TBLCFnT3P3iM-wTozL4vZJqFt",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJQywgPRuXyzsR-SLbsaAs1iw",
+            "plus_code": {
+                "compound_code": "9CVP+8X Hyderabad, Telangana",
+                "global_code": "7J9W9CVP+8X"
+            },
+            "rating": 4.2,
+            "reference": "ChIJQywgPRuXyzsR-SLbsaAs1iw",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 966,
+            "vicinity": "12-2-823, A/45, St Anns Rd, Santosh Nagar, Mehdipatnam, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4945877,
+                    "lng": 78.32232359999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49598177989272,
+                        "lng": 78.32369102989271
+                    },
+                    "southwest": {
+                        "lat": 17.49328212010728,
+                        "lng": 78.32099137010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Pragnya Degree & P.G Colleges (Co-Ed & Women's)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106966688928711679756\">Yuvraj Singh</a>"
+                    ],
+                    "photo_reference": "AcYSjRj4rWKPQhDKsy6UVn5EIbc0ba1g70PaT8BoKl2_eu9i_HC9d26Q7EPskTjpXyyMzaHgAmKSdCrgIXN_XxxZGu0cEgFnjM6Lt19bRiIF_qGtYhT5scNC2ReiUkR2N3eKDbV2Aal-m6Txp37g9mlFjV-ZIRP4_rZaPvxhRchAvEGAvyK9",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJsekHV5GSyzsRkPJ07w0gMxM",
+            "plus_code": {
+                "compound_code": "F8VC+RW Hyderabad, Telangana",
+                "global_code": "7J9WF8VC+RW"
+            },
+            "rating": 3.9,
+            "reference": "ChIJsekHV5GSyzsRkPJ07w0gMxM",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 147,
+            "vicinity": "Gandhi Statue Ln, Indira Nagar, Chanda Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4415611,
+                    "lng": 78.3956493
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44294122989272,
+                        "lng": 78.39692932989271
+                    },
+                    "southwest": {
+                        "lat": 17.44024157010728,
+                        "lng": 78.39422967010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Velociity College",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113761360795270982144\">Mani teja</a>"
+                    ],
+                    "photo_reference": "AcYSjRhKPG1Z09Bx0io2JVAJwAPEwPWw7BOxy9eXStbE8TG1cSms-URPi_ymHGywg4GaOAhIaWmbB5DTKYDhHF9sfNlQaXpQNZVyN4DGAYcZT_SYrsbA96_9RFawYqCQAJn0EtaKUd31NEbyTjM1MLeeDlB9QDzgtSoxknONo63-KgtVzY8k",
+                    "width": 2340
+                }
+            ],
+            "place_id": "ChIJnTYYtVyRyzsRw5b5VC9VGok",
+            "rating": 2.8,
+            "reference": "ChIJnTYYtVyRyzsRw5b5VC9VGok",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "C9RW+J7C, Kavuri Hills Phase 3, Sri Rama Colony, Madhapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4022548,
+                    "lng": 78.3835237
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40356317989272,
+                        "lng": 78.38486772989272
+                    },
+                    "southwest": {
+                        "lat": 17.40086352010728,
+                        "lng": 78.38216807010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Hyderabad Presidency Pg College",
+            "place_id": "ChIJH-sqMB6UyzsRf9m9dhkIKOc",
+            "plus_code": {
+                "compound_code": "C92M+WC Hyderabad, Telangana",
+                "global_code": "7J9WC92M+WC"
+            },
+            "rating": 5,
+            "reference": "ChIJH-sqMB6UyzsRf9m9dhkIKOc",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "No.116, Puppalaguda Rd, Secretariat Colony, KPR Colony, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.437841,
+                    "lng": 78.427577
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43911102989272,
+                        "lng": 78.42891977989272
+                    },
+                    "southwest": {
+                        "lat": 17.43641137010728,
+                        "lng": 78.42622012010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "MASTERS JUNIOR COLLEGE",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104623927672423703470\">Ashok Babu Kandula</a>"
+                    ],
+                    "photo_reference": "AcYSjRjH3L2W5cRWHOPJ_EezEjU9AiX7JlAQ3u_yORTU9uhDfhZMBxRnl6221zfKQZXy43NTAbwjrM5IhcM2A_7gMRCf2f1YV0dbmqnw_-EvXkt1enXRAd11VsuN3zGSZ9ntwNodrqYhnFOW8YWUGuwd1c5FC2OMsNxy-0cliixBE-kLMKOs",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJ9xDP5yeRyzsRcvBqnJCAVew",
+            "plus_code": {
+                "compound_code": "CCQH+42 Hyderabad, Telangana",
+                "global_code": "7J9WCCQH+42"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ9xDP5yeRyzsRcvBqnJCAVew",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 87,
+            "vicinity": "Yousufguda, 45, Street Number 4, Near \u092f\u094c\u0938\u0941\u092b\u094d\u0917\u0941\u0926\u093e \u091a\u0947\u0915 \u092a\u094b\u0938\u094d\u091f, Opposite \u0921\u093e\u0915 \u0918\u0930, Yadagiri Nagar, Jawahar Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3837235,
+                    "lng": 78.43997399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.38512417989272,
+                        "lng": 78.44132787989271
+                    },
+                    "southwest": {
+                        "lat": 17.38242452010728,
+                        "lng": 78.43862822010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Mother Junior College",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109710267940211076533\">Aditya Pratap V.</a>"
+                    ],
+                    "photo_reference": "AcYSjRh79e89brSqP2eGuSEkaOvcEzzuXHaxmH4Gc2ScDwjPKlo1F8_lt23k6RtHPjLFZWirPiH4mAbZQ1KbQb9HwSEp-LcbfJTwqaRo0Wjm_snGiJJnz7eLMfGdDpWXdTtr1JfPS4EUmcM-bzqTovwYuJ2n8FDeWrilPnzd34_NVCfm0Hov",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJ7VfeeQaXyzsRryGfT375qvE",
+            "rating": 3.9,
+            "reference": "ChIJ7VfeeQaXyzsRryGfT375qvE",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 95,
+            "vicinity": "9CMQ+FXQ, Gudi Malkapur Rd, Janayanagar Colony, SBI Colony, Mehdipatnam, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.498679,
+                    "lng": 78.3889477
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50008232989272,
+                        "lng": 78.39028477989274
+                    },
+                    "southwest": {
+                        "lat": 17.49738267010728,
+                        "lng": 78.38758512010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "CMS Commerce Junior College",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1070,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110109719169837698296\">Bhanu</a>"
+                    ],
+                    "photo_reference": "AcYSjRj0Qkk95a312m-NVJ6ixU_xilXOjH8as7sQKXmjB9TRe6stkGTTZjtpk-t3w1J33ibbpE-5PQixcLGOADF-CVOMckSaja_fES1HGNucuOPBHlSC99B7NNmO8PKPbo4zksQfR_HvyW51eI3OnOv--2IEGmEp_6ehdu134hqgE19PYrYR",
+                    "width": 1236
+                }
+            ],
+            "place_id": "ChIJgQ_opvaRyzsR7w5UXGLyOCQ",
+            "plus_code": {
+                "compound_code": "F9XQ+FH Hyderabad, Telangana",
+                "global_code": "7J9WF9XQ+FH"
+            },
+            "rating": 3.2,
+            "reference": "ChIJgQ_opvaRyzsR7w5UXGLyOCQ",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 100,
+            "vicinity": "NizamPet X Roads, CRR Complex, Nizampet Rd, Kukatpally, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4600348,
+                    "lng": 78.3845936
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.46150987989272,
+                        "lng": 78.3859405798927
+                    },
+                    "southwest": {
+                        "lat": 17.45881022010727,
+                        "lng": 78.38324092010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Career Point Residential College, Madhapur",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108469618907285869883\">Ram Babu</a>"
+                    ],
+                    "photo_reference": "AcYSjRha5XxADUX1dsA_d0uif5V7Ryq9wAqOlzmH-eKdCErTbTdj4DMGLg2GMH44BC_TEGHjdcC-z6Lxc1FVatCM4dtoi94-4p_rmg_f7iIF4kvs4SC5fdkOKumVfJfO_yfaxsjZx7M3GwmFvq-ftu3lESS3CEHF4G-tvvQfxe0jUvX3JSdI",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJNcZh3D6RyzsRvHK26ga8_fE",
+            "plus_code": {
+                "compound_code": "F96M+2R Hyderabad, Telangana",
+                "global_code": "7J9WF96M+2R"
+            },
+            "rating": 4.2,
+            "reference": "ChIJNcZh3D6RyzsRvHK26ga8_fE",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "H. No. 1-92/1/24/A/19, Plot No. 19 & 20, Khanamet KPHB Road, Madhapur, opp. IOC Petrol Bunk, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3659037,
+                    "lng": 78.38417489999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.36725092989272,
+                        "lng": 78.38555042989272
+                    },
+                    "southwest": {
+                        "lat": 17.36455127010728,
+                        "lng": 78.38285077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Andhra Mahila Sabha College..",
+            "place_id": "ChIJs4vdLqSZyzsRxXs-SVP4u5E",
+            "plus_code": {
+                "compound_code": "998M+9M Bairagiguda, Telangana",
+                "global_code": "7J9W998M+9M"
+            },
+            "rating": 3,
+            "reference": "ChIJs4vdLqSZyzsRxXs-SVP4u5E",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "2-18/50, KK Nagar 1, Bairagiguda"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4011314,
+                    "lng": 78.3861338
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40240402989273,
+                        "lng": 78.38745057989273
+                    },
+                    "southwest": {
+                        "lat": 17.39970437010728,
+                        "lng": 78.38475092010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Valley Oak Junior College",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3472,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104435897943409800308\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhIbjs2DmUQ8GbQI3dM_qSXup4tEFAD0pIIft-PtJjW-Baz7K8jBZ2npAYyRS75f0K8H7VfANFe6CbFAtNcXBT4SaE916kpVO4bazZ0WsJBXe-o_NvfHhWVjTFB2FSmPDrHaIz26-TYf8Hqg6GDq-JrfmIK3ZqZEfbKt0-zyDtWyJNg",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJx88C4DCVyzsRgZONrlAxfss",
+            "plus_code": {
+                "compound_code": "C92P+FF Manikonda Jagir, Telangana",
+                "global_code": "7J9WC92P+FF"
+            },
+            "rating": 4.8,
+            "reference": "ChIJx88C4DCVyzsRgZONrlAxfss",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 144,
+            "vicinity": "Sai, beside Prerana Hospital, Sri Ram Nagar Colony, Puppalguda, Manikonda Jagir"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3870367,
+                    "lng": 78.4426577
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.38843767989272,
+                        "lng": 78.44399622989272
+                    },
+                    "southwest": {
+                        "lat": 17.38573802010728,
+                        "lng": 78.44129657010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Hidayah Degree & Junior College - BBA BSC BCOM - MPC BiPC CEC HEC",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106089481005157065010\">abutaha</a>"
+                    ],
+                    "photo_reference": "AcYSjRiGQHJr3FZo3wexCo-oU-Aj8Xlwr_KL-22FU-kIvmHkLmv5l--XGTZFQZBmh0ViYu_U_dQsdz97S0R9WsNFcJFO9qG5BVU_Mq9-SH_QPngsoB-4eDEnv75DPKhv9u0Quv7ZKeJkBpcaz8aKEBhupcuk-X5JlRaz8yaivc-6hM397dZu",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJ5cjJow-XyzsRWwrHvOCAGEw",
+            "plus_code": {
+                "compound_code": "9CPV+R3 Hyderabad, Telangana",
+                "global_code": "7J9W9CPV+R3"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ5cjJow-XyzsRWwrHvOCAGEw",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 140,
+            "vicinity": "Muradnagar, 12-2-419, Asif Nagar- Murad Nagar- Gudi Malkapur Rd, Opposite Masjid-e-Qutub Shahi (Choti Masjid) \u0645\u064e\u0633\u0652\u062c\u0650\u062f\u0651\u0650 \u0642\u064f\u0637\u064f\u0628 \u0634\u064e\u0627\u06c1\u0650\u06cc, Mehdipatnam, Hyderabad"
+        }
+    ],
+    "status": "OK"
+}
