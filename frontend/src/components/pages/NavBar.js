@@ -13,31 +13,31 @@ const NavBar = () => {
     <>
         <div className='navContainer'>
             <div className='items'>
-                <Link to="/Home">
+                <Link to="/">
                     <div className="navbarItem">
                     <img src={Home} alt="" />
                     {/* Home */}
                     </div>
                 </Link>
-                <Link to="/Home/homePage">
+                <Link to="/location">
                     <div className="navbarItem">
                     <img src={Location} alt="" />
                     {/* Location */}
                     </div>
                 </Link>
-                <Link to="/Home/homePage">
+                <Link to="/music">
                     <div className="navbarItem">
                     <img src={Music} alt="" />
                     {/* Music */}
                     </div>
                 </Link>
-                <Link to="/Home/homePage">
+                <Link to="/emotion">
                     <div className="navbarItem">
                     <img src={Emotion} alt="" />
                     {/* Emotion */}
                     </div>
                 </Link>
-                <Link to="/Home/homePage">
+                <Link to="/random">
                     <div className="navbarItem">
                     <img src={Random} alt="" />
                     {/* Random */}

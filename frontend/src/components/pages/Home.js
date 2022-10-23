@@ -7,7 +7,6 @@ const Home = () => {
     <>
         <div className='viewContainer'>
             <NavBar />
-            asdasdasd
         </div>
     </>
   )

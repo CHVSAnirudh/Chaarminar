@@ -1,8 +1,13 @@
 import React from 'react'
-
+import Happy from './../images/happy.png'
 function Music() {
   return (
-    <div>Music</div>
+    <>
+      <div className='mood'>
+        Current Mood:
+        <img src={Happy}></img>
+      </div>
+    </>
   )
 }
 
