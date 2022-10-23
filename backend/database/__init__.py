@@ -1,1 +1,1 @@
-from db_connector import *
+from .db_methods import DbMethods
