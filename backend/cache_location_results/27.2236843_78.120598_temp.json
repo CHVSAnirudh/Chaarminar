@@ -1,0 +1,53 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2228695,
+                    "lng": 78.0204925
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.22424207989272,
+                        "lng": 78.02185477989272
+                    },
+                    "southwest": {
+                        "lat": 27.22154242010728,
+                        "lng": 78.01915512010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Saarthi",
+            "photos": [
+                {
+                    "height": 352,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103579797305468955000\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhxQHSLCtebNu4pEk1JbYD_eeC5x7FpXGmjOgncjSTFkgTj7EEzfC_B9G2PWefNKL7bs9MTKHsAG9VwGfpSyEl0vVKRXrPEvL9rISn9iqRnk2rRZGFyAcMlz1FvT_BRcfwXCOxb4LA5-pVlZrPr_1-boL6Of1oc0d6rbmB8rZQr0Z_9",
+                    "width": 626
+                }
+            ],
+            "place_id": "ChIJUdKHq2R7dDkReMG_2IMaVS4",
+            "plus_code": {
+                "compound_code": "62FC+45 Agra, Uttar Pradesh",
+                "global_code": "7JVW62FC+45"
+            },
+            "rating": 0,
+            "reference": "ChIJUdKHq2R7dDkReMG_2IMaVS4",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "56, 2, Radha Vihar, Kaveri Kunj, Kamla Nagar, Agra"
+        }
+    ],
+    "status": "OK"
+}

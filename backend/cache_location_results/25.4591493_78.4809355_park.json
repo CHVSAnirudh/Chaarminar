@@ -1,0 +1,932 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgqDhUGmmiNgUKKWmQ8dAauQsJWrYWaoUUgj4p5DEzO7H-QO_drS11NKp3CTmqfGDvP3-15TvfzohqH2M7pOlJhF2V48d0l_RDNNNo7QHIj6EamHvBSfcZ4OVhBPWi-DDZdF_89QGK6cwJ3GIYhSMD079ZulMAEt1PHBdYYRnD7Eb69gKJkvkH8BGr3JqSclfM7b_H9atPc41e_NYczbnvK5dT_vveeifyFFLc9HH_1TtAzNcRZMQZN9Mwt13wkLPNQ1GCPyotCb6C6YfLoDIOPpD8YN9Da5K5Tgox6p6uNwIq87SpQaufhE1_thovCAIW8VrbA7CgakxhYekn-6VJouNJDm35v7SKBed9fD2iu0xXSEisGmv5RTm9mwypy4e7fcHXwirH2_rp_eyTa28CslScy65KwPyjF-VGiQeoogly6eCD7",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.451262,
+                    "lng": 78.533227
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45270537989272,
+                        "lng": 78.53459107989272
+                    },
+                    "southwest": {
+                        "lat": 25.45000572010728,
+                        "lng": 78.53189142010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Gajanan Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105742104297589766914\">Himanshu Sonkar</a>"
+                    ],
+                    "photo_reference": "AcYSjRgIXTvyiZb5HiOy1-_gfvFZVWxjY0KRLcf_nr0QzY6eD5zSkpGtoZLgWZ0ubXc3z4y7V5tpJxzmCJag8b1XnynRvfpx9pNXzX_g6rgF7K8q7rxTzRRPUzIckefPKe_X2nhW4v6ZfRjOQVHCzxxRI216JrdpGq0WHvO9DYHs-NFFsN0y",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJMbGMIB1xdzkRhzsd9Nyxn3E",
+            "rating": 3.9,
+            "reference": "ChIJMbGMIB1xdzkRhzsd9Nyxn3E",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 353,
+            "vicinity": "FG2M+G75, KK Puri Colony, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4967577,
+                    "lng": 78.5475539
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.49815377989272,
+                        "lng": 78.54896067989273
+                    },
+                    "southwest": {
+                        "lat": 25.49545412010728,
+                        "lng": 78.54626102010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Lord Buddha Park",
+            "photos": [
+                {
+                    "height": 2352,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100721300601809135825\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg5ajtEmwDs420P9IkxQW8KryMkcu5PussPWCoUtZHoXC86NPB_RNPPWPsJmJJ9URfYC31oWGl5ro3aWfTwu_mkZKNOM3fvxa7e-RoObKz8Jq3YQu89krWjJBtsmSXA6SYz17FHo10QSXGJZt5wASHKnjzq57zia9poYQYACiw3kvHh",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJfY-W3eFzdzkRXEkoiHjEcSc",
+            "plus_code": {
+                "compound_code": "FGWX+P2 Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFGWX+P2"
+            },
+            "rating": 3.5,
+            "reference": "ChIJfY-W3eFzdzkRXEkoiHjEcSc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 45,
+            "vicinity": "Lord Buddha park, New 284002, Pal Colony, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4749123,
+                    "lng": 78.551164
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.47629867989272,
+                        "lng": 78.55249622989272
+                    },
+                    "southwest": {
+                        "lat": 25.47359902010728,
+                        "lng": 78.54979657010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Shaheed Rajguru Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102710252052525968663\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj3b2mEw6B9CsOExGDa5CwdHUEN3R0YtUS_Tz05fwNfRr3PPWdvvXbtmqg2Y-putt51fs2jJ5lgFEiEpgn1-8FgFw_GykiAxnYkASbs1hUaG1m4BnwXlKj-hY0PdADmWXHs0XIgorE7I62o2nFs1_WTN9vjlG_x4BDsItJLRDUKvsbZ",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJIUAY7uJxdzkRAvz2XXWcbRM",
+            "rating": 0,
+            "reference": "ChIJIUAY7uJxdzkRAvz2XXWcbRM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FHF2+W9F, Brahma Nagar Colony, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4208388,
+                    "lng": 78.5680671
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.42218997989272,
+                        "lng": 78.56933867989272
+                    },
+                    "southwest": {
+                        "lat": 25.41949032010728,
+                        "lng": 78.56663902010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Vijayant Park",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104598074511184765846\">monu bundela</a>"
+                    ],
+                    "photo_reference": "AcYSjRixqu9-79rPSx-VAy2qwBEcEmWzG5dhUlQzASv7cMA8PcjvA2Tz4xuZhXV6nGHl5W7yLzZxnuFBaqRVwrH9H9FumWGdn2Olx6LBAjIzME85oM8xTi8gRDB43ovK7f06arUfsIyQBfLGcoUBeHk6lmWHs2rehEQ6K0Zd6XZlEX-Vve51",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJB_DAlfh3dzkRVnI16XlNAd4",
+            "rating": 3.5,
+            "reference": "ChIJB_DAlfh3dzkRVnI16XlNAd4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "CHC9+86P, Rani Jhansi Rd, Jhalkari Bai Nagar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4521699,
+                    "lng": 78.5328557
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45352562989272,
+                        "lng": 78.53427632989272
+                    },
+                    "southwest": {
+                        "lat": 25.45082597010728,
+                        "lng": 78.53157667010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Durga Park",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113219568230811778363\">sahil meena</a>"
+                    ],
+                    "photo_reference": "AcYSjRj44n_dY3yzazfG4KePAiR5pkrin1dEMGvBof6BKezrdMkCNvyXE3e1SmOr_7r_oA6dULAaO4gt67yNmWOhybaK-CIpgaw7AURF4xqtaipyUVQ7aut7Fkq2n9zJDJNfHMZVI9rouMYjW_6UhjUdgbDawyAM0nS5hJYnPiJNSTyCtCvF",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ5Q4axRxxdzkRw6BMc8fCnus",
+            "rating": 3.8,
+            "reference": "ChIJ5Q4axRxxdzkRw6BMc8fCnus",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 34,
+            "vicinity": "FG2M+V49, Awas Vikas Nagar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4607834,
+                    "lng": 78.5493071
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46221262989272,
+                        "lng": 78.55066827989272
+                    },
+                    "southwest": {
+                        "lat": 25.45951297010728,
+                        "lng": 78.54796862010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u091b\u094b\u091f\u0940 \u0932\u093e\u0932 \u092b\u0940\u0932\u094d\u0921 \u092a\u093e\u0930\u094d\u0915",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114941478087837940072\">Mahendra Srivastava</a>"
+                    ],
+                    "photo_reference": "AcYSjRg27G3BLiglUluBod1ped4OledYHPH6mxsKuYsuACuHK9_q-hurQWZ1ptex36yzsjekZtf1z_VqwyDsr29hUpAnPtoTRwIxV4QHN_2rcGFboW_gVtoPdWLIOC9a1zoPU_FPfx858L57DtHgfkkd_FdcUQour_eZNUpPlAQbLJHBfgGU",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJW3APxqBxdzkRNhlikD15CfI",
+            "rating": 3.3,
+            "reference": "ChIJW3APxqBxdzkRNhlikD15CfI",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "FG6X+8P7, Prem Ganj, Sipri Bazar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4603502,
+                    "lng": 78.54457649999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46161442989272,
+                        "lng": 78.54597437989271
+                    },
+                    "southwest": {
+                        "lat": 25.45891477010727,
+                        "lng": 78.54327472010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sahni Vihar Park 2",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109743309924891444168\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgIge5QFtPIoaN2NYcR1x8cvdLfqC_9Fd06YGNMTGtfamf0Rccgqgh69vn4W2_b0_kQtW2QoqeliTKV2NPgoVfUOV57FJIOVHiu0l7CeBw6-thEJIwRmZgIjDYZOXBRMVADj9rfPn60je4loaj9KR0nWD87gHubRGfBB4p4btUNRhdh",
+                    "width": 2176
+                }
+            ],
+            "place_id": "ChIJYU9ytyJxdzkRSVgcBtXA4sA",
+            "plus_code": {
+                "compound_code": "FG6V+4R Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFG6V+4R"
+            },
+            "rating": 3.9,
+            "reference": "ChIJYU9ytyJxdzkRSVgcBtXA4sA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 107,
+            "vicinity": "Sahnibihar Colony, Sipri Bazar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4579526,
+                    "lng": 78.5489496
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45929512989272,
+                        "lng": 78.55022057989272
+                    },
+                    "southwest": {
+                        "lat": 25.45659547010728,
+                        "lng": 78.54752092010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Nehru Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3468,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103264285466390297235\">ram prakash singh sengar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjzi4JMIjbv_dOcGGqGvYe0wcq4vkhAOMCtqMum_ZcjcZFEWUhkwdfnC8DV6vY5CrVHjoQj3IKHonvM1c149nkaENsjdrVf9APgV5uzbz2Aho0DZqGBhuc2abvCkbVtzbWltHXejM49ihyE0SXcuvqnyJq6KDVyMW5U0n6RyMyA5P0b",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJE3icgCNxdzkRysgyL9ueRAM",
+            "plus_code": {
+                "compound_code": "FG5X+5H Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFG5X+5H"
+            },
+            "rating": 4,
+            "reference": "ChIJE3icgCNxdzkRysgyL9ueRAM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1098,
+            "vicinity": "121, Masihaganj Rd, Masiha Ganj, Sipri Bazar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4571483,
+                    "lng": 78.5466896
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45849077989272,
+                        "lng": 78.54803987989273
+                    },
+                    "southwest": {
+                        "lat": 25.45579112010727,
+                        "lng": 78.54534022010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Kansiram park",
+            "place_id": "ChIJ6wws6V1xdzkRWepK6lXyTPs",
+            "rating": 0,
+            "reference": "ChIJ6wws6V1xdzkRWepK6lXyTPs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FG4W+VM4, Masihaganj Rd, Nanak Ganj, Sipri Bazar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4782284,
+                    "lng": 78.5713337
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.47951567989272,
+                        "lng": 78.57273412989272
+                    },
+                    "southwest": {
+                        "lat": 25.47681602010728,
+                        "lng": 78.57003447010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Nagar Nigam Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2248,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108115655034992770470\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjLYJcnerHn-iXjLEhZPpVelv8BZW0pes5tzSo57-XsxhhK_Cac9w4H-5CJPVjmEbfQJhxKGMoLQNO589yJbZ4sbwSZKPWm_qzsI2BGVwnmMoV1Jaxu57DOY37F4-9RhyUQCxtL8OmPxNMJLpgN4s71SpyzW28NLJwxKDUs3uvDYYI0",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJkTNkv-d3dzkRJnreS2FugX4",
+            "rating": 4,
+            "reference": "ChIJkTNkv-d3dzkRJnreS2FugX4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 56,
+            "vicinity": "FHHC+7GW, Pitambra Nagar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4580619,
+                    "lng": 78.54024559999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45925652989273,
+                        "lng": 78.54170762989271
+                    },
+                    "southwest": {
+                        "lat": 25.45655687010728,
+                        "lng": 78.53900797010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "KASHIRAM PARK MASHIHA GANJ JHS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111272942764199398751\">naresh kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjtwaDXsCK6VCdUeHB0hTLN725KziXkMV5em6ACu8v59qvmRKrTnPqxdcpPzuNwaQ-8y7RFf1xi8oTbBCD2Ghmu7ic07xhX1EUYfRiOFXQw6HV-OsozN0sgXjHCxihalabt_-QnUCRM7rp9EuAYVJpc0eN7y_ZbwbTTgPIfJpAa47AJ",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJXRPkPRZxdzkRqIg5ME2yQBg",
+            "rating": 4,
+            "reference": "ChIJXRPkPRZxdzkRqIg5ME2yQBg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 185,
+            "vicinity": "FG5R+63H, Rash Bihar Colony, Sipri Bazar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4486908,
+                    "lng": 78.5412869
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45003802989272,
+                        "lng": 78.54259127989272
+                    },
+                    "southwest": {
+                        "lat": 25.44733837010727,
+                        "lng": 78.53989162010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Bharat Mata park",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109179566524128328215\">kunal gautam</a>"
+                    ],
+                    "photo_reference": "AcYSjRhynXySc5UOkOcwjNVu4FBkOqa6YxcD_FlahACeyACoofun5iU4-fFBfXOkih1QUYA0B4KAJj7tIHO1Y1_7_FbUZm6qHwLXvoLGZaf3WklsanngYIBZUkWnVpd5Rq8cMbHjPRz-0GbBsuIyNgUQn-zifes-EneX7ienFoKbNPFEuRwQ",
+                    "width": 2250
+                }
+            ],
+            "place_id": "ChIJaysheIlxdzkR_UqCptHhHkU",
+            "rating": 4.4,
+            "reference": "ChIJaysheIlxdzkR_UqCptHhHkU",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "CGXR+FGF, Deen Dayal Nagar, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4537184,
+                    "lng": 78.5337811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45502662989272,
+                        "lng": 78.53513362989271
+                    },
+                    "southwest": {
+                        "lat": 25.45232697010728,
+                        "lng": 78.53243397010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Chitra Gupt Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109822580953175226627\">Sangharsh Rao</a>"
+                    ],
+                    "photo_reference": "AcYSjRh8q1nfOBvjGIzJzF1A9CPKjpHCrOjg5rYqFE4R31Do-tviFJJcEuFKEmxsfx2lVQoKNiQIuYW51SCgVMINDxx6fpansVdMqVqCXC7jKXdDppss719SFoQwlal5g9LoWuKEnB7kowO7h75ffND-Rnfppc6dVWObdI9N7zIWZpCHs6b9",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJSRKImRxxdzkRfAYr6jiWxYE",
+            "rating": 3.8,
+            "reference": "ChIJSRKImRxxdzkRfAYr6jiWxYE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 63,
+            "vicinity": "FG3M+FGJ, Awas Vikas Colony, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4563996,
+                    "lng": 78.5547318
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45773397989272,
+                        "lng": 78.55607442989272
+                    },
+                    "southwest": {
+                        "lat": 25.45503432010728,
+                        "lng": 78.55337477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Prem Narayan Tiwari Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105704508999514042820\">bhavana saraya</a>"
+                    ],
+                    "photo_reference": "AcYSjRhtxeOneME4DH-050YTFdKiVt5SytwHv-A-AoN0m-daSuHpqwhKnWp3x5u6w-pnOciumOE_HdhcoW26hD0XKdVZxi2BPD5PLfkcWPjJ7fG6mxB8YPf71qX6uasJd1NpK5IzTVu2jMkLBnhrdViB8GrbLFM_kXux2BB7ADBmG2RsUk-P",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJAREeVi9xdzkRRlLzH70mgxo",
+            "rating": 3.5,
+            "reference": "ChIJAREeVi9xdzkRRlLzH70mgxo",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24,
+            "vicinity": "FH43+HV5, Sipri Road, kachcha pull, Mission Compound, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4518748,
+                    "lng": 78.53411229999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45317697989272,
+                        "lng": 78.53545712989272
+                    },
+                    "southwest": {
+                        "lat": 25.45047732010728,
+                        "lng": 78.53275747010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Gautam Buddh Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117210040195288349867\">Mohammad Moeen Khan</a>"
+                    ],
+                    "photo_reference": "AcYSjRhFLUjr9bT7tkSvESyIV5VNju6isMRbVDi0ZDhoJBuAvHOKPzIViZdmSWOZHouW1e20QYzPD5yJUwWCbxr4QLRP_BYii0pP39MmfEULowvIedVUSJDUBSSCL-ZADDhRhosHOCC8P4z1AwdFzbeEiYsNCrZqwIFtQBIzZXj6njF3G26v",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJZyzc5RxxdzkRAMJ8AvXQJuM",
+            "rating": 4.3,
+            "reference": "ChIJZyzc5RxxdzkRAMJ8AvXQJuM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "FG2M+PJX, Unnamed Road, KK Puri Colony, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4514667,
+                    "lng": 78.5602294
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45276317989272,
+                        "lng": 78.56158602989272
+                    },
+                    "southwest": {
+                        "lat": 25.45006352010728,
+                        "lng": 78.55888637010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Atal Ekta Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109859533757882738533\">sharad TIWARI</a>"
+                    ],
+                    "photo_reference": "AcYSjRg2ft_Y_QqfA3FiwGMoV3aCwWzobdnEsWoAzGWUMbzjgiYX9Vh5spczcfPLniQbcV_0qbar5RHlKz1vSfB_j-Nb6hADXKxf0zccPqBV1FFXHFEka48zg8iHyWrqlsImJRioZmfxhBJ4f8SrWvZQwJTvQJrhALcNuZLDQ4vz8cVHjLtJ",
+                    "width": 3468
+                }
+            ],
+            "place_id": "ChIJm2x46HFxdzkR8AZQExJqKIA",
+            "rating": 4.4,
+            "reference": "ChIJm2x46HFxdzkR8AZQExJqKIA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 882,
+            "vicinity": "FH26+H3Q, Gwal Toli, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4527905,
+                    "lng": 78.5342002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45416122989272,
+                        "lng": 78.53556867989272
+                    },
+                    "southwest": {
+                        "lat": 25.45146157010728,
+                        "lng": 78.53286902010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Tulsi Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113636335043307093117\">Kartik Kushwaha</a>"
+                    ],
+                    "photo_reference": "AcYSjRgHo0Bnth0eG6WjIYPOMRscqzQPISeiL4Q9g_nMAztT5YBfQtvOefOIUzdo10AQow3qZ2uriW4Lj8JHJbEdFJvv06RfF0gPQEXCJVRTqtnkn8pUPGw_N_6aFCB3mx10QWwaAGsVT2MPDtvJvM_7Wv27qAPDTX42DF4p9T8Nrj9G8pDK",
+                    "width": 2304
+                }
+            ],
+            "place_id": "ChIJMUeW8hxxdzkRtdxhuiDJuB0",
+            "plus_code": {
+                "compound_code": "FG3M+4M Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFG3M+4M"
+            },
+            "rating": 3.8,
+            "reference": "ChIJMUeW8hxxdzkRtdxhuiDJuB0",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18,
+            "vicinity": "Awas Vikas Colony, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4549051,
+                    "lng": 78.5341512
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45626377989272,
+                        "lng": 78.53556942989272
+                    },
+                    "southwest": {
+                        "lat": 25.45356412010728,
+                        "lng": 78.53286977010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Park",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102652208837897370638\">Vishwamitra Srivastava</a>"
+                    ],
+                    "photo_reference": "AcYSjRgQLkbqSh9znz--iYqPYG-edcqud7Wb3Ue4gfkQXk-ostSuQPHS2vQxXIF0Ssfajip_c-m3sbLwVdCFyP106QGxDOroyKawAUUZ2ItL1SK55SE4oNYabWz4neMsYhUTjsutyuhzl4rCT3iGFvVR0XEVimds2VcE3LdjQhA52gyExonc",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJV_jUehtxdzkRA_aHsFos-g8",
+            "plus_code": {
+                "compound_code": "FG3M+XM Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFG3M+XM"
+            },
+            "rating": 4.2,
+            "reference": "ChIJV_jUehtxdzkRA_aHsFos-g8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47,
+            "vicinity": "Shivpuri - Jhansi Rd, Krishna Vihar Colony, Awas Vikas Colony, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.45031,
+                    "lng": 78.577283
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45164057989272,
+                        "lng": 78.57871742989272
+                    },
+                    "southwest": {
+                        "lat": 25.44894092010727,
+                        "lng": 78.57601777010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Saheed Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3060,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113565535075526211680\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgnuPi6mn8GuAfWodjeKvhJ9ZA6JPulX8i-uDihezevTpRvA-UQPHUNzcVn61RBxIU4ZYVB1KsdLgwzHphPA-F85U17dMzkqYuJzZT-PZzBmJJuEbNC4XFwm0sCYr9ACaTgWNnsxmPv9GBJ9NyZ2JB61cR0tRAaycPfyPV-9gnQsHz9",
+                    "width": 4080
+                }
+            ],
+            "place_id": "ChIJMXAcdSh3dzkRz08Ed3mpj3E",
+            "rating": 4,
+            "reference": "ChIJMXAcdSh3dzkRz08Ed3mpj3E",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 136,
+            "vicinity": "FH2G+4WF, Jhokhanbagh Rd, Jhokan Bagh, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4601184,
+                    "lng": 78.5280117
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46151767989272,
+                        "lng": 78.52944042989272
+                    },
+                    "southwest": {
+                        "lat": 25.45881802010728,
+                        "lng": 78.52674077010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Lahargird park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 1800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115043020926200807922\">Jahangeer Khan</a>"
+                    ],
+                    "photo_reference": "AcYSjRj2ghsBrVwK2TlhXe3NbJNN9AVuoMVkOPNzJGf4tK0tUEfEx_cw53OH62h_b6KXpq5kMPu8ZcZMtnd7bQ5R0dHwRK4KUgrfPQWc9W5X1bDks1Rs0ZPYz0OGjOh9z7-gBctY0mReD8bbEns9bAcAYmpiJ01vSbF4ZHbr3as4sW1058C_",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ5__Qcw9xdzkR2CALFPZ2hQU",
+            "rating": 3.3,
+            "reference": "ChIJ5__Qcw9xdzkR2CALFPZ2hQU",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "FG6H+26R, Rajghat Colony, Jhansi"
+        }
+    ],
+    "status": "OK"
+}

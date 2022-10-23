@@ -1,0 +1,881 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRisIahIwb6up-Wjp91kRyKg9kfmM-2qI6ETbtaGtvLRzKoPFTIxymmi3C93sHx0syjegLNJlgvF8GIxTzCfJ4GrdKH0wrwmTh95RALBTPN52FhCbcI3wLgMJSIH7euKPvpr4BdnkHHhwlJGnWh0e-ge0VORLJEI7g7CMSCB7fpUcsEBglfAobViMcQgSlOjj81iI8HPeIkH-lOZmv-V_C7Sc_v3YGhDWK578VxBAD4rUBeu2b_ktZazcxa6tduR_T2GG0Ub-MiapD0jc2FxgE1GQiNBlqttm2dzdr581qOmtuQsWGiyCF78yX73aL8vW3fBu2RNRDsxhXT_hVW_EYqltVeukXuiY-y_Mm8BU8dmCdpDrS45rVfiAohZgZVn_GjB_BRcXxClcFAdEipqHI50WdAE_Iovp6HeUcddxhg-Thz4qrl1G2g",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1897795,
+                    "lng": 77.99953
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19114057989272,
+                        "lng": 78.00079337989271
+                    },
+                    "southwest": {
+                        "lat": 27.18844092010728,
+                        "lng": 77.99809372010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Bharat Starworld Cinemas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 811,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100288265989185082231\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi6LIWvAaJs10doKaKaBi_4ql9r9pxvGRh_u-4gVZPT5aJ2wIpq4-XIRGP-8J2qD2sc6K1bJEZr3Hf1bL79ubgPs8x_D9_V1AFHm0a_Jij4b6WI2DGtOM9G-nacdEcs8CXwQ6_uTZlthrzeBtTwomwSwVTyFnga2JRtqNLYLEEfPowk",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJ_X3Q0q53dDkRE_IDRxvH2aY",
+            "plus_code": {
+                "compound_code": "5XQX+WR Agra, Uttar Pradesh",
+                "global_code": "7JVV5XQX+WR"
+            },
+            "rating": 4,
+            "reference": "ChIJ_X3Q0q53dDkRE_IDRxvH2aY",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 228,
+            "vicinity": "Bharat Talkies Arcade, 29/3, Raja ki Mandi, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.16523,
+                    "lng": 78.014944
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16656282989272,
+                        "lng": 78.01641717989271
+                    },
+                    "southwest": {
+                        "lat": 27.16386317010727,
+                        "lng": 78.01371752010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Meher Theatre",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112141270686079096802\">Mehar Theatre</a>"
+                    ],
+                    "photo_reference": "AcYSjRiA_meeVL71BjUfy3mZff8EQx3v1C2kv3i4Vw1ByEsgAlUZWLzN7dgpPzK7ipP02sQcBo7Rxv8BVenof74bDo5uIvaHiRBHF90uxihzX2gjhg1G2OW31YAEaV63FsYJKatpRMgYAJXFzCydl1E5jWu8-ZRRGJAiZR3uML_whFEHF0fG",
+                    "width": 5760
+                }
+            ],
+            "place_id": "ChIJV0E_M9J2dDkRsL5Up8p78AU",
+            "plus_code": {
+                "compound_code": "5287+3X Agra, Uttar Pradesh",
+                "global_code": "7JVW5287+3X"
+            },
+            "rating": 4.1,
+            "reference": "ChIJV0E_M9J2dDkRsL5Up8p78AU",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4475,
+            "vicinity": "1, Gwalior Rd, Baluganj, Rakabganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1917711,
+                    "lng": 77.9789203
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19312592989272,
+                        "lng": 77.98026487989273
+                    },
+                    "southwest": {
+                        "lat": 27.19042627010728,
+                        "lng": 77.97756522010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "shanti Cinema Agra New",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116757323364910391666\">suraj arora</a>"
+                    ],
+                    "photo_reference": "AcYSjRhyAMacoahxSP1tn7V590_K9V1D3pY8f2VQ6fB2N3ARg71eQScXNf3xPELr-Vg5kT9wdYO9PStwWaGQjCIWLcC5fpDP7S-uIv0zRBHc96giUBuSb138Cd_vUEYlh1LHN8cFag83GS8VVnW-arVZX4banlShr87_7Y4fxIRuKldqoaQj",
+                    "width": 2352
+                }
+            ],
+            "place_id": "ChIJr1nBQqB3dDkRcxzJ2XwBoFs",
+            "plus_code": {
+                "compound_code": "5XRH+PG Agra, Uttar Pradesh",
+                "global_code": "7JVV5XRH+PG"
+            },
+            "rating": 3.1,
+            "reference": "ChIJr1nBQqB3dDkRcxzJ2XwBoFs",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 179,
+            "vicinity": "Lohamandi - Bodla Rd, Near Shanti Cinema, Jagdish Pura, Lohamandi, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1740407,
+                    "lng": 77.9822755
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17538692989272,
+                        "lng": 77.98370442989273
+                    },
+                    "southwest": {
+                        "lat": 27.17268727010728,
+                        "lng": 77.98100477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Rajeev Cinema",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111037695966282131763\">techstudylogical J.G</a>"
+                    ],
+                    "photo_reference": "AcYSjRhSvaqTwFbzUVkb0QXuoz1rW7vOQbHnBiJ6T0V3szAWK5caeNxs7V3zRFMNPXkiLj3kjUh-71ZmVoOKeIo63WGqkUVkLoW23SUkIARCZ32OUNWnFPfHPdiWp17AH8xqA6VQBgL_azZHg4AH1joChH1YzTYd_0IhE3CPF_GdSw33xj31",
+                    "width": 250
+                }
+            ],
+            "place_id": "ChIJjTU8VAJ3dDkRxHXr81BsGZc",
+            "plus_code": {
+                "compound_code": "5XFJ+JW Agra, Uttar Pradesh",
+                "global_code": "7JVV5XFJ+JW"
+            },
+            "rating": 3.2,
+            "reference": "ChIJjTU8VAJ3dDkRxHXr81BsGZc",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 464,
+            "vicinity": "Fatehpur Sikri Road, Bodla Rd, Bhogipura, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1885876,
+                    "lng": 77.9872542
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18994437989272,
+                        "lng": 77.98855137989271
+                    },
+                    "southwest": {
+                        "lat": 27.18724472010728,
+                        "lng": 77.98585172010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Jwala Cinema",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106667890522575425907\">RAHUL MITTAL</a>"
+                    ],
+                    "photo_reference": "AcYSjRjKiqA43veckuNvXePnXI-N3evaFwziXNLOYg9Lm6yTcj4TqmfARaFTpzNdl9p0ioVhb_1-ePU1FKppYH3BRewoxukISXNno70tEIun2DUcDfW99jntwXJs1AsC1PDeFVJusrxuOjVB6c_vqA2h49Ks3oiSDRqwixHxW_LRIW-iLMaE",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJYbNOjxF3dDkR-lYeLXZWYBA",
+            "plus_code": {
+                "compound_code": "5XQP+CW Agra, Uttar Pradesh",
+                "global_code": "7JVV5XQP+CW"
+            },
+            "rating": 2.9,
+            "reference": "ChIJYbNOjxF3dDkR-lYeLXZWYBA",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 385,
+            "vicinity": "336, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1417301,
+                    "lng": 78.0461193
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.14304117989273,
+                        "lng": 78.04742187989272
+                    },
+                    "southwest": {
+                        "lat": 27.14034152010728,
+                        "lng": 78.04472222010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Panna Cinema",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111898797134874708805\">pushpendra gupta</a>"
+                    ],
+                    "photo_reference": "AcYSjRjI2WhZy6mr50Ru4ywImCvPFIotK-4p8SziOJjkc4fDkBofqjBoFwHUAfub2_OJBtdy29teDJfL3N7AD5VfaDshR7j33_PVWSBIWZ7I7seIXalVCq1sTxljWANS4yPHKkSCp961KZTYQis9vN-9z5rDclIqocSEhKyHY1swypIY0j10",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ_XrlJmZxdDkR8wh-52H6k8A",
+            "plus_code": {
+                "compound_code": "42RW+MC Agra, Uttar Pradesh",
+                "global_code": "7JVW42RW+MC"
+            },
+            "rating": 3.4,
+            "reference": "ChIJ_XrlJmZxdDkR8wh-52H6k8A",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 978,
+            "vicinity": "Kaharai Mod, Shamsabad Road Near, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1589941,
+                    "lng": 78.0577117
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16021167989271,
+                        "lng": 78.05928782989271
+                    },
+                    "southwest": {
+                        "lat": 27.15751202010727,
+                        "lng": 78.05658817010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Carnival Cinemas",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104083769199709659197\">priyakant</a>"
+                    ],
+                    "photo_reference": "AcYSjRh0fl_vx4GdhPz1usXA4OYFTg94nLlGH6DOfY2VCW5HG-NsQa89rZZxWqJsM_23qhMPGfC5FmlXW4xcBjEsxnV4gK-h4CVLRK8OXbM9pcXZz-Xfdc1vOUY2t3YSHv5E6YoyEhjTrKHH5biULSULC5G2k6wQmYk51Qps6D7-Lreg0wnL",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJEbASKiZ3dDkRjidQ66q8Ous",
+            "plus_code": {
+                "compound_code": "5355+H3 Dhandhupura, Uttar Pradesh",
+                "global_code": "7JVW5355+H3"
+            },
+            "rating": 3.4,
+            "reference": "ChIJEbASKiZ3dDkRjidQ66q8Ous",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2697,
+            "vicinity": "Tdi Mall, 2nd Floor Phase-I, Plot No.3D, Taj Nagri Scheme"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1910853,
+                    "lng": 78.0211204
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19242207989272,
+                        "lng": 78.02239932989272
+                    },
+                    "southwest": {
+                        "lat": 27.18972242010728,
+                        "lng": 78.01969967010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Mahalaxmi Cinema",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJK45OlsxwdDkR5uR-PRR6WFk",
+            "rating": 3.3,
+            "reference": "ChIJK45OlsxwdDkR5uR-PRR6WFk",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43,
+            "vicinity": "52RC+CCP, Belanganj, Mantola, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1594645,
+                    "lng": 78.0134564
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16075387989272,
+                        "lng": 78.01499012989272
+                    },
+                    "southwest": {
+                        "lat": 27.15805422010728,
+                        "lng": 78.01229047010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "7D Theater",
+            "place_id": "ChIJgQ1Uh852dDkRl7FT8MgbukY",
+            "plus_code": {
+                "compound_code": "5257+Q9 Agra, Uttar Pradesh",
+                "global_code": "7JVW5257+Q9"
+            },
+            "rating": 3.3,
+            "reference": "ChIJgQ1Uh852dDkRl7FT8MgbukY",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30,
+            "vicinity": "271 RP Malik Road Shahazadi Mandi, Sadar Bazar, Agra Cantt, Idgah Colony, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1651558,
+                    "lng": 78.03798549999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16646842989272,
+                        "lng": 78.03932432989272
+                    },
+                    "southwest": {
+                        "lat": 27.16376877010728,
+                        "lng": 78.03662467010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Shiv Tea Stall",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 1746,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113370795466943498038\">SOUMITRA BISWAS</a>"
+                    ],
+                    "photo_reference": "AcYSjRj5X_n-Lib34LHKMQKxnUJdChnMEwKO8aUFWQzh5AOTkgWWz5gbDD9pXhVvrY2duG804iFPHZfa0EXfmY0qdDlfbRFMVkIyR-EJ3AcvzSnvxLn7y3FtX0Yw79VkoKTjF3HpnNz5RNs8EjK6eB11XPtxiRn0ruLy1kXrod2m2dmLycuy",
+                    "width": 3104
+                }
+            ],
+            "place_id": "ChIJO2TkNiNxdDkRjUXKsznMHtM",
+            "plus_code": {
+                "compound_code": "528Q+36 Agra, Uttar Pradesh",
+                "global_code": "7JVW528Q+36"
+            },
+            "rating": 3.3,
+            "reference": "ChIJO2TkNiNxdDkRjUXKsznMHtM",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 208,
+            "vicinity": "Fatehabad Rd, Near Kailash Cinema, Impeypura, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1764914,
+                    "lng": 77.9871586
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17774247989272,
+                        "lng": 77.98849587989271
+                    },
+                    "southwest": {
+                        "lat": 27.17504282010728,
+                        "lng": 77.98579622010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Sangeeta Talkies",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117351224155469725590\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiU-rrDVEUR62CbFUemHOFh9cc_xxRl3QLC5CvBsYFcr9aUkungq7nXs61byHoxFk-aWl9GSezcXeZIadVobh5f2zPdRV7ecZuh2ZvwciQq8npsaxRk5E9FNmrQ9hwCLEEPhz4epCIeg0QobpZWNcGtSRG1Ka9MKnw2VKKlWkcH-Xx8",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJYQ9TkBx3dDkRQmTCy08Od_s",
+            "rating": 2.5,
+            "reference": "ChIJYQ9TkBx3dDkRQmTCy08Od_s",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 85,
+            "vicinity": "5XGP+JV2, Fatehpur Sikri Rd,Sangeeta Road, Shahganj Market, Indra Colony, Shahganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1792366,
+                    "lng": 77.9734014
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18054687989272,
+                        "lng": 77.97475577989272
+                    },
+                    "southwest": {
+                        "lat": 27.17784722010727,
+                        "lng": 77.97205612010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Shanti Cinema",
+            "place_id": "ChIJBcktvlp3dDkRsY07Xt4lCj4",
+            "plus_code": {
+                "compound_code": "5XHF+M9 Agra, Uttar Pradesh",
+                "global_code": "7JVV5XHF+M9"
+            },
+            "rating": 4.5,
+            "reference": "ChIJBcktvlp3dDkRsY07Xt4lCj4",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "No 2, Bypass Rd, Badla Ki Sarai, Shahganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1921799,
+                    "lng": 78.0389497
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19368502989272,
+                        "lng": 78.04027927989272
+                    },
+                    "southwest": {
+                        "lat": 27.19098537010728,
+                        "lng": 78.03757962010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Sendy Photo Studio",
+            "place_id": "ChIJhR7c-UZxdDkRX3GHVgjnIvQ",
+            "plus_code": {
+                "compound_code": "52RQ+VH Agra, Uttar Pradesh",
+                "global_code": "7JVW52RQ+VH"
+            },
+            "rating": 0,
+            "reference": "ChIJhR7c-UZxdDkRX3GHVgjnIvQ",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Sushil Nagar, Yamuna Bridge, Moti Bagh, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1401154,
+                    "lng": 77.9504855
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.14158452989272,
+                        "lng": 77.95192377989272
+                    },
+                    "southwest": {
+                        "lat": 27.13888487010727,
+                        "lng": 77.94922412010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Radha Hari Garden",
+            "place_id": "ChIJm9-Xf_R3dDkROXRs0gkP1IQ",
+            "plus_code": {
+                "compound_code": "4XR2+25 Agra, Uttar Pradesh",
+                "global_code": "7JVV4XR2+25"
+            },
+            "rating": 0,
+            "reference": "ChIJm9-Xf_R3dDkROXRs0gkP1IQ",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Jagner Road, Dhanauli, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1516744,
+                    "lng": 78.02785899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15320752989273,
+                        "lng": 78.02927042989272
+                    },
+                    "southwest": {
+                        "lat": 27.15050787010728,
+                        "lng": 78.02657077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Usman Auditorium",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101137080343909645248\">shiva verma</a>"
+                    ],
+                    "photo_reference": "AcYSjRji-LcWUCSYhdItmlaB6UqvyapxXUd0-xnWAca8bvwIAnoYpcETIpL5h5ChTAn47QMGWnMGxRPHfCxv91QxKkqQaxdLYC9fYbJIhLQRRb2-nG7GoxY2qd2x8C24jnxH7_oU7aQ7cWz4XjoslcfF4KspJs3e8oH1hsZ53YMM3HcAulDT",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJ1Zasnd1xdDkRKWtK68BNeGM",
+            "rating": 4.2,
+            "reference": "ChIJ1Zasnd1xdDkRKWtK68BNeGM",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 71,
+            "vicinity": "522H+M4H, Agra Cantt, Idgah Colony, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1925791,
+                    "lng": 78.01581449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19397022989272,
+                        "lng": 78.01719282989272
+                    },
+                    "southwest": {
+                        "lat": 27.19127057010728,
+                        "lng": 78.01449317010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Saurav Cosmetics",
+            "photos": [
+                {
+                    "height": 405,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115681129980003227915\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgw2oZol6e0nu8IDdT0B7EFQM_7W8PNX9Hp2r1zFA_77ODFi6SBKTp_6Ug1R1hRny_XohP4DQl4eTQqbGqqQr97R5h_h09ksftbdzPmQAxLJmqUMFe3rGMovuf7-gelwIRsKrEjq7oJlXrjCb5xf1k7IrJKkK57oip3AQEUsfnGBK5v",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ1-YF4Dp3dDkR129zmffLliY",
+            "plus_code": {
+                "compound_code": "52V8+28 Agra, Uttar Pradesh",
+                "global_code": "7JVW52V8+28"
+            },
+            "rating": 5,
+            "reference": "ChIJ1-YF4Dp3dDkR129zmffLliY",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "near, Basant cinema, City Station Rd, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1643392,
+                    "lng": 78.05502720000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16573622989272,
+                        "lng": 78.05644907989272
+                    },
+                    "southwest": {
+                        "lat": 27.16303657010728,
+                        "lng": 78.05374942010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Bala Ji Studio",
+            "place_id": "ChIJ79CqwQ9xdDkRAAAAMF7IvWY",
+            "rating": 0,
+            "reference": "ChIJ79CqwQ9xdDkRAAAAMF7IvWY",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "5374+P2J, Shilpgram Rd, Taj Nagari Phase 1, Telipara, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1730048,
+                    "lng": 78.0400002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17420107989273,
+                        "lng": 78.04163745
+                    },
+                    "southwest": {
+                        "lat": 27.17150142010728,
+                        "lng": 78.03789565
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Girish S",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJH32YoIpxdDkR_cqjMD3A8ME",
+            "plus_code": {
+                "compound_code": "52FR+62 Agra, Uttar Pradesh",
+                "global_code": "7JVW52FR+62"
+            },
+            "rating": 0,
+            "reference": "ChIJH32YoIpxdDkR_cqjMD3A8ME",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "1st Main Halaguru Mandya"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1810196,
+                    "lng": 77.9740803
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18236397989272,
+                        "lng": 77.97542307989272
+                    },
+                    "southwest": {
+                        "lat": 27.17966432010728,
+                        "lng": 77.97272342010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Sonu Cable",
+            "place_id": "ChIJ22aAltR3dDkRkap-84JrdUg",
+            "plus_code": {
+                "compound_code": "5XJF+CJ Agra, Uttar Pradesh",
+                "global_code": "7JVV5XJF+CJ"
+            },
+            "rating": 0,
+            "reference": "ChIJ22aAltR3dDkRkap-84JrdUg",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "5B/20, Krishna Nagar, Manas Nagar, Badla Ki Sarai, Krishna Nagar, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.16027,
+                    "lng": 78.0538821
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16159797989272,
+                        "lng": 78.05529187989272
+                    },
+                    "southwest": {
+                        "lat": 27.15889832010728,
+                        "lng": 78.05259222010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "OTP ACADEMY ACTING CLASSES",
+            "place_id": "ChIJszBt2HBxdDkRLO-Jp3o0Hw8",
+            "rating": 5,
+            "reference": "ChIJszBt2HBxdDkRLO-Jp3o0Hw8",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "5363+4H2, Shilpgram Rd, Taj Nagari, R.K. Puram Phase-2, Dhandhupura"
+        }
+    ],
+    "status": "OK"
+}

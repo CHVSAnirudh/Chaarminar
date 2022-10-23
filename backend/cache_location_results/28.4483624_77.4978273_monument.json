@@ -1,0 +1,85 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.418961,
+                    "lng": 77.5237329
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.42077822989272,
+                        "lng": 77.52604469999997
+                    },
+                    "southwest": {
+                        "lat": 28.41807857010728,
+                        "lng": 77.52296230000002
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Tathagat Gautam Buddha Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103167848166684785322\">Suruchi</a>"
+                    ],
+                    "photo_reference": "AcYSjRj4BL2Ew6NtFaL_REjnlG0dYaVJC-T1E9F43PDtJDgc9fUGbn9IaKHuSleRR1VeSL31jx-mU2aGkCSpOVvjhlch3GW2p-zxcX-WxSwIXGpNhAgvdZ6c3Oe8hYbWRgo300f4zxwOAnVa8BqRkN1pmLeQ6CYLQjn73FuhHvL-_KkBijtx",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZ2CdEPnADDkRMaTsM0fqYNY",
+            "rating": 4.6,
+            "reference": "ChIJZ2CdEPnADDkRMaTsM0fqYNY",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 202,
+            "vicinity": "CG9F+HFQ, G.Buddha University, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4166424,
+                    "lng": 77.52060250000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.41802967989272,
+                        "lng": 77.52207442989273
+                    },
+                    "southwest": {
+                        "lat": 28.41533002010727,
+                        "lng": 77.51937477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Shakyamuni Tathagat Samyaksambuddha Monument",
+            "place_id": "ChIJZfwYT2LBDDkRnMtWNpfgzo4",
+            "rating": 0,
+            "reference": "ChIJZfwYT2LBDDkRnMtWNpfgzo4",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "CG8C+7CW GAUTAM BUDDHA UNIVERSITY, Greater Noida"
+        }
+    ],
+    "status": "OK"
+}

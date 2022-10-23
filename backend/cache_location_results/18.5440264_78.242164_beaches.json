@@ -1,0 +1,51 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5384592,
+                    "lng": 78.2193853
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.54085065,
+                        "lng": 78.22073032989272
+                    },
+                    "southwest": {
+                        "lat": 18.53766204999999,
+                        "lng": 78.21803067010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Indalwai Mini Waterfalls",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106338964956887885703\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi2vrlSy0KEKjAl3p7i0lBNQBxMbkNqU5kSeemp4IkcHWTmXTTTwkVpe6Ep9EAXnfCDdqhWWPVz34jpaorK-njj6vZTkGoBa4kSHi-8NZmKIqLyPnZYdhToONdEZ6ZPYoj1HBJbIfbBCEqvNlXeo1QJG0bpNhgcqQlPvnKPIb1OrHY9",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ54ilYRTJzTsRj1xJNaVtiz8",
+            "rating": 4,
+            "reference": "ChIJ54ilYRTJzTsRj1xJNaVtiz8",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25,
+            "vicinity": "G6Q9+9QJ, Indalwai"
+        }
+    ],
+    "status": "OK"
+}

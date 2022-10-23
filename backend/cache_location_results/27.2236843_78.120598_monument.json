@@ -1,0 +1,929 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRj5ABmNZ8G0RqbTsCro2QqQrjwFB0mDWld8sbH8QWumubQhHKLhEEblVBWYzJXkOs7djeC1o_kgB3nnp2PyLZfa9Jajtwe8u_AYV9bE33_v5jKQYjQcDMQQYPBPs17m6RVr4qbu4VGYT-ZDuQ6acB6J4JrTLUIHcU63tUkgwTvQT8aGeeRuRbYzJIMCWIBKqWz10Ya-LDvUoNSXDsI5CTipKRqzdXF8BoDcxsLG2DMdJ6UleE8PVvs4nfFKEbSU-ryb3aQ-eULvskorwIlgpvpcefOMpoLFR8bKnqucqYQBI3sfqpjP7SAYi9nRlIEMy-KxHGZOZh3OLzO4EHUNP_E1JD2o_43lH_M7CmKU7yplcRJX6Llxpl-SUhqtV3G4HsgkurQag3B6g7P6zDu5OXsuOa0ZG5qcpPxM0uK4jD4gJweA5fLmLsD0JQ",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1925398,
+                    "lng": 78.0325981
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19386327989272,
+                        "lng": 78.03403062989271
+                    },
+                    "southwest": {
+                        "lat": 27.19116362010728,
+                        "lng": 78.03133097010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Etamad dulah monument",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105638095886025245506\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg0I6UZ6XpUFmqEnzhRh1CHNfDmoPyk8fw9laW0tVC3idCMmamldfXhGyFVv6LaM8p0cfVqhfaOpO3RtYjRUnnG82RKkN9Ln2TuKM1H4BqBOUV310lL90_UCOau-PQ8bpMbfZVp6j7Pf8UqgearN87tsXEwtGdRv1xs9Jv7snDX-b3f",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJU-eLs1pxdDkRkZROcKqAnQU",
+            "rating": 4.2,
+            "reference": "ChIJU-eLs1pxdDkRkZROcKqAnQU",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "52VM+232, SH 39, Moti Bagh, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1749009,
+                    "lng": 78.0418133
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17603022989272,
+                        "lng": 78.04489865
+                    },
+                    "southwest": {
+                        "lat": 27.17333057010728,
+                        "lng": 78.04078005000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Taj Mahal",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118315626825557074594\">muralidharan rajendran</a>"
+                    ],
+                    "photo_reference": "AcYSjRj58OOV-3TwaSk6IVfO0CD882tmedGGLI63G6JIV2LlzSGklEYTp4Xz0XkRMflHcLE0lzmXO4QDZbPu-fZq8tN5702E-VTHNJRdytH_hmTdpGMIMAeCKNOSqU73sMpWVt4gu65BLYSdtf286N2e0NaWzggo3WG_TR7SakFUvxk8Jvkr",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJz3lLsHRxdDkRzFUfyX2YvQs",
+            "rating": 4.5,
+            "reference": "ChIJz3lLsHRxdDkRzFUfyX2YvQs",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 716,
+            "vicinity": "52FR+XP8, Dharmapuri, Forest Colony, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1673471,
+                    "lng": 78.0421168
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16867752989272,
+                        "lng": 78.04346657989272
+                    },
+                    "southwest": {
+                        "lat": 27.16597787010728,
+                        "lng": 78.04076692010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dakhini Darwaza",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105254014635507380678\">Dinesh Singh</a>"
+                    ],
+                    "photo_reference": "AcYSjRjqx7jVL0NcvfFo-lFpl286WRBdC132JWjHDgdU6o5ogLJPYnUx0dfD8wvQQqCXiV50I-3oavu23fBnbXz00kpAU-gn31mHW29EB99Ka7WqzWYq1EyZKn8LGcyuyPasCMLbZoiihyxllkSvkRzFgtlfaOn7w0Hu4MjQ9v7ySan7I7nB",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJv-gT_uNxdDkRpdx5daPi9gY",
+            "rating": 4.7,
+            "reference": "ChIJv-gT_uNxdDkRpdx5daPi9gY",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "528R+WRQ, Unnamed Road, Kinari Bazar Rd, Kaserat Bazar, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2008864,
+                    "lng": 78.0342914
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20189997989272,
+                        "lng": 78.03555347989273
+                    },
+                    "southwest": {
+                        "lat": 27.19920032010728,
+                        "lng": 78.03285382010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Chini Ka Rauza",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118176466745469679008\">Navneet Singh</a>"
+                    ],
+                    "photo_reference": "AcYSjRjttvLYxirBFt7TyoEYmbqmNBfnpHAVhQqX-Mr7Vzc6eh-w2Pj1Ytppjn7HM34LeImh1rlxOYbLN4CUxW5wFjJnUp63hX1so0NJ5H3PAHxBR844u0cjnKkMbN1L-zmerRdVG-dRUgvX3Ea_xC5TxSD9WknoY7cbZ3zULLkFLjej5lBO",
+                    "width": 1620
+                }
+            ],
+            "place_id": "ChIJIXHB8bhwdDkRObyQD1O2-W8",
+            "plus_code": {
+                "compound_code": "622M+9P Agra, Uttar Pradesh",
+                "global_code": "7JVW622M+9P"
+            },
+            "rating": 3.8,
+            "reference": "ChIJIXHB8bhwdDkRObyQD1O2-W8",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 792,
+            "vicinity": "Katra Wazir Khan, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1755866,
+                    "lng": 78.0215472
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17697412989272,
+                        "lng": 78.02293717989272
+                    },
+                    "southwest": {
+                        "lat": 27.17427447010727,
+                        "lng": 78.02023752010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Chhatrapati Shivaji Maharaj Memorial",
+            "photos": [
+                {
+                    "height": 2523,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101170702024721005089\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhc0IxLPKX5et0mco4DXn0noanhJJoiMMzDkA9-hU651OCS9DfCBVSCIrMR7r0By2tQUxmKrjboGFPTTstCdHRkpoJ3LZsYfCWB4-yo1jHsCCA-W83KYGKcgAzB9Jbhl1ZWeHhRMuOgK-Rxq28XoVGRTouz4qJ8Jay3qnBWOkyBSd6Z",
+                    "width": 4131
+                }
+            ],
+            "place_id": "ChIJNfZDhCx3dDkR2CIB8Dn-kHI",
+            "rating": 4.6,
+            "reference": "ChIJNfZDhCx3dDkR2CIB8Dn-kHI",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 149,
+            "vicinity": "52GC+6JM, Dipak Rd, PWD, Munda para, Rakabganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1717141,
+                    "lng": 78.0421315
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17241047989272,
+                        "lng": 78.04348187989272
+                    },
+                    "southwest": {
+                        "lat": 27.16971082010728,
+                        "lng": 78.04078222010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Great Gate",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3472,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113161940703551359137\">Jagdishkumar Lohar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhZ-I5HNVCBnTXp5yCMAvhcuzzL4yj-eMsMQqhBVBJc6DhLv2LwJUgbfrsV_PqZCu_GHe4ILhvIml2G1-ret1JD-1LXF0Nf6ga8P5w7HSO541iTF3Dcl-ABzwpJsvm4ZGvCG4oi1u1TN5hx44gvi1fLURzxjIe2Sg7i5HIDqV8Mw16Y",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJV93v4yFxdDkRa5K4dKwRfl8",
+            "plus_code": {
+                "compound_code": "52CR+MV Agra, Uttar Pradesh",
+                "global_code": "7JVW52CR+MV"
+            },
+            "rating": 4.5,
+            "reference": "ChIJV93v4yFxdDkRa5K4dKwRfl8",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1054,
+            "vicinity": "Great Gate, 282001, Dharmapuri, Forest Colony, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1721099,
+                    "lng": 78.04411499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17345187989272,
+                        "lng": 78.04525687989272
+                    },
+                    "southwest": {
+                        "lat": 27.17075222010728,
+                        "lng": 78.04255722010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kandhari Begum Tomb",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108508426181395919868\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiEmTVhpID14ndNDWtl_liDHeHEUwbrGhT1vZVJbUW-PyLzrZJxZgoPN_DPckjKQVLszgivAy8gTf7h8uM0YUCjN7KtUV3BDJNpwiljxNWTHwyfyHP3acHm_UJCF_pU3o7bvexf63XKeVaHHZmdYIk8_IbY0_iyVRV8ZBip2QGSDH8I",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJfxIAPx9xdDkRAb6GYmjesDg",
+            "rating": 4.3,
+            "reference": "ChIJfxIAPx9xdDkRAb6GYmjesDg",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 55,
+            "vicinity": "52CV+RJX, Dharmapuri, Forest Colony, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1765143,
+                    "lng": 78.02208949999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17776092989272,
+                        "lng": 78.02338392989272
+                    },
+                    "southwest": {
+                        "lat": 27.17506127010727,
+                        "lng": 78.02068427010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Amar Singh Gate",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108228867663309336792\">Noman Khan</a>"
+                    ],
+                    "photo_reference": "AcYSjRiB6x5Nud0dGEDQzTlcFWkan0B_x94f6wB4WA1poN3gqapCFTzkAi7cXZqjjvxEAPyBEwBiCX0eJBoduiR2OnMp0XrSDvKKI23SWcT88-USypVYhAlf5Zfat5UJyn7vvUlVpJQDbkQeq8hIG0vFCdHDBJM-qZpJ5kxQwIuN95TyzVKl",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJVVVVFdRwdDkRgQK859m_-CE",
+            "rating": 4.5,
+            "reference": "ChIJVVVVFdRwdDkRgQK859m_-CE",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 585,
+            "vicinity": "52GC+JR4, Agra Fort, Rakabganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1796984,
+                    "lng": 78.0212197
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18139472989273,
+                        "lng": 78.02502255
+                    },
+                    "southwest": {
+                        "lat": 27.17869507010728,
+                        "lng": 78.01994274999998
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Red fort of Agra",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 452,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101979480198476312127\">muhammed ansheer</a>"
+                    ],
+                    "photo_reference": "AcYSjRim4kF3h8bT7rqOXZxgIdr0-XBgv_0fAxezeDKdDtM_vSb0kS_svpWmjE56xowG9K_F53DdFlnSNVRi2DmlFGvVHED8h0e56XE_DS3F8yU3QEL8soCZjWIm5bMIBX7xy7OIZFYgJ6g5aCHff4uPgDv3vZ8fa_dicA1eMfnhJLWzYJYF",
+                    "width": 678
+                }
+            ],
+            "place_id": "ChIJh1sDaLlxdDkRlpksWadEoqI",
+            "rating": 4.7,
+            "reference": "ChIJh1sDaLlxdDkRlpksWadEoqI",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 190,
+            "vicinity": "52HC+VFH, Agra Fort, Rakabganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1787273,
+                    "lng": 78.0232427
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18007332989272,
+                        "lng": 78.0251145
+                    },
+                    "southwest": {
+                        "lat": 27.17737367010728,
+                        "lng": 78.02174529999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Shish Mahal (The Glass Palace)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111685126037204156092\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg-UuBNMIEui6aH8CZ3Oj23pSJ9qrSMDBXSH3rWaPtXW9uDjsrIdHylKSwTxrkxOTNP07BP_bYe0-AD1j48V69vOixaiJeu0GXaRVleTVrWLDAov18P6i992yKZlo_Sog48paSGRV4MCAGAyg1eLZXYQXNxD1q8DmMrqA5oU_OHOv0U",
+                    "width": 1536
+                }
+            ],
+            "place_id": "ChIJEYCJRNRwdDkRA-6iY8Et8fs",
+            "rating": 4.3,
+            "reference": "ChIJEYCJRNRwdDkRA-6iY8Et8fs",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 193,
+            "vicinity": "52HF+F7X, Agra Fort, Rakabganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1777367,
+                    "lng": 78.0231589
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17928692989272,
+                        "lng": 78.0254384
+                    },
+                    "southwest": {
+                        "lat": 27.17658727010728,
+                        "lng": 78.021934
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Jahangir Palace",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116248236041677229200\">Travis Hydzik</a>"
+                    ],
+                    "photo_reference": "AcYSjRiQChzN496dZLgYRa8GbC1SsHVcZLHq5e2c_iWiceTL82hMVBUZuMEuGpUPQmTOnUntCniuXOXZdfY2PFM8SQAMc4g0GKj8OJeffYcBuzWzbdHohDNGyGj4EgMrQXWZ633vfJNX0WKRC3EcstJL6mAm4F_RGsk_VqrWlVXzrTinpsoc",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJRbhBTdRwdDkRBXuj9MjRvcI",
+            "rating": 4.5,
+            "reference": "ChIJRbhBTdRwdDkRBXuj9MjRvcI",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 264,
+            "vicinity": "52HF+37V, Rakabganj, Fort, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1750262,
+                    "lng": 78.0435894
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17637032989272,
+                        "lng": 78.04507002989271
+                    },
+                    "southwest": {
+                        "lat": 27.17367067010727,
+                        "lng": 78.04237037010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mehmaan khana",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111425456752450604138\">Nayan Telrandhe</a>"
+                    ],
+                    "photo_reference": "AcYSjRjOxmV7l5Dp2FcWHXDAfHE4DMBwX-KF-j7ibAiPC5bMYYH19c3CVw7GLz3QDrqGrRoiy4dp0V_jwgTJdwNg-YbeFJTm1F-ASyaxOEw7W-E7BTMCGYWh5nSybuhhuZVTC4HdbESUUFp0LDdgZpJarSn6BdEKGVqoqCl4CPCIowD_GMDl",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJH98iJYBxdDkRE9Js4IRG4Mw",
+            "rating": 4.5,
+            "reference": "ChIJH98iJYBxdDkRE9Js4IRG4Mw",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 430,
+            "vicinity": "52GV+2C7, Dharmapuri, Forest Colony, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1928743,
+                    "lng": 78.0310382
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.19402447989272,
+                        "lng": 78.03374575000001
+                    },
+                    "southwest": {
+                        "lat": 27.19132482010728,
+                        "lng": 78.03005915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Itmad-ud-Daula",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 462,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100148698122368932695\">Adeel Ur Rahman</a>"
+                    ],
+                    "photo_reference": "AcYSjRh3auHv6ULh10w7zXgsLlVXQbnUya9Heaf-1it1yAIykPERw9KAykOsOOwNsmkERyIEqa43xY1XbWqqzTO5TVSr_CQfVsb-rrA32O6CRY38Z18xsSiXCcihFiB6LYisclYOF5fZkzrnliX314JJ1upc8TFE7YaAtUMQIZrCWMLcxP8u",
+                    "width": 718
+                }
+            ],
+            "place_id": "ChIJk6aZ_cVwdDkRWMRKn2s89hM",
+            "plus_code": {
+                "compound_code": "52VJ+59 Agra, Uttar Pradesh",
+                "global_code": "7JVW52VJ+59"
+            },
+            "rating": 4.3,
+            "reference": "ChIJk6aZ_cVwdDkRWMRKn2s89hM",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7393,
+            "vicinity": "Moti Bagh, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.214345,
+                    "lng": 78.0339312
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.21570692989273,
+                        "lng": 78.03516567989271
+                    },
+                    "southwest": {
+                        "lat": 27.21300727010728,
+                        "lng": 78.03246602010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Raja Jaswant Singh Chhatri",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112110024437487684365\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiXb5Z8mkYNrdeZ1QS44ZERPwvfn_CbWZg04yhAVAVCfOAQkcd_hJUUAIif3da17bjGZZ5EPp-yt5yZ9Nl1cZpdV38xkz5R9aNqNsDbRpie8wcPdgeHMsy7Ha5zFVq0Swjmn2W_PT6yFXkeNVB7GLxefi0BgH5fuU66xufK7hRP7tGu",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJLwzlTKRwdDkRjpKVFUdhlFA",
+            "rating": 3.8,
+            "reference": "ChIJLwzlTKRwdDkRjpKVFUdhlFA",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 85,
+            "vicinity": "627M+PHF, Kailash Nagar, Rajwara, Kamla Nagar, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1795328,
+                    "lng": 78.021112
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18445439999999,
+                        "lng": 78.02360124999998
+                    },
+                    "southwest": {
+                        "lat": 27.1729168,
+                        "lng": 78.01570785000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Agra Fort",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102017730740474457381\">Raphael Kiran</a>"
+                    ],
+                    "photo_reference": "AcYSjRiijaIML2WXq1WXGFYaejcZ7b6LC0wtY0ceXuXehIka3S-f40eggvVLX8aQ9pfAcqddmvCPyJa13rSguJICN2U1AEXau0480I_peE4ndJiTi3dvlhtPpCoHaasQHtEefUaV85rkEaop0GeMuEdP4swcXBtXlQeYvNom_hyC8E4B1Zk",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJ6zs0kdRwdDkRdpUClMxcCmQ",
+            "plus_code": {
+                "compound_code": "52HC+RC Agra, Uttar Pradesh",
+                "global_code": "7JVW52HC+RC"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ6zs0kdRwdDkRdpUClMxcCmQ",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 107211,
+            "vicinity": "Agra Fort, Rakabganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1760155,
+                    "lng": 78.0438951
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17720112989272,
+                        "lng": 78.04520142989271
+                    },
+                    "southwest": {
+                        "lat": 27.17450147010727,
+                        "lng": 78.04250177010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Taj Yamuna View Point",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3939,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112099582735783357623\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRibRVlw8awGHNI1c7PCPFi-4UgCeDpBb-mkinr8xctrp3yjOfT7Mm-Bh12zaO5TxbKYsXgQJ2OjdKFlHtdUgAT3_Zvkzfv_5hTOvp8pESx-QPcKw6OWcOGMM3SzsKsMQwoumUMrvqniY1jgyiVciBaVEU8oryM6r8nKDnOXNWPmH7bX",
+                    "width": 3171
+                }
+            ],
+            "place_id": "ChIJtYoM3R9xdDkR_OfoOIXcNgA",
+            "rating": 4.5,
+            "reference": "ChIJtYoM3R9xdDkR_OfoOIXcNgA",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 366,
+            "vicinity": "52GV+CH2, Dharmapuri, Forest Colony, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1620849,
+                    "lng": 78.0396214
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16345887989272,
+                        "lng": 78.04097757989273
+                    },
+                    "southwest": {
+                        "lat": 27.16075922010727,
+                        "lng": 78.03827792010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Taj Mahal Entrance - Agra India",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113330987551171145733\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhAfkF_lK7dMJTRNECebi3pdxiM2jUwbiEyLvymZbMCOc_bBoolZfeaYKLiN7YnyuNy_5aXJs0TME7-DOg8RwmSA7Kmj22tLOVUh1x_RQAM-H21YkdLAQ79vQJWZnZfaqCz1wX22B8uoAzrFY88jgxgxTpzzpAXYS7sszDmDKVAUaxC",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJvatPeo1xdDkR1qRH40lyxzs",
+            "rating": 4.5,
+            "reference": "ChIJvatPeo1xdDkR1qRH40lyxzs",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 112,
+            "vicinity": "526Q+RRQ, Tourist Complex Area, Near Man Singh Palace, Bagichi, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1780809,
+                    "lng": 78.0234231
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17954027989272,
+                        "lng": 78.0253214
+                    },
+                    "southwest": {
+                        "lat": 27.17684062010728,
+                        "lng": 78.0219134
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Shah Jahani Mahal",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110258131128705874697\">Abrar Rafi</a>"
+                    ],
+                    "photo_reference": "AcYSjRhNeUyNMeKB7Ig2Naz0GWymkfXSr2_Y1hNO6gaqh2QUaYcenYQ2yVu7X8x3he4Q4hAkDQjbgmexnXKeF3VvlgQefmgNmTw1PwpPTw2lqza_SlVisV33Bucv4SeZC6FJb9hlneKRTIEXtiNJDdXt9tsIISD_IHZg1QArlJea_Hpon5H0",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJVVVVFdRwdDkRa-0DHy-8tgM",
+            "rating": 4.6,
+            "reference": "ChIJVVVVFdRwdDkRa-0DHy-8tgM",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36,
+            "vicinity": "52HF+69M, Agra Fort, Rakabganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1790324,
+                    "lng": 78.0229433
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.18051807989272,
+                        "lng": 78.02505309999998
+                    },
+                    "southwest": {
+                        "lat": 27.17781842010728,
+                        "lng": 78.0213571
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Machchi Bhawan",
+            "photos": [
+                {
+                    "height": 2518,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101170702024721005089\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiel82geeWXtqhYHB6Gha3j5oYTOUKgtDUqR6XavQjjDNXi7Q0NoBRcgberQ9G3sfKJtZpe5ujijtevI_JK4B_umeCmlSpEZW8iR_wrkeRFIF2g_XKxYNJa_CY7JE1pCpX3qSWne71d8TFomSwYMPrzKCa5GEIiPauvuHCGy_bPodij",
+                    "width": 4025
+                }
+            ],
+            "place_id": "ChIJ0zG3OKxxdDkR9Tpv1rYsCjo",
+            "rating": 4,
+            "reference": "ChIJ0zG3OKxxdDkR9Tpv1rYsCjo",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "52HF+J58, SH 62, Agra Fort, Rakabganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1736625,
+                    "lng": 78.0421406
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17504952989272,
+                        "lng": 78.04464874999998
+                    },
+                    "southwest": {
+                        "lat": 27.17234987010728,
+                        "lng": 78.04130454999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mughal Garden",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 2127,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104500236160652753011\">vjmishratit</a>"
+                    ],
+                    "photo_reference": "AcYSjRg6SCkJNIAb4xAqjui7WfGBEM0sAWGNFlww2_FjgBMG7qzXs755WfsReOa_djux9_IGTHEggzMxB16B0Z11_2RxcHHKigkLKomQDflsxT7GV4NJaw0ThOGBj9tbWOGsX2YsJpm5YSKZzNCfVUtSg7mOYFBI79dGbw5gL86u-ENxxxVd",
+                    "width": 2596
+                }
+            ],
+            "place_id": "ChIJz4VXEH1xdDkRSNBgf1lW-D8",
+            "rating": 4.6,
+            "reference": "ChIJz4VXEH1xdDkRSNBgf1lW-D8",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 102,
+            "vicinity": "52FR+FV6, Dharmapuri, Forest Colony, Tajganj, Agra"
+        }
+    ],
+    "status": "OK"
+}

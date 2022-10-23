@@ -1,0 +1,182 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9437303,
+                    "lng": 79.1836703
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94498502989272,
+                        "lng": 79.18500662989273
+                    },
+                    "southwest": {
+                        "lat": 22.94228537010728,
+                        "lng": 79.18230697010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Siddhi vinayak parishar park",
+            "place_id": "ChIJI_mwVqKdfzkRnGTeGaWtuU4",
+            "rating": 5,
+            "reference": "ChIJI_mwVqKdfzkRnGTeGaWtuU4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "W5VM+FFV, Unnamed Road, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9502062,
+                    "lng": 79.1931901
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95157392989272,
+                        "lng": 79.19437082989272
+                    },
+                    "southwest": {
+                        "lat": 22.94887427010728,
+                        "lng": 79.19167117010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Anna mafiya Home",
+            "place_id": "ChIJpSN9gcqdfzkRlJ1ej9nQRig",
+            "rating": 0,
+            "reference": "ChIJpSN9gcqdfzkRlJ1ej9nQRig",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "X52V+3J2, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9557771,
+                    "lng": 79.1931097
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95710022989272,
+                        "lng": 79.19447772989272
+                    },
+                    "southwest": {
+                        "lat": 22.95440057010728,
+                        "lng": 79.19177807010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Rewa nagar park",
+            "place_id": "ChIJr4HimdSdfzkRwUAKeJ-Gjic",
+            "rating": 0,
+            "reference": "ChIJr4HimdSdfzkRwUAKeJ-Gjic",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "X54V+869, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9302433,
+                    "lng": 79.1932334
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.93156172989272,
+                        "lng": 79.19450027989272
+                    },
+                    "southwest": {
+                        "lat": 22.92886207010728,
+                        "lng": 79.19180062010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sanskar city Phase - 3 Park",
+            "place_id": "ChIJc7jvueedfzkRO8bkxi8fMm4",
+            "rating": 0,
+            "reference": "ChIJc7jvueedfzkRO8bkxi8fMm4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "W5JV+37, Narsinghpur"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 23.003817,
+                    "lng": 79.1717839
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.01711,
+                        "lng": 79.18882200000002
+                    },
+                    "southwest": {
+                        "lat": 22.9831498,
+                        "lng": 79.15006009999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dhubghat",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112547715993654680105\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhIcU75hoRbOQqZMA3eHmRBz8sBx_lVnKNgvJ4KzBvp3LcQ0NKBk9j3JagJdktm5GOl0jkiRmm23bdFIcFI8NqPTVYsX4NkrB4rjX3rKepOWJAHR3LnXqMYnyaYaN0Q364YZUE4ja3v6K1GEJnwpgyfozYiE46BXzjXJUmRl1h-oU0I",
+                    "width": 1872
+                }
+            ],
+            "place_id": "ChIJP9NN7N6cfzkRFtEGGb36nnQ",
+            "reference": "ChIJP9NN7N6cfzkRFtEGGb36nnQ",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Dhubghat, Madhya Pradesh 487001, India"
+        }
+    ],
+    "status": "OK"
+}

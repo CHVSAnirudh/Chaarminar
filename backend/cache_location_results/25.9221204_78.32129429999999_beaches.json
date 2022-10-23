@@ -1,0 +1,53 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.009377,
+                    "lng": 78.2680292
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.01071072989273,
+                        "lng": 78.2693828798927
+                    },
+                    "southwest": {
+                        "lat": 26.00801107010728,
+                        "lng": 78.26668322010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Amodhini Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3463,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107364441205974053899\">What The FUCK</a>"
+                    ],
+                    "photo_reference": "AcYSjRiVWI3QKd93eMx6aLKN2glcS6Lkkymq4xNOwCpKJRHywAvcH573BxFVtoH0itXAd7bJ7RjgyoPnqmgZNb-p6qzHTpGIkoYO7JlZFRewzjO3IgTUGyXwlWBIVIWN-P8NnjW8H8rVmMP6Njv7WNS5UFOhxKB2ZeAHZDR8NPtgv7_ZVuan",
+                    "width": 4618
+                }
+            ],
+            "place_id": "ChIJ6WQ9MUDedjkRF1OI-9cZdIo",
+            "rating": 4,
+            "reference": "ChIJ6WQ9MUDedjkRF1OI-9cZdIo",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 92,
+            "vicinity": "2759+Q62, Beragarh"
+        }
+    ],
+    "status": "OK"
+}

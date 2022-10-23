@@ -1,0 +1,563 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5026045,
+                    "lng": 77.3965338
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.50431202989272,
+                        "lng": 77.39806777989271
+                    },
+                    "southwest": {
+                        "lat": 28.50161237010728,
+                        "lng": 77.39536812010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Proposed automobiles museum",
+            "place_id": "ChIJoTTCs3LpDDkRF0qVhw8ueUI",
+            "rating": 0,
+            "reference": "ChIJoTTCs3LpDDkRF0qVhw8ueUI",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "G93W+2JV, Sector 135, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4623282,
+                    "lng": 77.5029104
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46313897989272,
+                        "lng": 77.50456067989272
+                    },
+                    "southwest": {
+                        "lat": 28.46043932010728,
+                        "lng": 77.50186102010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Stellar Children's Museum",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109398633507056193348\">Stellar Children&#39;s Museum</a>"
+                    ],
+                    "photo_reference": "AcYSjRhk16QCKqoi2QTWc6Kuotzyfmc_NXKxCeEeWc8WmdWkddop1I3ubuxTB7xMlIAdjTOpMuP0yuPuWFrgWHrxyqlisq2ljOlJe9RmDcvfsPEHIT5NZAI3P1sRyyN-TSI4UypkUyGP45JdTTbSNo_LMuBBY9H7mHsxbWIJBXSaY-iGJsWm",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJd9cbBEwZDTkRxjv5hFrQqK0",
+            "plus_code": {
+                "compound_code": "FG63+W5 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFG63+W5"
+            },
+            "rating": 4.2,
+            "reference": "ChIJd9cbBEwZDTkRxjv5hFrQqK0",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 406,
+            "vicinity": "Inside Stellar Gymkhana Club, R-1, Vashishth Rd, Knowledge Park II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.462796,
+                    "lng": 77.4917378
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46414227989273,
+                        "lng": 77.49306832989271
+                    },
+                    "southwest": {
+                        "lat": 28.46144262010728,
+                        "lng": 77.49036867010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "The Amrit Suman's empire",
+            "photos": [
+                {
+                    "height": 672,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109391713926041249420\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhb2sNWwqXZ6gQBh2opfhburSB57G3Qtve9Q_z5n9zySXU9zvNJUULk-eqT78YBxBciJoA2MhXgPRvhDubKmRn_OQupDmAEJH1sF6JBJoy1Gvl0_adAz9BZNHvMTmpp2JxFsuYNM2lSjpxIMv9vmNvmS7nb0PSyxrIN25Cq5X_GDlrP",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJ8bn6LvbBDDkRQDhf3LZ2GPQ",
+            "plus_code": {
+                "compound_code": "FF7R+4M Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFF7R+4M"
+            },
+            "rating": 5,
+            "reference": "ChIJ8bn6LvbBDDkRQDhf3LZ2GPQ",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "NIET Rd, Knowledge Park II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4630105,
+                    "lng": 77.43194299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46524145,
+                        "lng": 77.43357027989272
+                    },
+                    "southwest": {
+                        "lat": 28.46226685000001,
+                        "lng": 77.43087062010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "DILIP RAI COSMOLOGIST",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 540,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105855018156403330551\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgrwruQYrUnxMana_dP9BzAisuDdhl6kSwRPraggI_dJ0fQeCUVt93WDwVkZX5g4ip2xGk1B2gGBJ3Pc2JSVqHXHYwVIUyJ4KPGgUQFsPJPtGZu_1fx_aecYay5zZkvbDbro6tJsQY5B4nRXI7y_yZJOFE8Z7wEoHQBAZrv02v19ZIp",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJv6VGaX_pDDkRM5Y9u3BmOM4",
+            "plus_code": {
+                "compound_code": "FC7J+6Q Noida, Uttar Pradesh",
+                "global_code": "7JWVFC7J+6Q"
+            },
+            "rating": 0,
+            "reference": "ChIJv6VGaX_pDDkRM5Y9u3BmOM4",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gulavalli Yakitpur, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4146097,
+                    "lng": 77.41218789999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.41598182989272,
+                        "lng": 77.41353797989271
+                    },
+                    "southwest": {
+                        "lat": 28.41328217010728,
+                        "lng": 77.41083832010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "based",
+            "place_id": "ChIJ34OoZn_DDDkRvtwB6jbA3aI",
+            "rating": 0,
+            "reference": "ChIJ34OoZn_DDDkRvtwB6jbA3aI",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "CC76+RVW, Faridabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.518557,
+                    "lng": 77.4802942
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.51993602989272,
+                        "lng": 77.48165797989272
+                    },
+                    "southwest": {
+                        "lat": 28.51723637010728,
+                        "lng": 77.47895832010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "New shiv mindir",
+            "place_id": "ChIJk-_kcl7rDDkRUFQtj4WjLPs",
+            "rating": 5,
+            "reference": "ChIJk-_kcl7rDDkRUFQtj4WjLPs",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "GF9J+C4F, Surajpur, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4569501,
+                    "lng": 77.5506829
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45828717989272,
+                        "lng": 77.55201027989273
+                    },
+                    "southwest": {
+                        "lat": 28.45558752010728,
+                        "lng": 77.54931062010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Sk friend house",
+            "place_id": "ChIJ6TBI-hLBDDkRvxCFkZfVT3M",
+            "plus_code": {
+                "compound_code": "FH42+Q7 Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVFH42+Q7"
+            },
+            "rating": 0,
+            "reference": "ChIJ6TBI-hLBDDkRvxCFkZfVT3M",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "113, Block C, Sigma II, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4590951,
+                    "lng": 77.4147085
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46047627989272,
+                        "lng": 77.41606087989273
+                    },
+                    "southwest": {
+                        "lat": 28.45777662010727,
+                        "lng": 77.41336122010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "My land",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103265736486946427047\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRitxnbIA0JjUvnkmRYsZ8KFADk38eZ09G8cDmiK4jNvnQ4JIrp1orirHQIcphuxYusg3fJotKKWjBbVKYPiQrYG4WGG8aRFAGrty6P6ltW582Fw5-clvM9dvRdWgIfUiWmVltuXNlHYkDBW-9LbNeOiyoN0-QFu8k4BKAy7nr2hGwYH",
+                    "width": 1800
+                }
+            ],
+            "place_id": "ChIJXXeCLFbpDDkRi1dlD8sPxXM",
+            "rating": 0,
+            "reference": "ChIJXXeCLFbpDDkRi1dlD8sPxXM",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FC57+JVP, Dalelpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4848799,
+                    "lng": 77.5142654
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48622432989272,
+                        "lng": 77.51563832989272
+                    },
+                    "southwest": {
+                        "lat": 28.48352467010728,
+                        "lng": 77.51293867010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Kids cartoon area",
+            "place_id": "ChIJD2zRRATrDDkRJlHdR5typ0Y",
+            "plus_code": {
+                "compound_code": "FGM7+XM Rampur Jagir, Uttar Pradesh",
+                "global_code": "7JWVFGM7+XM"
+            },
+            "rating": 0,
+            "reference": "ChIJD2zRRATrDDkRJlHdR5typ0Y",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Oasis Homes 2 Tower A, 504, Block F, Beta II, Rampur Jagir"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4491628,
+                    "lng": 77.5261687
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45049412989272,
+                        "lng": 77.52750137989273
+                    },
+                    "southwest": {
+                        "lat": 28.44779447010728,
+                        "lng": 77.52480172010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Red Zone",
+            "place_id": "ChIJ1b-BXS3BDDkRAuHARmIb0-s",
+            "plus_code": {
+                "compound_code": "CGXG+MF Greater Noida, Uttar Pradesh",
+                "global_code": "7JWVCGXG+MF"
+            },
+            "rating": 5,
+            "reference": "ChIJ1b-BXS3BDDkRAuHARmIb0-s",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "G3, Greater Noida Shopping Plaza, Site 4, Near Radisson Hotel, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4669815,
+                    "lng": 77.50352970000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.46832257989272,
+                        "lng": 77.50489482989272
+                    },
+                    "southwest": {
+                        "lat": 28.46562292010728,
+                        "lng": 77.50219517010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "SK graphic",
+            "place_id": "ChIJcb7GGVvrDDkR0MGJ25DrO4Y",
+            "rating": 0,
+            "reference": "ChIJcb7GGVvrDDkR0MGJ25DrO4Y",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FG83+QCV, Tugalpur, Greater Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4805655,
+                    "lng": 77.45678699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.48189602989272,
+                        "lng": 77.45816122989272
+                    },
+                    "southwest": {
+                        "lat": 28.47919637010727,
+                        "lng": 77.45546157010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "\u0928\u094b\u090f\u095c\u093e \u0921\u0902\u092a\u093f\u0917 \u0917\u094d\u0930\u093e\u0909\u0902\u0921 \u092e\u0941\u092c\u093e\u0930\u093f\u0915\u092a\u0941\u0930",
+            "place_id": "ChIJJ2NyJMzpDDkR90qX6GiDJKA",
+            "rating": 5,
+            "reference": "ChIJJ2NyJMzpDDkR90qX6GiDJKA",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "FFJ4+6PF, Sector 145, Mubarikpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5223688,
+                    "lng": 77.4424633
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.52371732989272,
+                        "lng": 77.44381222989271
+                    },
+                    "southwest": {
+                        "lat": 28.52101767010728,
+                        "lng": 77.44111257010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Shankaranand Maurya home \ud83c\udfe1 kuleshra",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114025185642222588999\">Om Prakash</a>"
+                    ],
+                    "photo_reference": "AcYSjRjHOdUCnOcqMPVb6jVHm0fKThMYrQCvy30rintoTvRQ92VcRnA77czbWcnYNcMvLSbNvqm-TtAfIAJfchA6rMj7nxeDTkHOxsdeiFI3QxPxCxDYagHrMjIS6uFMr7YX-LjOWXazI4MVoHLIADbNAoTeNk7RIrwkNiISCynhAJpp72D-",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ3XQW_rfpDDkRpMYu4tvdAOE",
+            "rating": 5,
+            "reference": "ChIJ3XQW_rfpDDkRpMYu4tvdAOE",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "GCCR+WXW, Sanjay vihar colony, Kanchan Vihar, Kulesara, Noida"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.5303365,
+                    "lng": 77.408683
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.53166657989272,
+                        "lng": 77.41006547989272
+                    },
+                    "southwest": {
+                        "lat": 28.52896692010728,
+                        "lng": 77.40736582010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "\u0915\u0942\u095c\u093e \u0918\u0930 \u0938\u0947\u0915\u094d\u091f\u0930 84",
+            "place_id": "ChIJbTwACPfpDDkRmTAG5eFKE7I",
+            "rating": 0,
+            "reference": "ChIJbTwACPfpDDkRmTAG5eFKE7I",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GCJ5+4FF, Block C, Noida Phase-2, Yakubpur, Noida"
+        }
+    ],
+    "status": "OK"
+}

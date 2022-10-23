@@ -11,10 +11,9 @@ sys.path.insert(0, PROJ_FILE)
 
 from database.db_methods import DbMethods
 
-
 class FindPlaces:
     def __init__(
-        self, start_latitude, start_longitude, dest_latitude, dest_longitude
+        self, start_latitude, start_longitude, dest_latitude, dest_longitude, mood, age
     ) -> None:
         self.start_latitude = start_latitude
         self.start_longitude = start_longitude
@@ -22,6 +21,8 @@ class FindPlaces:
         self.dest_longitude = dest_longitude
         self.config = self._read_config()
         self.db = DbMethods()
+        self.mood = mood
+        self.age = age
 
     def _get_cached_route(self):
         result = self.db.route_search_db(
@@ -82,8 +83,7 @@ class FindPlaces:
             if _step["distance"]["value"] < self._threshold / 2:
                 _buffer_distance += _step["distance"]["value"]
             if (
-                _step["distance"]["value"] > self._threshold / 2
-                and _step["distance"]["value"] < self._threshold
+                _step["distance"]["value"] > self._threshold / 2 and _step["distance"]["value"] < self._threshold
             ):
                 _buffer_distance = 0
                 self.store.append(
@@ -102,7 +102,8 @@ class FindPlaces:
                     ),
                 )
                 self.store.append(
-                    (_step["end_location"]["lat"], _step["end_location"]["lng"])
+                    (_step["end_location"]["lat"],
+                    _step["end_location"]["lng"])
                 )
         # checking for the end point
         if not self.store[-1] == (
@@ -127,19 +128,20 @@ class FindPlaces:
                 ),
             )
 
-    def _points_in_between(self):
+    def _points_in_between(self) -> None:
         self.store = []
         route, boolean_val = self._get_route()
         if boolean_val:
-            return route
+            self.store = route
+            return 
         self._traverse_route(route=route)
-        self.store = [[x1,x2] for x1,x2 in self.store]
+        self.store = [[x1, x2] for x1, x2 in self.store]
         self.db.route_insert_db(
             source=(self.start_latitude, self.start_longitude),
             destination=(self.dest_latitude, self.dest_longitude),
             list=str(self.store),
         )
-        return self.store
+        return
 
     def _midpoint(self, start_location, end_location):
         x1, y1 = start_location
@@ -164,7 +166,8 @@ class FindPlaces:
         for keyword in keywords:
             filtered_results = []
             # implementing caching
-            results = self._get_cache_result(location=location, keyword=keyword)
+            results = self._get_cache_result(
+                location=location, keyword=keyword)
             if not results:
                 print("Not in Cache")
                 url = f"https://maps.googleapis.com/maps/api/place/nearbysearch/json?location={x}%2C{y}&radius={self.config['radius']}&type=&keyword={keyword}&key=AIzaSyBRCBv1g2bhMCxviR1JYWYicWIfHyQMVCQ"
@@ -197,28 +200,19 @@ class FindPlaces:
                 ):
                     filtered_results.append(result)
 
-            # sorting on the basis of rating keyword
-            filtered_results = sorted(
-                filtered_results, key=lambda x: x["rating"], reverse=True
-            )
             total_filtered_results.extend(filtered_results)
-
-        # sorting the final result as well
-        total_filtered_results = sorted(
-            total_filtered_results, key=lambda x: x["rating"], reverse=True
-        )
 
         return total_filtered_results
 
-    def _get_keywords(self, age_range, sentiment_selected) -> list:
-        path1 = PROJ_FILE + "/config/place_age.json"
+    def _get_keywords(self) -> list:
+        path1 = PROJ_FILE + "/config/places_age.json"
         path2 = PROJ_FILE + "/config/places_sentiment.json"
         with open(path1, "rb") as f:
             age = json.load(f)
         with open(path2, "rb") as f:
             sentiment = json.load(f)
-        age_list = age[age_range]
-        sentiment_list = sentiment[sentiment_selected]
+        age_list = age[self.age]
+        sentiment_list = sentiment[self.mood]
         return list(set(age_list) & set(age_list))
 
     def _save_in_cache(self, results, location, keyword):
@@ -228,8 +222,51 @@ class FindPlaces:
             outfile.write(json_object)
         return filename
 
-
+    def _filter(self, res):
+        final_res = []
+        if len(res) == 1:
+            try:
+                temp = {}
+                temp["name"] = res[0]["name"]
+                temp["photo_reference"] = res[0]["photos"][0]["photo_reference"]
+                temp["lat"] = res[0]["geometry"]["location"]["lat"]
+                temp["lng"] = res[0]["geometry"]["location"]["lng"]
+                temp["tags"] = res[0]["types"]
+                return [temp]
+            except Exception as e:
+                return []
+        elif len(res) > 1:
+            for i in range(2):
+                try:
+                    temp = {}
+                    temp["name"] = res[i]["name"]
+                    temp["photo_reference"] = res[i]["photos"][0]["photo_reference"]
+                    temp["lat"] = res[i]["geometry"]["location"]["lat"]
+                    temp["lng"] = res[i]["geometry"]["location"]["lng"]
+                    temp["tags"] = res[i]["types"]
+                    final_res.append(temp)
+                except Exception as e:
+                    continue
+            return final_res
+        else:
+            final_res
+            
+    
+    def get_place(self) -> list:
+        final_res = [] # Final Result to be returned
+        keywords = self._get_keywords()
+        self._points_in_between()
+        for storage in self.store:
+            search_res = self.search(location=(storage[0],storage[1]), keywords=keywords)
+            res = self._filter(search_res)
+            if not res:
+                continue
+            final_res.extend(res)
+        return final_res
+        
+            
 if __name__ == "__main__":
-    obj = FindPlaces(17.449146, 78.349206, 28.704400, 77.102500)
-    print(obj._points_in_between())
+    obj = FindPlaces(17.449146, 78.349206, 28.704400, 77.102500, "happy", "mid")
+    # obj._points_in_between()
     # print(len(obj.search((obj.start_latitude, obj.start_longitude), ["temple", "college", "pub"])))
+    # print(obj.get_place())

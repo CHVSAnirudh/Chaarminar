@@ -1,0 +1,882 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRiR7O96meX0mljjMXWy5ZbuZIF97ufudVAu82Y4O7sGygUSm9ExSA9Ro2PMIcALtV9yRJaYhg8uv-2K83ym14GLmbEWxsMYrPlk8QSPlC8MiTB0CmwXIUD8R2dsV_a7d5h5kUTv1OqeeARAnmXyPsgGJfBiGRRaagzEMJlEe7k2RlNEGc0gd4IGrIhtU2K5H7GA3GWMqZyQJtqKr8m7f9losSXrnhRycPVAA5FU2FK4HEP1nd-q9DGdSc4IOXaq28v8z2fOZGeNrPuh6TZufL-oZLl52RT3UnxYwYUTTnIZyOTxcnCQo7o-gMeUUogeU8iLMhHME6zjYYydsZs-pVS4Tg2hetwLHiR8OjJ5Yskd9ziZhgP-4ROXcMn4W98lORyfvyyvUV0OxgmrpQql4fPmB_AN9gYCuQ_VK3arSAHhgL0TsTKu_vSv",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7865184,
+                    "lng": 77.2043278
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.78848789999999,
+                        "lng": 77.20549247989273
+                    },
+                    "southwest": {
+                        "lat": 28.78060990000001,
+                        "lng": 77.20279282010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "SANGWAN BEACH",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114902085880553529291\">Ravi</a>"
+                    ],
+                    "photo_reference": "AcYSjRi4YDJxpXTMJDBnEtjak4M442AetEJTpmuk_ObhEG6__jmCCDXmp27gv4pdI4fWAOqS1BLo3vi6s8_Z07Ki7O7aojXq_-2h5F5-1_itQ1ZYMxDhQo-oIAZ3fYnLMtEb0CvZ8cCgo6X-qAF3zOIDgPZ-MdzNAS9dx2y0VbaoLQS9yJlm",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJv196wE3_DDkRWj0NusJEshs",
+            "plus_code": {
+                "compound_code": "Q6P3+JP Delhi",
+                "global_code": "7JWVQ6P3+JP"
+            },
+            "rating": 4,
+            "reference": "ChIJv196wE3_DDkRWj0NusJEshs",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "Bund Rd, Tehari Dawlatpur, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6458873,
+                    "lng": 77.1985256
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64722537989272,
+                        "lng": 77.1998559798927
+                    },
+                    "southwest": {
+                        "lat": 28.64452572010728,
+                        "lng": 77.19715632010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Goa Beach Hotels",
+            "place_id": "ChIJiwgj62D9DDkRRP87RGL19ko",
+            "plus_code": {
+                "compound_code": "J5WX+9C New Delhi, Delhi",
+                "global_code": "7JWVJ5WX+9C"
+            },
+            "rating": 4.5,
+            "reference": "ChIJiwgj62D9DDkRRP87RGL19ko",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "G-09, Ashoka Pahari, Near JVSD Girls School, Faiz Road, Karol Bagh, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7366501,
+                    "lng": 76.997492
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.73806902989272,
+                        "lng": 76.99882032989272
+                    },
+                    "southwest": {
+                        "lat": 28.73536937010728,
+                        "lng": 76.99612067010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "LADPUR BOTTING AREA ND SWIMMING BEACH",
+            "place_id": "ChIJeQ-383gJDTkRXRnfit6PbPQ",
+            "rating": 0,
+            "reference": "ChIJeQ-383gJDTkRXRnfit6PbPQ",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "PXPW+MX9, Ladpur, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6722238,
+                    "lng": 77.0586828
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.67365162989272,
+                        "lng": 77.05995492989273
+                    },
+                    "southwest": {
+                        "lat": 28.67095197010728,
+                        "lng": 77.05725527010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Penguin Beach",
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103702907046130717187\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj11o-cUO0ScAW6FIoShAkIPGqb69mGDF5gTeN1J3y5-9U2wqdB7AQRyKA2LUooAWDi2m7PN5l4KRiN3UnoDRoi_8y05cb9lVzGH1ymbo0HAXL19IypGOTiTVjsPTGZQFa5KXaDel4nyUUeik64lJtEmUL0W9RbNs00Juq7bHQCNoGv",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJw9xy9OYFDTkR_jKqhls3dWo",
+            "plus_code": {
+                "compound_code": "M3C5+VF Delhi",
+                "global_code": "7JWVM3C5+VF"
+            },
+            "rating": 0,
+            "reference": "ChIJw9xy9OYFDTkR_jKqhls3dWo",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Aman Puri, B 12, Nangloi, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6365866,
+                    "lng": 77.0964659
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63809137989272,
+                        "lng": 77.09773367989271
+                    },
+                    "southwest": {
+                        "lat": 28.63539172010728,
+                        "lng": 77.09503402010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Red Beach Preparatory School",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJU6x6LpgEDTkRnCdcD6oXqUg",
+            "plus_code": {
+                "compound_code": "J3PW+JH New Delhi, Delhi",
+                "global_code": "7JWVJ3PW+JH"
+            },
+            "rating": 4.5,
+            "reference": "ChIJU6x6LpgEDTkRnCdcD6oXqUg",
+            "scope": "GOOGLE",
+            "types": [
+                "school",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "25/5 Tilak Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6663141,
+                    "lng": 77.1199525
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66767842989272,
+                        "lng": 77.12122957989273
+                    },
+                    "southwest": {
+                        "lat": 28.66497877010728,
+                        "lng": 77.11852992010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Extension Park",
+            "place_id": "ChIJYTCIo-cDDTkRqf1Qp8_P0m8",
+            "plus_code": {
+                "compound_code": "M489+GX New Delhi, Delhi",
+                "global_code": "7JWVM489+GX"
+            },
+            "rating": 5,
+            "reference": "ChIJYTCIo-cDDTkRqf1Qp8_P0m8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Road, no.22 house no, 6, Punjabi Bagh, Paschim Vihar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6306719,
+                    "lng": 77.1459993
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63198997989272,
+                        "lng": 77.1473330798927
+                    },
+                    "southwest": {
+                        "lat": 28.62929032010728,
+                        "lng": 77.14463342010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "tripononline",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJPTpgkRUDDTkRMYey62Hy7e0",
+            "plus_code": {
+                "compound_code": "J4JW+69 New Delhi, Delhi",
+                "global_code": "7JWVJ4JW+69"
+            },
+            "rating": 5,
+            "reference": "ChIJPTpgkRUDDTkRMYey62Hy7e0",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25,
+            "vicinity": "EF 5, Budh Nagar, Inder Puri, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7153869,
+                    "lng": 77.10876069999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71680507989272,
+                        "lng": 77.11000372989272
+                    },
+                    "southwest": {
+                        "lat": 28.71410542010728,
+                        "lng": 77.10730407010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Goa Beach Hotel Resorts.com",
+            "place_id": "ChIJoeBj8FEBDTkRWky9-H5Kk7o",
+            "plus_code": {
+                "compound_code": "P485+4G Delhi",
+                "global_code": "7JWVP485+4G"
+            },
+            "rating": 3.3,
+            "reference": "ChIJoeBj8FEBDTkRWky9-H5Kk7o",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "199 / D-12, Sector 7, Rohini, Near Metro Pillar No 409, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7003587,
+                    "lng": 77.11697629999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.70160147989272,
+                        "lng": 77.11820812989272
+                    },
+                    "southwest": {
+                        "lat": 28.69890182010728,
+                        "lng": 77.11550847010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mannat Shanshah Mansoori Handloom And Cotten Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112023819052005873961\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiTKLX3Dq5BBVw-nYnOmcPPt9ANbIfX9kT3lca8FBJXl-QYdVSrf48vcWJC4dM643h7uYewFT4NkBNXk40qpAiru2kPF-SxcyEoksLsnDVhtddEbqgHVifczrFM7bdb40s3TPSkLZo9VsC262ZgKngJi-ki3UmOBbA9ihGyPyEWiw_b",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJz_u0guMDDTkRJ6c6XVt_qsQ",
+            "plus_code": {
+                "compound_code": "P428+4Q New Delhi, Delhi",
+                "global_code": "7JWVP428+4Q"
+            },
+            "rating": 5,
+            "reference": "ChIJz_u0guMDDTkRJ6c6XVt_qsQ",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Main Market Rohani M2k Rohani, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.666397,
+                    "lng": 77.151854
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66785202989272,
+                        "lng": 77.15355657989271
+                    },
+                    "southwest": {
+                        "lat": 28.66515237010728,
+                        "lng": 77.15085692010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Customiseyourtrip",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 700,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102341175198057914237\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjzkHBO2ATjmVDDJq4onQsGDa9_aKuZz1WrQPaVHXOD82-UPXYcIb1szTBNy3YP3_XbEmRXyTJwqK1KXoGeUBRk_TptCAfZhIqUruJtXohD5RX-_YM1zInLSQYWr0NxqdrReRQqp1s0Xj6_VZJNY726q4YK_vMbUtd-qoi_HcdpXYQ_",
+                    "width": 1050
+                }
+            ],
+            "place_id": "ChIJr15KOf0DDTkRWsVkTdzvkK0",
+            "plus_code": {
+                "compound_code": "M582+HP New Delhi, Delhi",
+                "global_code": "7JWVM582+HP"
+            },
+            "rating": 4.9,
+            "reference": "ChIJr15KOf0DDTkRWsVkTdzvkK0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 46,
+            "vicinity": "Dlf Capital Greens, CSP UNITS - 712, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6921317,
+                    "lng": 77.04215889999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69348332989273,
+                        "lng": 77.04350872989272
+                    },
+                    "southwest": {
+                        "lat": 28.69078367010728,
+                        "lng": 77.04080907010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Friends Tailours",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ-bE-SNUFDTkRRgAE2YyBhJ4",
+            "rating": 0,
+            "reference": "ChIJ-bE-SNUFDTkRRgAE2YyBhJ4",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "M2RR+VV3, Unnamed Road, Prem Nagar III, Prem Nagar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7171634,
+                    "lng": 77.17550399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71850702989272,
+                        "lng": 77.17685992989273
+                    },
+                    "southwest": {
+                        "lat": 28.71580737010728,
+                        "lng": 77.17416027010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Tourwithease",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ3QYBjPMBDTkRGmWG6CEjIYw",
+            "plus_code": {
+                "compound_code": "P58G+V5 Delhi",
+                "global_code": "7JWVP58G+V5"
+            },
+            "rating": 0,
+            "reference": "ChIJ3QYBjPMBDTkRGmWG6CEjIYw",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Office No 511, Grand Track Road, Block B, Majlis Park, Adarsh Nagar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6934135,
+                    "lng": 77.13796049999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69497057989272,
+                        "lng": 77.13925982989271
+                    },
+                    "southwest": {
+                        "lat": 28.69227092010728,
+                        "lng": 77.13656017010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "District Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104114745498599332776\">ketan</a>"
+                    ],
+                    "photo_reference": "AcYSjRjvGKDy5C3vywaSW8TXpdp3_e1heGxybQJi9DeubXhXfVvuVT3vGVu56PguActk2a7haChzJvW4OocP5ifZSnp3Krv3ct1NJ1bbVT3beaPh6SVqdrHyNopaonIk0_2nQOysi6tqzwWIdo4MqyUkZyC-LJix8sjvE8qMomodgOFnwegm",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ_cLVlc8DDTkRQA2a8_ewxtA",
+            "rating": 4.2,
+            "reference": "ChIJ_cLVlc8DDTkRQA2a8_ewxtA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 591,
+            "vicinity": "M4VQ+958, Block B, Lok Vihar, Pitampura, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7118955,
+                    "lng": 77.1136518
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71327412989272,
+                        "lng": 77.11502752989271
+                    },
+                    "southwest": {
+                        "lat": 28.71057447010727,
+                        "lng": 77.11232787010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Dmds pvt ltd Rohini east beach",
+            "place_id": "ChIJY0hXEbYBDTkRdJo4Nx6fOC4",
+            "plus_code": {
+                "compound_code": "P467+PC Delhi",
+                "global_code": "7JWVP467+PC"
+            },
+            "rating": 5,
+            "reference": "ChIJY0hXEbYBDTkRdJo4Nx6fOC4",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Floor D, 2nd, 14 228, Shiva Rd, sec-8, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6441303,
+                    "lng": 77.1086028
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64603917989272,
+                        "lng": 77.11029067989271
+                    },
+                    "southwest": {
+                        "lat": 28.64333952010728,
+                        "lng": 77.10759102010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Woodland Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3468,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117249325395704410073\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgGN5IeBnJqygPg898j_rqomI-Xg5xTofCBZGCGMsQrPH8z7K_l_LoqVt23zvhWve-kOmwCCVog3iSNRuMaFAfNW0JzpnkvJUpelnzDTMj55StYPq-wv6l7oax2Lk9nk_vhomzIUFJMuLWlghAqIoXRvUrxAUDnlmMuC1cZnz_Rl39j",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJc13DeGQDDTkRXMkDw9jrbOs",
+            "rating": 4.2,
+            "reference": "ChIJc13DeGQDDTkRXMkDw9jrbOs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1221,
+            "vicinity": "J4V5+MC5, Block C, Tagore Garden, Tagore Garden Extension, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6158769,
+                    "lng": 77.0364335
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61722622989272,
+                        "lng": 77.03779457989272
+                    },
+                    "southwest": {
+                        "lat": 28.61452657010728,
+                        "lng": 77.03509492010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "EASY LIFE HOLIDAYS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 643,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113079688368763317747\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj43RvS5ZAtZ8_8kbqNeIieSorMddaOaKnsMdaVAU8Pfo0OtRTma5OL-s7f3gujnVTmMc-4-SJiwVqnFPuWviMCVZABtrYjsqhNLHhZVfIXya9iYJDCBEAixcY0U5x-RKWF6jwzey60OZQheqE2XwG_migxqxB37FeXwUX0uk26hatw",
+                    "width": 1199
+                }
+            ],
+            "place_id": "ChIJPeRDAYkFDTkRQNlJL5W6ims",
+            "plus_code": {
+                "compound_code": "J28P+9H Delhi",
+                "global_code": "7JWVJ28P+9H"
+            },
+            "rating": 4.7,
+            "reference": "ChIJPeRDAYkFDTkRQNlJL5W6ims",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 39,
+            "vicinity": "A 11, Block D, Sewak Park, Uttam Nagar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.659147,
+                    "lng": 77.128788
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66046512989272,
+                        "lng": 77.13019497989272
+                    },
+                    "southwest": {
+                        "lat": 28.65776547010728,
+                        "lng": 77.12749532010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "ESI Hospital",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 5520,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113057729774296416874\">Shahrukh Sareen</a>"
+                    ],
+                    "photo_reference": "AcYSjRiYP0ns22q3-Gnl6bBiQeMEdWxhu1OPisKfze4EkbBADbZ2NNJAAWz2he0Mt3ni3X0g-07mKSIzvB5pQNCbC9fW9nYE3fBUPd1z9gjnddjxgnhC4x0eLRAygq8a9Vx6jqJRkECwd_HtFTNoq01ASTyM24jS-Rct_3iMxlG3aZSZKKYj",
+                    "width": 4140
+                }
+            ],
+            "place_id": "ChIJc385XAoDDTkRRTwoCxRFBec",
+            "plus_code": {
+                "compound_code": "M45H+MG New Delhi, Delhi",
+                "global_code": "7JWVM45H+MG"
+            },
+            "rating": 4.1,
+            "reference": "ChIJc385XAoDDTkRRTwoCxRFBec",
+            "scope": "GOOGLE",
+            "types": [
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Ring Rd, Shivaji Enclave, Tagore Garden Extension, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6910715,
+                    "lng": 77.0732791
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69243522989272,
+                        "lng": 77.07456107989272
+                    },
+                    "southwest": {
+                        "lat": 28.68973557010727,
+                        "lng": 77.07186142010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Raj Park",
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118298781583992905945\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjSK7NiLaG35jY1FLkoRq-dWHzOH1dgLptcq0gXH3cAfWz5r4i8kcZh0bT-R8_R9JKBgNuy0nkZSWF_IopGOqG-pNqWkWYW_ZA-4vmeGOC0W2H4XffKvNCmoFSvWoOZFrC-N4Nx5K2de-q-p9XPjlnNZgReAs2FhonkRry-4NlY6n0g",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJsXI3oiQEDTkR_GAz3nPBZdw",
+            "plus_code": {
+                "compound_code": "M3RF+C8 Delhi",
+                "global_code": "7JWVM3RF+C8"
+            },
+            "rating": 3.9,
+            "reference": "ChIJsXI3oiQEDTkR_GAz3nPBZdw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 213,
+            "vicinity": "b26, 44901, Golf Center Pkwy, Indio"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.64838,
+                    "lng": 77.122964
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64968227989273,
+                        "lng": 77.12419117989272
+                    },
+                    "southwest": {
+                        "lat": 28.64698262010728,
+                        "lng": 77.12149152010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Travel 2 World",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109013639754147539914\">Travel 2 World</a>"
+                    ],
+                    "photo_reference": "AcYSjRhvahBf6TsemA3SDmNM8U5-9-Ky4rZ2f3nbhIwzJyjZlDL6EatZk_QSTzO7nMUVaHrqZuZTU9FTbXqyiabgjCOAL8NkIuJh-RHpkbb1eIiBgBZ1GlQwWXud9Hhh0AaeIDxMwl2cTscIYLxi9GuHUGkiFDHOT3SlRSCbfdNxq3DC9ALJ",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJwT6Yf20DDTkR0HUZunyTCJw",
+            "plus_code": {
+                "compound_code": "J4XF+95 New Delhi, Delhi",
+                "global_code": "7JWVJ4XF+95"
+            },
+            "rating": 3.7,
+            "reference": "ChIJwT6Yf20DDTkR0HUZunyTCJw",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "G-14 A, Gupta Palace, Near Metro Station, Najafgarh Rd, Rajouri Garden, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6675282,
+                    "lng": 77.11471879999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66882107989272,
+                        "lng": 77.11605782989271
+                    },
+                    "southwest": {
+                        "lat": 28.66612142010728,
+                        "lng": 77.11335817010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Planet LiD",
+            "place_id": "ChIJG7eGL5sDDTkREcptwBRTYbY",
+            "plus_code": {
+                "compound_code": "M487+XV New Delhi, Delhi",
+                "global_code": "7JWVM487+XV"
+            },
+            "rating": 0,
+            "reference": "ChIJG7eGL5sDDTkREcptwBRTYbY",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "8/A, Club Rd, Narayana Vihar, Pocket 2, Paschim Puri, Punjabi Bagh, New Delhi"
+        }
+    ],
+    "status": "OK"
+}

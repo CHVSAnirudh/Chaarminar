@@ -1,0 +1,39 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5535848,
+                    "lng": 78.8426522
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55499177989272,
+                        "lng": 78.84416492989273
+                    },
+                    "southwest": {
+                        "lat": 20.55229212010727,
+                        "lng": 78.84146527010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Center Point of India",
+            "place_id": "ChIJbWp-jeBl0zsRQANHlANGKX8",
+            "rating": 5,
+            "reference": "ChIJbWp-jeBl0zsRQANHlANGKX8",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "HR3V+C3J, Chokhoba ward, Hinganghat"
+        }
+    ],
+    "status": "OK"
+}

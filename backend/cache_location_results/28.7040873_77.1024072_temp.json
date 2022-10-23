@@ -1,0 +1,809 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRioljev-iFWUc2jbaLQ1ltF0-rJ5KpcrH4S-Sx8WcI8ZGZPrMZ6ftLeeT-eFr3sj1A16_AE0C-wRt00vyRASigNlw6_uJSwGEPp_xcx0AhExpcgFNeKkO0coMOsgsTohZ77uRJl6MNgTwuJ-KkMcFp4SxtTv1kwHaIpT1RGZke0tWG5ItGP1xsuewH3W1Yb7Gj8hdcBVJkqGyjOmvl3rwf7ANEW75XOeL0B4LRfuRQaAh4zf8-1tjmp4WGqV6LCNiA3U68NT_xYq7z0knogbiH5TFpT9BrMuPx4YrSjMVMedH_aTTCx-NFrrKFC09js80t7czztVku-JF4mHdM_iRo2WQ8n5ldTA3_PfbenqAiCg2TzZRedY2onB4repQGkyOJ2UXZ7Tp5QLgOs-15h1e2khZnk81lntplsZGYnhcuSWyIDdmiu",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6163538,
+                    "lng": 77.0343989
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.61777552989272,
+                        "lng": 77.03580542989272
+                    },
+                    "southwest": {
+                        "lat": 28.61507587010728,
+                        "lng": 77.03310577010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "SR Expert Services",
+            "place_id": "ChIJkWET7jcFDTkRF1j06W65G3M",
+            "plus_code": {
+                "compound_code": "J28M+GQ Delhi",
+                "global_code": "7JWVJ28M+GQ"
+            },
+            "rating": 4.2,
+            "reference": "ChIJkWET7jcFDTkRF1j06W65G3M",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "2nd Floor, 61, 2, Block B, Sewak Park, Uttam Nagar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6218141,
+                    "lng": 77.0412034
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62316307989272,
+                        "lng": 77.04258697989272
+                    },
+                    "southwest": {
+                        "lat": 28.62046342010728,
+                        "lng": 77.03988732010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "V6 HR Services",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 900,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111155592402779592011\">V6 HR Services</a>"
+                    ],
+                    "photo_reference": "AcYSjRhk-LeU78zgV4QqF6RwSj0SLh41F57FE5DP9aTODD68A-BBYuC4TN5I1MTb2xclUo7BBlu3rR7ZilRroGhVXcFpNIQqxDq6BM0ArgZ1nq_7y_T2KSWMNBpeVZ8svLtp0R4FBBx2VYdzlstaxwAkp_GK0lSfWz3VnQarFdJquH9ueb0z",
+                    "width": 900
+                }
+            ],
+            "place_id": "ChIJvRcUmzoFDTkRK27ePEsK20A",
+            "plus_code": {
+                "compound_code": "J2CR+PF Delhi",
+                "global_code": "7JWVJ2CR+PF"
+            },
+            "rating": 4.7,
+            "reference": "ChIJvRcUmzoFDTkRK27ePEsK20A",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 44,
+            "vicinity": "A-46, Gurudwara Rd, near to Ruby Global School, Mohan Garden, Nawada Extension, Uttam Nagar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6338875,
+                    "lng": 77.0356025
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63523687989272,
+                        "lng": 77.03695192989272
+                    },
+                    "southwest": {
+                        "lat": 28.63253722010727,
+                        "lng": 77.03425227010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "DHARAM HOME CARE",
+            "place_id": "ChIJvyBQhRQFDTkRIygTjSWUseI",
+            "rating": 4,
+            "reference": "ChIJvyBQhRQFDTkRIygTjSWUseI",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "S-EXTN 12, MAIN GANDHI CHOWK, Mohan Garden, Uttam Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7091183,
+                    "lng": 77.1121004
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71048442989272,
+                        "lng": 77.11342677989272
+                    },
+                    "southwest": {
+                        "lat": 28.70778477010728,
+                        "lng": 77.11072712010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "GG Staffing Solution & Consulting Pvt. Ltd",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ1YDqqFABDTkR8fTGmsMqodI",
+            "plus_code": {
+                "compound_code": "P456+JR Delhi",
+                "global_code": "7JWVP456+JR"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ1YDqqFABDTkR8fTGmsMqodI",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 132,
+            "vicinity": "B-2/272, Sector-6, Bhagwan Parshuram Marg, opp. Gaurav Pastry Palace, Pocket 24, Sector 6B, Rohini, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6876756,
+                    "lng": 77.1884771
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.68902502989273,
+                        "lng": 77.18978987989271
+                    },
+                    "southwest": {
+                        "lat": 28.68632537010728,
+                        "lng": 77.18709022010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "NESO Solutions",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 281,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103883483970451130513\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg36Y-VQAz2dBjLMGcICg0Vf7pC5JtjHpoB5PQg0UQCGamQPABbYcH1NNJFQjM0ZuklwC75Ka7aqH2YAjYZNa3mgdfNVEuB1rDB0XghhjAh6LhM0ynXl7Bi0jJpWNmAXcEMUxb0UdU3xXfGxCV8qV9h3Y_9TEx_ejvLu9PaUZqr2bf0",
+                    "width": 499
+                }
+            ],
+            "place_id": "ChIJN8m_6EIDDTkR4FWW_cIGAfg",
+            "plus_code": {
+                "compound_code": "M5QQ+39 Delhi",
+                "global_code": "7JWVM5QQ+39"
+            },
+            "rating": 4.9,
+            "reference": "ChIJN8m_6EIDDTkR4FWW_cIGAfg",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "finance",
+                "establishment"
+            ],
+            "user_ratings_total": 69,
+            "vicinity": "A-17/5, Block A, Rana Pratap Bagh, Ashok Vihar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6906538,
+                    "lng": 77.15178019999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69206037989272,
+                        "lng": 77.15295272989272
+                    },
+                    "southwest": {
+                        "lat": 28.68936072010728,
+                        "lng": 77.15025307010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Konnecting Korporates",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115489826361821186385\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh4lEzJO0TqTgHEeFOh9JEeq5zJ1H33CHsQNWzhAEho_M-QLHIJib62OIkUlCzFqKX2S-FbutWUpHRm8OJ1AhbXc_d2OO53xSzbppFOqH3kRiUh65XxVaXuMdX9JU44iTXMm3YPdjzSNLt609oJjnT6m199kFNgSNDIRx_zaU2XAtXS",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJNebOQCcDDTkReD1PqxSdsMs",
+            "plus_code": {
+                "compound_code": "M5R2+7P New Delhi, Delhi",
+                "global_code": "7JWVM5R2+7P"
+            },
+            "rating": 4.7,
+            "reference": "ChIJNebOQCcDDTkReD1PqxSdsMs",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 108,
+            "vicinity": "Pearls Omaxe Tower, 1015 10th Floor, Tower 2, Netaji Subhash Place, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6456731,
+                    "lng": 77.1176641
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64705382989272,
+                        "lng": 77.11899247989273
+                    },
+                    "southwest": {
+                        "lat": 28.64435417010727,
+                        "lng": 77.11629282010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "itForte - IT Recruitment Specialists",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117120694058651266124\">itForte Staffing Services Private Ltd.</a>"
+                    ],
+                    "photo_reference": "AcYSjRiS2LC4Dx3HUM7ahJmKbVncB7NUBFPb_tJQeP4WQ31lFCJESNnTgeXtTZD25IMbD0qxtXzMoSvbJ8kFkflVAtiOXCZskbNkxYrMlPDeyBVKTDfntjh8ebnekmWjHU4-b2S-qa52jNA-ZAd9-yhu0Eu6NZvfOlCo-hvCUjylrovEscXr",
+                    "width": 560
+                }
+            ],
+            "place_id": "ChIJi7L3WW4DDTkRZVoILXUsdk8",
+            "plus_code": {
+                "compound_code": "J4W9+73 New Delhi, Delhi",
+                "global_code": "7JWVJ4W9+73"
+            },
+            "rating": 4.8,
+            "reference": "ChIJi7L3WW4DDTkRZVoILXUsdk8",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "A33, Rajouri Garden, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7657457,
+                    "lng": 77.17387630000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.76706432989272,
+                        "lng": 77.17522477989272
+                    },
+                    "southwest": {
+                        "lat": 28.76436467010728,
+                        "lng": 77.17252512010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Uday Social Works",
+            "place_id": "ChIJAWCGrjcADTkRLw2prBFq8Eg",
+            "plus_code": {
+                "compound_code": "Q58F+8H Delhi",
+                "global_code": "7JWVQ58F+8H"
+            },
+            "rating": 0,
+            "reference": "ChIJAWCGrjcADTkRLw2prBFq8Eg",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gali No. 1, Nathu Pura, Krishna Nagar, Kadipur, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.681663,
+                    "lng": 77.097906
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.68304447989272,
+                        "lng": 77.09926827989271
+                    },
+                    "southwest": {
+                        "lat": 28.68034482010727,
+                        "lng": 77.09656862010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Pahwa Spray Painting Works",
+            "place_id": "ChIJX0nrRgsEDTkRzGpUUZI7FzA",
+            "plus_code": {
+                "compound_code": "M3JX+M5 Delhi",
+                "global_code": "7JWVM3JX+M5"
+            },
+            "rating": 5,
+            "reference": "ChIJX0nrRgsEDTkRzGpUUZI7FzA",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Mangoli Puri Indl. Area, Phase II,, C-140, Peera Garhi Relief Camp, Shakur Basti, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6236587,
+                    "lng": 77.0572639
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.62502192989272,
+                        "lng": 77.05861327989273
+                    },
+                    "southwest": {
+                        "lat": 28.62232227010728,
+                        "lng": 77.05591362010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Pizon Technology",
+            "place_id": "ChIJ8Rndl9gEDTkRdm6Q-J1Ee1w",
+            "rating": 4,
+            "reference": "ChIJ8Rndl9gEDTkRdm6Q-J1Ee1w",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Anand Vihar, Block A 3, Uttam Nagar, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6306441,
+                    "lng": 77.0758769
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63198237989272,
+                        "lng": 77.07722407989272
+                    },
+                    "southwest": {
+                        "lat": 28.62928272010728,
+                        "lng": 77.07452442010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Success Kingdom",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJNdbxA9sEDTkRceAj4uac6gE",
+            "plus_code": {
+                "compound_code": "J3JG+68 New Delhi, Delhi",
+                "global_code": "7JWVJ3JG+68"
+            },
+            "rating": 4.8,
+            "reference": "ChIJNdbxA9sEDTkRceAj4uac6gE",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 268,
+            "vicinity": "B-57, 3rd floor, New Krishna Park Opp. Unityone Janakpuri above ICEL Institute, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7225408,
+                    "lng": 77.1277619
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.72391047989272,
+                        "lng": 77.12913242989272
+                    },
+                    "southwest": {
+                        "lat": 28.72121082010727,
+                        "lng": 77.12643277010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Core Enterprises",
+            "place_id": "ChIJr-qUmWkBDTkRxgLZlPI9Pcc",
+            "rating": 0,
+            "reference": "ChIJr-qUmWkBDTkRxgLZlPI9Pcc",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Rajapur, Pocket 30/1, Sector 13, Rohini, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6600358,
+                    "lng": 77.1656785
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.66142407989272,
+                        "lng": 77.16682922989273
+                    },
+                    "southwest": {
+                        "lat": 28.65872442010728,
+                        "lng": 77.16412957010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Temp home",
+            "place_id": "ChIJxVKeZVgDDTkR7DYeUuE7UGM",
+            "plus_code": {
+                "compound_code": "M568+27 New Delhi, Delhi",
+                "global_code": "7JWVM568+27"
+            },
+            "rating": 0,
+            "reference": "ChIJxVKeZVgDDTkR7DYeUuE7UGM",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "SK PLASTIC, f12A, Block B, Baljit Nagar, Patel Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6444064,
+                    "lng": 77.1704524
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64574657989272,
+                        "lng": 77.17179477989272
+                    },
+                    "southwest": {
+                        "lat": 28.64304692010727,
+                        "lng": 77.16909512010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "The Global Zone HR Services",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111397068424760772552\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgAvqOaAIVLV9NG6yI2dkV9CZHa69HU3jUibENjTAEpt6r61I-7ewAU-iXTcdydDPIzaH21KH08u7oq3LogTN1M78NiAt61eSYBOzfqffWYh2bKz4iWkFkcilnyakU1Vu4j1UEQrfpPO63cNDUQhJE_LdOdTF8QYEsONzv1Ilz1LPry",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJf-v2zzUDDTkRCWfqwxHYySk",
+            "plus_code": {
+                "compound_code": "J5VC+Q5 New Delhi, Delhi",
+                "global_code": "7JWVJ5VC+Q5"
+            },
+            "rating": 4.5,
+            "reference": "ChIJf-v2zzUDDTkRCWfqwxHYySk",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 235,
+            "vicinity": "1/7, East Patel Nagar, Above SBI/ Federal Bank, Opp. Metro Pillar Number 178 Nr. Patel Nagar Metro Gate No. 3, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.750873,
+                    "lng": 77.143671
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.75223427989272,
+                        "lng": 77.14501667989272
+                    },
+                    "southwest": {
+                        "lat": 28.74953462010728,
+                        "lng": 77.14231702010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "True Temp Technology",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJd-3rnjD9DDkRFlSbcmhW4Y0",
+            "plus_code": {
+                "compound_code": "Q42V+8F Delhi",
+                "global_code": "7JWVQ42V+8F"
+            },
+            "rating": 3,
+            "reference": "ChIJd-3rnjD9DDkRFlSbcmhW4Y0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "197, Main Libaspur Rd, Libaspur Extension, Libaspur, Samaypur, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7090313,
+                    "lng": 77.1131283
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.71040022989272,
+                        "lng": 77.11444932989272
+                    },
+                    "southwest": {
+                        "lat": 28.70770057010728,
+                        "lng": 77.11174967010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "FUTURE LINKS",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJrbkraVcBDTkRnKMbTxpmyIM",
+            "plus_code": {
+                "compound_code": "P457+J7 New Delhi, Delhi",
+                "global_code": "7JWVP457+J7"
+            },
+            "rating": 4.9,
+            "reference": "ChIJrbkraVcBDTkRnKMbTxpmyIM",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 101,
+            "vicinity": "C-7/231, 2nd floor, Sector 7, Rohini, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6360137,
+                    "lng": 77.0921005
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63746732989272,
+                        "lng": 77.09339732989271
+                    },
+                    "southwest": {
+                        "lat": 28.63476767010728,
+                        "lng": 77.09069767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "AimGrowth Consultancy Services LLP",
+            "place_id": "ChIJ__-rPpgEDTkRz8WwtPvWq7Y",
+            "plus_code": {
+                "compound_code": "J3PR+CR New Delhi, Delhi",
+                "global_code": "7JWVJ3PR+CR"
+            },
+            "rating": 0,
+            "reference": "ChIJ__-rPpgEDTkRz8WwtPvWq7Y",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gautam Tower, Office No. 102, 1/27, 1st floor Metro Station, Mall Rd, Tilak Nagar, New Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6444606,
+                    "lng": 77.19157589999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.64580962989272,
+                        "lng": 77.19292017989271
+                    },
+                    "southwest": {
+                        "lat": 28.64310997010728,
+                        "lng": 77.19022052010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Temp",
+            "place_id": "ChIJOQa-X0sDDTkRm72OS4lOk_A",
+            "rating": 0,
+            "reference": "ChIJOQa-X0sDDTkRm72OS4lOk_A",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J5VR+QJP, Abdul Aziz Rd, Block 8, WEA, Karol Bagh, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6386438,
+                    "lng": 77.07206
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.63997717989272,
+                        "lng": 77.07338392989273
+                    },
+                    "southwest": {
+                        "lat": 28.63727752010728,
+                        "lng": 77.07068427010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Get Fast Services",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJEX37yO4EDTkR__tcf-FV0SA",
+            "rating": 5,
+            "reference": "ChIJEX37yO4EDTkR__tcf-FV0SA",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "116, Site 4, near Coffee Home, Block C, Vikaspuri, Delhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.6963573,
+                    "lng": 77.0668488
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.69768182989272,
+                        "lng": 77.06827087989272
+                    },
+                    "southwest": {
+                        "lat": 28.69498217010728,
+                        "lng": 77.06557122010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Simpli Staffing Solution",
+            "place_id": "ChIJAbb9lSgEDTkRlv-qyiaF8kM",
+            "plus_code": {
+                "compound_code": "M3W8+GP Delhi",
+                "global_code": "7JWVM3W8+GP"
+            },
+            "rating": 0,
+            "reference": "ChIJAbb9lSgEDTkRlv-qyiaF8kM",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "D-2/51 Hari enclave part C block, 1, Kirari Suleman Nagar Village, Sultanpuri, Delhi"
+        }
+    ],
+    "status": "OK"
+}

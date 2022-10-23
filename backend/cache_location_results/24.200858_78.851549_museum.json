@@ -1,0 +1,86 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 24.2843571,
+                    "lng": 78.9308164
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.28574282989272,
+                        "lng": 78.93219392989272
+                    },
+                    "southwest": {
+                        "lat": 24.28304317010728,
+                        "lng": 78.92949427010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Mates Chanderiya Traders",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112423841382287119291\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgUcjtF0rb5jGtGke5HwVxLn-auXpokkdkzDgBDFcj8crkD8C9G9C3iffUI5bhJQTWVKbaqJzoqetvd-v9yUhLsg_O9s2Q4VmrwYupW9Rr1C37WR7WUNfN0kbTNasw6sR0I4WUbIp7M2YFURs6INalHCfm_2z18XZ-rV5eMN9KIzIO-",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJL3WqJPvteDkRvkFw06bW5lc",
+            "rating": 1,
+            "reference": "ChIJL3WqJPvteDkRvkFw06bW5lc",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "7WMJ+P8M, Main Tigadda Barataria, Alampur"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 24.1979815,
+                    "lng": 78.9100382
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 24.19929837989272,
+                        "lng": 78.91137867989272
+                    },
+                    "southwest": {
+                        "lat": 24.19659872010727,
+                        "lng": 78.90867902010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Shekh Nazar Kirana Stor",
+            "permanently_closed": true,
+            "place_id": "ChIJqxlb_XzpeDkRpTQi2mlkHgU",
+            "rating": 5,
+            "reference": "ChIJqxlb_XzpeDkRpTQi2mlkHgU",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "5WX6+52V, Unnamed Road, Barethi"
+        }
+    ],
+    "status": "OK"
+}

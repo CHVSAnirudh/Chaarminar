@@ -1,0 +1,850 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjc4Vqfl4llmyovTd08Qd2CkRYG281mI-NJ5mrgEmiwypayI5vibxt9C-JBUEvbdPRcXH6myr0JVhrU7fWuoOClwX-nGMFYGWfLF40y3zhUcmw4MvZB9AAyFw3V9Nxpby4Hq0UPvLoXxwYD_YnuHbweCUrvtfwm2CkAPK6hjr8EXUm1hlkOtRB_gbyQhBKR1Ei94c0muEfPQhll__Myqub-FGu8yze-w9NGppJMPw7W5rYmFO7k7m9bgoOpXIiXWjuQq8eXeUiG7Bp15z2nu20Z0deDffFPj7hSu6WAWE5kzgfuLE-9O-tdm16qoQVRzXVON1qqa6ZJj76grqo-yWd9yZJ0miNkdiPs6Ta-bUg4cQJFrW3IyosyhI8SVr-Qze5Nqjic4IbdDo0BpmwCf0PDuBawfvY2-jnwpcIwptj7fH-5_0sQ3XE",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1620849,
+                    "lng": 78.0396214
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16345887989272,
+                        "lng": 78.04097757989273
+                    },
+                    "southwest": {
+                        "lat": 27.16075922010727,
+                        "lng": 78.03827792010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Peepal temple",
+            "place_id": "ChIJw7g3I4xxdDkRKocosNeSu74",
+            "rating": 0,
+            "reference": "ChIJw7g3I4xxdDkRKocosNeSu74",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "526Q+RRQ, Deewan ji ka mohalla, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1493288,
+                    "lng": 78.0443189
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15069222989272,
+                        "lng": 78.04564757989272
+                    },
+                    "southwest": {
+                        "lat": 27.14799257010728,
+                        "lng": 78.04294792010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Indrapuram temple",
+            "place_id": "ChIJP_srW-hxdDkRqYbAU32ddEk",
+            "plus_code": {
+                "compound_code": "42XV+PP Agra, Uttar Pradesh",
+                "global_code": "7JVW42XV+PP"
+            },
+            "rating": 0,
+            "reference": "ChIJP_srW-hxdDkRqYbAU32ddEk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "LIG-D-188, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.3027853,
+                    "lng": 78.1977661
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.30403202989272,
+                        "lng": 78.19850075000001
+                    },
+                    "southwest": {
+                        "lat": 27.30133237010728,
+                        "lng": 78.19556215
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Mahadev Temple",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108769103572286438738\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRibwP4j-EcTo-iN60N-1TibDMIEJHb4uYyjY1PVihIjFp3_bDKTkHBcE7JWxkzUk7yRYfQQM38UOWe5PqXeFqdtKQ34z8WpO77nrNbI60hnn4OIJ2z8Qi66qxUiXlbj0urtLBRPuf8KV_asUvZ-4d7nQ__seFANO2pd2K9wVSz3dAY4",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJJ0gaJSNldDkRvW4zndmP-XE",
+            "rating": 5,
+            "reference": "ChIJJ0gaJSNldDkRvW4zndmP-XE",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "853X+44, Nagla Gol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2105548,
+                    "lng": 78.1249404
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.21196242989272,
+                        "lng": 78.12634207989272
+                    },
+                    "southwest": {
+                        "lat": 27.20926277010728,
+                        "lng": 78.12364242010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "temple",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116590985108049860742\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgMvpnTpPZrGCsnVjLX4iOCm5iiXuNxMwuy3LqzoEQ_xFjbvik8Y63Jd-Ae1f5BfncAKvUHwapHiRNoluMNKzpxHJfBFXwtItdoLi_6I7X0JC_2nEcazuuDn7odOt50aVhaZd_HUYMMcSgXU9RLfyWk6VkV71tJ7nkTZJLE9ETHp62m",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJp_ucN5JvdDkRAn42DzGvHqw",
+            "rating": 5,
+            "reference": "ChIJp_ucN5JvdDkRAn42DzGvHqw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "646F+6XG, Rahan Kalan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1761226,
+                    "lng": 78.0620838
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17760122989272,
+                        "lng": 78.06480194999999
+                    },
+                    "southwest": {
+                        "lat": 27.17490157010728,
+                        "lng": 78.06117774999998
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "SHREE BALAGI TEMPLE",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109342095123964546958\">Sonu Bhagel</a>"
+                    ],
+                    "photo_reference": "AcYSjRj0y4XwvmCAe9hfwOG7A3lPQO6bBui4To6mRQZd4w3beEeSiBsvnrA-_RFSUT9TrkGHxKWClnO3tYZotrj5FXRRZTJUtXEOgm_4e4JSTlf-8eZk55GzIIMf_a9oSEDggTcQV_UiFemKhB6XvtL0v1EbqbxVLt4WYZYGrV-wZJ-v_SXn",
+                    "width": 2160
+                }
+            ],
+            "place_id": "ChIJlTn3_gpxdDkRdKq-ndWyHc0",
+            "rating": 4.8,
+            "reference": "ChIJlTn3_gpxdDkRdKq-ndWyHc0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "53G6+CRW, Unnamed Road, Karmana Mustkil"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1364883,
+                    "lng": 78.04791589999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.13784487989272,
+                        "lng": 78.04925332989272
+                    },
+                    "southwest": {
+                        "lat": 27.13514522010728,
+                        "lng": 78.04655367010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJhT0-425xdDkRdmxdi2PoVLc",
+            "plus_code": {
+                "compound_code": "42PX+H5 Agra, Uttar Pradesh",
+                "global_code": "7JVW42PX+H5"
+            },
+            "rating": 0,
+            "reference": "ChIJhT0-425xdDkRdmxdi2PoVLc",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Mata Parvati Dham, Maruti City Rd, Kahrai, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.166502,
+                    "lng": 78.0372648
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16781632989272,
+                        "lng": 78.03853542989272
+                    },
+                    "southwest": {
+                        "lat": 27.16511667010728,
+                        "lng": 78.03583577010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Shiv Mandir Hindu Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ2zCUeyNxdDkRWYcpTMfIVxo",
+            "rating": 0,
+            "reference": "ChIJ2zCUeyNxdDkRWYcpTMfIVxo",
+            "scope": "GOOGLE",
+            "types": [
+                "place_of_worship",
+                "hindu_temple",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "528P+JW2, Fatehabad Rd, Near Purani Mandi Crossing, Impeypura, Rakabganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.3131883,
+                    "lng": 78.1930313
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.31455787989272,
+                        "lng": 78.19439442989272
+                    },
+                    "southwest": {
+                        "lat": 27.31185822010728,
+                        "lng": 78.19169477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Lord shiv temple",
+            "place_id": "ChIJD5gK8khldDkRTGfDVNXoB24",
+            "rating": 0,
+            "reference": "ChIJD5gK8khldDkRTGfDVNXoB24",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "857V+76F, Nagla Gol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2149828,
+                    "lng": 78.02632430000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.21639217989273,
+                        "lng": 78.0276786798927
+                    },
+                    "southwest": {
+                        "lat": 27.21369252010728,
+                        "lng": 78.02497902010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shir Kamleshwar naath Mahadev Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114931276255582328942\">Yash Engg</a>"
+                    ],
+                    "photo_reference": "AcYSjRi7HArvATGamK3MmWuuZ2H-iU4Z706DvKB-XGPzya42rFKZuJbExFS3TVyVwPB6BJeQV4xpHNmEugzKuF2VcritKLC14N0K2mT_YOFqXU7kRPx3yKraHBMs_KUZ-JmcBr0tab2uIkLZGEkh_K7I6YBOHfQVJFqp7CgYYzVZf7pZZS_Z",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ2abtEs1xdDkRMOB2W7RDulU",
+            "rating": 4.7,
+            "reference": "ChIJ2abtEs1xdDkRMOB2W7RDulU",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "627G+XGW, Natrajpuram, Balkeshwar Colony, Kamla Nagar, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1583967,
+                    "lng": 78.0614818
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15985807989272,
+                        "lng": 78.06283602989272
+                    },
+                    "southwest": {
+                        "lat": 27.15715842010728,
+                        "lng": 78.06013637010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hindu Temple \ud83d\udd49\ufe0f",
+            "place_id": "ChIJtdnUIu9xdDkR8TKNAJnGeV8",
+            "rating": 0,
+            "reference": "ChIJtdnUIu9xdDkR8TKNAJnGeV8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "5356+8HX, Near Arvind Hyundai, Hotel Trident Crossing, I Love Agra Point, Fatehabad Rd, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1735564,
+                    "lng": 78.04397039999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17490347989272,
+                        "lng": 78.04524247989272
+                    },
+                    "southwest": {
+                        "lat": 27.17220382010728,
+                        "lng": 78.04254282010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Maa Sherawali Mandir Hindu Temple",
+            "photos": [
+                {
+                    "height": 1240,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103162530551911757223\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhJDWf81TG0hdN4znMPprTcMTkUabDEVglqxbd0sRzxkkomOpn-75OJLP_VyA63oZZ-E57saUtrW-rsDo68qfvu5AyEHekOJiNLgHvJnc39lzghEGRTzmoahMYPkP2qZMkSYWA53VmICl9Sc2Dr3mBohZJKSnZjqKmhRPWqVVEjGW4P",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJg82_6RtxdDkRLyUdIZuAEe8",
+            "rating": 4.3,
+            "reference": "ChIJg82_6RtxdDkRLyUdIZuAEe8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 146,
+            "vicinity": "52FV+CHG, Dhusehara Ghat Road, Taj East Gate, Forest Colony, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2025559,
+                    "lng": 78.0505498
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20392692989272,
+                        "lng": 78.05197152989271
+                    },
+                    "southwest": {
+                        "lat": 27.20122727010728,
+                        "lng": 78.04927187010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Bholenath Temple",
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118301518107699879348\">Rajat Hodal</a>"
+                    ],
+                    "photo_reference": "AcYSjRgGf6RKHyFzLdQzPkHGWieJbNY_oPg90GHb1n9gvQybP62Yh1Jbl_k6J-dcWq9GvBDpdZzXbwDYPBH03LghdOHeerzIk8vF0RkUwFrmIzYFdXVyeyZsDxuPDSntdYZVGALt6DtYKpiPjbJsxA2OnvwyPlqvnMTAGy3pXttocxgHqnYo",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJCcMdA5NwdDkRMNSA5LlpRuQ",
+            "rating": 5,
+            "reference": "ChIJCcMdA5NwdDkRMNSA5LlpRuQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "6332+27X, jain temple ke samane, Nunihai, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1657596,
+                    "lng": 78.0456753
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.16717462989272,
+                        "lng": 78.04705167989272
+                    },
+                    "southwest": {
+                        "lat": 27.16447497010728,
+                        "lng": 78.04435202010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Dalihai Mandir Hindu Temple",
+            "photos": [
+                {
+                    "height": 1188,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111115739014161825794\">Yash Srivastava</a>"
+                    ],
+                    "photo_reference": "AcYSjRioukgCm7mUsc48QgVa8Ik56ODyoD5-JUXTbzPhfPc5TI9NVIMfwpQWXmiyhFqxb1MCfdek0PGEkzPRld8FkPL1caKxbStjMVGgpKw1l77UFb59tIY2a50R_mYbw3Y5zGZ3wCC1ZETbfee6u6QQd_7MoVCKm8CNbH-q6D6ZJBREfLUd",
+                    "width": 2576
+                }
+            ],
+            "place_id": "ChIJlR4-MhhxdDkRcEBLlHRtIx8",
+            "plus_code": {
+                "compound_code": "528W+87 Agra, Uttar Pradesh",
+                "global_code": "7JVW528W+87"
+            },
+            "rating": 4.4,
+            "reference": "ChIJlR4-MhhxdDkRcEBLlHRtIx8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29,
+            "vicinity": "12/30, Dalihai, Paktola, Tajganj, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.175755,
+                    "lng": 78.103432
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.17722442989272,
+                        "lng": 78.10488307989272
+                    },
+                    "southwest": {
+                        "lat": 27.17452477010728,
+                        "lng": 78.10218342010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Ancient Shiva Temple",
+            "place_id": "ChIJmwUCqnVxdDkRQYlAIt_c1QI",
+            "rating": 5,
+            "reference": "ChIJmwUCqnVxdDkRQYlAIt_c1QI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "54G3+893, Unnamed Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2255572,
+                    "lng": 78.025464
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.22691562989272,
+                        "lng": 78.02681892989271
+                    },
+                    "southwest": {
+                        "lat": 27.22421597010728,
+                        "lng": 78.02411927010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shree Amiteshwarnath Temple",
+            "place_id": "ChIJcRScCJZ7dDkR7vIOBMImneg",
+            "plus_code": {
+                "compound_code": "62GG+65 Agra, Uttar Pradesh",
+                "global_code": "7JVW62GG+65"
+            },
+            "rating": 0,
+            "reference": "ChIJcRScCJZ7dDkR7vIOBMImneg",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Amita Bihar, Karmyogi Rd, Karmyogi Enclave, Phase 2, Kamla Nagar, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1995169,
+                    "lng": 78.02887919999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20085722989272,
+                        "lng": 78.03022267989272
+                    },
+                    "southwest": {
+                        "lat": 27.19815757010728,
+                        "lng": 78.02752302010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Achleshwar Mahadev Temple",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107107809192325418572\">sunil shyamji</a>"
+                    ],
+                    "photo_reference": "AcYSjRgdBUQjYccKtYMruckMogKw0nLygfSBoyW2juraSd2z5eUfyLDWsvZv5ZmykLrq_PSi3PG6cVJFPohOKvJUu9ahzDRK5glf1gbltGhV4R_kXBb-nJaCcEJLO87kl-gkFGfM_RksmAwft5NwY-IMv87XTZa6w5o8SmSQqgb19YHbhY4s",
+                    "width": 1872
+                }
+            ],
+            "place_id": "ChIJN_zn6w9xdDkRLPAtvQpC3_Q",
+            "rating": 5,
+            "reference": "ChIJN_zn6w9xdDkRLPAtvQpC3_Q",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "52XH+RH6, Krishna Colony, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2027199,
+                    "lng": 78.0204792
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.20404797989272,
+                        "lng": 78.02190297989273
+                    },
+                    "southwest": {
+                        "lat": 27.20134832010728,
+                        "lng": 78.01920332010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Dkshinmuki ancient Hanuman temple",
+            "photos": [
+                {
+                    "height": 1890,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118148427742922603685\">MAYANK PARASHAR</a>"
+                    ],
+                    "photo_reference": "AcYSjRioqHKshzubPU39wd4Nl7t1n35dZEWhk4QHFzHu6SwPJM_zxhJdIf8T9EjZJWjBcIbgYbQ8QAucgJnqTID4uwfsm-4rQwLwFcbXeL6UoTRAOUTi3pgE0VSq7PTtmteWfWP70agKNIFbbuq3QmML3EE57ivYqyZJ9RveNSS1KFkyAGnK",
+                    "width": 2307
+                }
+            ],
+            "place_id": "ChIJAVZBu7RwdDkRiZMR_KmdYXA",
+            "plus_code": {
+                "compound_code": "623C+35 Agra, Uttar Pradesh",
+                "global_code": "7JVW623C+35"
+            },
+            "rating": 4.9,
+            "reference": "ChIJAVZBu7RwdDkRiZMR_KmdYXA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "42, Inner City Ring Rd,Opposite Vijay Club, Old Vijayanagar Colony, Inner City Ring Rd, Opposite Vijay Club uphc, Old Vijayanagar Colony, Vijayanagar Colony, Civil Lines, Agra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.1580251,
+                    "lng": 78.0535384
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.15929772989272,
+                        "lng": 78.05489282989272
+                    },
+                    "southwest": {
+                        "lat": 27.15659807010728,
+                        "lng": 78.05219317010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shiv Ji Temple",
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109864610305398075295\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhjRRNIFa62k1oNxB95KI0iqIEzm4OL6VPO_1Qm0fZ_c51co3oE5jzqMSTeMQMchpiUvkU2SA-n95LlBdnaK_3RtpdWLiwY3NX6OSchPSjI5ykfgXrxOedp4heGTKAmicdOmTYZK4appH8xngipRYJeA8Qmpw_RPbUfWZq7tf6UhR9v",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJY7yxeRJxdDkRlvGt11R4kXU",
+            "rating": 3.5,
+            "reference": "ChIJY7yxeRJxdDkRlvGt11R4kXU",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "5353+5CV, Basai Khurd, Tajganj, Basai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.2410562,
+                    "lng": 78.1077797
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.24243307989272,
+                        "lng": 78.10908802989272
+                    },
+                    "southwest": {
+                        "lat": 27.23973342010728,
+                        "lng": 78.10638837010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "The Great Hindu Temple",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112835468885465117815\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjDeshePSW_b75WSOlJEX2sAXWZo1NkDNCO4veR7yiL-ySPEwNQ6xtwJP-Xtyqdwxss9tyO0If9cL4Ni9EH2PnTifa-jsP1ztm0bJjFi55lDsFaQu7LoQxLcqFXO5PECuh4-5usb3wvSF4mIEqXs47hZYpMvvXXeBDgYOUtaHMrkHd5",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJA_ErYrJ6dDkRk09p49SI69o",
+            "rating": 3.2,
+            "reference": "ChIJA_ErYrJ6dDkRk09p49SI69o",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "64R5+C47, Unnamed Road, Chaugan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.312016,
+                    "lng": 78.1919429
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.31340337989272,
+                        "lng": 78.19326187989272
+                    },
+                    "southwest": {
+                        "lat": 27.31070372010728,
+                        "lng": 78.19056222010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman temple",
+            "place_id": "ChIJaSedBkBldDkRJ7JDUBLyrxg",
+            "rating": 5,
+            "reference": "ChIJaSedBkBldDkRJ7JDUBLyrxg",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "856R+RQ4, Nagla Gol"
+        }
+    ],
+    "status": "OK"
+}

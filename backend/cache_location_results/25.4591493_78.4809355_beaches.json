@@ -1,0 +1,106 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.463039,
+                    "lng": 78.578418
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.46430627989272,
+                        "lng": 78.57972377989272
+                    },
+                    "southwest": {
+                        "lat": 25.46160662010728,
+                        "lng": 78.57702412010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "ZMart",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1224,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113655870411145744728\">Umakant Shakya</a>"
+                    ],
+                    "photo_reference": "AcYSjRgCEwYYP8Z7ctLsqRserX_7QuoKnIsWbpJcZ07pzrulaaSQMWcad-VUJGrIBfAFOOVPAbvfVVJOH0HOJU2jKDv5ExfT_vg5BXdoUpJ9Lt3vR1bAdraIhgWKf4gsCBj22FlgpEAIf10ULGiyqEGfXC9oyO7_1NbSVZGAvc0hbWgtlKRr",
+                    "width": 1632
+                }
+            ],
+            "place_id": "ChIJXVWhyNR2dzkRpLXRhA1s8rM",
+            "plus_code": {
+                "compound_code": "FH7H+69 Jhansi, Uttar Pradesh",
+                "global_code": "7JQWFH7H+69"
+            },
+            "rating": 3.5,
+            "reference": "ChIJXVWhyNR2dzkRpLXRhA1s8rM",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 42,
+            "vicinity": "372/18 D, Gwalior Rd, Civil Lines, Gandhigar Ka Tapra, Jhansi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.4575045,
+                    "lng": 78.5788948
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.45885362989272,
+                        "lng": 78.58024832989271
+                    },
+                    "southwest": {
+                        "lat": 25.45615397010728,
+                        "lng": 78.57754867010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Spike.. All Family wear Garments",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1844,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117199964935872872522\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRie2CmWcAyBDAcpW97CPKAg-1x-YftF3ROVY0aYtbD8-cV09HEp6RnjN5Cl3rxO9z-yVPLicbjOZJ_J5CJg9FkcGQsJUHQwa6UXPh7yqiZD_qsGrMFdnPphJ65MqPODesQQm-CfbPa5_HB4Y-HWJoL5wIJZABR7h4MKhVCknEaYzPIq",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJa4H65CV3dzkRxOBJIElxAkg",
+            "rating": 3,
+            "reference": "ChIJa4H65CV3dzkRxOBJIElxAkg",
+            "scope": "GOOGLE",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "FH5H+2H2, Unnamed Road, Chhaniya Pura, Manik Chowk, Jhansi"
+        }
+    ],
+    "status": "OK"
+}

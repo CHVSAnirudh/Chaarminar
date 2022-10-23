@@ -1,0 +1,57 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 26.5777458,
+                    "lng": 78.1109094
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 26.57919137989272,
+                        "lng": 78.11217047989273
+                    },
+                    "southwest": {
+                        "lat": 26.57649172010728,
+                        "lng": 78.10947082010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Bhagwati studio and Computer center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1932,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106815564779807241345\">DEEPAK seerothiya</a>"
+                    ],
+                    "photo_reference": "AcYSjRjZR2R3v17nCqal5X-Up7Bj3yfcdir8DkQrnAjxLjmFkJrMLE-HYwQWtOtifYFim6ATOBvn2Pn-sdhAXCXyFkIXIQAmZ1YsUkBeoiBx9wwGLGJAEwz0z9-0Hq2nIwoWgfxIeYLeikcHy-j8mCRjYYHoU9WOFgyIuDoDhJAbz81i9gnK",
+                    "width": 2576
+                }
+            ],
+            "place_id": "ChIJpfdKvjuldjkRhscyJfNZnoo",
+            "plus_code": {
+                "compound_code": "H4H6+39 Nawali Badagaon, Madhya Pradesh",
+                "global_code": "7JRWH4H6+39"
+            },
+            "rating": 0,
+            "reference": "ChIJpfdKvjuldjkRhscyJfNZnoo",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Nawali Badagaon, Morena"
+        }
+    ],
+    "status": "OK"
+}

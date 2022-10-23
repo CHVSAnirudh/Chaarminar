@@ -1,0 +1,53 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 20.5505298,
+                    "lng": 78.83635939999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 20.55187317989272,
+                        "lng": 78.83779227989271
+                    },
+                    "southwest": {
+                        "lat": 20.54917352010727,
+                        "lng": 78.83509262010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Lakshmi Talkies",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104387100345575913028\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg52X7xa9nVSmWg_aL5fRuHQbPNtUGaflbIyrblYPrWGrQ6Xz03RKTfLWyWmiEqIiLQ8aY1PDuyADRbHfV3eCIGR4KlklZhNTzXuF8Ogt1HBOB2P3JLA0INCi8zSOyJbsg7xtprbsAzmkIcoYh4R5KVNkPTD4XdcVBEjxJaH9m23gVG",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJOSsaEa160zsRxUmJbPam0nA",
+            "rating": 3.2,
+            "reference": "ChIJOSsaEa160zsRxUmJbPam0nA",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 476,
+            "vicinity": "HR2P+6G9, Dag Borkhedi, Hinganghat"
+        }
+    ],
+    "status": "OK"
+}

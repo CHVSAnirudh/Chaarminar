@@ -1,0 +1,306 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6150186,
+                    "lng": 78.19613269999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61631912989272,
+                        "lng": 78.19745302989271
+                    },
+                    "southwest": {
+                        "lat": 18.61361947010728,
+                        "lng": 78.19475337010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "A to BAZAR SHINDHIBHAVAN THILAK GARDAN ROD",
+            "place_id": "ChIJs8PT52nPzTsRGXWD4WmCZoE",
+            "plus_code": {
+                "compound_code": "J58W+2F Nizamabad, Telangana",
+                "global_code": "7JCWJ58W+2F"
+            },
+            "rating": 0,
+            "reference": "ChIJs8PT52nPzTsRGXWD4WmCZoE",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "2A, Barkatpura, opp. Bedi Carakhana, near Jama Masjid, Nizamabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5458019,
+                    "lng": 78.243308
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.54721967989272,
+                        "lng": 78.24468332989271
+                    },
+                    "southwest": {
+                        "lat": 18.54452002010728,
+                        "lng": 78.24198367010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vijayalaxmi Complex",
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113739281627405883313\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhUdDcr4q4lTgf5Z60c5Fe3EKOSAfjTRMXzXp6ByRcD0hCrj1hIdbcdrGmf9M4ME9JQpwym7j9_zeZi1J1qbX2Z1r7PxFs8GLnWgTfED79aWCipiq79_eho9Ra3lHgRdfefXqyfMQxIIBF6NbA28QpIVMcNiFJb6mI1n1kNDm_JgPqX",
+                    "width": 2322
+                }
+            ],
+            "place_id": "ChIJmQsltMTJzTsRRDwB8nnMViw",
+            "plus_code": {
+                "compound_code": "G6WV+88 Indalwai, Telangana",
+                "global_code": "7JCWG6WV+88"
+            },
+            "rating": 0,
+            "reference": "ChIJmQsltMTJzTsRRDwB8nnMViw",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "3-32/3A, thirmanpally, beside busstop, opposite indian oil petrol bunk, Indalwai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6115142,
+                    "lng": 78.2016766
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61292847989272,
+                        "lng": 78.20305622989272
+                    },
+                    "southwest": {
+                        "lat": 18.61022882010728,
+                        "lng": 78.20035657010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "99 Store Dichpally",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117871923789780994774\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjR5hlvD-t8jrr8iUL3CG_9vBTlfFl8MHqb5eTsfSCUQ-OzhQ4DFt27ZluiWnvyGTjzaYD7J5G-EgeeshxCZWQdq2FnuNOwaiprWLNtfqslq7fnn6JYxfx97XPzPkaN2SNLss9eZ-5yqatUeEjVUV4aHoDBSDtDl6j4Z-pnItRiZgmS",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJTXR_VRHPzTsRKUBVl1QMo4k",
+            "plus_code": {
+                "compound_code": "J662+JM Dichpally, Telangana",
+                "global_code": "7JCWJ662+JM"
+            },
+            "rating": 5,
+            "reference": "ChIJTXR_VRHPzTsRKUBVl1QMo4k",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Hyderabad Rd, beside Gromore, Dichpally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4834877,
+                    "lng": 78.28393009999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.48485782989273,
+                        "lng": 78.28528442989273
+                    },
+                    "southwest": {
+                        "lat": 18.48215817010728,
+                        "lng": 78.28258477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jonna mohan",
+            "place_id": "ChIJwUzh7SnLzTsRvFyrSzna-HE",
+            "rating": 0,
+            "reference": "ChIJwUzh7SnLzTsRvFyrSzna-HE",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "F7MM+9HV, Unnamed Road, Sirnapally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5922729,
+                    "lng": 78.15144649999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.59364552989272,
+                        "lng": 78.15280007989271
+                    },
+                    "southwest": {
+                        "lat": 18.59094587010728,
+                        "lng": 78.15010042010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sree Sai Dresses",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJawY-ADjPzTsRPwmRH6Q_il0",
+            "plus_code": {
+                "compound_code": "H5R2+WH Kulaspoor, Telangana",
+                "global_code": "7JCWH5R2+WH"
+            },
+            "rating": 5,
+            "reference": "ChIJawY-ADjPzTsRPwmRH6Q_il0",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Unnamed Road, Kulaspoor"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6283233,
+                    "lng": 78.1841726
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.62963907989272,
+                        "lng": 78.18549247989272
+                    },
+                    "southwest": {
+                        "lat": 18.62693942010728,
+                        "lng": 78.18279282010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jessy Fashions & Spice Money Mini ATM",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 409,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109316526392908557104\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi-Cqxvx7CEPr9yEGKtZn1bfOw6_XLtqrUGeQlthv7Xl0LC4xsqw7BTqWYG8hsnhj19kua5TdqGS-nisBNZmfVdHryAmK9cAX-TH_z9YYbSN_-xmxfvG6KzevKA0bMxgN0L7cxK2AQOExEU18jrx7MJVw4G3b4UPZO5qmlcBMQYwNCT",
+                    "width": 719
+                }
+            ],
+            "place_id": "ChIJHULPpsHPzTsRJW4inTqADAc",
+            "plus_code": {
+                "compound_code": "J5HM+8M Nadipally Thanda, Telangana",
+                "global_code": "7JCWJ5HM+8M"
+            },
+            "rating": 5,
+            "reference": "ChIJHULPpsHPzTsRJW4inTqADAc",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Hyderabad Rd, Nadipally Thanda"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5622434,
+                    "lng": 78.3186719
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56356892989272,
+                        "lng": 78.32000472989273
+                    },
+                    "southwest": {
+                        "lat": 18.56086927010728,
+                        "lng": 78.31730507010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rachakonda Shiva",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJwxp1LUC2zTsRCmZDSMoO_rU",
+            "rating": 5,
+            "reference": "ChIJwxp1LUC2zTsRCmZDSMoO_rU",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "H869+VCX, Ansanpally"
+        }
+    ],
+    "status": "OK"
+}

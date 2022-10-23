@@ -1,0 +1,875 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjtGmK27iOe40Yx_mPFGZTcKCEY7Ud7CMIjW3rUOHMfxEeUn_zk9fetpG05Fw6_gecsCiUW0Zyk6n0iBHcKT6uYcP0nzYqVrtqL2cmFVWeGFiVYmmsujngUd9IN6FjZpq2f7OMyx7JXQ36Zw9Egj1vDAoJx00MPgai7LGN9ZhBeiHHZg_xEInRh9udSSoAdP51W0FHIxmkRCL4BOlSLJ8zfjmQ1oa--lNCqp1lFTJWtg3Xn_oJG5CKGmVvvBlycWzoTNdDSkycZ3Jvqf7u4Rjy7Dh9zXWMFz_u6QAnp27WGTYmgd7F3Cxrgz-Ey2cqIHDtAevBoNZhCyf4jHNgcGZZq5J1xAEBaoTSncmB0m8TwHbuW8PtCxaIUCy1FUJikNpv0btCboX3T3QAnP2s1_jIoR90lBEz7qLWxg3UiqfzEYh8WRdrL",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7721203,
+                    "lng": 77.7445438
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.77348017989272,
+                        "lng": 77.7459176298927
+                    },
+                    "southwest": {
+                        "lat": 27.77078052010728,
+                        "lng": 77.74321797010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Ambedkar park",
+            "place_id": "ChIJKawnCqNDczkRrzWxFcRjz1k",
+            "rating": 0,
+            "reference": "ChIJKawnCqNDczkRrzWxFcRjz1k",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "QPCV+RRV, Bhadanwara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.75158,
+                    "lng": 77.881248
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.75295137989272,
+                        "lng": 77.88262507989272
+                    },
+                    "southwest": {
+                        "lat": 27.75025172010728,
+                        "lng": 77.87992542010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Jitendra park",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100808759907737836481\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj_kUwyejX-lnyuAskp0cmAxy3zLKl7C5EU0hpcZ8e3e8jfGuz5gkBlgDaSL1p4SPyCqV58DkXHWUzZBBj3oPrxXttaQWcWyjhodPzRKzMtW1-W1t0uMxSNo3wLlx1-Tbv4LOhIx2OXOc5wvS-FbHuH-z7OkVxmc2thcieZeoUE99Uo",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJPWMdd5BhczkRvj1rkOk1QSA",
+            "rating": 0,
+            "reference": "ChIJPWMdd5BhczkRvj1rkOk1QSA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "QV2J+P7C, Kanetpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.830374,
+                    "lng": 77.8775773
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.83172497989272,
+                        "lng": 77.87882152989272
+                    },
+                    "southwest": {
+                        "lat": 27.82902532010728,
+                        "lng": 77.87612187010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "GONDA PARK",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3474,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102701247438429077797\">Vikas Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRgMJv9gbHIkza2Efa6IpBp422LOjmPVT59YXXe9TD0Q32eHM9R4yrIsYCyFS6f7olMahlTQnSeBGh3Kozdjb6XeUPaxewDkPSNBBJz0v4EXh3p7AfUqPr3QMWknEpVauefHsJGMeg31G1sD8-isxci3ZB9Z22Gy47IU7nGWV51bCsJo",
+                    "width": 4632
+                }
+            ],
+            "place_id": "ChIJI2gHyIRfczkRVlCyOGA4A84",
+            "rating": 0,
+            "reference": "ChIJI2gHyIRfczkRVlCyOGA4A84",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "RVJH+42W, Khair Rd, Gonda"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.9037645,
+                    "lng": 77.8176866
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.90464452989272,
+                        "lng": 77.8186004
+                    },
+                    "southwest": {
+                        "lat": 27.90194487010728,
+                        "lng": 77.8149452
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Pintu field",
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105881461537070280518\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgD4cf5-yumOTXu4PiTbFbzLCM9tfP-hwcE9XjOD3Uhv6G60tzCwQIwFNq-jHhPL5FsDY_qextJsUJwbpDvtiIuOHJfkpyxopkZ1Vr34YWMDmaVcZUBZypeWefP0IMLtBKTryEOEB3c5M908brsgbvrRNfZbXMQpt-69aohrL6TLx2v",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJwRcHX95bczkRSYFPhmR7dyM",
+            "rating": 5,
+            "reference": "ChIJwRcHX95bczkRSYFPhmR7dyM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "WR39+G33, Sawai Raghunathpur Rd, Vajeedpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7820071,
+                    "lng": 77.7279526
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.78336887989273,
+                        "lng": 77.72937377989271
+                    },
+                    "southwest": {
+                        "lat": 27.78066922010728,
+                        "lng": 77.72667412010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Pandit park",
+            "photos": [
+                {
+                    "height": 3023,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117709931737316491315\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiixOYKqiZffA7EF6UG2GfRu4W1_w60_y6zmlaqGFbUJ3sgE05KtSKLTGP3XDF9cRDPkskzJhsHQqKdstHsMVv0fH-4CHNDe0hI7gZshUHIaRuraFl-JnRrfmtP_TQDAGvoAFYQr8UxSKUcGGgjxjUsumoZgNpJ_-SwqHMMhHo2mfRV",
+                    "width": 1468
+                }
+            ],
+            "place_id": "ChIJi-2orWFDczkRT-q4uXpoZcY",
+            "plus_code": {
+                "compound_code": "QPJH+R5 Bhadanwara, Uttar Pradesh",
+                "global_code": "7JVVQPJH+R5"
+            },
+            "rating": 0,
+            "reference": "ChIJi-2orWFDczkRT-q4uXpoZcY",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Bhadanwara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7634022,
+                    "lng": 77.9006356
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.76472227989272,
+                        "lng": 77.90201927989273
+                    },
+                    "southwest": {
+                        "lat": 27.76202262010727,
+                        "lng": 77.89931962010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Ambedkar Park, Bhaiyan",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1002,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103954261676438166339\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhYujrWfUHzq9VrUHUcoBiyVq_0wrv8X_OYILFRT9IntxmhDnDrQIi4rWILKY3hHfAhARGvWlydOg3ioYiFTHauCZzNUzMMljla__Nss0Svec2vjrA2NrwQOvdgRhIMZ58X5FmssWN7Hl5628WirZ2vY68tVFHgvwzhoQ2a6-orGgDE",
+                    "width": 658
+                }
+            ],
+            "place_id": "ChIJfzfcxXVgczkRZxjSXmu7514",
+            "rating": 3.6,
+            "reference": "ChIJfzfcxXVgczkRZxjSXmu7514",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "QW72+976, Bhaiyan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8662841,
+                    "lng": 77.881029
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.86770537989272,
+                        "lng": 77.88244392989272
+                    },
+                    "southwest": {
+                        "lat": 27.86500572010727,
+                        "lng": 77.87974427010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Park Suvkara",
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111245177744347374610\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRifwh9JZRqVAhKsLp6x2fFAvhwIIvUKqzbAIeqAh-vhx5oZHMoL0zrYTUCjNGBQQ5HHALop07DBx_j0lvPeZnFoZbWTgVd0uczzqVvSKLV32pGO2Ix4qrlwA9Cv71aRBDZL_iD9hDEsIRsAP800LhUblD-PJgd8-A30zs0u2Icw6ihg",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJuxhCdC9ZczkRXDC2IpQ00yM",
+            "rating": 5,
+            "reference": "ChIJuxhCdC9ZczkRXDC2IpQ00yM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "VV8J+GC, Majoopur Suvkara"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7682816,
+                    "lng": 77.7231029
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.76963742989272,
+                        "lng": 77.72447552989271
+                    },
+                    "southwest": {
+                        "lat": 27.76693777010728,
+                        "lng": 77.72177587010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Ambedkar Park",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117248842845345818387\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjgxLOTpgqWv8ZolX3-EuwZouKYoR5tkMAInXbueIsvesMbKfhGGQwNCwSTPau6dBgek7ysQXG988x5rkaWIGe0HWrJH_lCTTkLOgnnD_n9sdeOooyYwIYuLqgynFrR73vhAupTINIZhKPD3kyi_rU2yb8Rrvc3Tm7-nbwdpHWUU8xu",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJ291BvIxDczkR7T4IJ1kuG5k",
+            "rating": 4.3,
+            "reference": "ChIJ291BvIxDczkR7T4IJ1kuG5k",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "QP9F+869, Police Station Rd, Surir"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7910595,
+                    "lng": 77.900414
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.79244797989273,
+                        "lng": 77.90182932989272
+                    },
+                    "southwest": {
+                        "lat": 27.78974832010728,
+                        "lng": 77.89912967010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Pandit Ji Park",
+            "place_id": "ChIJjaDdJb9fczkRGjECHbfZ3Gs",
+            "rating": 5,
+            "reference": "ChIJjaDdJb9fczkRGjECHbfZ3Gs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "QWR2+C5F, Jagner"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.9231209,
+                    "lng": 77.7186266
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.92445872989272,
+                        "lng": 77.71998672989271
+                    },
+                    "southwest": {
+                        "lat": 27.92175907010727,
+                        "lng": 77.71728707010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Jaat",
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103533219768135934764\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgL9-tat2i4X5eNMTUZKiWZjmt2DAHseJH3gIe-t8y24kAkSmpEq87MW6QC3ecNMp9FFV6KProRscDonJtyBOLj7Hz17ARdUEuproGLGHkEtP-9jR67aHfZMkZcWuXLwiEqe4uIuwgZbJGRWLj2r0vLi-UDkYZTMTuDAQqrbLTSq33Q",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJMxIeVbxFczkRLn94iNQwcUE",
+            "rating": 5,
+            "reference": "ChIJMxIeVbxFczkRLn94iNQwcUE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "WPF9+6FR, Kolahar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7821303,
+                    "lng": 77.86829
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.78350277989272,
+                        "lng": 77.86969277989272
+                    },
+                    "southwest": {
+                        "lat": 27.78080312010727,
+                        "lng": 77.86699312010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Varma Ji Memorial Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1079,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102880507748797156132\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi2G3eh9vJ2nGuODc9SE7liMFzAzs2IyXvAr_n-SxFx25NE1vkRNOdTA3mTD4RIKLs4ma6YRIVxBYjIgKO6pP6VBygHpxavSDus7oC3Vbz34OoP8p_7u8nJeOQ9jroiC5syd9BNbovcvRanEtHMsv98b42AtYROhH6P2RgSc1_H0dBB",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJD7lRmTleczkRVs9GeLwH_Fw",
+            "plus_code": {
+                "compound_code": "QVJ9+V8 Sadha, Uttar Pradesh",
+                "global_code": "7JVVQVJ9+V8"
+            },
+            "rating": 3.6,
+            "reference": "ChIJD7lRmTleczkRVs9GeLwH_Fw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Harjas Thakur Marg, Sadha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8893835,
+                    "lng": 77.81866029999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.89072762989272,
+                        "lng": 77.82005767989271
+                    },
+                    "southwest": {
+                        "lat": 27.88802797010728,
+                        "lng": 77.81735802010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Shahid Bhawani Shankar Martyr site \u0936\u0939\u0940\u0926 \u092d\u0935\u093e\u0928\u0940 \u0936\u0902\u0915\u0930 \u0936\u0939\u0940\u0926 \u0938\u094d\u0925\u0932",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109006599419345186062\">vimalkant vashisth</a>"
+                    ],
+                    "photo_reference": "AcYSjRj36nTFvTxRH2ipWkeuv86V8DKo8ub1br3EHz09di6EOPNPfWa7Mi2PksnuDQJCgcDxA6yF7Lxq20m2Z9QJqsr2M-zZ0qALuT18CN83Z3v1pTXGOC6LT4ApSNxJr4t4DFSX7IGFHmpK7QKoEref-EYeFMaDW8AEm9RsKC9YNzLk84pS",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJKeoDmd5bczkR0p4LWMjBLEk",
+            "rating": 5,
+            "reference": "ChIJKeoDmd5bczkR0p4LWMjBLEk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "VRQ9+QF3, Khair"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8052319,
+                    "lng": 77.74828529999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.80666477989272,
+                        "lng": 77.7497312298927
+                    },
+                    "southwest": {
+                        "lat": 27.80396512010728,
+                        "lng": 77.74703157010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Dr. B R Ambedkar Park Sikandrpur",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104571621150859833785\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgfzY5FqRJdcIQwXDpD9AmWMnWKb3zztzY_gGTvScalou4LVyqcU6Gs4qycqEBPuemmHt1fL8nueUrXU3nw-P4w_uBcQPy_MhOFsINo9ghH_Koz8v1VWq3KQJETdZtGGfkXrH5WPoFOHg0PPDJADj17kAm3eRwqrx7CWzljP5mwK4i3",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJDyAAPL1dczkRJaRBRHZJcgE",
+            "plus_code": {
+                "compound_code": "RP4X+38 Sikanderpur, Uttar Pradesh",
+                "global_code": "7JVVRP4X+38"
+            },
+            "rating": 4.6,
+            "reference": "ChIJDyAAPL1dczkRJaRBRHZJcgE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "VILL POST SIKANDARPUR, TEHSHIL MANT DIST MATHURA"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8800793,
+                    "lng": 77.70735599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.88142172989272,
+                        "lng": 77.70871002989273
+                    },
+                    "southwest": {
+                        "lat": 27.87872207010728,
+                        "lng": 77.70601037010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u091a\u0949\u0915 \u0932\u093e\u0932\u092a\u0941\u0930",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 427,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100071335741171051739\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh6kka-3bwjOw_pGTNXKxgFJG6Qt8QQC1WN-iFUIAsa9snXpQ5yw-r5Ys57-TbB1Fc0jKVc3PVvf_ir-_GhjekviUi8FfoHgWlKRPNInmOBaOW5_JrcalPUe18cVUI_dmucVmJ0DFPSnPhC-HqCS025Kwp_60vNK4EyGrxYFUtJ4tbS",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJaRTqiwdFczkRsZMKu_OdWwo",
+            "rating": 4.4,
+            "reference": "ChIJaRTqiwdFczkRsZMKu_OdWwo",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "VPJ4+2WQ, Lalpur Mat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8186048,
+                    "lng": 77.79764949999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.81998652989272,
+                        "lng": 77.79904267989272
+                    },
+                    "southwest": {
+                        "lat": 27.81728687010728,
+                        "lng": 77.79634302010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0917\u0902\u0917\u0928\u0939\u0930 \u0916\u093e\u092f\u0930\u093e \u0915\u094b\u0920\u0940",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105161040277022506771\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgV_pmtz5fzNe_N8INY7yHTOVznhqLE5Q6AOaLoAKw9D2MBZcCdFUjeo6DBrsrv99B0CT2dRMdkr5JX8r2nrvpLNmMi3pYY7WC9B2l3bh99dXl7mWD8EdcHo6JyZqvwXvyq6anl0ZC3GDH2VCjrl4atUPQ-RvKdNXG2ewEITj5vSpsB",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJrdWuC8ZdczkR59GZhM6s7Ug",
+            "rating": 5,
+            "reference": "ChIJrdWuC8ZdczkR59GZhM6s7Ug",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "RQ9X+C3R, Khair-Tentigaon Rd, Khayra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8114452,
+                    "lng": 77.79225559999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.81278762989272,
+                        "lng": 77.79363652989272
+                    },
+                    "southwest": {
+                        "lat": 27.81008797010728,
+                        "lng": 77.79093687010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0916\u093e\u092f\u0930\u093e \u092e\u093e\u0930\u094d\u0917 \u0924\u093f\u0930\u093e\u0939\u093e",
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102256243237915098733\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg2NNlteBNB0GSrAjZCCekVsqxaickUi-8a205lXQ96AHYG3m-AZDeMiOaRt3MawsVs8-o2Fud--xMhzNSIPIDtF3T7cnCiTwwkVltK1gZZVqnUtAa12aXLqMXdOjdd45YCMN4kS-4rdxjLpECPeoRSVTcPSP3n3D_YTHr5QxMhKra-",
+                    "width": 2322
+                }
+            ],
+            "place_id": "ChIJWyIW90xdczkRvWOT_z93x5g",
+            "rating": 5,
+            "reference": "ChIJWyIW90xdczkRvWOT_z93x5g",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "RQ6R+HWC, Khair-Tentigaon Rd"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8418748,
+                    "lng": 77.7530139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.84323712989272,
+                        "lng": 77.75439927989272
+                    },
+                    "southwest": {
+                        "lat": 27.84053747010727,
+                        "lng": 77.75169962010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sharif Muhammad",
+            "place_id": "ChIJVeI8KU1dczkR_Iy_K8GSGu0",
+            "rating": 0,
+            "reference": "ChIJVeI8KU1dczkR_Iy_K8GSGu0",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "RQR3+P6R, Hasanpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.8177823,
+                    "lng": 77.7937278
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.81882997989272,
+                        "lng": 77.79482965
+                    },
+                    "southwest": {
+                        "lat": 27.81613032010728,
+                        "lng": 77.79042224999998
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u092a\u094b\u0916\u0930/\u0924\u093e\u0932\u093e\u092c",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105161040277022506771\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiopO5BL7tq729ki4-HxubvYBTq4fK9fDNERp8KJRoTIICU6BGayHxsmtzJWDKk0VL6Ce2hMKxOUXTZxy0PGbjxRkz83TpKlQOBA9FdwcdUkl5oQWJf6Wyf5ehpBGIWrKWU-BeRqUEfg8REEeeTjLIivZpaYUVW2Bs95cMzT4w0kfMi",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJGyClr0xdczkR0LsIb8bcXl8",
+            "rating": 0,
+            "reference": "ChIJGyClr0xdczkR0LsIb8bcXl8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "RQ9V+4F, Asfabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7764086,
+                    "lng": 77.9104107
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.77753802989272,
+                        "lng": 77.91175277989271
+                    },
+                    "southwest": {
+                        "lat": 27.77483837010728,
+                        "lng": 77.90905312010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "BABA AMANI SINGH PARK Jagner",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118298156436516677349\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhp8kvbF9oDyug7bYtRA0dpI-fCMWxkP6AWhtrAwGZk-yV5hIn1_2I9QvRe8UOf7ogKU67LoS_tY6v4TcM1WP9MmdxR0Zf-luLXgr9kRHBMJe2sPyLXDGCqU2qcnNHtlkFY6d-0j9PJLCsK-I_jCjQ4AQYEbVdjVElezErIc7vB6uI5",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJr5vHcuZfczkR79MCmOGBhLw",
+            "rating": 4.9,
+            "reference": "ChIJr5vHcuZfczkR79MCmOGBhLw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "QWG6+H57, Gahlau"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 27.7926449,
+                    "lng": 77.897078
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 27.79405582989272,
+                        "lng": 77.89835647989273
+                    },
+                    "southwest": {
+                        "lat": 27.79135617010728,
+                        "lng": 77.89565682010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Namo Narayan Park, Jagner",
+            "place_id": "ChIJr1uvdLlfczkRFCrASQZeF_M",
+            "rating": 0,
+            "reference": "ChIJr1uvdLlfczkRFCrASQZeF_M",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "QVVW+3R4, Jagner"
+        }
+    ],
+    "status": "OK"
+}

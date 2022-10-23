@@ -1,0 +1,821 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjbyctQWKFzzbkR5wKs64nIRxaV1k9fb0lO9NHq9Y36rfF1VTe5FL7d2T3xxFC6-4qyV3Iyc5PSd4TnOc73IjhbI1-WQB8oOpLGet6d6oeHJqOWDqp_hocsvossJ1jwekr72s424fiZk8mdWTJ6dENZrFDpoufDy91GZhPm-50HZDAIKhjegUen6_QNyaEUmDzDyJ7SFup5ZeYtImkvXheYtopqrF0h7XEVZVfPc6Yei71q0h3eId13Epkl18czUnOUGAzIExpVCqe7mnZhxdEe95y6GDddBXZEPVCl1Ke8W2GeShWi2yKfwdvotfOdDdZhEnY173bUSWcjfpM7F0zQ1TVkuDugqdpYGEu6b-1ycNaA1wip392J9BFHvNIWpy-yKsMpL6kUeW0wUFS24nW8yr9ttO9H0Kef543beOxvBFPJ_yCC",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9450673,
+                    "lng": 79.20239509999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94632472989272,
+                        "lng": 79.2034648798927
+                    },
+                    "southwest": {
+                        "lat": 22.94362507010728,
+                        "lng": 79.20076522010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Mushran Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114469773606284856457\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj0Tt9qRYdFlF1FLK0f4oKoo1qHnmr9nqeFwwnmuHWhT9fkgR7wSCrV4D3QSCs4BpT3puowRSABZFneF-gzsKzVfgJXtECLApxwywuKsgZiT98bk-Gvq0XM5lCxJwkyG8zTpf25-0CJ7wMeH_1ksGmnT_Qd5RZcyJ09PtzgjNmMN2mI",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJi7FK6TSDfzkRf8JKJ3YB_Ac",
+            "rating": 3.7,
+            "reference": "ChIJi7FK6TSDfzkRf8JKJ3YB_Ac",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 700,
+            "vicinity": "W6W2+2XC, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.947224,
+                    "lng": 79.1912985
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94845732989272,
+                        "lng": 79.19270877989273
+                    },
+                    "southwest": {
+                        "lat": 22.94575767010728,
+                        "lng": 79.19000912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Shubhash Park Narsinghpur",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106300327114721187424\">suboohi sheikh</a>"
+                    ],
+                    "photo_reference": "AcYSjRiPjb2gisILgzJX5JSp-D0rzjMnlXYsQQyjaJv_hssfsbVZveYmHXvr-MJvpwn7A_BBDQBKslhaM0OPfUhOl78CIvU4rCiFe_WqY557aLsMhLcqnp7C0vJ_nyqQZ8dYNKidDXtSzAZxXdfEI4UQR0MyWFQ9Fbgx5URVW4HdtDOtUVqg",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJJULCcL-dfzkRFKkqrXTKwkE",
+            "rating": 4.5,
+            "reference": "ChIJJULCcL-dfzkRFKkqrXTKwkE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "W5WR+VGM, SBI Rd, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9519619,
+                    "lng": 79.1874834
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95334632989272,
+                        "lng": 79.18886052989272
+                    },
+                    "southwest": {
+                        "lat": 22.95064667010728,
+                        "lng": 79.18616087010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Trimurti Park",
+            "place_id": "ChIJ3bFU9OSdfzkRRJs4wuukxUU",
+            "rating": 4.5,
+            "reference": "ChIJ3bFU9OSdfzkRRJs4wuukxUU",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "X52P+QXQ, Housing Board Colony, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9473179,
+                    "lng": 79.1923266
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94869387989272,
+                        "lng": 79.19369362989273
+                    },
+                    "southwest": {
+                        "lat": 22.94599422010728,
+                        "lng": 79.19099397010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Divyansh's khet",
+            "place_id": "ChIJJQNVA42dfzkRiBwpCPBNGOI",
+            "rating": 0,
+            "reference": "ChIJJQNVA42dfzkRiBwpCPBNGOI",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "W5WR+WWG, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9434041,
+                    "lng": 79.1939154
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94479287989272,
+                        "lng": 79.19531687989273
+                    },
+                    "southwest": {
+                        "lat": 22.94209322010728,
+                        "lng": 79.19261722010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Ram Nagar park",
+            "place_id": "ChIJx29cyo2dfzkRRqb7ByabJps",
+            "rating": 5,
+            "reference": "ChIJx29cyo2dfzkRRqb7ByabJps",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "W5VV+9H7, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9577586,
+                    "lng": 79.18468779999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95913257989272,
+                        "lng": 79.18603862989272
+                    },
+                    "southwest": {
+                        "lat": 22.95643292010728,
+                        "lng": 79.18333897010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "SaiPuram Colony Park",
+            "place_id": "ChIJe9sALBGdfzkR-_cjtkDxq1k",
+            "plus_code": {
+                "compound_code": "X55M+4V Narsinghpur, Madhya Pradesh",
+                "global_code": "7JJXX55M+4V"
+            },
+            "rating": 0,
+            "reference": "ChIJe9sALBGdfzkR-_cjtkDxq1k",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gali number 16, near yasoda garden, Pratap Nagar, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9469042,
+                    "lng": 79.17808889999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94823082989273,
+                        "lng": 79.17950062989271
+                    },
+                    "southwest": {
+                        "lat": 22.94553117010728,
+                        "lng": 79.17680097010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Narsingh Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107895578231556603469\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh3NucW7ulckAfZwCo4glsJNNDQGPPadAL9DV14qdHsfRHP7eQrO7-fyKmg67n2klS5rW0-umXuaeZJr4KsMwSwcKhZnKA4PXnLNpIosA6HdG1GWv0TjeRUwGO5kc7DkfAET4WQlmIvNU_BHw1Va1QG6Fcn4btdNFcI4qQF0hjw2buK",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJRZxSDcKcfzkRfypumFRkxKE",
+            "rating": 3.8,
+            "reference": "ChIJRZxSDcKcfzkRfypumFRkxKE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41,
+            "vicinity": "W5WH+Q68, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9589197,
+                    "lng": 79.1814967
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.96010807989272,
+                        "lng": 79.18277182989272
+                    },
+                    "southwest": {
+                        "lat": 22.95740842010728,
+                        "lng": 79.18007217010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Shivam Park Garden",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108335259994423871539\">pradeep pmehra</a>"
+                    ],
+                    "photo_reference": "AcYSjRjnyECYWQR8K14qkesqp_x7oCZNkWpkuG_s3pR9w7Y9TOhCbuzA4N8RrgBvu3PXHg7KwAm_usJeQQXkSgdlITUFNFiOtS-ZNJfwTqkoGKC3VZKDn34-8MCU2KSj_mw6ItmnBHBbSbv5lA_8o1_B_y8jcFvZJGfOfPRtLm0Cicwd9sU7",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJUUpZ10adfzkRAEf_2OIaBrA",
+            "rating": 4.5,
+            "reference": "ChIJUUpZ10adfzkRAEf_2OIaBrA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "X55J+HH9, Unnamed Road, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9436233,
+                    "lng": 79.22066500000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94494377989272,
+                        "lng": 79.22201312989272
+                    },
+                    "southwest": {
+                        "lat": 22.94224412010727,
+                        "lng": 79.21931347010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sharda bal udyan",
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104680522706095055620\">devendra dhanak</a>"
+                    ],
+                    "photo_reference": "AcYSjRjZYilZUPd0rxh19f3V9Mw37rEdrVAv_hUxYMphIFdLhmarkkQNT744_enDUkgDIg92HXvEcET0zZxhN9zORAvCsegLGIs6ds5gwMvYG1vM4Z2x8uwGH3LQpwKDQD3F8qbGhYfhiT72uaxMfGWJMUXTKgQQLQZAxAubvzsbhAjuyAuV",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJjy0iD2aDfzkRBMY_NbWQnv4",
+            "rating": 4.5,
+            "reference": "ChIJjy0iD2aDfzkRBMY_NbWQnv4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "W6VC+C7V, Main Rd, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9533593,
+                    "lng": 79.19387309999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95465727989272,
+                        "lng": 79.19522692989271
+                    },
+                    "southwest": {
+                        "lat": 22.95195762010728,
+                        "lng": 79.19252727010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sai Nagar Park",
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118135593412448252873\">AKHILESH RAJORIYA</a>"
+                    ],
+                    "photo_reference": "AcYSjRilpZPHmoiEVGNHNl3KM0WMmMBxzVAo7squVc3eY8asNrVIE6Px976NHHB5PIdCqGHeQwG8UOziUgmJyGaJmRQhaM5VPhamJkwTVDc9YBkpwfb6TOPxHcY4ncwHaABRHenjuL0JF0vu3BcJu3YbZ_LufetKLvFEMmEMCEht8JkcEkNK",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJ6bN7g_GdfzkRoA28O_ulRPI",
+            "rating": 3.6,
+            "reference": "ChIJ6bN7g_GdfzkRoA28O_ulRPI",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "X53V+8GX, Sai Nagar, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9437303,
+                    "lng": 79.1836703
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94498502989272,
+                        "lng": 79.18500662989273
+                    },
+                    "southwest": {
+                        "lat": 22.94228537010728,
+                        "lng": 79.18230697010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Siddhi vinayak parishar park",
+            "place_id": "ChIJI_mwVqKdfzkRnGTeGaWtuU4",
+            "rating": 5,
+            "reference": "ChIJI_mwVqKdfzkRnGTeGaWtuU4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "W5VM+FFV, Unnamed Road, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9557771,
+                    "lng": 79.1931097
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95710022989272,
+                        "lng": 79.19447772989272
+                    },
+                    "southwest": {
+                        "lat": 22.95440057010728,
+                        "lng": 79.19177807010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Rewa nagar park",
+            "place_id": "ChIJr4HimdSdfzkRwUAKeJ-Gjic",
+            "rating": 0,
+            "reference": "ChIJr4HimdSdfzkRwUAKeJ-Gjic",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "X54V+869, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9398152,
+                    "lng": 79.20997299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94110557989272,
+                        "lng": 79.21123497989272
+                    },
+                    "southwest": {
+                        "lat": 22.93840592010728,
+                        "lng": 79.20853532010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0935\u0930\u094d\u0927\u092e\u093e\u0928 \u0915\u0949\u0932\u094b\u0928\u0940 \u0917\u093e\u0930\u094d\u0921\u0928",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112177080279513098547\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh6oZmRURrOZx8vdyDXRXwIptnIpKDLMGDWv9obX_J_sknh25P58DfLEwbzn09C82W9n8AzPjIcwZrly7MXA3aJo6pVopZ2XKztboVRd2oUt8cOpheXK1DJF3vYjZXMKzenyvWgNVS5KzZc8uVDKKxUWyHXzklwaahRkOpcErxbuAtN",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ1bbEXU-DfzkR1cZhJFfSQ8Y",
+            "rating": 3.2,
+            "reference": "ChIJ1bbEXU-DfzkR1cZhJFfSQ8Y",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "W6Q5+WXH, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.8747749,
+                    "lng": 79.2867875
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.87605652989272,
+                        "lng": 79.28812892989272
+                    },
+                    "southwest": {
+                        "lat": 22.87335687010728,
+                        "lng": 79.28542927010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Ankur Patel",
+            "place_id": "ChIJOzxxYP6FfzkR68sjq8sH37I",
+            "rating": 0,
+            "reference": "ChIJOzxxYP6FfzkR68sjq8sH37I",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "V7FP+WP3, Unnamed Road, Chilachon Khurd"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9460178,
+                    "lng": 79.20219999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94737057989272,
+                        "lng": 79.20353277989273
+                    },
+                    "southwest": {
+                        "lat": 22.94467092010727,
+                        "lng": 79.20083312010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u092a\u0941\u0932\u093f\u0938 \u092c\u093e\u0932 \u0909\u0926\u094d\u092f\u093e\u0928",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115965909959470744101\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgFkILtlRh5QdwqRlaZjZj7UqInRLnvwagUKeSyBn8Z9l-AVNWUCv7SVCbH7SF0mjNzw3RdiyeuXbMwk6Mh6zQHtIS5nDl6_WiLgEU4VrIh6u9MjPSAOr2kupk_h1X1rwDbL1AeyxQccNj2RPY9_fT72mQHP623Y63H13CgPjsGYS7K",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJDU5zjjSDfzkRPoPjKetQKOs",
+            "rating": 4.7,
+            "reference": "ChIJDU5zjjSDfzkRPoPjKetQKOs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "W6W2+CV4, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9302433,
+                    "lng": 79.1932334
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.93156172989272,
+                        "lng": 79.19450027989272
+                    },
+                    "southwest": {
+                        "lat": 22.92886207010728,
+                        "lng": 79.19180062010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sanskar city Phase - 3 Park",
+            "place_id": "ChIJc7jvueedfzkRO8bkxi8fMm4",
+            "rating": 0,
+            "reference": "ChIJc7jvueedfzkRO8bkxi8fMm4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "W5JV+37, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9496007,
+                    "lng": 79.20538379999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95053047989272,
+                        "lng": 79.20659952989273
+                    },
+                    "southwest": {
+                        "lat": 22.94783082010728,
+                        "lng": 79.20389987010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Venkatesh City Park",
+            "place_id": "ChIJMwoy7u2DfzkRbSqcIJ4S554",
+            "plus_code": {
+                "compound_code": "W6X4+R5 Narsinghpur, Madhya Pradesh",
+                "global_code": "7JJXW6X4+R5"
+            },
+            "rating": 4,
+            "reference": "ChIJMwoy7u2DfzkRbSqcIJ4S554",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Helipad Ground, Girls College Rd, Narsinghpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.0095625,
+                    "lng": 79.2728125
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.01091372989272,
+                        "lng": 79.27416427989272
+                    },
+                    "southwest": {
+                        "lat": 23.00821407010728,
+                        "lng": 79.27146462010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u092a\u093e\u0930\u094d\u0915",
+            "photos": [
+                {
+                    "height": 1808,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111072617913915607696\">Rajendra Patel</a>"
+                    ],
+                    "photo_reference": "AcYSjRgcRXnla1AoDy1NHcaKwAFVisjRO9NR7ZpxtudJjQg4-vYrTZ3TV33mM8VxdRUR3VNACmLdDT4opq5sMy2-dpnPWb3mR4e5yzixDeQc1PoMcCq620h5FNee9BdL65oXHiEjWS3RUyU4usdezq8JYAhEQmABeLcTsa19LK0EJIhN6Y9X",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ-4SeMTuDfzkRF-B48QeqbCs",
+            "rating": 5,
+            "reference": "ChIJ-4SeMTuDfzkRF-B48QeqbCs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "276C+34, Khapa"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9532151,
+                    "lng": 79.2033983
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.95457737989272,
+                        "lng": 79.20467322989272
+                    },
+                    "southwest": {
+                        "lat": 22.95187772010728,
+                        "lng": 79.20197357010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Vardhaman city park",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104162695369069304368\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgcXuKdmMFGmBAf7Dw8qP1C5Y855nhgZdto97hW4VuxpiAOFiBfNSKx3qN781mLnUnCUIi8gJ1H-arSBmJlJ4cDj2v2XKcDWkjQOV7FQXc_1i4Da3Nf_i9C9UmeZ0AFW0zewlDwT8oh6jLXm1IW4Wa3qmVxUn3TLgBvPAtewl41fb86",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJXYV2_PyDfzkR3ddz3YFxOCw",
+            "rating": 3.6,
+            "reference": "ChIJXYV2_PyDfzkR3ddz3YFxOCw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "X633+79J, Vardhman City Rd, Kandeli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 22.9434437,
+                    "lng": 79.2229935
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.94479112989272,
+                        "lng": 79.22434307989272
+                    },
+                    "southwest": {
+                        "lat": 22.94209147010728,
+                        "lng": 79.22164342010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Shubham Play Ground",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109545267981612341815\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg3LSSzsHxjOb5FpMHA0-k5FgSZFwmdieU8OtaOasaSvZCcCgYa6c8bMQOqYTLDe97SE5_ndGlLslXv4h30Og_DI5K5vgi7SO4_fGuaHH3RmuZOinZkSByYmeNrB6DZKaa2SGd2lbzoocw-qs39CTbUOzKPHU0btXBjzh_u7rHpOL0A",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJgb4UWhWDfzkRsg7Dxe49qRs",
+            "rating": 3.3,
+            "reference": "ChIJgb4UWhWDfzkRsg7Dxe49qRs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 85,
+            "vicinity": "W6VF+95H, Narsinghpur"
+        }
+    ],
+    "status": "OK"
+}

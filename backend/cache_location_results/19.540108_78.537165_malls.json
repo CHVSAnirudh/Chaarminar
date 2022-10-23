@@ -1,0 +1,233 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5339032,
+                    "lng": 78.5313779
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.53522297989273,
+                        "lng": 78.53271362989273
+                    },
+                    "southwest": {
+                        "lat": 19.53252332010728,
+                        "lng": 78.53001397010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Divya kirana",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105052824019178273055\">Yogesh Borde</a>"
+                    ],
+                    "photo_reference": "AcYSjRhBIh2WUo-Cn5_Jw5f-ZG9k-2ElzQZLQ6lFJIUIBjDEKyxDCnKW_IJvTh5V5cIoRL8eqQjLKNcYg2WrCSKO0Zv-etif2UAu3Ez46m9YGkiKVz5zspCAUFIr7k4jlTpCsiTiSIpO6dSny23pPZKmiX0RSrphQj-eBrpskUGYdx7IX654",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ2ylD4Qtn0jsR3UpJYKf_Kk8",
+            "rating": 4.6,
+            "reference": "ChIJ2ylD4Qtn0jsR3UpJYKf_Kk8",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "GGMJ+HHC, Tosham"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5287528,
+                    "lng": 78.5633567
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.53010507989272,
+                        "lng": 78.56471812989271
+                    },
+                    "southwest": {
+                        "lat": 19.52740542010728,
+                        "lng": 78.56201847010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Arip Kiran Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJVZYpSDRn0jsRaxInaQPeZ3E",
+            "rating": 2,
+            "reference": "ChIJVZYpSDRn0jsRaxInaQPeZ3E",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "GHH7+F8Q, Tosham"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5138009,
+                    "lng": 78.58551589999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.51514957989272,
+                        "lng": 78.58692012989272
+                    },
+                    "southwest": {
+                        "lat": 19.51244992010728,
+                        "lng": 78.58422047010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ayaan",
+            "place_id": "ChIJi8OTti9h0jsRuM9UPTpPXrY",
+            "rating": 0,
+            "reference": "ChIJi8OTti9h0jsRuM9UPTpPXrY",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GH7P+G6C, Dhannura (B)"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.6054259,
+                    "lng": 78.5736476
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.60680262989272,
+                        "lng": 78.57508472989272
+                    },
+                    "southwest": {
+                        "lat": 19.60410297010727,
+                        "lng": 78.57238507010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Raja Rajeshwara kirana shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJgYINi71f0jsRIbLhz67Y8c4",
+            "rating": 5,
+            "reference": "ChIJgYINi71f0jsRIbLhz67Y8c4",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "JH4F+5FF, Ankoli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.5250259,
+                    "lng": 78.5626174
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.52633997989272,
+                        "lng": 78.56396182989272
+                    },
+                    "southwest": {
+                        "lat": 19.52364032010728,
+                        "lng": 78.56126217010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Yogeshwari Dresses",
+            "place_id": "ChIJgRNYqOdn0jsRu-ZNpPP9Xzk",
+            "plus_code": {
+                "compound_code": "GHG7+22 Tosham, Telangana",
+                "global_code": "7JFWGHG7+22"
+            },
+            "rating": 4.7,
+            "reference": "ChIJgRNYqOdn0jsRu-ZNpPP9Xzk",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Tosham"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.6050287,
+                    "lng": 78.5735174
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.60645547989272,
+                        "lng": 78.57506927989272
+                    },
+                    "southwest": {
+                        "lat": 19.60375582010728,
+                        "lng": 78.57236962010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Nagesh Shop",
+            "place_id": "ChIJ_Ts1Xwxe0jsRdZVUN6ItNPc",
+            "rating": 5,
+            "reference": "ChIJ_Ts1Xwxe0jsRdZVUN6ItNPc",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "JH4F+2C6, Ankoli"
+        }
+    ],
+    "status": "OK"
+}
