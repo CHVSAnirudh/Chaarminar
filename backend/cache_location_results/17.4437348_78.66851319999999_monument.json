@@ -1,0 +1,52 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4876846,
+                    "lng": 78.61537589999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.48898887989272,
+                        "lng": 78.61672607989271
+                    },
+                    "southwest": {
+                        "lat": 17.48628922010728,
+                        "lng": 78.61402642010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Netaji Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113537040258232313993\">SaShi 99</a>"
+                    ],
+                    "photo_reference": "AcYSjRhY8I0kyFtfCf2r1z4aklJkRczdzA_deY8ti1dadgeSbkYxwdyTMbI2kmcU4SDgewqSrxQt4qeDUYRFdukeFbssG8fUaXW1Y6JwTiACIIrahVlvMcee87FERgPg6_GhFCs6AszaroGaCQJJD-bg5Kasz6t3HRKgdJu4NLzQh6bAKr5q",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ7czbYwGdyzsRiuTfR9PFHXk",
+            "rating": 4.2,
+            "reference": "ChIJ7czbYwGdyzsRiuTfR9PFHXk",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 379,
+            "vicinity": "FJQ8+35C, Nethaji Nagar, Chandrapuri Colony, Kapra, Secunderabad"
+        }
+    ],
+    "status": "OK"
+}

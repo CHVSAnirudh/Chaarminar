@@ -1,0 +1,826 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhPkgf34lHR2O2qU79u2Y89EeBkgQg-iFnyLt-c54jOw3Jbw1ZjapKEtLVTnVg7x_iQ3KB8rNwySVS2Jdgpt9wNdymxChL927E2SjQDypKVmbFgsjK6L4ljIKcQCtN_wmNl54-MqedBxFrlqZkTk0jEOiVka2n0ldp1b3yPb1A7qrjEzkUK5TuZz8X1diYFD2l-ukJhmiqQUeIIWpmZc5NimSp8dZuxxIlUArjtvURFEYx7_2n_KiiiDXq2Vrzz-cxMnuL2mcVwN1jU_xJZM2QPAgpqzkIQPFAgP09sjO49OUGBKB6whiq5KZlkxvjhkyKuGH9vtzuUOfFrEBaET7a4e2F7NYEBPeokUGXL_36GVnw_vAsygDhZcNCOKcdy3GN1b-15Kd5iP1qtPqDXsohsFiOkIqYt61PCmmyqbjRLTZQp3HPTk-I",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6633369,
+                    "lng": 80.6849074
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66468802989272,
+                        "lng": 80.68625492989273
+                    },
+                    "southwest": {
+                        "lat": 17.66198837010728,
+                        "lng": 80.68355527010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Mutyalamma Temple",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114766238220925290010\">Narasimha Rao</a>"
+                    ],
+                    "photo_reference": "AcYSjRh9Jt2dbRZ2qEM15Bl5lBJ60GKscQAZbZFSEcxQdDF4dJYmGj2ztMH7lpfGVjSvRfyt2vjDlBw1VRNUY8Uq_xIHvIbbO1sIjFvLdvje9IulFW6NP8HUjMT0L0or4DsB5F7jc_WsUsksvUBlOGrEvoWnOpS9_uti21JRuoxC_xrAhnWw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ7UOkBecENDoRljhbDb-oirM",
+            "rating": 5,
+            "reference": "ChIJ7UOkBecENDoRljhbDb-oirM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "MM7M+8XM, Suraram, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6094807,
+                    "lng": 80.7127172
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61069817989272,
+                        "lng": 80.71396622989272
+                    },
+                    "southwest": {
+                        "lat": 17.60799852010728,
+                        "lng": 80.71126657010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Lord Sri Rama Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111148665698727539497\">Prasad Krishna</a>"
+                    ],
+                    "photo_reference": "AcYSjRhdyug95lrAKAVsAf0ej9Woj8DW6qqNXKeL94JvSstIVsYCXakGWKikDnEx6hEVvVKtwza4WtAw8NqqGYR6B-8pkrOBwYvPHVwHY_Z52sT1PlHt9wGDCGucGaeCTnW7bW1sQ5eDnZIqLMGiLjTVVNL9sHClJ3LLGwW7riooNLyKlC8_",
+                    "width": 1856
+                }
+            ],
+            "place_id": "ChIJjRlB1mUbNDoRc9W86Uf9hpY",
+            "rating": 3.9,
+            "reference": "ChIJjRlB1mUbNDoRc9W86Uf9hpY",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "JP57+Q3W, Promontory Vengalrao colony, Bhadradri-kothagudem, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6492359,
+                    "lng": 80.73266410000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65058437989272,
+                        "lng": 80.73400772989272
+                    },
+                    "southwest": {
+                        "lat": 17.64788472010728,
+                        "lng": 80.73130807010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Narasamma Thalli Temple",
+            "place_id": "ChIJdUfhqvsDNDoRflsm2mWN5qY",
+            "rating": 4,
+            "reference": "ChIJdUfhqvsDNDoRflsm2mWN5qY",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "JPXM+M3V, Pandurangapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5876478,
+                    "lng": 80.67777079999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58905237989272,
+                        "lng": 80.67911577989271
+                    },
+                    "southwest": {
+                        "lat": 17.58635272010727,
+                        "lng": 80.67641612010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Mahalakshmi Temple",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106146238718977271111\">srinivas m</a>"
+                    ],
+                    "photo_reference": "AcYSjRjsNVLWc54xGlLj7IQ-Qv6ahjgkCVjeX9IFRx_SHWECSDxJjmKDylP9KM2mZMIyIvAtiF9Pq1njQzLgeoqM_vq8ZZVjJziB0xHcWRfwVjXiq1hRqTFEP8z6XfgFAP0cOtbN128LCAaMQORoUuw42O79jTteN4xccJ4jFQb9FXjhGSGN",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJqQxi16obNDoROyEswLCciYQ",
+            "rating": 4.6,
+            "reference": "ChIJqQxi16obNDoROyEswLCciYQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "HMQH+346, NH30, Old Paloncha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6057577,
+                    "lng": 80.7467236
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60712982989272,
+                        "lng": 80.74807282989272
+                    },
+                    "southwest": {
+                        "lat": 17.60443017010728,
+                        "lng": 80.74537317010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Peddama Temple Near Palvancha And Badrachalam",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107897168160911427181\">SUDHEER kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRiMCvNw8V-NjJdpdSJqKPZyyMhO28Ah8zLzxxjLvZECcLv4UB59fDjdsm4oh_Ux0X1YBu37hHjfB5JC0_X3ExqOpTsiAw6gMzo4gwjnTCI_mH7hzKCSg1Cc06CsSalq6XVkkzmDqC46rHMkTbGUc81S9IY2v88kWQwONYFcPTD1LRyw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ0UT2g-0cNDoRid9kUW0VKmQ",
+            "rating": 4.6,
+            "reference": "ChIJ0UT2g-0cNDoRid9kUW0VKmQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 106,
+            "vicinity": "JP4W+8M5, PeddamaTemple\u200b temple, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.605947,
+                    "lng": 80.7512428
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60732587989272,
+                        "lng": 80.75257117989273
+                    },
+                    "southwest": {
+                        "lat": 17.60462622010728,
+                        "lng": 80.74987152010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113964016032208568743\">K Nani Yadav</a>"
+                    ],
+                    "photo_reference": "AcYSjRgqsenWgKmZ58ROcastPTRkyYyqZWxAqyhQ_S2kmwT8lXO991Ez1EKmw1KWprmfvSK09pcoGxrAOel_RghGvKW_PymxH7aAJBmUowA20ht9RV9f_kCYcg3mrQpzs00294sQJNyPRIm-yd1j6JmtZzIr60aS5TxLOM_Hbhm3fkupyf1w",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJ8U7l8jgdNDoR_MpaoreD5Nw",
+            "rating": 4.5,
+            "reference": "ChIJ8U7l8jgdNDoR_MpaoreD5Nw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "JQ42+9F5, SH 12, Jagannadhapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5888247,
+                    "lng": 80.7043983
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59015032989272,
+                        "lng": 80.70569622989272
+                    },
+                    "southwest": {
+                        "lat": 17.58745067010728,
+                        "lng": 80.70299657010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman Temple",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110862854686928175718\">muvvala harigopal</a>"
+                    ],
+                    "photo_reference": "AcYSjRjqJEGxptLwr1Dpr5qhwV_m8dBvc2IjCnHyAvzaIdDs7DhJKTbs26E41iXyl1JN2a6CKb7iMJ8B0rzdXqLJ4A9US2s58QY1ikBshx5GZq-CCfWppfuF9mDD5jsQ66lihk6Sa6_pQyTHznZZ7UH-eSz1bA22psMTuxl1evCyHwXIVWQP",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJifvFfZ4bNDoRYhrsEEUvuHI",
+            "rating": 4,
+            "reference": "ChIJifvFfZ4bNDoRYhrsEEUvuHI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "HPQ3+GQC, Near Rathi Cheruvu, beside Maisamma Thalli Temple, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6721541,
+                    "lng": 80.8611292
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67349402989272,
+                        "lng": 80.86249057989274
+                    },
+                    "southwest": {
+                        "lat": 17.67079437010728,
+                        "lng": 80.85979092010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Lord Venkateshwara Temple",
+            "place_id": "ChIJTRyedfOoNjoRBsA7QaSLk5o",
+            "rating": 4.7,
+            "reference": "ChIJTRyedfOoNjoRBsA7QaSLk5o",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "MVC6+VF6, Reddy Palem"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5906881,
+                    "lng": 80.6874497
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59214287989272,
+                        "lng": 80.68885067989272
+                    },
+                    "southwest": {
+                        "lat": 17.58944322010728,
+                        "lng": 80.68615102010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Athma lingeswara Temple",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103796927928096948593\">Venu Nadella</a>"
+                    ],
+                    "photo_reference": "AcYSjRjI69BBLawrgRCDqIwoGq6mvUqsMJDBO3RDDvHxhkPKYPvU6tSgt1GvSeA8IfGiZggMD-x4Lt7IA77u04-k7s3kEHyZdOw-KcFbcmX25j5fr2rQlQEBcDYS6NA_YZq8nfQrgbdWIVqoTzF0ycg2rodPRU1bdbgOynsBfp3E1E5x2KQH",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJsVDmAqgbNDoRxhh6ms5V60o",
+            "rating": 4.4,
+            "reference": "ChIJsVDmAqgbNDoRxhh6ms5V60o",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "HMRQ+72G, Patha Palvancha, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5895293,
+                    "lng": 80.7039013
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59088652989272,
+                        "lng": 80.70526597989272
+                    },
+                    "southwest": {
+                        "lat": 17.58818687010727,
+                        "lng": 80.70256632010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Muthyalamma Thalli Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103558231326061666178\">HARSHA V V</a>"
+                    ],
+                    "photo_reference": "AcYSjRhVnoSIILOjCs1E6GCr-Lwr-fdrNDhVxL8dbd0NiINR9pw-r9RFFw1VXire20eEvOSmJUrEYwXydlNjslmj9DaYABMpAuimwgKN-LeQ3fdUzmzM4rCw__V52_T4dO9YEG3AupVnVQ8FQD9w19dnLf8GNak4lHFL4ZUx49FreJeviacR",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJAe9qb54bNDoRG7eNh8BCRJU",
+            "rating": 5,
+            "reference": "ChIJAe9qb54bNDoRG7eNh8BCRJU",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "HPQ3+RG5, Near Rathi Cheruvu, opposite Maisamma Thalli Temple, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6034297,
+                    "lng": 80.7084527
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60481807989272,
+                        "lng": 80.70981402989273
+                    },
+                    "southwest": {
+                        "lat": 17.60211842010728,
+                        "lng": 80.70711437010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Rukmini Radha Krishna Temple",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113217703933794583347\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhVC7dSRJqfWP-nosnQEsQv4FtAzvVxsN23faijGuOiYqwbqdK7-GV21Nl2m1L40WE2EOS9FkmOSmlqbNczlYNe9TYeXUWnGO-zEYqAaXB8mNMm88qDz7JEQ0ZwPnJBtD-aO3p8LVF7bJW5HZWnLoCY4CEUBmWYrA6KSrVZyGAuz06b",
+                    "width": 1836
+                }
+            ],
+            "place_id": "ChIJfaCqJ3AbNDoRZgvUf3em3SE",
+            "rating": 4.2,
+            "reference": "ChIJfaCqJ3AbNDoRZgvUf3em3SE",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24,
+            "vicinity": "JP35+89W, Near to vidhyut kala bharati play ground, A Colony, KTPS, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.603994,
+                    "lng": 80.7111376
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60533922989272,
+                        "lng": 80.71248922989273
+                    },
+                    "southwest": {
+                        "lat": 17.60263957010728,
+                        "lng": 80.70978957010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Muthyalamma Thalli Temple IM Colony",
+            "place_id": "ChIJ4RI9TmUbNDoRPfDbVB8qm5A",
+            "rating": 4.2,
+            "reference": "ChIJ4RI9TmUbNDoRPfDbVB8qm5A",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 52,
+            "vicinity": "JP36+JFF, IM Colony, KTPS, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6060738,
+                    "lng": 80.7034779
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60745017989272,
+                        "lng": 80.70490347989272
+                    },
+                    "southwest": {
+                        "lat": 17.60475052010728,
+                        "lng": 80.70220382010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Vinayaka Temple",
+            "place_id": "ChIJ46iNym0bNDoRAeYKIpWjDfQ",
+            "rating": 3,
+            "reference": "ChIJ46iNym0bNDoRAeYKIpWjDfQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "JP43+C9H, Bolarugudam Road, KTPS, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5706005,
+                    "lng": 80.7004448
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57191447989272,
+                        "lng": 80.70192677989272
+                    },
+                    "southwest": {
+                        "lat": 17.56921482010728,
+                        "lng": 80.69922712010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Muthyalamma temple",
+            "place_id": "ChIJdTgYUkMbNDoRij8llfy_eCw",
+            "rating": 0,
+            "reference": "ChIJdTgYUkMbNDoRij8llfy_eCw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HPC2+65W, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6242293,
+                    "lng": 80.78422789999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62563122989272,
+                        "lng": 80.78561507989271
+                    },
+                    "southwest": {
+                        "lat": 17.62293157010728,
+                        "lng": 80.78291542010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Hanuman Temple",
+            "place_id": "ChIJMRmNI-0dNDoRgFSCoouRUP8",
+            "rating": 0,
+            "reference": "ChIJMRmNI-0dNDoRgFSCoouRUP8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JQFM+MMW, Tejaswi Nagar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6026476,
+                    "lng": 80.6886913
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60400337989272,
+                        "lng": 80.69007722989272
+                    },
+                    "southwest": {
+                        "lat": 17.60130372010728,
+                        "lng": 80.68737757010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Mutyalamma Temple",
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101450283450262063289\">Raghu Kishore</a>"
+                    ],
+                    "photo_reference": "AcYSjRg7SaS-M3uKDqu3vjH-i3tt0zAJ5lQ4eKABMO5cekVoSvVdlPXwAiVEdB686lhSoCaUGQJxSGCunOIgBCvp5ITMF1boXeK-xsk1FtujHhkvo8PRWPkxxgHHN9Y2i-E1OoZExdkuV918JnbHR_yJdOcuiY-7Wi3vyclzgYj6wiPSnvyI",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJPaBiAhAbNDoRK5gssfhYzSk",
+            "rating": 4,
+            "reference": "ChIJPaBiAhAbNDoRK5gssfhYzSk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "JM3Q+3F4, Gattaigudem, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5811557,
+                    "lng": 80.6992054
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58243837989272,
+                        "lng": 80.70051087989272
+                    },
+                    "southwest": {
+                        "lat": 17.57973872010728,
+                        "lng": 80.69781122010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Someshwara Temple (Shivalayam)",
+            "place_id": "ChIJ3yDBn6IbNDoRcoQxolGQpJc",
+            "rating": 0,
+            "reference": "ChIJ3yDBn6IbNDoRcoQxolGQpJc",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HMJX+FMW, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6075414,
+                    "lng": 80.7551739
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60899542989272,
+                        "lng": 80.75647387989272
+                    },
+                    "southwest": {
+                        "lat": 17.60629577010727,
+                        "lng": 80.75377422010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Muthyalamma thalli temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJNf6JLFgdNDoRsDe4m4fzMXg",
+            "rating": 0,
+            "reference": "ChIJNf6JLFgdNDoRsDe4m4fzMXg",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JQ54+23, Nagaram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.606142,
+                    "lng": 80.70345850000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60751762989272,
+                        "lng": 80.70488042989273
+                    },
+                    "southwest": {
+                        "lat": 17.60481797010728,
+                        "lng": 80.70218077010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shiva Alayam Temple",
+            "place_id": "ChIJndW8ym0bNDoR1FIoD9UtcI4",
+            "rating": 3.7,
+            "reference": "ChIJndW8ym0bNDoR1FIoD9UtcI4",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "JP43+F94, Bolarugudam Road, KTPS, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5705046,
+                    "lng": 80.69840719999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57180912989272,
+                        "lng": 80.69977902989272
+                    },
+                    "southwest": {
+                        "lat": 17.56910947010728,
+                        "lng": 80.69707937010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Venkateshwara Swami Temple",
+            "photos": [
+                {
+                    "height": 1106,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107430502956559855635\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRglok9frDKGDTx5KygPIeP6ueb1SneydCRtcgFlZZkPTethJ0ARuNIwp_5EPT9BGqyJ1KnDmWLTB2mltjGIBgBg0zVzJOB1zP15z1gDTd7Ea-BC_zaLL7ZJ6UOPpgPGBdH95GEO3u4QcSe5ZsMqwWzxCMMpgDeeDKRZlp9aS0VZp53H",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJXxXKzb8bNDoRO5omGvpXlLw",
+            "rating": 2.3,
+            "reference": "ChIJXxXKzb8bNDoRO5omGvpXlLw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "HMCX+693, Khammam"
+        }
+    ],
+    "status": "OK"
+}

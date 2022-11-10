@@ -1,0 +1,913 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgu2z2rtFIecQdMAOG8fG2yfs3PMVII7fSk8sNANwC2nojjdm-31mQlaoZbGOyAArCb0TfZoDfBA7fOQ1usB7BJeLTC5HpIA1LWGfGpe72i3KNIcvFI5gAwIpQFWokCfzTr03ycPEpOeCwZR51OD2tWSoRxHrspsL0H9SGSI4Nn2i0Dk5_M2fGeitxK8ACxYcT_19jDl78LlziamV-t3fD62X5BqwjqH3EYnYB_3hfrOk95ndNlQWllygz-KLz3pi1AmU6XrKo0m5DcOUV7DQbUAhVyxewtcnbqE8rG-P2GlfK8q-dDulA3fjwxqqN6BbVSrv1T0yOfXdFc97B4b0W7kmW49LhQ8DiEgkAw52qRXejlnpyz5ujS9V075ULUBWQccNGjk3Bs2qOcgHSQnXq3r39a2iG8ODShMlpt0zw8Hfr33nz6TOk",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8613455,
+                    "lng": 77.7106842
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.86269147989272,
+                        "lng": 77.71200377989271
+                    },
+                    "southwest": {
+                        "lat": 12.85999182010728,
+                        "lng": 77.70930412010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117006581568034546688\">Sajeev</a>"
+                    ],
+                    "photo_reference": "AcYSjRhDdBiEkkMb2TQVvwhCeQOTdeSFicqAxbqj9aZmNj1CfFm--_eW-shkVMc1hnTfGr6g2IQo1ErTgDiBx75aUgDF8fn-OGndA6Ap6nnqvNnRy_EiYUhC1GeNGDH9bvFlMl0p-2ebP2q1hld4Icqx6uHi6NQOL9SYO2lpB5C9albqEl1v",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJwR9PHPttrjsRNCp0Hw11oYE",
+            "plus_code": {
+                "compound_code": "VP66+G7 Huskuru, Karnataka",
+                "global_code": "7J4VVP66+G7"
+            },
+            "rating": 3,
+            "reference": "ChIJwR9PHPttrjsRNCp0Hw11oYE",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "413, Huskuru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8587104,
+                    "lng": 77.787375
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.86005877989272,
+                        "lng": 77.78875837989273
+                    },
+                    "southwest": {
+                        "lat": 12.85735912010728,
+                        "lng": 77.78605872010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shambulingeshwara temple",
+            "place_id": "ChIJsbXn2ndzrjsRM8TXRofE5sw",
+            "plus_code": {
+                "compound_code": "VQ5P+FW Bengaluru, Karnataka",
+                "global_code": "7J4VVQ5P+FW"
+            },
+            "rating": 5,
+            "reference": "ChIJsbXn2ndzrjsRM8TXRofE5sw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "near, #45 MG, Sarjapura - Attibele Rd, Sarjapura, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8607702,
+                    "lng": 77.7869176
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.86211042989272,
+                        "lng": 77.78830292989272
+                    },
+                    "southwest": {
+                        "lat": 12.85941077010728,
+                        "lng": 77.78560327010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Lord Shri Venkateshwara Temple",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110926565788990783641\">Silambarasan Aji</a>"
+                    ],
+                    "photo_reference": "AcYSjRjAObqY5JXDhyq55bLE-4rgmJNozk4iUPQhvL-92ezXOb9PGW7O44OrUEbegSEov9gwjnKQ-KwTpjZxqiaL4rPUF2RUb59SoFZUH27vVQxDyVJeNzMe1n1ffECVoCgj7yxRDEnCqsoKqBchZqkWaNrxZSEZPj8bX1ZbvPZMVhLW1MH2",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJHeXw5uByrjsR1yR7ibukePY",
+            "rating": 4.6,
+            "reference": "ChIJHeXw5uByrjsR1yR7ibukePY",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 40,
+            "vicinity": "VQ6P+8Q3, Anekal Tq, Sarjapura, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8018142,
+                    "lng": 77.7041057
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.80314972989272,
+                        "lng": 77.70544922989272
+                    },
+                    "southwest": {
+                        "lat": 12.80045007010728,
+                        "lng": 77.70274957010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Kodanda Rama Temple",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104993490039959715917\">\u0c15\u0c4b\u0c1f\u0c3f .\u0c35\u0c02\u0c17\u0c3e</a>"
+                    ],
+                    "photo_reference": "AcYSjRiZ3CQxBb9OvdZpkjUavrWBgAqOh_2j7_NnZl_oU5C7Ne6Pg0yVtOCiMDnDAYHcmqGPRiRH_nyBTcRr9v4WUeE7fx65j7aoF1IamWE05uk5TvzStdeEVTTOWxNra2MyzDK4oAzG4aWa0B1UO_HUXxxtDG5AC3w_BZZ0kgbM7kBJ76CW",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJScSUFtJtrjsRdV6uwl9aa18",
+            "rating": 4.6,
+            "reference": "ChIJScSUFtJtrjsRdV6uwl9aa18",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37,
+            "vicinity": "RP23+PJX, Hosur Main Rd, Near Chandapura Circle Bus Stop, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.838043,
+                    "lng": 77.68968629999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.83939407989272,
+                        "lng": 77.69108132989273
+                    },
+                    "southwest": {
+                        "lat": 12.83669442010728,
+                        "lng": 77.68838167010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shree Venkataramana Temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109397461636638406734\">Sanketh Nayak</a>"
+                    ],
+                    "photo_reference": "AcYSjRg1LF6Qi0ClUjbG8_6fya0081gs4k-ziIGOYwNrIkgN0lHypHRrgiSIyJMD6xUeATgvZb0qs7TfeLyYSCk8LokuAj_Woe3Uf_kDOyRTcVc6PWp8vD-kCQYU-bBky724gDSv0qPpGvoXTXeRWoIgODmPOwoWrpAmYWqgQsHP1knZBsp2",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJWTO7Q_hsrjsR0W6HzzaGK88",
+            "plus_code": {
+                "compound_code": "RMQQ+6V Bengaluru, Karnataka",
+                "global_code": "7J4VRMQQ+6V"
+            },
+            "rating": 4.6,
+            "reference": "ChIJWTO7Q_hsrjsR0W6HzzaGK88",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 732,
+            "vicinity": "20th Cross Rd, Ananth Nagar, Phase 1, Kammasandra, Electronic City, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8097037,
+                    "lng": 77.6956471
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.81100897989272,
+                        "lng": 77.69695837989272
+                    },
+                    "southwest": {
+                        "lat": 12.80830932010728,
+                        "lng": 77.69425872010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "NH Temple",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117981792199932300064\">Anik Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRiqyQtABdk3obZoKU_apmaOZhjQL0VSA1mIUNhpXRieS2uAjfDJFZNRvD6jGxNQLzyPHjJPCyexM04SIFYvivuGonLjayVVa8GMS6pHvpeCk3o5DVyElLMQv7armOnJIgC42JcBwAXjwooM2KI5PVne9Vj7Ytp10jHqQlx8kzWLE8Ar",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ54HEzDttrjsRKoe5bKnoarM",
+            "rating": 4,
+            "reference": "ChIJ54HEzDttrjsRKoe5bKnoarM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "RM5W+V7J, Bommasandra Industrial Area, Bommasandra"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.7426573,
+                    "lng": 77.7023651
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.74400372989272,
+                        "lng": 77.70375092989272
+                    },
+                    "southwest": {
+                        "lat": 12.74130407010728,
+                        "lng": 77.70105127010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Kashivishwanateshwara Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104349406515195846327\">keshav reddy</a>"
+                    ],
+                    "photo_reference": "AcYSjRhFzyaMzC2Nhd-x0RW3CeExwwPqF8eD52Zsq4QcmTWtfarlHpLBYbPbRp28nG8FJRUifMWMAqc6wMIbx_fIFUMo2oiX1nAPqat4moNFtIbwqvqWYxMnViCmt5UVkE_v19bPTmzVR5qASgToTdC4148LtsxeAzBCLPAtKTixzrOqfg8q",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJXVIgrohvrjsRKjR2DRTJ2fk",
+            "plus_code": {
+                "compound_code": "PPV2+3W Anekal, Karnataka",
+                "global_code": "7J4VPPV2+3W"
+            },
+            "rating": 4.8,
+            "reference": "ChIJXVIgrohvrjsRKjR2DRTJ2fk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 137,
+            "vicinity": "Post, No 29 Kammasandra Agrahara Anekal tq Byagadadenahalli, Chandapura - Anekal Rd, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8303078,
+                    "lng": 77.6920414
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.83166592989272,
+                        "lng": 77.69338907989273
+                    },
+                    "southwest": {
+                        "lat": 12.82896627010728,
+                        "lng": 77.69068942010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Eluramma Temple",
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114760815353351899324\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjwI7XvnzZ727GAiC-iifF1c5r6zfOjgzSGaD40vHQo3xz82bvP0qCo7g3r8dTC-pjmPkGC8gVzrMsSmcW-dmuF4EU1R5qoShxVHhLlysSQd5rFj_FCaDnH3VoQuOamcFBIopbPxcMx2dS9tvXTjZmdxLflD7DKCotaZPJl0yQcfi3T",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJz2w3NFFsrjsRNAQTYBg8hLE",
+            "rating": 4.9,
+            "reference": "ChIJz2w3NFFsrjsRNAQTYBg8hLE",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "RMJR+4RV, Kammasandra, Electronic City, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.7632362,
+                    "lng": 77.7235565
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.76455832989272,
+                        "lng": 77.72491962989272
+                    },
+                    "southwest": {
+                        "lat": 12.76185867010728,
+                        "lng": 77.72221997010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Bandi Mahakali Temple",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107723179426737630223\">sajan6080</a>"
+                    ],
+                    "photo_reference": "AcYSjRhrDazL4ocajW1BywE_uGBq2csVGWU25iO7K6uppTnvrpcdZ-gdXT4PCcgcKas2NQOSIPAIAnCsFJ-GMFfTFpU9jQ8u03kk3MGLoGaDyVXPD4GR0qGhS2JojpimAndK8VQt5LTikKBcJO-Nie8pKiQ10ZP5O3l0fu4kgXhEgPK9XPCM",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJJwl9vDhurjsRjzSSQ0VDGwM",
+            "rating": 4.6,
+            "reference": "ChIJJwl9vDhurjsRjzSSQ0VDGwM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 62,
+            "vicinity": "QP7F+7CV, Madivala Village Road, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8592562,
+                    "lng": 77.7884457
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.86062502989272,
+                        "lng": 77.78979762989272
+                    },
+                    "southwest": {
+                        "lat": 12.85792537010728,
+                        "lng": 77.78709797010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shambulingeshwara Temple",
+            "place_id": "ChIJ88oBJtVzrjsRiSJ6h1fmmaw",
+            "rating": 0,
+            "reference": "ChIJ88oBJtVzrjsRiSJ6h1fmmaw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "VQ5Q+P98, Vasavi Temple Rd, Sarjapura, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.7804816,
+                    "lng": 77.7713782
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.78188387989272,
+                        "lng": 77.77263622989273
+                    },
+                    "southwest": {
+                        "lat": 12.77918422010728,
+                        "lng": 77.76993657010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Vinayagar Temple",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114070305063822598242\">Ravikumar R</a>"
+                    ],
+                    "photo_reference": "AcYSjRjiK56OUjUs2BMhjJmLKg1K7-aORGva1XZWSkCZQ3tRa3P-Q43XfaUz1naZu6VnbqmUhIFqtQxiVnPrNLUJZ8_iCHLtN2HtSg3fc9UQfw35gtffxBBoFwzTWRgvx7pVS4PBVYVl54AhqZSJXv3tcW8auLidkwACgBJrWD9Gn2c51uxE",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJGT8Ci25xrjsRgYmmXsnuW3I",
+            "rating": 5,
+            "reference": "ChIJGT8Ci25xrjsRgYmmXsnuW3I",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "QQJC+5HR, Sarjapura - Attibele Rd, Attibele"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.7770128,
+                    "lng": 77.77767759999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.77835762989272,
+                        "lng": 77.77902632989272
+                    },
+                    "southwest": {
+                        "lat": 12.77565797010728,
+                        "lng": 77.77632667010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108965678114246139465\">sen pillappa</a>"
+                    ],
+                    "photo_reference": "AcYSjRj7bOd6IIzrlMULB1MgEY5vlg3frfTBhsd7M4QzAzSrf8eTStnZL24GhjVt2pBudX1IsZHwhQIjf59oLqLJ3mF9DR_McISAfekqOer24TsJjf2YsxItMcHty5_wXMDoYnfgvUKkmqfyydSMJqtrKx7ztObVewnNH9P5X3MlZa2qkeEd",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJ1zdOPJdxrjsRLDXAkQhTPW0",
+            "rating": 3.8,
+            "reference": "ChIJ1zdOPJdxrjsRLDXAkQhTPW0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "QQGH+R33, Attibele"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.7693316,
+                    "lng": 77.80441139999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.77065767989272,
+                        "lng": 77.80576497989273
+                    },
+                    "southwest": {
+                        "lat": 12.76795802010728,
+                        "lng": 77.80306532010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "\u0bae\u0bbf\u0bb0\u0bc1\u0ba4\u0bc0\u0bb8\u0bcd\u0bb5\u0bb0\u0bb0\u0bcd \u0b9a\u0bbf\u0bb5\u0ba9\u0bcd \u0b86\u0bb2\u0baf\u0bae\u0bcd",
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114448190246808402298\">siva kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjizikWQbPBv0CWlbgvU3PyXbB7Ih5NKbY-1HQfUMz_18DbPPi2V6rw2kgcUDeNPChrAajiTKMWBHg9urnfdbITuxAPsfYQFBJ8zTbMHKZeI8dQxuTuv36j_EMzP-zxIN-10yxlH659TDfwC_FST050wLEQ7efFFSgJTfSGms5SUIgE",
+                    "width": 3472
+                }
+            ],
+            "place_id": "ChIJ9x_fqeBxrjsRmN87ssOKukM",
+            "plus_code": {
+                "compound_code": "QR93+MQ Hosur, Tamil Nadu",
+                "global_code": "7J4VQR93+MQ"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ9x_fqeBxrjsRmN87ssOKukM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "2/338-B,Govindha agraharam road,7th Cross,,TTK Down, Sipcot Ph. I, Hosur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.777191,
+                    "lng": 77.71574059999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.77851132989272,
+                        "lng": 77.71707017989273
+                    },
+                    "southwest": {
+                        "lat": 12.77581167010728,
+                        "lng": 77.71437052010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Ganesh Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109650956709663910266\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhrXg3ZP-RtxbJRh0UgwM687u7qyI5BGG15afcbu9GaM1_1R2crOjMCjy8IiDRyDs9gLTNE-4gcYgARRu3kRHzIRgyirAhMjIXM3rCFSfAxxCTOVwMrJD2gNGnc_CDn1CbklEtHL46yLJvP7TZ9RwGcjzoWXBzkPshJNdK-8FokyGAO",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJN7_EfftvrjsRd8pplT2BvKU",
+            "rating": 4.8,
+            "reference": "ChIJN7_EfftvrjsRd8pplT2BvKU",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "QPG8+V7H, Adisanahatty"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8510408,
+                    "lng": 77.6925443
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.85243857989272,
+                        "lng": 77.69385687989272
+                    },
+                    "southwest": {
+                        "lat": 12.84973892010728,
+                        "lng": 77.69115722010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shree Dharmashasthagiri Ayyappa Swamy Temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116879657163553261396\">Vigneshwaran KV</a>"
+                    ],
+                    "photo_reference": "AcYSjRgheqPP5BUMCe_JnOvg44T0CWPtMLeCeCGjEberIJffTRN994xNALMoaQNlxeYFuqD4JZ-Qcvj7oce43RE97qG1X7W2NWPNZjNgOXgz7og6MRE1OOUgNDfu44PS-FdoXXsccu4zHWB1FT0CCo2CVxxpGDndTY5cdtbUAk3zoGshfiK9",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJk2fAGINtrjsRPCafAC_pdro",
+            "plus_code": {
+                "compound_code": "VM2V+C2 Bengaluru, Karnataka",
+                "global_code": "7J4VVM2V+C2"
+            },
+            "rating": 4.7,
+            "reference": "ChIJk2fAGINtrjsRPCafAC_pdro",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 179,
+            "vicinity": "Chikkanagamangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.7523529,
+                    "lng": 77.7040629
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.75372622989272,
+                        "lng": 77.70541692989272
+                    },
+                    "southwest": {
+                        "lat": 12.75102657010728,
+                        "lng": 77.70271727010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112243782712174866230\">Paulson Kannath</a>"
+                    ],
+                    "photo_reference": "AcYSjRggVhBEwXwyewEu-WSMmkSfBR6QZCXjeC-GCeEU7GE5DF15j6e82o8gFYOCtkJuOtlP9EpLE8PXf3TJ3HGcDlGsVBQ_0zTm3KyAUoY7ZXhRPnnSkMOvmU1m6ro723cddj7k5liCXqrSVdX7uyqaHnGbRnToCzt5NIcTVFeCjPhmUh8M",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJmVkrp1ZurjsRQszvzncorMo",
+            "rating": 4.9,
+            "reference": "ChIJmVkrp1ZurjsRQszvzncorMo",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "QP23+WJP"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8595654,
+                    "lng": 77.7370148
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.86092827989272,
+                        "lng": 77.73833187989273
+                    },
+                    "southwest": {
+                        "lat": 12.85822862010728,
+                        "lng": 77.73563222010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101611447587838176869\">basawaraj sajjanar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjHX0jxRAUmChykRL-irKKSd3cDtmGH8AQdAmfU3y4Sln-ZHZTkbZOLndrMJYkSGI2aq71bHVUaI0_RiG9lAmEGXHAL6z1SC09twYzbQExd1RY8DcXVBV3SvU-7Pe7BHBXqzrpDqoqgtUrPQLZXQnbFGz6l6jEC_RapxarOW73GRQJV",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJE3IBpDptrjsRXteGLHy_Mx4",
+            "rating": 4.1,
+            "reference": "ChIJE3IBpDptrjsRXteGLHy_Mx4",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "VP5P+RRG, Gopasandra, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.7984309,
+                    "lng": 77.7066505
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.79981882989272,
+                        "lng": 77.70799957989273
+                    },
+                    "southwest": {
+                        "lat": 12.79711917010728,
+                        "lng": 77.70529992010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Lord Shiva temple",
+            "place_id": "ChIJmaJA135trjsRB2x378e1arg",
+            "rating": 5,
+            "reference": "ChIJmaJA135trjsRB2x378e1arg",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "QPX4+9MC, Anekal Main Road, Venkateshappa Layout, Terracon Residency, Suryanagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.7362302,
+                    "lng": 77.7814537
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.73749822989272,
+                        "lng": 77.78277642989272
+                    },
+                    "southwest": {
+                        "lat": 12.73479857010728,
+                        "lng": 77.78007677010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Muneswar temple",
+            "photos": [
+                {
+                    "height": 1600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111673689803328673745\">Pugazhenthi Govindasamy</a>"
+                    ],
+                    "photo_reference": "AcYSjRhJ3KiAGU_IHuCU1s3NaztZILUxDXseIqt8h2t3Hu1BcUEEOtQLGLSrEOcQq8JK8KPpkXPuzABVSukLvB5o99en9efgmRPn4bJg0o_98HX2ffxQayqrumU3in6I1ar55xwzIcqvll8sGUWMHCMYFN3dX8-l4HRGR_TGHw1gNh6nstAX",
+                    "width": 737
+                }
+            ],
+            "place_id": "ChIJX6HfZx9xrjsRnezOvyBG68M",
+            "rating": 5,
+            "reference": "ChIJX6HfZx9xrjsRnezOvyBG68M",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "PQPJ+FHW, Amritha, Hosur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.7260134,
+                    "lng": 77.71993599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.72736267989272,
+                        "lng": 77.72129232989272
+                    },
+                    "southwest": {
+                        "lat": 12.72466302010728,
+                        "lng": 77.71859267010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Nanjundeshwaraswamy Temple",
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113291332842521140046\">FUSION PLAST</a>"
+                    ],
+                    "photo_reference": "AcYSjRhtcOwNZCpf1BexOxKV9SMi7HE7vDabCboWtGBcU1X6XgJ3LK_gGPbndo_Frp8EWnPrjW_oXYeoigw93UX_mKOqc2npDOAmMMBVjEGWZJFTqo_lCbI_yzAF7Kk4RJ07FumS6Oio2WPl5cfGyGqQb-g2jrCRPmAvVSXX7SLf297m5TW4",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJXce3yb9vrjsR7GQZCDWl2xk",
+            "rating": 5,
+            "reference": "ChIJXce3yb9vrjsR7GQZCDWl2xk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "PPG9+CX4, Karpur"
+        }
+    ],
+    "status": "OK"
+}

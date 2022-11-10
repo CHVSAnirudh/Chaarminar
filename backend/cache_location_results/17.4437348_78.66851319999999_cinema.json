@@ -1,0 +1,391 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4200367,
+                    "lng": 78.6370984
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42166962989272,
+                        "lng": 78.63824402989272
+                    },
+                    "southwest": {
+                        "lat": 17.41896997010728,
+                        "lng": 78.63554437010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Asian Muktha A2 Cinemas, MJR Square",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108820004974993503837\">sharath kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRgCveUQQ6uhDmQrRMFfxBV598OQAkAJpdZJrbcqa6owmFnYAKebO3iipyDF0cOGvrfZDPFftVMN1rq1GO8RLl9ZmRCTyMk_vdn1W_tIMTqjcoHtpJZRP1V29g-nVB2qXbKT6A0AF0OnFXrHB9-Pj34rlnUukoDJpnDrLUrDpzybdD2z",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ0el8762fyzsR24emcaW2Gb8",
+            "plus_code": {
+                "compound_code": "CJCP+2R Hyderabad, Telangana",
+                "global_code": "7J9WCJCP+2R"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ0el8762fyzsR24emcaW2Gb8",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5352,
+            "vicinity": "Hyderabad - Warangal Highway, Narapally, Pocharam, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4943596,
+                    "lng": 78.5996262
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49579237989272,
+                        "lng": 78.60089712989272
+                    },
+                    "southwest": {
+                        "lat": 17.49309272010728,
+                        "lng": 78.59819747010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Krishna Theatre - Nagaram",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106383318111185281600\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgetBF25XbTyleiCRX47xdCWB77bxNnNp2I4lVI_GKHHcqqi2vU9cQn8WraxeJ4QwQF9WSajEpGiScR_m91LakMEguskktVHjvElvZV36d8J4QXTFNWdTU-gehQQaqd39FZ77wcLRc3WkowsNtpSohmwV8OvW9aW_kQna95Qzlg0hfi",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJ3dT7mM-dyzsRB8UJgsqcyaE",
+            "plus_code": {
+                "compound_code": "FHVX+PV Secunderabad, Telangana",
+                "global_code": "7J9WFHVX+PV"
+            },
+            "rating": 3,
+            "reference": "ChIJ3dT7mM-dyzsRB8UJgsqcyaE",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3121,
+            "vicinity": "Nagaram, Keesara Mandal, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4567158,
+                    "lng": 78.6875051
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45805727989272,
+                        "lng": 78.68887762989273
+                    },
+                    "southwest": {
+                        "lat": 17.45535762010728,
+                        "lng": 78.68617797010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Jagadamba Theatre",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111478651935292165792\">Sravan Palvai</a>"
+                    ],
+                    "photo_reference": "AcYSjRhccgJHMyGQhHvauiuOdR5fyYsfUTuqOjpozfrQqItYPr4u4ZuYXgKYrl4_LaxeUoS3sWy4wHTDpW43g3hWIwedi0chiuGvu56oyPBkEH-V2AvL3pO_7DPveLn-xHhWWaiWLh9JZbR6mUrKt4LuL-rOX8kNYvrIYYnt3x4EF3udY57J",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJQTqsHmx2yzsR6g3tEEAXs3Q",
+            "rating": 3,
+            "reference": "ChIJQTqsHmx2yzsR6g3tEEAXs3Q",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2008,
+            "vicinity": "FM4Q+M2J, Balaji Nagar, Ghatkesar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5242271,
+                    "lng": 78.66344649999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.52555582989272,
+                        "lng": 78.66473702989272
+                    },
+                    "southwest": {
+                        "lat": 17.52285617010728,
+                        "lng": 78.66203737010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Keesara Theater",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117889945248882380287\">sainath reddy</a>"
+                    ],
+                    "photo_reference": "AcYSjRh1sfTioAqCdiwEVRNqbH9wCc8BPBkz9TSCRe3j3qsRDURax93m58-PD5ztNlwCwCJORKJ9Nh9WWV9uTeWNBut5MvUKqIHDL3fIeBbj-hDEo9q-uwnAIHLEkhW1hz4vWb9hL1m1TtP7Oo-d50J96lzx8eIiHwYEsdFxWTIuoxIa6R0c",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJrT4q7ft3yzsReM7cQsfuwPQ",
+            "rating": 3.2,
+            "reference": "ChIJrT4q7ft3yzsReM7cQsfuwPQ",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 214,
+            "vicinity": "GMF7+M9W, Keesara, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3569462,
+                    "lng": 78.6682395
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.35795,
+                        "lng": 78.66912302989272
+                    },
+                    "southwest": {
+                        "lat": 17.3539348,
+                        "lng": 78.66642337010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Movies",
+            "place_id": "ChIJIacPHjV1yzsRq8pkOpOnAQo",
+            "rating": 5,
+            "reference": "ChIJIacPHjV1yzsRq8pkOpOnAQo",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "9M49+Q7H, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5335521,
+                    "lng": 78.68906609999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.53487287989272,
+                        "lng": 78.69050732989271
+                    },
+                    "southwest": {
+                        "lat": 17.53217322010728,
+                        "lng": 78.68780767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Sri Venkata Sai 70MM - Keesara",
+            "place_id": "ChIJ5YtXjid4yzsRnQ5uSqrjG2s",
+            "plus_code": {
+                "compound_code": "GMMQ+CJ Keesaragutta, Telangana",
+                "global_code": "7J9WGMMQ+CJ"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ5YtXjid4yzsRnQ5uSqrjG2s",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Keesaragutta - Keesara Near Bus Stop Hyderabad TL"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4777319,
+                    "lng": 78.57245089999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.47891937989272,
+                        "lng": 78.57387692989272
+                    },
+                    "southwest": {
+                        "lat": 17.47621972010728,
+                        "lng": 78.57117727010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Talluri Theatres",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112362705918716475646\">Krishnabhaskar Pathuri</a>"
+                    ],
+                    "photo_reference": "AcYSjRitQBjunYUQC7blRwINqpUgzPrdmXvrzleInjCb24ikJ9BHbi0nDNux3h5HrCpAuJD6j65rXeLTHRcfU67RcZf2eRVq-fX934dIq65a7tFf32x_llSpOsk8BxwPXdYn0AGF30EFuCt5QuEawGzVbJLAPVdZxJERqcLpTQlX9-_WKCJ5",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJOVtK232cyzsRoMrsvC0zkjY",
+            "plus_code": {
+                "compound_code": "FHHC+3X Secunderabad, Telangana",
+                "global_code": "7J9WFHHC+3X"
+            },
+            "rating": 3.6,
+            "reference": "ChIJOVtK232cyzsRoMrsvC0zkjY",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11831,
+            "vicinity": "2741a, ECIL - Keesara Rd, ECIL, Kushaiguda Industrial Area, Kushaiguda, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4316463,
+                    "lng": 78.6080161
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43296047989272,
+                        "lng": 78.60936072989271
+                    },
+                    "southwest": {
+                        "lat": 17.43026082010728,
+                        "lng": 78.60666107010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Shree cosmos Drive in",
+            "place_id": "ChIJ5Tu3ZcmfyzsRqx1T4jgaa7c",
+            "rating": 0,
+            "reference": "ChIJ5Tu3ZcmfyzsRqx1T4jgaa7c",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "CJJ5+M62, Chengicherla Rd, MLR Colony, Telephone Colony, Chengicherla, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5046161,
+                    "lng": 78.5811731
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50596717989272,
+                        "lng": 78.58252807989271
+                    },
+                    "southwest": {
+                        "lat": 17.50326752010728,
+                        "lng": 78.57982842010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "BLUESKY AUDIO RECORDING STUDIO",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101805113013207155069\">RAMESH BABU</a>"
+                    ],
+                    "photo_reference": "AcYSjRgPKLz10gfjus9YsFiKoO4wdLTLljrQgxoKqBaWruVmd2pUTcozmSTs6VBWMlXJDNE53wt1xFi3Kc3XIpi7wSOjCwTWGElqmhKCV8xTFop0kGlyNPOYNS_Rpz-z9yFVoK4OgRcHh9yoezXJbb68CFivC3MP0znQ9527eASPHZlbRpxS",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJyQ9g_TCdyzsR7mJ6RteSEu0",
+            "rating": 3.5,
+            "reference": "ChIJyQ9g_TCdyzsR7mJ6RteSEu0",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "GH3J+RFV, Sainikpuri, Secunderabad"
+        }
+    ],
+    "status": "OK"
+}

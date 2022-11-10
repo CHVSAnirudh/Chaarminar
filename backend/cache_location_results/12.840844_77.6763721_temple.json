@@ -1,0 +1,961 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRg9zvfH4hLd-z3Wz3DloUVaKY-uvgCZwA9cnNUd0DBu-GI1vKbwX7_sK_jHZziHITxFc0-3CnnYl2x0jNFDyeBaN9MMHBt-SBE-kGqrPtitDpeGAKw8iqrh-5WuDIOTMd2AyxhrbXBeFOb-S5anIpLB2NL9Kj7JAd-jfZPXtN6W2ucse88-eZ9sBTAA2jGdPmAbNDrSsxNbCOtj4JqedvTdYiajHcCYLSGjgBRv-LHu19a0RByBD8awYa69_c17NDRbnSJ54tjcAR4cLxpTYEF4cHYyEsFmEl5xZmEVrx5o8YtgKd-eSFohluM8Z4u3iDudktyGskNNhYhDay88OtFbrPHFGrPFs9a0CjkemqVf7MFDOUxGvWhiCn-V7qJwyJ4j7r9q-Wh0FGa2OcRnu-mH2FNVQNy4dsB6FYPLt6AptHut7wVqFIE",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8690463,
+                    "lng": 77.5976786
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.87041612989272,
+                        "lng": 77.59903327989274
+                    },
+                    "southwest": {
+                        "lat": 12.86771647010728,
+                        "lng": 77.59633362010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102037762305117279288\">Palliparamban saijogeorge</a>"
+                    ],
+                    "photo_reference": "AcYSjRgXfzYOzeeZopSooZ0HBlA3XhqvkWIINDFRY8tOarGIS1Trh5T0NS6cpsqXvINnENuFjbfagLRNUxHaaM2wj1_qr5RDXZPaopVNbTKNhpl4GikSmFLf-miTkaJKvf3kDN0bzERycVViXaaDDMAsfGK0ZDtu3GMjlp3iVDIco4TspK4A",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJtxY1yNFqrjsRoO8lYRyLmog",
+            "rating": 4.3,
+            "reference": "ChIJtxY1yNFqrjsRoO8lYRyLmog",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "VH9X+J37, Hulimavu, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.895264,
+                    "lng": 77.6332623
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.89664097989272,
+                        "lng": 77.63463487989273
+                    },
+                    "southwest": {
+                        "lat": 12.89394132010728,
+                        "lng": 77.63193522010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Vinayaka Temple",
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101027700063644011006\">deepak tr</a>"
+                    ],
+                    "photo_reference": "AcYSjRhf0Hvf7up23RL4uqZsWcnYIzOYT_pGH6xTthygzZzbx7jv0IjQdcpQjfd7FF5HtdixaVaFv_gAns2RQbBQ9H-_I2CffDFg0jeriZGZFpnq_ppnHnWXYS7Uh3l5-B2Tuk7MHNzRbqFksXPVWGaZhGqEYz0dYrrYRb5KKIWnxBvk9RTQ",
+                    "width": 2084
+                }
+            ],
+            "place_id": "ChIJjxs71LgUrjsR8wfMka1yOqM",
+            "plus_code": {
+                "compound_code": "VJWM+48 Bengaluru, Karnataka",
+                "global_code": "7J4VVJWM+48"
+            },
+            "rating": 4.4,
+            "reference": "ChIJjxs71LgUrjsR8wfMka1yOqM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "19, 7th Main 6th Cross, Pappya Reddy Layout, Garvebhavi Palya, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9156056,
+                    "lng": 77.59680329999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.91695337989272,
+                        "lng": 77.59813242989273
+                    },
+                    "southwest": {
+                        "lat": 12.91425372010728,
+                        "lng": 77.59543277010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Vinayaka Temple",
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107336188543999441135\">devanand subbaraj</a>"
+                    ],
+                    "photo_reference": "AcYSjRj-x5frAnjEruDOtkzAd7tpCnYQRu8KNuXpYcvPo4isHtBrHl3NZQOLB1mUiSDnRTlqg0A1dDQtSIutXDdCkYiJKvoyEW-BIFsHVLiN6hzGnveBIbJL1kjh9woy3_QyXKjB40k-DM_eXI7YXasbTpMShO4I3N33WP1WqhwzMyy-6wIu",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJVzDpmwUVrjsRAek5w27f5KA",
+            "rating": 4.9,
+            "reference": "ChIJVzDpmwUVrjsRAek5w27f5KA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "WH8W+6PR, 5th Main Rd, 3rd Phase, J. P. Nagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9069446,
+                    "lng": 77.61305
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.90827992989272,
+                        "lng": 77.61443767989272
+                    },
+                    "southwest": {
+                        "lat": 12.90558027010728,
+                        "lng": 77.61173802010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Vinayaka Temple",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115514442770985742072\">Bharat Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjf4HUVUlKZ25IKAgfbs8MdWys-JpSOX6P6Zqhyuc-DGckoqoCWkeDV0WiYS8cv8ZK-lb2oKVZJtCt-LqCJAbi7kt_estKM4-nlODy2w_YKi9o8f7Mc0-HQQnWxdh_S_DObqyxPqVZPb4XfFKSt964NZkzRLpBYXwZCOxfLKRqi4Jig",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJbb9o8eMUrjsRTEoYHZHYrks",
+            "rating": 4,
+            "reference": "ChIJbb9o8eMUrjsRTEoYHZHYrks",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "WJ47+Q6F, 29th Main Rd, EWS Colony, Stage 2, BTM Layout, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.921532,
+                    "lng": 77.67600310000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92287887989272,
+                        "lng": 77.67735157989273
+                    },
+                    "southwest": {
+                        "lat": 12.92017922010728,
+                        "lng": 77.67465192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sree Mahaganapathi Temple",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105763464777803624211\">Amit Zala</a>"
+                    ],
+                    "photo_reference": "AcYSjRg04JeU8qUmXKiozrQh7Fi-FkGY46bxuh0yLWCs1mSjvrMX8HpIW4PWgcoozuNMxLjy-8EWrhadjHQXWYwBglO3QlXLvN4kNk11ZWN_CDAk5rv8e5XHyR1vbz1GVETQUG_GKF4TlcJWNO18c_y0vwl14sgVgth5entIFMahIPg_YNv-",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJR4PCt3QTrjsRVZuILzdnvKQ",
+            "plus_code": {
+                "compound_code": "WMCG+J9 Bengaluru, Karnataka",
+                "global_code": "7J4VWMCG+J9"
+            },
+            "rating": 4.4,
+            "reference": "ChIJR4PCt3QTrjsRVZuILzdnvKQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 40,
+            "vicinity": "002,trinity meadows, Bellandur Main Rd, Bellandur, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.925069,
+                    "lng": 77.6010385
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92641612989272,
+                        "lng": 77.60246392989272
+                    },
+                    "southwest": {
+                        "lat": 12.92371647010728,
+                        "lng": 77.59976427010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103154203966493902584\">RAMAKRISHNA PRASAD ACHARYA</a>"
+                    ],
+                    "photo_reference": "AcYSjRgP74OK8l-hZMoy_-_y7xsu49g1Bict52XAuQG6GjP6TH1khkNk8vaBLjIqhzUdnEvy3MxbuvPs1EsFJdQGzJI5MyczUG_Uw4n6mVt3y5cB7m6GtjXSIyUNA7ZxIdQ7b1SP2efN2rY7dl_VX2D7zPG0rwldB-Yn170g8Thpry2xybU",
+                    "width": 1836
+                }
+            ],
+            "place_id": "ChIJqWHsnakVrjsR5gYhAb4JKeI",
+            "plus_code": {
+                "compound_code": "WJG2+2C Bengaluru, Karnataka",
+                "global_code": "7J4VWJG2+2C"
+            },
+            "rating": 5,
+            "reference": "ChIJqWHsnakVrjsR5gYhAb4JKeI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "1st Stage, BTM Layout, OLd Gurappanapalya, 1st Stage, BTM Layout, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9128017,
+                    "lng": 77.6494119
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.91399212989272,
+                        "lng": 77.65076482989272
+                    },
+                    "southwest": {
+                        "lat": 12.91129247010728,
+                        "lng": 77.64806517010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111014127623297413478\">Vidya Sagar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhAFIHrdEpfepNX6l27jaFPWGV7H08VhPfS9E1Im9TyzVNMqAk8HKhDugHo7XjS79Q6akb4NJhDn5dPJtZaPyf8J2ePyV3NnLh8ZGiXWrU-VSWkslRQPwcDqkaZ9aYp3BlxkQyhkBG1zH7z1TGE-IPp1_qDXW8dpZca-8gsBLwCPYrq",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJcbubMNsVrjsR-785yHITOpI",
+            "rating": 0,
+            "reference": "ChIJcbubMNsVrjsR-785yHITOpI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "WJ7X+4QF, 1st Sector, HSR Layout, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9207453,
+                    "lng": 77.7296605
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92205277989272,
+                        "lng": 77.73104837989273
+                    },
+                    "southwest": {
+                        "lat": 12.91935312010728,
+                        "lng": 77.72834872010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hindu Temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1450,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109286979680352400666\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiMpAKJMYkn6zDfXRdfLj4dCA3e3EIiuCEhPWPVvARLCM5ayH5uAMArvGTRPHprHU4WAplXKMsBTJX3YP3tJ1AxfNSHkr2D1ekKhxRhFxsjxWF1Uy0TSpYxDfmgKROYxkAtH54syPlJpQLNg6PUVGA5J-YynhZj_R-ZmSERVMltRN8D",
+                    "width": 1357
+                }
+            ],
+            "place_id": "ChIJg1rLS0UTrjsRglhZBTUBt6Y",
+            "rating": 2,
+            "reference": "ChIJg1rLS0UTrjsRglhZBTUBt6Y",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "WPCH+8V3, Gunjur Palya, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8819242,
+                    "lng": 77.6359829
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.88324497989272,
+                        "lng": 77.63732837989272
+                    },
+                    "southwest": {
+                        "lat": 12.88054532010728,
+                        "lng": 77.63462872010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112620285527499049652\">Vijaya Bhaskar Reddy</a>"
+                    ],
+                    "photo_reference": "AcYSjRhhybcGxflgniznd717jb9Zl91Pttj7vM8f0H7petDV3zwh7MQfRo-AXjlbxxH1mXD8VqfaaKuIIYDfPv8GXfj4s_mU_Rw2Snlh12pbwYgpl9Hx-DoPx8Vnr-lbWqrzjvzpzeZYjCVmxjRaVuR3fJqYJNZJNgWBFk0RNEU7ABx5qTT4",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJhVQNfLQUrjsRP9EpOQEGXGY",
+            "rating": 4.9,
+            "reference": "ChIJhVQNfLQUrjsRP9EpOQEGXGY",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "VJJP+Q99, Chikkabegur, Industrial Layout, Begur, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8828452,
+                    "lng": 77.6092599
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.88428707989272,
+                        "lng": 77.61075127989272
+                    },
+                    "southwest": {
+                        "lat": 12.88158742010728,
+                        "lng": 77.60805162010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Santoshi Maata temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116874761858124415626\">ChandraKanth Gajawada</a>"
+                    ],
+                    "photo_reference": "AcYSjRgrqKren_00hiTvZKnlJXH09o2kXf9EeIsRD_974ybXN-tz2iAFjfoh3WMZfnkTtyQtQvsRWOApFgjdfrHl6uL-5ZSAuo7HNuRI9QglHruWWd0yBMjLh5cd8W4IWEAy4lI6l3dQYubjzSk628JvlEEPux15I_0w0obgiC_HxbjEUwF9",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJMSWC4NUUrjsRpEMoHWl3QpQ",
+            "plus_code": {
+                "compound_code": "VJM5+4P Bengaluru, Karnataka",
+                "global_code": "7J4VVJM5+4P"
+            },
+            "rating": 4.8,
+            "reference": "ChIJMSWC4NUUrjsRpEMoHWl3QpQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 131,
+            "vicinity": "80 ft BDA road, Sai Baba Temple Rd, Arekere, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9071884,
+                    "lng": 77.6397745
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.90854222989272,
+                        "lng": 77.64110342989272
+                    },
+                    "southwest": {
+                        "lat": 12.90584257010728,
+                        "lng": 77.63840377010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Kaveramma Temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117076762890632650477\">Sudarshan Sudhu</a>"
+                    ],
+                    "photo_reference": "AcYSjRj98XicUXZSMd8ShUPjk7ZjvB4lQ9CGGf1_uZ3bzPUGHrpBHEKOpjxy5pSLIDOzhEVjiQhnmjpK2kJmZmJWa_aIzKKeAc_YlvroJthRExAj2maD6PW3sVCcJ3p7_nn0EgzQPYOXp0GmVDC2mIZd6F29C9jiXKsPkl1l_wmbhz8ELRw9",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJgdFaqbsVrjsRTH1IUPqWJVo",
+            "rating": 5,
+            "reference": "ChIJgdFaqbsVrjsRTH1IUPqWJVo",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "WJ4Q+VVG, Sector 3, HSR Layout, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9245193,
+                    "lng": 77.6944589
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92591462989272,
+                        "lng": 77.69584117989272
+                    },
+                    "southwest": {
+                        "lat": 12.92321497010728,
+                        "lng": 77.69314152010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shiva mahaganapati temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102324831364985847861\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi9gTAH1EysOY9X66auRf9b-IfVJGH7a-USyHDSXrJqli7CgWPJ1FKn9x4NwOCfxBKJk2-Rm8Nwar2cZw38kfkFKz1F1dXNoqD0iSrf2xUEHMYWjymsFf3w2XXabBUhE_DFBlOLGeFhHf6AMxssH2-OUFdXAZda89_Ny6WPT88MAgV6",
+                    "width": 3072
+                }
+            ],
+            "place_id": "ChIJO2KQ2gATrjsRPc5JFba3pCA",
+            "plus_code": {
+                "compound_code": "WMFV+RQ Bengaluru, Karnataka",
+                "global_code": "7J4VWMFV+RQ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJO2KQ2gATrjsRPc5JFba3pCA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26,
+            "vicinity": "Devarabeesanahalli Flyover, Dr Ambedkar Nagar, Bellandur, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8768561,
+                    "lng": 77.60235329999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.87820737989272,
+                        "lng": 77.60364262989272
+                    },
+                    "southwest": {
+                        "lat": 12.87550772010728,
+                        "lng": 77.60094297010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Satyanarayana Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114854111944585543082\">Raghuveer E</a>"
+                    ],
+                    "photo_reference": "AcYSjRieTR7UeA-05cDzHdPvTSzmWUPYwQz5nyJDyK-_WXE87NwJ-WeGSu0M3LNAGmpKIF7BaBgkA3wuPYeBNkRlDkekvZT0swxr15LILgQfsBhxEQntiIQL8c6rxJ2gDYzlv0107Ka5LJf4aJci7_NhgPR2U0qT8UFwlR4O20BsSiwoTsWL",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJAQAkqtRqrjsRR5TksNrjgnA",
+            "plus_code": {
+                "compound_code": "VJG2+PV Bengaluru, Karnataka",
+                "global_code": "7J4VVJG2+PV"
+            },
+            "rating": 4.6,
+            "reference": "ChIJAQAkqtRqrjsRR5TksNrjgnA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 285,
+            "vicinity": "Sri Satyanarayana Temple, Hulimavu Lake Rd, Muthurayya Swamy Layout, Hulimavu, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8613455,
+                    "lng": 77.7106842
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.86269147989272,
+                        "lng": 77.71200377989271
+                    },
+                    "southwest": {
+                        "lat": 12.85999182010728,
+                        "lng": 77.70930412010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117006581568034546688\">Sajeev</a>"
+                    ],
+                    "photo_reference": "AcYSjRjdw02yPi2QKCJ18mCNMgbp7o22UahPmxwpbJgkPsZ3Uky7L9zhbWPRkaVtzwlDMJNhguee_0FchbJOzufuiFaN9jfwyi3rmNZS-rA1rclQm8HrtOpUSwCHN9WdOpD3yCBnvxQXAPtlcOG7e1GLv2UWDOX53rP3_e_X9m1z-Pe0C4aO",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJwR9PHPttrjsRNCp0Hw11oYE",
+            "plus_code": {
+                "compound_code": "VP66+G7 Huskuru, Karnataka",
+                "global_code": "7J4VVP66+G7"
+            },
+            "rating": 3,
+            "reference": "ChIJwR9PHPttrjsRNCp0Hw11oYE",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "413, Huskuru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9177313,
+                    "lng": 77.6501672
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.91908112989272,
+                        "lng": 77.65151567989273
+                    },
+                    "southwest": {
+                        "lat": 12.91638147010728,
+                        "lng": 77.64881602010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Varasidhhi Vinayaka Temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103995470005892181191\">Jagannathan Srinivasamurthy</a>"
+                    ],
+                    "photo_reference": "AcYSjRgyxEoiNDc-OthFH90ebSyUS_-kNkZ9sqaphmI2m-JIsGFrzv8vRWjprxoTkT-thfCYP2n_IEym9hsQMLI_9b9xjfjkI4upVma4QTw1R7oafpwcrFagFd0yIpM7awWec5xf1smuiU82QUKJ2dz6c0obNlMIREbShX6YlFh725vRRzif",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJGbI1yIMUrjsRXty4KCafkBs",
+            "rating": 4.6,
+            "reference": "ChIJGbI1yIMUrjsRXty4KCafkBs",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 203,
+            "vicinity": "WM92+34R, 25th A Main Rd, 1st Sector, HSR Layout, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8838583,
+                    "lng": 77.6969858
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.88520857989272,
+                        "lng": 77.69833172989271
+                    },
+                    "southwest": {
+                        "lat": 12.88250892010728,
+                        "lng": 77.69563207010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJl2uWmyMTrjsR82-3ffL_7K8",
+            "plus_code": {
+                "compound_code": "VMMW+GQ Bengaluru, Karnataka",
+                "global_code": "7J4VVMMW+GQ"
+            },
+            "rating": 0,
+            "reference": "ChIJl2uWmyMTrjsR82-3ffL_7K8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "48, Marathahalli - Sarjapur Rd, Muneshwara Layout, Carmelaram, post, Chikkakannalli, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9266371,
+                    "lng": 77.6112572
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92799402989272,
+                        "lng": 77.61258412989271
+                    },
+                    "southwest": {
+                        "lat": 12.92529437010728,
+                        "lng": 77.60988447010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sathyanarayana Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2594,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105975288042284079748\">sebastian Joseph Kannothu</a>"
+                    ],
+                    "photo_reference": "AcYSjRgp_4LtxF0n86u9xbs5rS3VTRgFhe4yMHWYOKlagIY1wkLkugE7EMRgM6JDWF84gKU9i7_VFsHcCbKqB0oeiPtf04ZHcAgpiaBnN0LH9k9B_wqR68wcBB2qoJkDfkThAs_bM5zs8Gs5klVDr6_4F7kAiMIpSqBwY9P1rnpNgK1Ur1-R",
+                    "width": 2146
+                }
+            ],
+            "place_id": "ChIJfQd7W1QUrjsRyOYvz0gQ0kA",
+            "rating": 4.3,
+            "reference": "ChIJfQd7W1QUrjsRyOYvz0gQ0kA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28,
+            "vicinity": "WJG6+MF5, 5th Cross Rd, Tavarekere, Chikka Adugodi, Brindavan Nagar, S.G. Palya, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9284651,
+                    "lng": 77.6368009
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92972002989272,
+                        "lng": 77.6381071298927
+                    },
+                    "southwest": {
+                        "lat": 12.92702037010728,
+                        "lng": 77.63540747010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Ganesh Temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114305568816722441222\">Rgirish Girish</a>"
+                    ],
+                    "photo_reference": "AcYSjRgexjqC6Pm0A5cOBFGy6eJZR8dJcKJmHYIY13mZAlWAbeNsIyofYFWgaL8HYoTxGxoaO9gmaVspn_3mg_SuisrqvzsAggQfsjfp2n5I5pWw3uDRz9hU3U6p9XM49Kf0l2272MbBJiJEdy7bwYADr_rUUnftNMDBDPZxFImocF_Rv0KE",
+                    "width": 2304
+                }
+            ],
+            "place_id": "ChIJD-ad4WMUrjsRSOBIIvgJzp0",
+            "plus_code": {
+                "compound_code": "WJHP+9P Bengaluru, Karnataka",
+                "global_code": "7J4VWJHP+9P"
+            },
+            "rating": 4.6,
+            "reference": "ChIJD-ad4WMUrjsRSOBIIvgJzp0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "307/1, 1st Main Rd, S.T. Bed, 1st Block Koramangala, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9262582,
+                    "lng": 77.6146565
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92761647989272,
+                        "lng": 77.61596397989271
+                    },
+                    "southwest": {
+                        "lat": 12.92491682010728,
+                        "lng": 77.61326432010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Srinivasa Temple",
+            "photos": [
+                {
+                    "height": 9216,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116209362602620591832\">116209362602620591832</a>"
+                    ],
+                    "photo_reference": "AcYSjRiDUMnE6pPsT4KFzXx47Jr94o4UoxIK9F2YfqmdPrvv0U63yeqi-JvgLihzxNuk2SFGdWKXDhZEDqGwfk_UWWXp6KFbejVcXWr-c9_OoxzoUgL-wPufPN8tp7j2hbpd1cbppzCYo_Jb1o1RU2-pZE0OroQoT_80A25F9w4LodG2DGxI",
+                    "width": 6912
+                }
+            ],
+            "place_id": "ChIJFWvKrCEVrjsRDBjGoPq3tuw",
+            "plus_code": {
+                "compound_code": "WJG7+GR Bengaluru, Karnataka",
+                "global_code": "7J4VWJG7+GR"
+            },
+            "rating": 4.8,
+            "reference": "ChIJFWvKrCEVrjsRDBjGoPq3tuw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "Srinivasa Temple Building, 4, Srinivasa Temple Rd, Maruti Nagar, 1st Stage, BTM Layout, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8504894,
+                    "lng": 77.620655
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.85185777989272,
+                        "lng": 77.62201622989272
+                    },
+                    "southwest": {
+                        "lat": 12.84915812010728,
+                        "lng": 77.61931657010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Prasana Anjenaya Temple",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106011593517595839596\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRicFtQpmGt1PViiIobDhUpwZnPSOpolgAusDTvICSP_99usFJTJFB56Zs7j1-3HmLYYS0l6oRQWPbFYFcH6yTYfoa7xg0EqWKTEqU70P0F6njk-PMpwc7pzwOozlMe84EUeQsN2gxT_q6-6xMECAHJ76tW0-WE80P7HhHq0Yjdqqt8W",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJpcgRSBdrrjsRIDJ4sF7dCDY",
+            "rating": 4.1,
+            "reference": "ChIJpcgRSBdrrjsRIDJ4sF7dCDY",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "VJ2C+57J, Mylasandra, Bengaluru"
+        }
+    ],
+    "status": "OK"
+}

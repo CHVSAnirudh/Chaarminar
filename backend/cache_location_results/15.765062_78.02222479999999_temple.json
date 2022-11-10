@@ -1,0 +1,846 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjVJWEU9NWx9kx2F7CNu1hMLGUaAYMRQah6GfrQa2Z1kQOvAZmZ4n41GpzW9QPB20qvF9rZKsaV4mXW5X_TQhiDZUtUtMc24iPffcWfH0D6tnTVzRrtrnAzorti8JOwq8QxNZN9pMlENno5ulwTl6xopdzagQN0Gc5hsBhgWmOCBi2mLSLD5lIb9EvnMToo0KpxFMkVs1keyWjWZeU4N-IM6k8upGD86iqgXHzi9atHNOD3S6BD8U-0zh_f78pufSgmuolp6AWPylEk3Bn2h8g0xVuB7TsLZSPv6YgNU6Sdp8QIywjdHcv2_y4-2WvP8WB-xBUmH93-VVf88QFYOePd4GsL0Rd4MQIJGhmhexlxww-gnFq-k5ZWuh41RIcoPyYNbRxL_EyveYCs_4pjR6qvulEFRgGQgvOGLrDI7v88GAJEwXlYhUI",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.835169,
+                    "lng": 78.0505326
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.83652052989272,
+                        "lng": 78.05186877989271
+                    },
+                    "southwest": {
+                        "lat": 15.83382087010728,
+                        "lng": 78.04916912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "temple",
+            "place_id": "ChIJoVIQvV3ntTsRKKimYqxmn1Y",
+            "plus_code": {
+                "compound_code": "R3P2+36 Kurnool, Andhra Pradesh",
+                "global_code": "7J7WR3P2+36"
+            },
+            "rating": 0,
+            "reference": "ChIJoVIQvV3ntTsRKKimYqxmn1Y",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "s, Nagappa St, N R Peta, Kurnool"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8151644,
+                    "lng": 78.0325819
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.81654417989272,
+                        "lng": 78.03391147989272
+                    },
+                    "southwest": {
+                        "lat": 15.81384452010728,
+                        "lng": 78.03121182010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJi0tsiAfdtTsROvwTOGKau8I",
+            "rating": 0,
+            "reference": "ChIJi0tsiAfdtTsROvwTOGKau8I",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "R28M+22G, Swapna photo studio pakka line, KrishnaNagar - Kallur Rd, Deva Nagar, Kurnool"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8281257,
+                    "lng": 78.0372792
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.82950342989272,
+                        "lng": 78.03861382989272
+                    },
+                    "southwest": {
+                        "lat": 15.82680377010728,
+                        "lng": 78.03591417010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Kasi Vishveshwara Temples",
+            "place_id": "ChIJ-1VCIP7ntTsRe9cgk18LjqY",
+            "rating": 5,
+            "reference": "ChIJ-1VCIP7ntTsRe9cgk18LjqY",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Vishveshwara Temple, Kasi, Kurnool"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8508892,
+                    "lng": 78.0852373
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.85223902989272,
+                        "lng": 78.08658712989272
+                    },
+                    "southwest": {
+                        "lat": 15.84953937010728,
+                        "lng": 78.08388747010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Adoni Laxmamma Temple",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103942097062390671946\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhTjntO0G-sl39zuMjqv0i4SkJgsiETPXMVngy-YD8QKZQpHrDmDwtl32ChesTqyhmsp_d2Ea2E4omltVC9FYx6_cjwZ0QhadCGyrfHJeKtJto-whHZty4iFdLPZEUxjD14x_1raOt0EC9d-QjvhgI0GW68SDFks1xURmsgibQkw3BP",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJMbchXK_ntTsRTGkmIQ6TtfM",
+            "rating": 5,
+            "reference": "ChIJMbchXK_ntTsRTGkmIQ6TtfM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "V32P+935, Mahbubnagar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8025603,
+                    "lng": 78.05011929999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.80386247989272,
+                        "lng": 78.05147612989272
+                    },
+                    "southwest": {
+                        "lat": 15.80116282010728,
+                        "lng": 78.04877647010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Bharatha Matha temple",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115957883917530264997\">bhupal achari</a>"
+                    ],
+                    "photo_reference": "AcYSjRjc4R4XxGA5OfL_pkUMoCJKDuQRJGwaQfi9_DbTGD_M0-eKP3JA9QRXygJQusnIXHGhb6hwso4j3-ng-yJbvQeGwg5-2y-cMekuu56a4tBHaaazQmI7Y360aslrcCxoQy8U2NsYUpE0PjlXfT---15nk9XOa5OtJ1Q_pxHNE9rLu_Mn",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJJZdtJ5bdtTsR8L4_3QUFoT4",
+            "rating": 4.4,
+            "reference": "ChIJJZdtJ5bdtTsR8L4_3QUFoT4",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 56,
+            "vicinity": "R332+23G, Revenue Colony, C Camp, Kurnool"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8120767,
+                    "lng": 78.0945849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.81337942989272,
+                        "lng": 78.09595467989271
+                    },
+                    "southwest": {
+                        "lat": 15.81067977010728,
+                        "lng": 78.09325502010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJ08OfOyvdtTsRsgoC07XazV4",
+            "rating": 3,
+            "reference": "ChIJ08OfOyvdtTsRsgoC07XazV4",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "R36V+RRP, Unnamed Road, Padidempadu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.774083,
+                    "lng": 77.937906
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.77539647989272,
+                        "lng": 77.93930382989272
+                    },
+                    "southwest": {
+                        "lat": 15.77269682010728,
+                        "lng": 77.93660417010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sivalayam temple",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102047546696678339967\">chittagari ganeshreddy</a>"
+                    ],
+                    "photo_reference": "AcYSjRgiJslUlxGc75aHHc30yjBT4csBgVy_U1ts7jC0CwUvQWIbgroivQ-Up3Y6LbFRVYCktB54pSTDrgfudvS78iYfWkvBDG5hUKGtMuHFiVrK05jOCfxmyhLrzQhh18t6EEQ2Koz5ZJ-wSGQHRhG9IoVbjM-mUBVc70A24lsE8gCi_uFh",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJ9W3uloLftTsRTVLuxmSUg4I",
+            "rating": 4.7,
+            "reference": "ChIJ9W3uloLftTsRTVLuxmSUg4I",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18,
+            "vicinity": "QWFQ+M52, SH 78"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.7457143,
+                    "lng": 77.9351642
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.74705187989272,
+                        "lng": 77.93656757989271
+                    },
+                    "southwest": {
+                        "lat": 15.74435222010728,
+                        "lng": 77.93386792010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shivayalam Temple",
+            "place_id": "ChIJ0-mz3vrftTsR6amFM6lALec",
+            "rating": 1,
+            "reference": "ChIJ0-mz3vrftTsR6amFM6lALec",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "PWWP+73J, Kottala"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8152792,
+                    "lng": 78.0330352
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.81668797989272,
+                        "lng": 78.03439072989272
+                    },
+                    "southwest": {
+                        "lat": 15.81398832010727,
+                        "lng": 78.03169107010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Savaramma Temple",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110599019822400315510\">puduru sairam</a>"
+                    ],
+                    "photo_reference": "AcYSjRgqmvqtBH6JHdyTaRp_VEtJRCdJkoQyWIhh4ccDdZlde31a4onE6nN3y_rdK49lNPdPkFzd0frfg5fDXKV9YRFzzlvItaouxX1uI_t_BqOZujfoOYUCtZPHNvPKMTXjFlSIAspzF7wV_uIabFbAGUN7MjaqL7NAiYnr4zfz3yLGpDqs",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJV7NSRfDdtTsRpS2F_omdj28",
+            "rating": 4.5,
+            "reference": "ChIJV7NSRfDdtTsRpS2F_omdj28",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "R28M+46F, Deva Nagar, Kurnool"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8273718,
+                    "lng": 78.00449979999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.82870887989272,
+                        "lng": 78.00585792989271
+                    },
+                    "southwest": {
+                        "lat": 15.82600922010728,
+                        "lng": 78.00315827010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Hanuman Temple",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117182141166840979476\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgZ6BI5cA_MY6xlyR2cHabkAIulDsgfeW7sFwzqtJSTCtuXScW4En1MmT_y3lyl14jbT8KeFnOJPJlUeyzJhqsNNFWORwWr-kUh0yqVFG9r39Pk6v6JLPyVvMWy2WF3TiUPd2w-rc3JjjHSP0Dzwt7GYxHcWyfQKwWRBWahoXaI8nA",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJV8MVk6bgtTsRaPSjHGK_xNo",
+            "rating": 4.5,
+            "reference": "ChIJV8MVk6bgtTsRaPSjHGK_xNo",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "R2G3+WRC, Nehru Auto Nagar, Kurnool"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8002717,
+                    "lng": 78.0045427
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.80161147989272,
+                        "lng": 78.00606432989272
+                    },
+                    "southwest": {
+                        "lat": 15.79891182010728,
+                        "lng": 78.00336467010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Godala Hanumantharayuni Temple",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114899153457948739693\">mallikarjuns m</a>"
+                    ],
+                    "photo_reference": "AcYSjRj4H6CjKiKcHTcYl1d9HKN18MSRHe7oDdLa-OXYhcgtCNcL0UwZz7e94ZyWtMD7_ifLHvZS60YmWrsFPQTPHSjgScIOwKVXnh1rq3QnuJTWYAik4Ui8IdpdtqlbHLhdXksyL6qhMms1BHPlyXrWkOah8kMgFU6GwYkuPdJBMN61BuzS",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJgbuJLRPetTsRYoMi53OKrJI",
+            "rating": 4.3,
+            "reference": "ChIJgbuJLRPetTsRYoMi53OKrJI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "R223+4R3, Kurnool"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8156456,
+                    "lng": 78.0587453
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.81704972989272,
+                        "lng": 78.06009707989271
+                    },
+                    "southwest": {
+                        "lat": 15.81435007010728,
+                        "lng": 78.05739742010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shivalayam Temple, Joharapuram, Kurnool, Andhra Pradesh",
+            "place_id": "ChIJNXpUu4TdtTsR9fY7MiKjaZE",
+            "rating": 4.4,
+            "reference": "ChIJNXpUu4TdtTsR9fY7MiKjaZE",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "R385+7G2, Kurnool,, Alluri Sitarama Raju Nagar, Kurnool"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.6902371,
+                    "lng": 77.9748309
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.69146407989272,
+                        "lng": 77.97593617989273
+                    },
+                    "southwest": {
+                        "lat": 15.68876442010728,
+                        "lng": 77.97323652010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Saibaba Temple",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107406752344590626208\">Nchiru Nallabothula Chiranjeevi</a>"
+                    ],
+                    "photo_reference": "AcYSjRiswaewzQ-cLBsGhB4An5rnuIPIEdPhO2EMi30-ni-zeH9Djw7tsWlGJuCIoviJJCQsbRtkvYKvm9Sg_1LBIU4ZX3yEatAmDdlcsPo51-hQ-Adv7EOV_5-PFo0F8E89lgYIPsaLGBCP56m82Te6lTKVc-b_BhRMV_pCQbR17g97obl4",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJTRnJbALZtTsRrgrnQ9X97Yk",
+            "rating": 4,
+            "reference": "ChIJTRnJbALZtTsRrgrnQ9X97Yk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "MXRF+3WW, Kurnool"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8235547,
+                    "lng": 78.0134825
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.82490212989272,
+                        "lng": 78.01486842989272
+                    },
+                    "southwest": {
+                        "lat": 15.82220247010728,
+                        "lng": 78.01216877010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Venkateswara Temple",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103094495438100286446\">Siddam Prasanthkumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhxwgupErughbHzsOsTIfSLeobEQbN2y0UHmZ_b2Rnrv7A8FEFjD4rFtm32MKI_dYX5SQXe3Z6FrQnGrXF4S6lkZu_kcC8CQpFiG3D3ib1XgDeIfKmeQ8gOwqsmoWlblTTO5Ed7v1wZ6-Ihu_q8UhnGy6PcRMZg_B0VbXvzIYMvpSel",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJvwoA_qngtTsRzLkaS7eDgr8",
+            "rating": 4.2,
+            "reference": "ChIJvwoA_qngtTsRzLkaS7eDgr8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "R2F7+C9H, Ulchala - Kurnool Rd, Guru Raghavendra Nagar, Kurnool"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.7667986,
+                    "lng": 78.0634179
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.76817032989272,
+                        "lng": 78.06477297989271
+                    },
+                    "southwest": {
+                        "lat": 15.76547067010728,
+                        "lng": 78.06207332010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman Temple",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117364400982527641454\">INFINITE WORLD</a>"
+                    ],
+                    "photo_reference": "AcYSjRiJ-4ubKZuww0HJYQAtHHWYZZmQUuNCr_9FrSLbsDkZEQ7sM0cOe03wqI_hNaAkYZaGigFwCpMZPZWlR9a9-lYvJ6QeXSKeV9SyKwXDN1NrG8dnxrYLgadDGTohqjEPmurYxWgVQ9hRY-GZUdAoiG_l08_OwgZ_zJkyZFJ3fIFoarht",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJpyBxQ1jctTsRdUHk-Jicg3k",
+            "rating": 3.5,
+            "reference": "ChIJpyBxQ1jctTsRdUHk-Jicg3k",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Q387+P9F, B. Thandrapadu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.7874484,
+                    "lng": 78.1099979
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.78885467989272,
+                        "lng": 78.11121797989271
+                    },
+                    "southwest": {
+                        "lat": 15.78615502010728,
+                        "lng": 78.10851832010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sree Sai Meenakshi Sundereswaralayam",
+            "photos": [
+                {
+                    "height": 2999,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111735318997124596154\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgIKKbuWna06uVX0btID9lA3Fr8gxFTOhTCp5wTVtMpr5hLfDz0-1TBjZtE7aBcAK86VL7QfODXhypEImFJwH4k6vjnoFnGfoQuc9B63zJ_WwOLeIx0dYPNuyk_2dH48QWZ40Yhwyak4TIVyEhzwX3AEcEQHwEf9lssvbTG74C2go-o",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ8ch5RivdtTsRV0XqyDaPgzw",
+            "plus_code": {
+                "compound_code": "Q4P5+XX Gargeyapuram, Andhra Pradesh",
+                "global_code": "7J7WQ4P5+XX"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ8ch5RivdtTsRV0XqyDaPgzw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 62,
+            "vicinity": "KG Road, State Highway 50, Gargeyapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.774919,
+                    "lng": 78.0583797
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.77640237989272,
+                        "lng": 78.05969122989274
+                    },
+                    "southwest": {
+                        "lat": 15.77370272010728,
+                        "lng": 78.05699157010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Durgamatha Temple",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108907171927606523459\">Uday Siddu</a>"
+                    ],
+                    "photo_reference": "AcYSjRgr-jN_jovLE9EM6OOIbH6vhWbqoNhmCEfS31YTR8nAZQPoNzB3sURZC-ydXErCWSHy0gIWDVHXCYoGYCJ0dccQ3L6noCVQnV4NRGudckyKLYnXzFmgOhrL8d80ObfhLHaIpPFCXH4okXzTzuiL3qJImmm7oloCPj_UabnfbB5Ql8eV",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJVUciwFPctTsRcvMWl7g-PRc",
+            "rating": 4.7,
+            "reference": "ChIJVUciwFPctTsRcvMWl7g-PRc",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Q3F5+X96, National Highway 18, Kurnool"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.7455455,
+                    "lng": 77.9355191
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.74685542989272,
+                        "lng": 77.93685527989273
+                    },
+                    "southwest": {
+                        "lat": 15.74415577010728,
+                        "lng": 77.93415562010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman temple",
+            "place_id": "ChIJZ8hwhvPftTsRNguYKFh4vGg",
+            "rating": 1,
+            "reference": "ChIJZ8hwhvPftTsRNguYKFh4vGg",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "PWWP+66C, Kottala"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8174631,
+                    "lng": 78.0277469
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.81878127989272,
+                        "lng": 78.02911967989272
+                    },
+                    "southwest": {
+                        "lat": 15.81608162010727,
+                        "lng": 78.02642002010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Bheerappa Temple",
+            "place_id": "ChIJlV_ey_vdtTsRQawL1qoErcU",
+            "plus_code": {
+                "compound_code": "R28H+X3 Kurnool, Andhra Pradesh",
+                "global_code": "7J7WR28H+X3"
+            },
+            "rating": 3,
+            "reference": "ChIJlV_ey_vdtTsRQawL1qoErcU",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "70/127/H/7/2, Sampath Nagar, Kurnool"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8249608,
+                    "lng": 78.021405
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.82622627989272,
+                        "lng": 78.02276272989273
+                    },
+                    "southwest": {
+                        "lat": 15.82352662010728,
+                        "lng": 78.02006307010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Lord Hanuman Temple, Bellary Chowrasta",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103315367939540725095\">vadla veera</a>"
+                    ],
+                    "photo_reference": "AcYSjRgBAtG1BeXnxaIqXJnvWdX09nqxHHooK9M-etCQr4i0vYPZyPzeeXSSLG3kmi-h7Yvd8xvm5Zei92BsnSdhfU9VhdU6CSvYFCJSrWeffH02AIou-a7UJ-Y5R6a3mgC0uZQYA1Y3D3jCAd71kjOJl8KlPogyADLcYaXV4rBELsC_h051",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ25wqZlXntTsRmdZjU3B5hjI",
+            "plus_code": {
+                "compound_code": "R2FC+XH Kurnool, Andhra Pradesh",
+                "global_code": "7J7WR2FC+XH"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ25wqZlXntTsRmdZjU3B5hjI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 742,
+            "vicinity": "43, NH 44, Guru Raghavendra Nagar, Kurnool"
+        }
+    ],
+    "status": "OK"
+}

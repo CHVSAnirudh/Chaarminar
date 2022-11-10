@@ -1,0 +1,50 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6003671,
+                    "lng": 80.324794
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60171657989272,
+                        "lng": 80.32613502989271
+                    },
+                    "southwest": {
+                        "lat": 17.59901692010727,
+                        "lng": 80.32343537010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Laxmaiah Sadineni Statue",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100418280676234075486\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjH3OSrkh8vjYMFCcwNwNUL5Rpkuwk20TDoZ16v79P5YjSopA4Zt6MqrUPz5vwEHnHyqbqWCe-dONSNrsEQUypI0_zEX9RLbYXRbxNvUZrdwP2oXCI33oKfSRkt7fZy6J2lTX_86owS2Of4UQB3l8NP5X3pjl9wQ0jOMDbAIJvXcjqZ",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJIQziTzRuNDoRFpk4oeqwc9s",
+            "rating": 3.8,
+            "reference": "ChIJIQziTzRuNDoRFpk4oeqwc9s",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21,
+            "vicinity": "J82F+4WV, Gandhi St, Sudimalla"
+        }
+    ],
+    "status": "OK"
+}

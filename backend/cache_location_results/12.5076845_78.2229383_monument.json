@@ -1,0 +1,101 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.5383611,
+                    "lng": 78.214565
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.5423847,
+                        "lng": 78.21688129999998
+                    },
+                    "southwest": {
+                        "lat": 12.5370199,
+                        "lng": 78.2137929
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Krishnagiri Fort",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 527,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112205745441069724101\">Sreenath v r</a>"
+                    ],
+                    "photo_reference": "AcYSjRg4H9LOVUva2NglcmN7hjzr3VVxGjoCZ3tTs0hmJ2RniTpAl2qXzh7uQXxaHJZ9zGSY-QS8MA1JEU8uibs1Lb5C3tNvLVlzyI4qss6rOHsXL45dO-8bkaG78S25psfqaolF62pLy7F9iEjQ4FrWGjxDqhkm0A0WK7a6ZHcY28MhdT3Q",
+                    "width": 643
+                }
+            ],
+            "place_id": "ChIJERfM9bE0rDsRuX-lSTZvx_4",
+            "rating": 4.2,
+            "reference": "ChIJERfM9bE0rDsRuX-lSTZvx_4",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1240,
+            "vicinity": "G6Q7+8RW, Near, New Bus Stand Road, New Housing Unit, Krishnagiri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.5245893,
+                    "lng": 78.1958154
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.52593912989272,
+                        "lng": 78.19716522989273
+                    },
+                    "southwest": {
+                        "lat": 12.52323947010728,
+                        "lng": 78.19446557010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Granites India",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101973018081500997455\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi74yOCJFFutZMuuUTrvX-Xwl5JiJdd8mAbHb_oijh6WSLRu-tgCwMYeF-zLzQRcfd7Y1KrMcmU0n7hm2kN2pqmHNDlBsm16eNOdfzLgKqYgdw1Ee_BxncU7FT0YrC9e_MQkJ2-AoShsWo9GtOPUEzuG6zpLO0J8e3Fv6GulFA_DmtR",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJibfN6p40rDsRvVu4M-FvxT0",
+            "plus_code": {
+                "compound_code": "G5FW+R8 Krishnagiri, Tamil Nadu",
+                "global_code": "7J4WG5FW+R8"
+            },
+            "rating": 5,
+            "reference": "ChIJibfN6p40rDsRvVu4M-FvxT0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Rayakottai Rd, TNHB Second Phase, Wahab Nagar, Krishnagiri"
+        }
+    ],
+    "status": "OK"
+}

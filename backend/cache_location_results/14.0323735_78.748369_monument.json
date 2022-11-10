@@ -1,0 +1,93 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 13.9681069,
+                    "lng": 78.6887361
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.96937667989272,
+                        "lng": 78.69006107989271
+                    },
+                    "southwest": {
+                        "lat": 13.96667702010728,
+                        "lng": 78.68736142010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mandem Lakshminarasimha Swamy Temple,A.P. Protected Monument",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1970,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112175810335814905679\">Revanth Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjsealvywEOJ7yJYYuMcDyW4txd8zsbpAFnGCY-vizHAX9Beo2UaJJJ1CQTE1pjwEbKRqs7kNtUetHOpNiJMUjv99lDp1VFzj7sJRYB_1JIGO-VCAZHWn32BcIBrN77mgNSUINqXENCCAJau1BdSmNCX231ZmeQ6MsUZ7oYcySqnxcM",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJV2NuLQ__sjsRnmab37NPv7s",
+            "rating": 4.3,
+            "reference": "ChIJV2NuLQ__sjsRnmab37NPv7s",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "XM9Q+6FX, Jallavavanlapalli, Paramatikona"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 14.0568634,
+                    "lng": 78.7489824
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 14.05815592989272,
+                        "lng": 78.75024407989272
+                    },
+                    "southwest": {
+                        "lat": 14.05545627010728,
+                        "lng": 78.74754442010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Elementary Teachers Training School 1912",
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101993236996935559876\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhJD3YhByvSemRYwUsORwhDLis9Bbr-EkaTBbPncJd8G08KtitFBmkd2JO0L6GjEweecFFIHxMx_ysjFfyx5T2NkvqdjIWof-sZFDMkCvOwfUIsoZFAcEKBV4KY0zu-I-2BvyavNiPjhtFy6ofqErWH4qUVsLpUn9OheE3Jy_0ycuDw",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJD2dT7LwDszsR82ePgUJdwhE",
+            "rating": 5,
+            "reference": "ChIJD2dT7LwDszsR82ePgUJdwhE",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "3P4X+PHX, Bus Stand Rd, Kothapeta, Rayachoty"
+        }
+    ],
+    "status": "OK"
+}

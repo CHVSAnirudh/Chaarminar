@@ -1,0 +1,827 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRieIOzOWwT09sA09jVgyIf56AfhTpK4UEa1Zcn50A1aZCELHjIrLfjK974SrB0MsxmdfyP_M9t62LzpvJ3ZhMuzyEakc82BBUA7cUaSpuvfkMmosRw8W2goLmfvv3MK4GaLIFCsro-9BgdkRXjvWvXikTXQWVnBXswH3XUgiE17g1t2aspMwY_qwnGaOoJ28AzO6KLSiI3YCuJ3SrqduCbzduj4Tny7xs6TbnsLhYPg1PiGiLx1VD6GH3ppuvaHQSlqF8Z4y51Bf6dZIQW31zAtfRZikE8uellscFujDcVc46kVD8bTSBRlj8u2GBXbA_GInShFBibyp6Tfm1qw_PBO9tg-8-vUmm7KVjZ8K42-5dCIRAX4CgT3phybILoJIIslXXbX0xHiyKuLuuLyzEdqJSMBo9tHJekLGIFqruNQ8YuVRwWRVyE",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.3305866,
+                    "lng": 78.27478889999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.33192992989272,
+                        "lng": 78.27610557989271
+                    },
+                    "southwest": {
+                        "lat": 15.32923027010728,
+                        "lng": 78.27340592010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Lord Siva temple",
+            "place_id": "ChIJd5zLPGI3tDsRnF1nyYdDD70",
+            "rating": 0,
+            "reference": "ChIJd5zLPGI3tDsRnF1nyYdDD70",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "87JF+6WP, Sankalapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.3621371,
+                    "lng": 78.2490385
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.36345412989272,
+                        "lng": 78.25038052989272
+                    },
+                    "southwest": {
+                        "lat": 15.36075447010728,
+                        "lng": 78.24768087010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman temple",
+            "place_id": "ChIJaTDKFbs3tDsRaf37uzYHtj8",
+            "rating": 0,
+            "reference": "ChIJaTDKFbs3tDsRaf37uzYHtj8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "966X+VJ3, Venkatapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.3213762,
+                    "lng": 78.27226859999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.32269002989272,
+                        "lng": 78.27362497989272
+                    },
+                    "southwest": {
+                        "lat": 15.31999037010728,
+                        "lng": 78.27092532010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Gangammathalli Temple",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116830850086177036668\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRglt4bbjxvSv7l4P35URqk_zQ39Ta53Za1SJABtv7hv_S3zljDP_Ungf4oPqiReohfgCFH--lxWg-4VwioLOvcOObofi6ARDr8zSkaFL7vlOsIBlAtWgU9diqPYOgPT9GOdOg7z5FRhFGidQ1daFNVgPkCytgFXFehosgx5O_BQ0N3a",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ-y8rfco3tDsReYPi_ljMm2g",
+            "rating": 5,
+            "reference": "ChIJ-y8rfco3tDsReYPi_ljMm2g",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "87CC+HW6, Kurnool"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.3556074,
+                    "lng": 78.3601802
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.35684192989272,
+                        "lng": 78.36158227989273
+                    },
+                    "southwest": {
+                        "lat": 15.35414227010728,
+                        "lng": 78.35888262010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Tanguturi Peddamma Temple",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108148112645201630157\">Vinod Reddy</a>"
+                    ],
+                    "photo_reference": "AcYSjRgk7ewF1s0gmgSeTCwMlDruaQPkn_hmJlWEoXsNDRrSNvEzOJFuTsiw7DKLjwhL8AgILC98wt9AVqy5frLtFYKe2ls-eEbAWeABvXfT1CvFts_Z4cghPqKbazR_4Pu-Qq7iIw8JWiGi_G3OYT_Y4gUkLuvOB-HNdGXlmCzc0KzHr2oq",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJM7b8chVJtDsRaQtbnbTJZmM",
+            "rating": 4.8,
+            "reference": "ChIJM7b8chVJtDsRaQtbnbTJZmM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 91,
+            "vicinity": "9946+63V, Nandyal - Banganapalle Road, Tangutoor"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.3611543,
+                    "lng": 78.2491885
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.36249597989272,
+                        "lng": 78.25053662989272
+                    },
+                    "southwest": {
+                        "lat": 15.35979632010728,
+                        "lng": 78.24783697010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Ramalaya Temple",
+            "place_id": "ChIJD31jHZI3tDsRjHgHJAixPh0",
+            "rating": 5,
+            "reference": "ChIJD31jHZI3tDsRjHgHJAixPh0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "966X+FM6, Venkatapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.3109927,
+                    "lng": 78.2181796
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.31235407989272,
+                        "lng": 78.21960637989271
+                    },
+                    "southwest": {
+                        "lat": 15.30965442010728,
+                        "lng": 78.21690672010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hare Krishna temple",
+            "place_id": "ChIJW1Knh2k3tDsRPFORyauE_JI",
+            "rating": 5,
+            "reference": "ChIJW1Knh2k3tDsRPFORyauE_JI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "8669+97R, Banaganapalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.2856518,
+                    "lng": 78.3468643
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.28698027989272,
+                        "lng": 78.34828102989272
+                    },
+                    "southwest": {
+                        "lat": 15.28428062010728,
+                        "lng": 78.34558137010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "shiva temple",
+            "place_id": "ChIJieKjrilGtDsRluf4iZVpy1o",
+            "rating": 5,
+            "reference": "ChIJieKjrilGtDsRluf4iZVpy1o",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "78PW+7P9, Kalugotla"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.3127933,
+                    "lng": 78.2272535
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.31415452989272,
+                        "lng": 78.22863282989272
+                    },
+                    "southwest": {
+                        "lat": 15.31145487010728,
+                        "lng": 78.22593317010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Lord Siva Temple(Shidda Ramalingeswara Swamy)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101209222391334091835\">Saiteja Elluru</a>"
+                    ],
+                    "photo_reference": "AcYSjRjEXIIIPdn9ksRxeT1sU5HuzBKYEKl2UF614tA6Cgwm2f2uxoGe28bc9dxFBbpR8lmX0g42oo0cCfUxTGkf-ebeKZIuDrv1y8VJkyARnDGm7aC8JTs_H83ZMKnU3vC-44Bd7k6bFg1MQrkvrp73zHSybMFeu-PdUXj4mOHoXKd5vAM",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJN4iwUBY3tDsRebEseDGQ8m8",
+            "rating": 3.7,
+            "reference": "ChIJN4iwUBY3tDsRebEseDGQ8m8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "867G+4V9, New Banaganapalli Bridge, Banaganapalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.3495405,
+                    "lng": 78.3454927
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.35089752989273,
+                        "lng": 78.34682557989272
+                    },
+                    "southwest": {
+                        "lat": 15.34819787010728,
+                        "lng": 78.34412592010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Chennakesheva Swamy Temple",
+            "place_id": "ChIJJ-Hwww5JtDsRj2S2O9qdgpk",
+            "rating": 5,
+            "reference": "ChIJJ-Hwww5JtDsRj2S2O9qdgpk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "88XW+R59, Tangaturu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.3150692,
+                    "lng": 78.2254726
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.31650337989272,
+                        "lng": 78.22662947989272
+                    },
+                    "southwest": {
+                        "lat": 15.31380372010728,
+                        "lng": 78.22392982010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Rukmini Panduranga Swamy Temple",
+            "photos": [
+                {
+                    "height": 2505,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115952824710903748926\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi6gKXRDBfoi_voOYiIdWZh9uDSvFyIvhgGs6_6Vi1NCfe0Lb95O5WNfPn-iV1ZdZq9GdQ_4leH_rHDeP6oS92R9rtgW1cCqwc5x3cPp-CU_IpKAWR1dmNROtgklokKfriKt_dns13h6MIgGxHmauS83alkO8L5Mhq0R5P-jHXHVQaK",
+                    "width": 1895
+                }
+            ],
+            "place_id": "ChIJu3s-5hc3tDsRNzd-WhhhqR0",
+            "rating": 3.8,
+            "reference": "ChIJu3s-5hc3tDsRNzd-WhhhqR0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "868G+25H, Mudigedu Road, Banaganapalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.4140594,
+                    "lng": 78.25544819999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.41534737989272,
+                        "lng": 78.25687672989271
+                    },
+                    "southwest": {
+                        "lat": 15.41264772010727,
+                        "lng": 78.25417707010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "KASIREDDY NAYANA TEMPLE",
+            "place_id": "ChIJTUqpfCQ1tDsRbh4nAc6G-9g",
+            "rating": 3.7,
+            "reference": "ChIJTUqpfCQ1tDsRbh4nAc6G-9g",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "C774+J5G, Palukur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.2815911,
+                    "lng": 78.2599587
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.28272147989272,
+                        "lng": 78.26181312989272
+                    },
+                    "southwest": {
+                        "lat": 15.28002182010728,
+                        "lng": 78.25911347010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Anjaneya Swami Temple",
+            "photos": [
+                {
+                    "height": 2352,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103905666164387712385\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiwAOOqfNQnCw4MONOPgVxQRZ0VXv-TJ2dfWZeXKNi3exD4lozPTcVW5otUCNz3GJhrDgZ340HKpFiM7hcclUVknazJ_7cW0a4dZ9jKuimw6hShOJfsHIXUo22WGiAFvxGLmgU7YdR6pP1KQT-KRvGnYL29xZIpGKDFmkk-2gCeI3eO",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ4bVrxCc4tDsRM-E8iODSIb8",
+            "rating": 3.9,
+            "reference": "ChIJ4bVrxCc4tDsRM-E8iODSIb8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "77J5+MX4, Kapulapalle"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.3108139,
+                    "lng": 78.2271174
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.31217757989272,
+                        "lng": 78.22843057989272
+                    },
+                    "southwest": {
+                        "lat": 15.30947792010728,
+                        "lng": 78.22573092010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Goddess Pedamma temple",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104108914821987641990\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgJvnlxGjN-GxhxQ0INweG9gZ1bRSsJ5aNmbrnAxgcA9drkKho52JUkLf2euOC1X8KzSQa6Q8UDYaNryATQbtvMiqo9FjxMMqoRd36vDeh0BTWtxu0gyvzsWtmDwAcsfy9T_lSRKLopoVW0_4FaQDdNDHHn2A7URxBQIJn12gDK9-Va",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJU6Pjk8w3tDsRVF3hG-Hyc8g",
+            "rating": 0,
+            "reference": "ChIJU6Pjk8w3tDsRVF3hG-Hyc8g",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "866G+8RH, Banaganapalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.2786837,
+                    "lng": 78.25778609999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.28006417989272,
+                        "lng": 78.25910147989272
+                    },
+                    "southwest": {
+                        "lat": 15.27736452010728,
+                        "lng": 78.25640182010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Anjaneya Swami Temple",
+            "place_id": "ChIJARovuSg4tDsRwESSf1n082Q",
+            "rating": 3.6,
+            "reference": "ChIJARovuSg4tDsRwESSf1n082Q",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "77H5+F4F, Kothapeta"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.3102933,
+                    "lng": 78.22687499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.31162832989272,
+                        "lng": 78.22821767989271
+                    },
+                    "southwest": {
+                        "lat": 15.30892867010728,
+                        "lng": 78.22551802010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "acchamma Avva Temple",
+            "photos": [
+                {
+                    "height": 1872,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101312722290880428870\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRimRBcsEC5UQki4mF0zM6FJucQq0fYg37W7-tDxs0fVIRHFBOi1Yd84sno8v66MwFccGQHyBRRF6O9ig85NAC50ZZjIs46MMpVh_y9yVbz-15qPBMk3VLgDInAaTN0EWv3R1RWwaZJeQGp2_WevTDEmXu63mbNm_Wgyya3VMZf2hjnT",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ9-93rVo3tDsRwQk2UpLCuKI",
+            "rating": 5,
+            "reference": "ChIJ9-93rVo3tDsRwQk2UpLCuKI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "866G+4Q6, Banaganapalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.37374,
+                    "lng": 78.2801285
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.37490737989272,
+                        "lng": 78.28154067989271
+                    },
+                    "southwest": {
+                        "lat": 15.37220772010728,
+                        "lng": 78.27884102010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Ancient Shiva Temples, Nandavaram",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109397710413123935161\">p karthikeyn</a>"
+                    ],
+                    "photo_reference": "AcYSjRgpF4pBPXImdY6uG5f-qtaLor5vQm7EATB4YGb3o4_eWeXNJXALYevLd20GG9dp8hxn5m8sEe5FgcgA7Aun_XhzxpraferOuoKSrq7-zHWYz2qrCox89pZEW9tqUhs-k2yU5kgO6B8XKYrZYfmvG8T94KlPaDMfZQt_NurzzeICAZGP",
+                    "width": 1844
+                }
+            ],
+            "place_id": "ChIJPXiw9Qg2tDsROe9tECPTftQ",
+            "plus_code": {
+                "compound_code": "97FJ+F3 Nandavaram, Andhra Pradesh",
+                "global_code": "7J7W97FJ+F3"
+            },
+            "rating": 4.5,
+            "reference": "ChIJPXiw9Qg2tDsROe9tECPTftQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "15\u00b022'25. 78\u00b016'48.5\"E, SH 4"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.3763091,
+                    "lng": 78.282365
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.37802797989272,
+                        "lng": 78.28374762989272
+                    },
+                    "southwest": {
+                        "lat": 15.37532832010728,
+                        "lng": 78.28104797010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Saraswati Temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113735688245913590480\">Pb Ramesh</a>"
+                    ],
+                    "photo_reference": "AcYSjRjZCbMOTcCsUZ1Efze5D45CdmlwfyW-g026qjR9q4t2w0ggx_xkvEHM_V7IToLEL-cYBmDMbe-lSI590FsyectkRZb4L79uXF5aslzI2B7xAkb22N-WCeBzBeEOWoEaiakkrJgglWaY1vg7bi-TneRKOyzQ09tzl0syl2lMlAklYkHp",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJs3pY-gc2tDsRDdvcccxNmYM",
+            "rating": 3.7,
+            "reference": "ChIJs3pY-gc2tDsRDdvcccxNmYM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "97GJ+GWQ, Nandavaram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.4201226,
+                    "lng": 78.2734449
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.42145562989272,
+                        "lng": 78.27481022989272
+                    },
+                    "southwest": {
+                        "lat": 15.41875597010728,
+                        "lng": 78.27211057010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Perantalamma temple",
+            "place_id": "ChIJV-RYX7A1tDsR2TW0hwynoUI",
+            "rating": 0,
+            "reference": "ChIJV-RYX7A1tDsR2TW0hwynoUI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "C7CF+393, Beeravolu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.3491125,
+                    "lng": 78.3455781
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.35046642989272,
+                        "lng": 78.34688582989271
+                    },
+                    "southwest": {
+                        "lat": 15.34776677010728,
+                        "lng": 78.34418617010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Near Sivalayam Temple",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110250454074624503925\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjsSqRhGCOPgnYZX6y7lZZPq18JC-ZCvVVjguQhvakglPwnt1fSiF7xqJ2-DWcW_0e1rvkUWmlO9uHo1sqSxzrL4KoCA50CSj6npxu1yHI5eBXPTHpCyRGBlS1oNfLNONCUjHX6sOmAwUER9DzGTYwvBs76dYxjJuemuW_YjnjKZeWP",
+                    "width": 2256
+                }
+            ],
+            "place_id": "ChIJeY_u3A5JtDsRmo_U2qv55yc",
+            "rating": 4,
+            "reference": "ChIJeY_u3A5JtDsRmo_U2qv55yc",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "88XW+J6W, Tangaturu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.3700687,
+                    "lng": 78.2785803
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.37141512989272,
+                        "lng": 78.27995142989273
+                    },
+                    "southwest": {
+                        "lat": 15.36871547010728,
+                        "lng": 78.27725177010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Anjaneyaswamy Temple",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101607356590786678821\">SURYAKUMAR POOJARI</a>"
+                    ],
+                    "photo_reference": "AcYSjRjWPjnlnXH8Tn2k0m5BnMzv8DWac_s69NQYrRT21RfkN2uFhFQlNyQF1THWbq50srABj8Gjc4rz8hTyWiRGBMI_rBoY_4AR8bvyNAT2RAcnykkEZDpfZ_V7r_Du1WrM1vFURRgyJq7GOwx59RZDxyhFI25-W5SX4tWcVkP5Erth48Ys",
+                    "width": 2340
+                }
+            ],
+            "place_id": "ChIJ2emJ2Q42tDsRwGaVeeZaHY8",
+            "rating": 4.3,
+            "reference": "ChIJ2emJ2Q42tDsRwGaVeeZaHY8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "97CH+2CG, Nandavaram"
+        }
+    ],
+    "status": "OK"
+}

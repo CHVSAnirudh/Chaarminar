@@ -1,0 +1,849 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjm7aiMr_0UVqsYMRKotSZCj5f-7i8fahlCPgAe0zT6dbhft9XQYlhcF2Uuy7f4RKTM0QQcAGUkBeWtFcn_IgUSy1wJjA0Y81ZRDNAYQ1RvgUbiigUNT1wWfwmfU73mdTZ2xqFlaFw74vbhT6r7qztIv2zBkQ9Mn7wyVXIj1SPAKcOrM2e5QU3REp9JfqhqoXUVeEqoTjsFUBnc42SZwsu8eDh0raCBYACjMPOEAvipBqxtwL0bIM2__VZ5k0SWbITcAQI2lUmoKJGysLsL-tI4EOEV0Oums0gXFqIIZnmbWR7mfEBUMQ17miRaGob8H7tHlXuGhgeyCgXb3S_hMb7h9Z0uoDxoHej0IH21mslyTXVS1pOLvOwm7Y3KSOt-bnx60toMOWYFIxcUVnRW842XGoTsaHbCbZlqUB-cqPzQqyFDFFtZKRE",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5879189,
+                    "lng": 77.0334762
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58925677989272,
+                        "lng": 77.03482142989273
+                    },
+                    "southwest": {
+                        "lat": 17.58655712010728,
+                        "lng": 77.03212177010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Lakshmi Temple",
+            "place_id": "ChIJB2BJsvzTyDsRlOnWPrroaM0",
+            "rating": 0,
+            "reference": "ChIJB2BJsvzTyDsRlOnWPrroaM0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H2QM+59, Dinsi(K)"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.678811,
+                    "lng": 77.06960649999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68007302989272,
+                        "lng": 77.07101562989271
+                    },
+                    "southwest": {
+                        "lat": 17.67737337010728,
+                        "lng": 77.06831597010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Kinnari Brahmeshwara Temple",
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117397716980470939029\">premkumar.kalesh</a>"
+                    ],
+                    "photo_reference": "AcYSjRjOobpOcJPSc49-HtTexWzJqTh9Ne5ufpsqAacIQJVrmwyQ7JsUGSapttpYp8sroea4l2Pcp1b4LzdYxAiebmDCxtOd1Yfy60zeDzKSFoXTHAWnBZyCTNn-xMUWmTX0RCjI_Ux2xNBXzNx6muTR8FvrYEtOjuYFzFKVC_vntJ6Fs87k",
+                    "width": 3468
+                }
+            ],
+            "place_id": "ChIJycxYFEUszzsRECjqPPsmrVw",
+            "rating": 4,
+            "reference": "ChIJycxYFEUszzsRECjqPPsmrVw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "M3H9+GR4, National Highway 218, Kinhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7287101,
+                    "lng": 76.97864969999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.73010922989272,
+                        "lng": 76.97997832989273
+                    },
+                    "southwest": {
+                        "lat": 17.72740957010728,
+                        "lng": 76.97727867010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Jai Hanuman, Hindu Temple",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110725049522835991569\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiIDtnMOKXg56jkk0FQxP4Wtc-VdKS2NLB7Sba7f_xU_r1GGdh7PzUxRRePmkBw_YKWMSH4UbKfOWmMbfgolKQnAcPxXm3oTErZq1GUgJdLDQefD1SvqOczh5_ND2hQD_R0aD-GLkeXYVzwDpO7yppJRaR89bap6WTmehWHYs3KJjaA",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJIwVAZwMxzzsRScVhfOeZjig",
+            "rating": 5,
+            "reference": "ChIJIwVAZwMxzzsRScVhfOeZjig",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "PXHH+FFF, Sharananagar (Kinni), Basavakalyan, Kinni"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6782798,
+                    "lng": 77.0709586
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67961702989272,
+                        "lng": 77.07222642989271
+                    },
+                    "southwest": {
+                        "lat": 17.67691737010728,
+                        "lng": 77.06952677010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Kailasanatheshwar Temple",
+            "photos": [
+                {
+                    "height": 750,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113480278992564330184\">prashanth bagal</a>"
+                    ],
+                    "photo_reference": "AcYSjRgBD1v9-xlxVD-yqdwQ28XzxHlNIrSr1k5FK8994IV4X3k-Kx6gIe9yF8DH7qvUGNlHc-XgZ3_rq6vZD3106cWXXCYN3ZcF6hBY46ybJNxD49Z9fxAMEPiml-iVyVgj4LLT6dzSczamCbpJz7gpJE8aUsr0VKtr3rdx340uvgqYKRD1",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJUYww30QszzsRF3iTRFvypO4",
+            "rating": 4.7,
+            "reference": "ChIJUYww30QszzsRF3iTRFvypO4",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "M3HC+898, National Highway 218, Kinhi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6794596,
+                    "lng": 77.15398689999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68082597989272,
+                        "lng": 77.15532482989272
+                    },
+                    "southwest": {
+                        "lat": 17.67812632010728,
+                        "lng": 77.15262517010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Revanasiddeshwar Temple",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109723709202485968868\">Shivakumar Hudgikar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhhomRXAxwzeZPjbZ6eBSvpDZZ3AmqtwOqpcWGAbn3Iej0Dw1dDYVoptmAzmd5TrtSlX3lWorR1pnozh_3fQ_fpaIJ2x8Hb1lG5KpFt8ER8wjCKs_4QLjdGDTois-NZ26AgOJA97BRSevo-vhrW-WZ2Hq4qc0a4BS4-_l2ulJgl2sz0",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJe-uXhZErzzsRGyVzI5OLIws",
+            "rating": 1,
+            "reference": "ChIJe-uXhZErzzsRGyVzI5OLIws",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "M5H3+P8J, Walkhandi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6077101,
+                    "lng": 77.1083439
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60929687989272,
+                        "lng": 77.10962892989272
+                    },
+                    "southwest": {
+                        "lat": 17.60659722010728,
+                        "lng": 77.10692927010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shree Manikeshwara Temple Sonth",
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110863166356168540472\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg4JzHYbOaOD3wyAItLel2iFubm0wAI8NvYr8TWrzkZOeFiKZgZS9u9H6yn3othWi39pXAfqE05MSyCOZNOCNuyYRwK4FMRwCrIOLVARQt4TLgtRw5ooSaAqU3pm-v8bngusShUOh6VnrqEWKyd2phuPxVHSdZbt7ACwRJ5vzU3N-gg",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJLQ6T16XUyDsRxo6llIeuh9g",
+            "rating": 4.6,
+            "reference": "ChIJLQ6T16XUyDsRxo6llIeuh9g",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "J455+38P, Kalaburagi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6648103,
+                    "lng": 77.0375996
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66616012989272,
+                        "lng": 77.03894942989271
+                    },
+                    "southwest": {
+                        "lat": 17.66346047010728,
+                        "lng": 77.03624977010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Revanasiddeshwar Temple",
+            "photos": [
+                {
+                    "height": 926,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103583399701079459112\">sandeep pawar</a>"
+                    ],
+                    "photo_reference": "AcYSjRiaBVBv_zh19sRkYnx-Tn2mHnyqnMYSjBrqMnRck74shl-YwhxWLFuIcRnP0xEnczCsarYhRKU6ZlhsMamTBt_DrFdAoPQijFlGPdm3nS2DLCPpxwFSYNcGPxcap7TtdW_Sm2EDnP72H6h2RJugEjK7d7r3tIAkjCF5hyuwAoOo7x0s",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ_yPQ6qAtzzsR9bsN91fX3Rg",
+            "rating": 5,
+            "reference": "ChIJ_yPQ6qAtzzsR9bsN91fX3Rg",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "M27Q+W2H, Kalaburagi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6821026,
+                    "lng": 77.1504982
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68342087989272,
+                        "lng": 77.15189062989272
+                    },
+                    "southwest": {
+                        "lat": 17.68072122010728,
+                        "lng": 77.14919097010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Yallamma temple",
+            "place_id": "ChIJxwF1x18rzzsRkApkcps3PUM",
+            "rating": 0,
+            "reference": "ChIJxwF1x18rzzsRkApkcps3PUM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "M5J2+R5X, Walkhandi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7615454,
+                    "lng": 76.9743609
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.76289987989272,
+                        "lng": 76.97580642989271
+                    },
+                    "southwest": {
+                        "lat": 17.76020022010728,
+                        "lng": 76.97310677010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shivasharane Hemareddy Mallamma Temple",
+            "place_id": "ChIJATMcAYkxzzsR2giU3TfjToA",
+            "rating": 5,
+            "reference": "ChIJATMcAYkxzzsR2giU3TfjToA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "QX6F+JP9, Kodiyal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6129143,
+                    "lng": 77.1141509
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61410087989272,
+                        "lng": 77.11542947989273
+                    },
+                    "southwest": {
+                        "lat": 17.61140122010728,
+                        "lng": 77.11272982010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Yellamma Temple Sonath",
+            "place_id": "ChIJM5FfNMfVyDsRjBBhEkoJcro",
+            "rating": 5,
+            "reference": "ChIJM5FfNMfVyDsRjBBhEkoJcro",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "J477+5M6, Kalaburagi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6363828,
+                    "lng": 77.0247505
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63770247989272,
+                        "lng": 77.02612532989272
+                    },
+                    "southwest": {
+                        "lat": 17.63500282010728,
+                        "lng": 77.02342567010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106620868250652981155\">alphabet deepak</a>"
+                    ],
+                    "photo_reference": "AcYSjRgu9XRfkb49qovZHe7oVk66-px-O0LDwOX1Tt88ka1A7aeHPkxHtqKBIEJhmIN5fM1E5IH14FsSVFJGyuk569QgukXfarDAumuSQhHfF88cwnzjLn4jQWE72M30qiQepUE0gc7-Kwm6bVCLvNLf-Uy1erJ9HplMkWQfinLrBY2VeK_G",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ4T8gt3ktzzsRyqJbxY21a7A",
+            "rating": 5,
+            "reference": "ChIJ4T8gt3ktzzsRyqJbxY21a7A",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "J2PF+HW2, Kalaburagi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7054451,
+                    "lng": 77.0223845
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.70679912989272,
+                        "lng": 77.02368012989272
+                    },
+                    "southwest": {
+                        "lat": 17.70409947010727,
+                        "lng": 77.02098047010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "HUNUMAN TEMPLE",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108845501195675299965\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj76ZMUTiLcranib0W0TAifXzsOvQps8bvpgPqI2tuCK3n1GPvWtQU40M-D9WzTeRVdC5f07bDjqve8pkTpZsLP9buw3iAR-tf5htrKVIq01rEWHnchuj3x8yETDF3IwHCqTow5kXDFaBlFF-VBhTe4rR7VMVgHEgy4sHo6mBfeDk2i",
+                    "width": 1872
+                }
+            ],
+            "place_id": "ChIJ9e8LsRotzzsRD3CuvZIrXus",
+            "rating": 4,
+            "reference": "ChIJ9e8LsRotzzsRD3CuvZIrXus",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "P24C+5XC, Pandargera"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6058309,
+                    "lng": 77.103304
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60670012989272,
+                        "lng": 77.10459322989271
+                    },
+                    "southwest": {
+                        "lat": 17.60400047010728,
+                        "lng": 77.10189357010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shri Mahalaxmi Temple",
+            "photos": [
+                {
+                    "height": 3584,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100065696634356196587\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiLbzuDs_tzlC4NeaROulxQU2WwnhkmGqw-osHuy4HDYh7J7WxjvuoCdlk_vbSUIGjjdlJb4xtyalmMn8yiuJ9ATfnsi7gX-WmI7rirFcYlPF5PWSO5-ew-IpyhiBZLYEjbFtDR-1vaoAM2vh9phf5vzxpabJvvrSSvoi1IF_ZjndGR",
+                    "width": 1664
+                }
+            ],
+            "place_id": "ChIJjQJN-NzVyDsRY-LVvWAcRDc",
+            "rating": 5,
+            "reference": "ChIJjQJN-NzVyDsRY-LVvWAcRDc",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "J443+88M, Sonth"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6605114,
+                    "lng": 77.0982592
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66174332989272,
+                        "lng": 77.09967022989272
+                    },
+                    "southwest": {
+                        "lat": 17.65904367010728,
+                        "lng": 77.09697057010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Rachoteshwar Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108627020263402548130\">raghavendra raghu math</a>"
+                    ],
+                    "photo_reference": "AcYSjRhZZRzhBxJgG0N5F7J-zNzXbqLWOR3VVs2OX_DjKb91uAc_dOhKGi3waHMg_bnF5qpSyI6WE6ZjKx1YX4BN0scPqYADgxy_RDTNaVuKn6kRbxY4Zx3EsnQLDH0KvNpfpl3r0AkOYmK80efHd9-Bjr5BRh8ziMvK5BpTpJXq2Cu_rDSI",
+                    "width": 1800
+                }
+            ],
+            "place_id": "ChIJVVVVuYUszzsR1G9fbUs3gEk",
+            "rating": 4.5,
+            "reference": "ChIJVVVVuYUszzsR1G9fbUs3gEk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "M36X+682, Gobburwadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6065815,
+                    "lng": 77.00911889999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60786307989272,
+                        "lng": 77.01051792989271
+                    },
+                    "southwest": {
+                        "lat": 17.60516342010728,
+                        "lng": 77.00781827010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106620868250652981155\">alphabet K</a>"
+                    ],
+                    "photo_reference": "AcYSjRix_nwW_SDumPOgXOUyPSRtVQEoo0Phyil0QEjJ1psLEntKZ7A7rS4NxRaTvZ9hJ-4s0TMm_OvtHi7lxCTpfin-Cdk27uJZgQLZ33CG3LFK1LkSEcgSPGsovKVNJ4pyLDPNUMYMa_uKpJUU8ehxO4iX7knmy3Waqmi4CiH-V_iJOJ0q",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJMdp-aA3NyDsR9mseTe38SP4",
+            "rating": 4.7,
+            "reference": "ChIJMdp-aA3NyDsR9mseTe38SP4",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "J245+JJQ, Humnabad Rd, Rajanhal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7290561,
+                    "lng": 77.0735158
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.73039702989272,
+                        "lng": 77.07473532989272
+                    },
+                    "southwest": {
+                        "lat": 17.72769737010728,
+                        "lng": 77.07203567010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Banni Mahankalidevi Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114251789916549534898\">Guna Shekhar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjnV7Asey-oXqmDccWEduZKEgr1wbfdVueMpoCDoowp9K5S5dAY0tUwmfsRMCZniXtBr0iy01uOm0hU2i4MCAUF3T642G792PR-V4GW8TlpWU4bukUwrmgwSBgpNVhtNFfW6QevEJWC0efYa_rDJ5OXIoELvj-D1Jt0HJ2QXBOBmwHJ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJV1oEWZwvzzsRbOpXNlx7lHo",
+            "rating": 2.5,
+            "reference": "ChIJV1oEWZwvzzsRbOpXNlx7lHo",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "P3HF+JCC, Bidar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7560691,
+                    "lng": 76.977715
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.75743877989272,
+                        "lng": 76.97910962989273
+                    },
+                    "southwest": {
+                        "lat": 17.75473912010727,
+                        "lng": 76.97640997010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Mahadev temple",
+            "place_id": "ChIJeX03Fw8xzzsRQslfS55YTi0",
+            "rating": 0,
+            "reference": "ChIJeX03Fw8xzzsRQslfS55YTi0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "QX4H+C3G, Unnamed Road, Sungahana"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6342752,
+                    "lng": 77.12213899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63591022989272,
+                        "lng": 77.12343087989272
+                    },
+                    "southwest": {
+                        "lat": 17.63321057010728,
+                        "lng": 77.12073122010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman temple",
+            "place_id": "ChIJ-bpu1o4rzzsRQddd3d_dyn8",
+            "rating": 5,
+            "reference": "ChIJ-bpu1o4rzzsRQddd3d_dyn8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "J4MC+PV6, Patwada"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7600044,
+                    "lng": 77.1208874
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.76126422989272,
+                        "lng": 77.1222963298927
+                    },
+                    "southwest": {
+                        "lat": 17.75856457010728,
+                        "lng": 77.11959667010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman Temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJB69bwSApzzsRU-ki8-zAS44",
+            "rating": 5,
+            "reference": "ChIJB69bwSApzzsRU-ki8-zAS44",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Q45C+X9R, Near water tank kallur road wanjri, Humnabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6586492,
+                    "lng": 76.9931055
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66000182989272,
+                        "lng": 76.99449287989273
+                    },
+                    "southwest": {
+                        "lat": 17.65730217010728,
+                        "lng": 76.99179322010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shri Maryama Devi Temple",
+            "photos": [
+                {
+                    "height": 728,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100991988833120662745\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgZJCgBqlCn8iSxqPyHUXm5O5Q-u8-k_hIsoTmhhkR-QvHmAd6jrT64SqTe02zZ8-1guu783HH03YUE5I8WU_37o2IYvagmsRud-WVOesmwFU5TfDIENjBSfGRvxUBkscYm1kwzUgb_BkZuHiwWHr9jZ3NDSCeHilWXN3kLZVr67EQ",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJgxZsUpIzzzsRlmXTG8u7uRE",
+            "rating": 3,
+            "reference": "ChIJgxZsUpIzzzsRlmXTG8u7uRE",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "MX5V+F64, Warnal"
+        }
+    ],
+    "status": "OK"
+}

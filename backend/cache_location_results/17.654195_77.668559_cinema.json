@@ -1,0 +1,265 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6806977,
+                    "lng": 77.6088059
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68194172989272,
+                        "lng": 77.61023797989272
+                    },
+                    "southwest": {
+                        "lat": 17.67924207010728,
+                        "lng": 77.60753832010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Asian mukta Cinemax Theater",
+            "photos": [
+                {
+                    "height": 3472,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112641606354998253247\">Pandu Kusma</a>"
+                    ],
+                    "photo_reference": "AcYSjRg4Vt_VJmd8aD8czSonF0zMe7luRWlmbsWa7O051qN1JEmXxuRa2u11JwGqwlP9npZepSOkBuPGOnc60wcnxcde3lzseDbkct3WrM4dypQyeE5tkKsB-i_HgZ9YyPK4RvOHzsWMzvJqc50ajtCxs6RND7b1Y0a8tzdCMDD2sLszwdZt",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJbaEnz-G0zjsRIytpbIFTKg4",
+            "rating": 3.5,
+            "reference": "ChIJbaEnz-G0zjsRIytpbIFTKg4",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 658,
+            "vicinity": "MJJ5+7GF, Zahirabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6817725,
+                    "lng": 77.6184985
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68311397989273,
+                        "lng": 77.61988852989272
+                    },
+                    "southwest": {
+                        "lat": 17.68041432010728,
+                        "lng": 77.61718887010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Anurag Theatre",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112501135971590162977\">Ravi Nayak</a>"
+                    ],
+                    "photo_reference": "AcYSjRiNQ5eGyQTfCtccWV4yCIsZNeKDxs0Cmq9YmgBLHb0k6Knkpa5m_peH-8cpkCRNBjVbhUTARDL1LjVm_431ziWrfntqaIajXxnOiC_nSvBdFjma5ZEImI0xGb1_K8_CLJ3fDNxV5Uu33QLrEAFB-gldskVXxM3l6QY96dTmwufG1DHQ",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJb5GTJOa0zjsRvH5mJTD60EM",
+            "rating": 2.9,
+            "reference": "ChIJb5GTJOa0zjsRvH5mJTD60EM",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 318,
+            "vicinity": "MJJ9+P94, Baswa Nagar Colony, Dattagiri Colony, Zahirabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6802816,
+                    "lng": 77.61539619999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68164757989272,
+                        "lng": 77.61674472989273
+                    },
+                    "southwest": {
+                        "lat": 17.67894792010728,
+                        "lng": 77.61404507010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Mohan Theatre",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103664073599056127235\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh_8SuGUXqVRU7-gEbFPLRbmSsLrEEgzPO-3Y2Jd6SVJY2JTYG5NCGpmaWDsi_pV9VriQC3JawB3XhcfhmeUBIIKvFrhjtD7w94Wi0mr53zEBOAGInzM2HBHj7EIPFKz_GGLMxCEZH7yUpfBdsMFM1rTKSxW-VTuj6Dd1GnayYF06lN",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJHR2rHOe0zjsR_D2js3Q8ZuA",
+            "rating": 3.5,
+            "reference": "ChIJHR2rHOe0zjsR_D2js3Q8ZuA",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 464,
+            "vicinity": "MJJ8+456, Zahirabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6818181,
+                    "lng": 77.6162058
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68316832989272,
+                        "lng": 77.61754862989271
+                    },
+                    "southwest": {
+                        "lat": 17.68046867010727,
+                        "lng": 77.61484897010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Asian Maheshwari Theatre",
+            "photos": [
+                {
+                    "height": 1846,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108006482478892779116\">Prudhvee Raj</a>"
+                    ],
+                    "photo_reference": "AcYSjRgzfrfRiThcwB5h5ZJl6ZulPcxVU2YsHw_D2AOZ0KOhw1QugcQWewoFg6xtNfyivHdYdoQCmqhWCYiQ40YNG-rE4CQD8GTAfhlllwYHiSH7n0H2uOU_kgHk8RlmecnPBUS1LqhOWSf40OL9WEU9DiAg6J94luf1cq1ieqLaqDOwoJmL",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJg8XD9Oa0zjsR3ZR2rE0Qwio",
+            "plus_code": {
+                "compound_code": "MJJ8+PG Zahirabad, Telangana",
+                "global_code": "7J9VMJJ8+PG"
+            },
+            "rating": 4,
+            "reference": "ChIJg8XD9Oa0zjsR3ZR2rE0Qwio",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1214,
+            "vicinity": "Road Market Yard, Zahirabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6818046,
+                    "lng": 77.6086248
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68316977989272,
+                        "lng": 77.60997292989272
+                    },
+                    "southwest": {
+                        "lat": 17.68047012010728,
+                        "lng": 77.60727327010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "CNR Jewellers Gems. Cinemax Complex",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112251949161144865222\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhcQaU9nEkqLhF_klN3N9H7C2fmjlsb-YUG2MV6Q9S23Q48Zc3BBzEyH_txP-bdEaCHIbNYH71J1tF3Xb0jexAwHHzGAt3extTg3giVvwBgn4CvhV6rc9Vu-0fZUdPHxojGLMVy6gKBAxdzXr1bU6SkXknijqcxdI_Kywzbk2KWzxh5",
+                    "width": 1824
+                }
+            ],
+            "place_id": "ChIJPw_35d21zjsRqwg1Ccfd_Tk",
+            "rating": 1,
+            "reference": "ChIJPw_35d21zjsRqwg1Ccfd_Tk",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "MJJ5+PCX, Zahirabad"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.6748201,
+                    "lng": 77.6107245
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67617517989272,
+                        "lng": 77.61211482989273
+                    },
+                    "southwest": {
+                        "lat": 17.67347552010728,
+                        "lng": 77.60941517010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Sri Digitals",
+            "permanently_closed": true,
+            "place_id": "ChIJYW4cYeu1zjsRvBPrCAZ2B2k",
+            "rating": 5,
+            "reference": "ChIJYW4cYeu1zjsRvBPrCAZ2B2k",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "MJF6+W7H, Shanti Nagar, Zahirabad"
+        }
+    ],
+    "status": "OK"
+}

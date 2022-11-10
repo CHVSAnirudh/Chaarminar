@@ -1,0 +1,98 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7685265,
+                    "lng": 77.13118829999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.76989462989272,
+                        "lng": 77.13245562989272
+                    },
+                    "southwest": {
+                        "lat": 17.76719497010728,
+                        "lng": 77.12975597010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Sai Theatre",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117278967162844294913\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh-aTsqXGqGbgoBVpKKT9FsSitAz6-w5_liKORF4kTYHmsxgGPG4f1WBe0CvzpACIunaiUTHaAT_DEhnYaNvD2lseH84trXIFvyAn2D3GR3lNKYHpb4MIqC8xhUPiPnWVNnwZf8OGUhGFNBgX1QWQks7Iegy1_0OJW5BmIBGx2TRrcB",
+                    "width": 1800
+                }
+            ],
+            "place_id": "ChIJXZpxquYozzsRStaPooBaRqU",
+            "rating": 3.1,
+            "reference": "ChIJXZpxquYozzsRStaPooBaRqU",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 129,
+            "vicinity": "Q49J+QF3, Humnabad"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.7615743,
+                    "lng": 77.1786657
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.76297202989273,
+                        "lng": 77.18001607989272
+                    },
+                    "southwest": {
+                        "lat": 17.76027237010728,
+                        "lng": 77.17731642010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "KIRAN GENERAL STORE",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114087985638301372551\">suryakanth kodlli</a>"
+                    ],
+                    "photo_reference": "AcYSjRg-Bye_Mughrz1_-ls67HnlrP2ewjg1EAzKE3v-Coum5e7R8N7t8rTBYwwjaisDZP-9eHP4RsoRzkiqd4I5PXCxsBOxNNLOp1z8g7cJTtOPIUp1ZBNvtn3UrUTg7swmd36axD8jhEONRxyPHAdKBTO9iSGvuDfrJDmvkuuNbcowkdLm",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ9SnoUz8pzzsRr6g5qIZ5-7o",
+            "rating": 5,
+            "reference": "ChIJ9SnoUz8pzzsRr6g5qIZ5-7o",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Q56H+JFJ, Opposite Flyover Underpass, Hudgi"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,95 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.7857589,
+                    "lng": 77.7912161
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.78711847989272,
+                        "lng": 77.79253047989273
+                    },
+                    "southwest": {
+                        "lat": 13.78441882010728,
+                        "lng": 77.78983082010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Brahma Kumaris Bagepalli",
+            "place_id": "ChIJaUswwxePsTsRqnHFZwpUnJM",
+            "plus_code": {
+                "compound_code": "QQPR+8F Bagepalli, Karnataka",
+                "global_code": "7J5VQQPR+8F"
+            },
+            "rating": 0,
+            "reference": "ChIJaUswwxePsTsRqnHFZwpUnJM",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HOUSE OF NANJAMMA MUNICIPAL OFFICE ROAD 21ST WARD, Bagepalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.7846087,
+                    "lng": 77.79813349999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.78595292989272,
+                        "lng": 77.79948282989272
+                    },
+                    "southwest": {
+                        "lat": 13.78325327010728,
+                        "lng": 77.79678317010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Lakshminarayana A Bagepalli Taekwondo Class",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107537251180563226245\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi7dNuaEt2DBjrP0QaM0fPb_1F2AigeHQgF8VHaSzZlSdOqUNo4v8DzL9zyZvjR10BGRyQd9OFpQPZV9X4swSumsG1aTy7KDUE1jg8HrA6TEanwaB8GyTiBfs_Jzltk1ev5gV-Q9mNL6_RyV8zBIamQJStK-6tKsQlJiPf04idWTNod",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJo5Laz3mPsTsRTO9yHUMJ_Yw",
+            "plus_code": {
+                "compound_code": "QQMX+R7 Bagepalli, Karnataka",
+                "global_code": "7J5VQQMX+R7"
+            },
+            "rating": 5,
+            "reference": "ChIJo5Laz3mPsTsRTO9yHUMJ_Yw",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Bhagyanagra, Bagepalli"
+        }
+    ],
+    "status": "OK"
+}

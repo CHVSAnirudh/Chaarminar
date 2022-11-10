@@ -1,0 +1,266 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5963834,
+                    "lng": 80.7034608
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59788357989272,
+                        "lng": 80.70467127989272
+                    },
+                    "southwest": {
+                        "lat": 17.59518392010728,
+                        "lng": 80.70197162010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Venkateshwara Theatre",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111588474925154934639\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRivqMgLKgHe-hoieDAxy8YE9tQvUvvQFj57zOe6bFKJxeZCSqGYBUVCumhOzUH-BePKTjKzCmEtN9WkV6EssuKxXW3mdnx70tIR-7Eh3r4VlaRa-y-21xXcrLlKR0qjpzu6v9YsbKDLnyg3SzSv0XezvylcrQ3nFRRFCzxcpSHer4M",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJDcdPE3QbNDoR8otNb_2sPPc",
+            "rating": 3,
+            "reference": "ChIJDcdPE3QbNDoR8otNb_2sPPc",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 655,
+            "vicinity": "HPW3+H94, NH30, Bapuji Nagar Phase I, Bapuji Nagar, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5958333,
+                    "lng": 80.7030556
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59714642989272,
+                        "lng": 80.70443112989271
+                    },
+                    "southwest": {
+                        "lat": 17.59444677010728,
+                        "lng": 80.70173147010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Shanthi Theatre",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109198212177714215161\">SRIDHAR RAJU KUCHARLAPATI</a>"
+                    ],
+                    "photo_reference": "AcYSjRh5lfNaJ5bJET-Ra9mpvcBT8kLAFR__cCZeVpslloY08xPi_QLDFBkmTKgwGd2pVlxTmz2U_MoOplgUs_dAca2mYH_gKPl5bj4Yk3kn_Y_8w7Ktk0qcUaCNr94nxBsBdGItnTXOEHTvMkscTbqT_8ZmnlkPRtsQUsz6vF0EkjCQASRu",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJPaMLQnQbNDoR4eZ7N68O3vc",
+            "plus_code": {
+                "compound_code": "HPW3+86 Palwancha, Telangana",
+                "global_code": "7M92HPW3+86"
+            },
+            "rating": 3.6,
+            "reference": "ChIJPaMLQnQbNDoR4eZ7N68O3vc",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1401,
+            "vicinity": "National Highway 30, Bapuji Nagar Phase I, Bapuji Nagar, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5957901,
+                    "lng": 80.7030856
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59714642989272,
+                        "lng": 80.70443112989271
+                    },
+                    "southwest": {
+                        "lat": 17.59444677010728,
+                        "lng": 80.70173147010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Kamareddy",
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104098842706325840519\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhW5b2BhzSLYE6WVGrUSgV2iaQSadRIIbrvgdGxCKtoQbw70e9-lt_dSfwUU0wZNI-3F5fTgMlMtyMqylvKPNCmQ7YmKaahOhaIXrRc5SKSfypUysC4eq7-ktePz_SczkgUzrnVdjNCW-meHdkwm1JkH7DOlLJLbDesSxLFGoP3vLY3",
+                    "width": 1936
+                }
+            ],
+            "place_id": "ChIJf1lBcrsbNDoRtQ9-OAvaHmM",
+            "plus_code": {
+                "compound_code": "HPW3+86 Palwancha, Telangana",
+                "global_code": "7M92HPW3+86"
+            },
+            "rating": 5,
+            "reference": "ChIJf1lBcrsbNDoRtQ9-OAvaHmM",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "National Highway 30, Bapuji Nagar Rd, Bapuji Nagar Phase I, Bapuji Nkamaredagar, Phase I, Bapuji Nagar, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6958384,
+                    "lng": 80.86016
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69700837989272,
+                        "lng": 80.86165617989272
+                    },
+                    "southwest": {
+                        "lat": 17.69430872010728,
+                        "lng": 80.85895652010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Bhagavan Star Tv Net Works",
+            "place_id": "ChIJT6Ve1AOpNjoRAAAAcP3j8Q4",
+            "plus_code": {
+                "compound_code": "MVW6+83 Sarapaka, Telangana",
+                "global_code": "7M92MVW6+83"
+            },
+            "rating": 0,
+            "reference": "ChIJT6Ve1AOpNjoRAAAAcP3j8Q4",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "7-76 Opp Sivamtalkies Sarapaka, Bhadradri, Kothagudem"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5956252,
+                    "lng": 80.6994905
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59699812989272,
+                        "lng": 80.70090437989272
+                    },
+                    "southwest": {
+                        "lat": 17.59429847010728,
+                        "lng": 80.69820472010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Pallavi Creations Banjara",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ4R8JeJMbNDoRhiB4J9PGXQs",
+            "rating": 0,
+            "reference": "ChIJ4R8JeJMbNDoRhiB4J9PGXQs",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HMWX+6QX, Gattaigudem, Palwancha"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.5966157,
+                    "lng": 80.7037359
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59807887989273,
+                        "lng": 80.70498032989272
+                    },
+                    "southwest": {
+                        "lat": 17.59537922010728,
+                        "lng": 80.70228067010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Venugopal Theatre",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103888386904433724630\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjZ8COn6TnJVzddSd-dJHQ_HTJiiMpIAmhIPIWRDKxRgihq1PnnN1eCRPJbi3hw62lkVmPepbdhw3ZTsT8JcDmFQAbacmdUxMhcq26iTyUy8fgZ0Mt6Ypov3Mh2eUVNbgZ6WdbgSWLh4Ox4OJT1FRacfdZt8WV9T0sl79D5H_kTPdAx",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJ06mdEXQbNDoRk9idWIV8-1E",
+            "rating": 2.7,
+            "reference": "ChIJ06mdEXQbNDoRk9idWIV8-1E",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 184,
+            "vicinity": "HPW3+JG7, NH30, Bapuji Nagar Phase I, Bapuji Nagar, Palwancha"
+        }
+    ],
+    "status": "OK"
+}

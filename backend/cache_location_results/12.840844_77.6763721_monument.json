@@ -1,0 +1,595 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9221207,
+                    "lng": 77.64475809999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92342987989272,
+                        "lng": 77.64614677989272
+                    },
+                    "southwest": {
+                        "lat": 12.92073022010728,
+                        "lng": 77.64344712010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Agara Lake Park Monument",
+            "photos": [
+                {
+                    "height": 3274,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108665419668382646484\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi0tLw6ptNvFlzLCTM0O076eN-XxWy16hfh6V5tS-x2ynk0_IxGemqavoyAobSBGv7e2uYoo5YM0e7Mas9QSKFgc5BHmF98wdTU0qVG85dsZQiNLWwSingqtH1-8jIpLN40OkxDbOmqPeD79MVluJX2h2o2nKB7U9-qFXPN0kSy3Oqa",
+                    "width": 1517
+                }
+            ],
+            "place_id": "ChIJY6VXOAgVrjsR_qfHscpb0kw",
+            "rating": 4,
+            "reference": "ChIJY6VXOAgVrjsR_qfHscpb0kw",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "WJCV+RWR, 100 Feet Ring Rd, Agara Village, 1st Sector, HSR Layout, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8543086,
+                    "lng": 77.6653267
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.85564822989272,
+                        "lng": 77.66666387989274
+                    },
+                    "southwest": {
+                        "lat": 12.85294857010728,
+                        "lng": 77.66396422010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Konappana Agrahara Arch",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118077347679326153047\">Mithun &#39;</a>"
+                    ],
+                    "photo_reference": "AcYSjRhkY7IFKN9mRcS7mcFfVZ_O91g9kzqInBINnnylrKvcVftd4kFFTuXzX9z0bmMf1VAwRJ2EDs_sv1WNnsIbv6bHz54377jdmyZAwGEGhDyxjK4q82txh89jNtUWBgmMZrFOVeirxzL5j3qG2bz3zbtN0iqd2H6ia02bSnnVsC6sjIYS",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJSzpCfJdsrjsRQqGmA1nYstU",
+            "plus_code": {
+                "compound_code": "VM38+P4 Bengaluru, Karnataka",
+                "global_code": "7J4VVM38+P4"
+            },
+            "rating": 3.9,
+            "reference": "ChIJSzpCfJdsrjsRQqGmA1nYstU",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 40,
+            "vicinity": "30/2, Service Rd, Konappana Agrahara, Electronic City, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8449113,
+                    "lng": 77.66395279999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.84625182989272,
+                        "lng": 77.66530277989273
+                    },
+                    "southwest": {
+                        "lat": 12.84355217010728,
+                        "lng": 77.66260312010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Thinker's Statue",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108985174162138247310\">reddy kushwanth</a>"
+                    ],
+                    "photo_reference": "AcYSjRgJbN6GCzMb2h4bzlthVp40Pj-CB2zZCXHfpdgwCQ_6aEH8iqKJ5PBsVhwRjsxj8HodranD4dhLOUG3iNeRtNVvlDu0euXMU2RbjKX4izrqNtqvYx_aHU06zmJO3GDaL8bPGLG_r603tT6pqzCFbmgFymOjq5r1GRESFHVONlFZNjYp",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJh2h6OQFtrjsR6dv3kBQLv28",
+            "rating": 0,
+            "reference": "ChIJh2h6OQFtrjsR6dv3kBQLv28",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "RMV7+XH8, Electronics City Phase 1, Electronic City, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8858168,
+                    "lng": 77.61599729999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.88709967989272,
+                        "lng": 77.61733977989272
+                    },
+                    "southwest": {
+                        "lat": 12.88440002010728,
+                        "lng": 77.61464012010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "JSV marble & granite",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 809,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115467471728533948996\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh9vELiohpNH6Q0zjEz9APM39V0lKljQMth9Bhsmr4JeJvsquqK7o3ARGOpIe_hY8ne9IHGKLC0xIbwSsIn0picU5nXZLIaEeSWlFL57qjrfv7CVPXVUh4Ju4ukbFNfayPUnnriAyDDtc_S4tGHK40z3th17IDwcUARPO3LD3ofEmnj",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJndcJYaAVrjsRGLjAZp0DreI",
+            "plus_code": {
+                "compound_code": "VJP8+89 Bengaluru, Karnataka",
+                "global_code": "7J4VVJP8+89"
+            },
+            "rating": 5,
+            "reference": "ChIJndcJYaAVrjsRGLjAZp0DreI",
+            "scope": "GOOGLE",
+            "types": [
+                "cemetery",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "No.16, Abbaiah Reddy layout, 3, Devarachikkanahalli Begur Rd, Bangalore, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8708564,
+                    "lng": 77.6224697
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.87238227989272,
+                        "lng": 77.62415632989271
+                    },
+                    "southwest": {
+                        "lat": 12.86968262010728,
+                        "lng": 77.62145667010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Beguru Fort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117006581568034546688\">Sajeev</a>"
+                    ],
+                    "photo_reference": "AcYSjRh7mtdbhIToJB3N_i041gkihIeO2yZJ5lj0n8Q9WG0j5PCLuFNLXJq9ZBh2iFYYO3zbfB07gvEiXiKT8tfZEOWZ4wIkbXscgpVRmUDV10dbnCzL13ITmq4Iam4H7FQiRThba5-H1SGQui3JdsXvrUOpAENDxEvxgcQBDed_pPHrUzr1",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJv35GEjFrrjsR2GvyZCqWRrI",
+            "plus_code": {
+                "compound_code": "VJCC+8X Bengaluru, Karnataka",
+                "global_code": "7J4VVJCC+8X"
+            },
+            "rating": 3.9,
+            "reference": "ChIJv35GEjFrrjsR2GvyZCqWRrI",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1016,
+            "vicinity": "Akshaya Residency, Akshayanagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9216026,
+                    "lng": 77.7204649
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92291707989272,
+                        "lng": 77.72180937989272
+                    },
+                    "southwest": {
+                        "lat": 12.92021742010728,
+                        "lng": 77.71910972010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ambedkar statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109286979680352400666\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhE_zPEeEOhQ3ay8VLsG1ftSNLTyqmn_EOzuyuin8Rm-3uSkbWzhHOUnRrUMerux4BdrSGvD2W-CZsnUGPkI2NV6GAliyvmWd53kYNY6dUIVunmpLuon2v5ONxg-Mw5ca7_Cm2FHM1MsEAfc2ei80bRrs5rQgC7CsHMUOSYECvetkLS",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJybKQZfMSrjsRUJG7NUEtllw",
+            "plus_code": {
+                "compound_code": "WPCC+J5 Bengaluru, Karnataka",
+                "global_code": "7J4VWPCC+J5"
+            },
+            "rating": 4.1,
+            "reference": "ChIJybKQZfMSrjsRUJG7NUEtllw",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 91,
+            "vicinity": "Gunjur Palya Rd, Gunjur, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8767241,
+                    "lng": 77.62639890000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.87789687989272,
+                        "lng": 77.62757172989271
+                    },
+                    "southwest": {
+                        "lat": 12.87519722010728,
+                        "lng": 77.62487207010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Panchalinga Nageshwara Gudi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109364341960297310756\">rashwin sm</a>"
+                    ],
+                    "photo_reference": "AcYSjRjGRyqpPrmw9fFJ62WG7IVyRutrIX6iVE39XEZWuZUP69bGv_t2lokMuJQIrXrh407EwRmdI08OXgOWYsSeAWJSY9I4hXehbOFwBZlfNqp-UhxqCU9w41tNpkkvs7LoOXjAk8Gs16kOKnurSPo-6o3dcvte88Oc6UpFGorRlZ7sDmcn",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJUeP-lDRrrjsR1wQxWlw79Y4",
+            "plus_code": {
+                "compound_code": "VJGG+MH Bengaluru, Karnataka",
+                "global_code": "7J4VVJGG+MH"
+            },
+            "rating": 4.7,
+            "reference": "ChIJUeP-lDRrrjsR1wQxWlw79Y4",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2100,
+            "vicinity": "BBMP Office, Begur Rd, opposite to Begur, Begur, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8843162,
+                    "lng": 77.6180035
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.88567447989272,
+                        "lng": 77.61930242989273
+                    },
+                    "southwest": {
+                        "lat": 12.88297482010728,
+                        "lng": 77.61660277010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Bande Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114423121572013634562\">padmini jois</a>"
+                    ],
+                    "photo_reference": "AcYSjRh3OG_-Cmbd8CUAZIMmJ5bfqzEk1KGXNiJuyp_t6ADvCbkJGpGJTDgvlH6Rn4kuKJVXUumRAGxilH0tuBkDMJyMu6ySTPg2qPhrhWiYCamxryGJqI2yiVQ5T2i-4cWqJl-ypuhWJmXf2cgZiTFkY-1a-FQNqtbL6QnMH8Xf64Qxei2i",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJP2w0PtEUrjsR3Hnt4ok8g80",
+            "rating": 4.4,
+            "reference": "ChIJP2w0PtEUrjsR3Hnt4ok8g80",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1132,
+            "vicinity": "VJM9+P6C, Nyanapahalli Main Rd, 2nd Block, Addischetan Layout, Arekere, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9088288,
+                    "lng": 77.6138533
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.91017472989272,
+                        "lng": 77.61521152989273
+                    },
+                    "southwest": {
+                        "lat": 12.90747507010728,
+                        "lng": 77.61251187010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Exploritage",
+            "place_id": "ChIJfSpF8TIVrjsRrcPtMfZntQ4",
+            "plus_code": {
+                "compound_code": "WJ57+GG Bengaluru, Karnataka",
+                "global_code": "7J4VWJ57+GG"
+            },
+            "rating": 0,
+            "reference": "ChIJfSpF8TIVrjsRrcPtMfZntQ4",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "N-703, SNN Raj Lakeview, 29th Main Rd, NS Palya, BTM 2nd Stage, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9010934,
+                    "lng": 77.5950008
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.90238522989272,
+                        "lng": 77.59634357989272
+                    },
+                    "southwest": {
+                        "lat": 12.89968557010728,
+                        "lng": 77.59364392010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Pacific Group - Corporate Office",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104570669000792629849\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhedXjfgUFKZybJWKQp9maby1l8LASVBfDC9vSqKO5L6GH1JxY4ZC9_WdEBQwbnFIiOYfaLI_0qLZmbkR1YLQeInULaVyI_ZdaKe3o-6QE4DUMh6gYFxxMV6fk-sbchOWkpSI3ISVV1B1dnVcZG_I3FRyt0ehUlYuyubLwt2Tt7jdG8",
+                    "width": 5333
+                }
+            ],
+            "place_id": "ChIJLUi9WAoVrjsRFSEvgH_s3k4",
+            "plus_code": {
+                "compound_code": "WH2W+C2 Bengaluru, Karnataka",
+                "global_code": "7J4VWH2W+C2"
+            },
+            "rating": 5,
+            "reference": "ChIJLUi9WAoVrjsRFSEvgH_s3k4",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "No.10, 4th Floor, Begur Hobali, Dollars Colony, Bilekahalli, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8852376,
+                    "lng": 77.6744768
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.88658367989272,
+                        "lng": 77.6758432798927
+                    },
+                    "southwest": {
+                        "lat": 12.88388402010728,
+                        "lng": 77.67314362010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Sri Balaji Provision Store",
+            "place_id": "ChIJp8EjOkoTrjsRAAAAMJbp-ik",
+            "plus_code": {
+                "compound_code": "VMPF+3Q Bengaluru, Karnataka",
+                "global_code": "7J4VVMPF+3Q"
+            },
+            "rating": 5,
+            "reference": "ChIJp8EjOkoTrjsRAAAAMJbp-ik",
+            "scope": "GOOGLE",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "4th Main Road, 3rd Cross Rd, K R Nagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.879872,
+                    "lng": 77.6397681
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.88123692989272,
+                        "lng": 77.64114517989272
+                    },
+                    "southwest": {
+                        "lat": 12.87853727010728,
+                        "lng": 77.63844552010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Diagnostics Ayushman Diagnostics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJRTeENowVrjsRhHo3wW6Wr_w",
+            "plus_code": {
+                "compound_code": "VJHQ+WW Bengaluru, Karnataka",
+                "global_code": "7J4VVJHQ+WW"
+            },
+            "rating": 0,
+            "reference": "ChIJRTeENowVrjsRhHo3wW6Wr_w",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "B-Block, #426,AECS Lyout, 8th Main Rd, Singasandra, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9147078,
+                    "lng": 77.60193009999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.91609977989272,
+                        "lng": 77.60327947989272
+                    },
+                    "southwest": {
+                        "lat": 12.91340012010728,
+                        "lng": 77.60057982010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "LF 9",
+            "place_id": "ChIJpeYrGMcVrjsRZHXvdiBe0XY",
+            "rating": 0,
+            "reference": "ChIJpeYrGMcVrjsRZHXvdiBe0XY",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "WJ72+VQM, Unnamed Road, Vysya Bank Colony, Stage 2, BTM Layout, Bengaluru"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,39 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5925828,
+                    "lng": 80.69809339999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59394337989272,
+                        "lng": 80.69943497989271
+                    },
+                    "southwest": {
+                        "lat": 17.59124372010728,
+                        "lng": 80.69673532010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "NTR \u0c35\u0c3f\u0c17\u0c4d\u0c30\u0c39\u0c02",
+            "place_id": "ChIJ43rnp2YbNDoRR2hsEKPF0tc",
+            "rating": 5,
+            "reference": "ChIJ43rnp2YbNDoRR2hsEKPF0tc",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "HMVX+26P, NH30, Palwancha"
+        }
+    ],
+    "status": "OK"
+}

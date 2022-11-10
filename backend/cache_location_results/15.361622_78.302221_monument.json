@@ -1,0 +1,90 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.3180267,
+                    "lng": 78.2277179
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.31936602989272,
+                        "lng": 78.22910327989273
+                    },
+                    "southwest": {
+                        "lat": 15.31666637010728,
+                        "lng": 78.22640362010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Asthana-e-Hazrat Abbas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103452745221681658132\">MURALI KRISHNA</a>"
+                    ],
+                    "photo_reference": "AcYSjRgKlZMWwAokvyZSly4RMoiOwwu0CRbmICzQhYW24uxGegiyO0uB1iThIywKCWSScZ_Fk-9n0PKj9hZFw0zPQQ6MyuMHyOPe4Zitl-6Hm9P24nkAlpr1AgXHE84v-YNHD0h2BzzpAzUCT4Mr88jLs1Ef6BaYY_wcKZb9k2zMi5fX1_o",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJg8vAshk3tDsRZbxGbkyP7LQ",
+            "plus_code": {
+                "compound_code": "869H+63 Banaganapalli, Andhra Pradesh",
+                "global_code": "7J7W869H+63"
+            },
+            "rating": 4.3,
+            "reference": "ChIJg8vAshk3tDsRZbxGbkyP7LQ",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 444,
+            "vicinity": "Rangaraju St, Banaganapalli"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 15.3185037,
+                    "lng": 78.22751339999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.31980257989272,
+                        "lng": 78.22885242989271
+                    },
+                    "southwest": {
+                        "lat": 15.31710292010728,
+                        "lng": 78.22615277010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Asthnam",
+            "permanently_closed": true,
+            "place_id": "ChIJ4_l-TRg3tDsR3gVN4r0YSH8",
+            "rating": 4.5,
+            "reference": "ChIJ4_l-TRg3tDsR3gVN4r0YSH8",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "869H+C22, Banaganapalli"
+        }
+    ],
+    "status": "OK"
+}

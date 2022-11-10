@@ -1,0 +1,1029 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhUpFR13zaGtDuPSg6nmoJgQJU2LCpDCMBTKdXgrHv9ziyP50Q53NbfxBD8tFBOr-vNLHaWHGgZr-MVU3YFGvKQyapTnNNQ8eMtUaxqD5fpZk2nV0zlszlbYjRqwDH8JwqwrTqMlqisio2zX2GhiWbrUorhT2iuS58sNJFGcKQOD_Z-FialaCVQpdi0ao_5MzH5gL2wriFuOWR9eTXJ2O3PCA7OMf8pYcSl0BV_is16GZSCvdWqZll3EAfz0sc9cU6E2fmB9Xuu5xlXSmrumwFvuNCMNddAhCFJtRngMlYRvC3YP32a7llXuEOx5MEt0AJ5E_BWjZwWhxgyON4JK2n6_svNDVtYkQEXoPYiFYpdyOy0BTxb5K9YUdhmEzOz2MRKFsAfTQtRjcSua8pT8xnqUl4sogRI7ItUBmSzvxFY5F8UwMdA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.137149,
+                    "lng": 79.0499334
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.13849887989272,
+                        "lng": 79.05125937989271
+                    },
+                    "southwest": {
+                        "lat": 21.13579922010727,
+                        "lng": 79.04855972010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Soulish Yoga Therapy",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115657372551089437481\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRihLIYXKMy5tr8VJtKgneJ75d1NAwLS0nTaRUr27ow19_PHSfu2ByCNjB4cqasyO3_kDjaaz5TxLA6HZRmVQAF1E-yamPQ08OQbl3A-sKBCPDxVCAOlnM4mkw1qLPPdsONl6hL11Fklczp1inSjKXyb4jEXfDhNz42VND9ZyJ7rwBgk",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJdd_LdHzA1DsRd7rPhe6zC5s",
+            "plus_code": {
+                "compound_code": "42PX+VX Nagpur, Maharashtra",
+                "global_code": "7JHX42PX+VX"
+            },
+            "rating": 4.9,
+            "reference": "ChIJdd_LdHzA1DsRd7rPhe6zC5s",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "school",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 96,
+            "vicinity": "Shivnarayan Apartments, Ramnagar, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.1073626,
+                    "lng": 79.0643729
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.10869952989272,
+                        "lng": 79.06581992989271
+                    },
+                    "southwest": {
+                        "lat": 21.10599987010728,
+                        "lng": 79.06312027010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Power Yoga & Meditation Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103907570806582960151\">Mohan Kshirsagar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhMvixf2S53WPaIgw4NQ0NUbQjFautZHcbXl9FUZvZ02Z-Jzhc_K4wlwrm_emnmbR8DqtMXcy2BW-Fw1PjDkK-KlTENa4zg862uuC0ScBChFeVia1eLLca8NQYLNHPcjO2AXCplj1g9iOqqXxfVDy3AY0IzrXmWCFlS2t1rNyQULqKK",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJI8C3G3y_1DsRlydvvi7_014",
+            "plus_code": {
+                "compound_code": "4347+WQ Nagpur, Maharashtra",
+                "global_code": "7JHX4347+WQ"
+            },
+            "rating": 5,
+            "reference": "ChIJI8C3G3y_1DsRlydvvi7_014",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 96,
+            "vicinity": "76-A, Pande Layout, Khamla, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.1258089,
+                    "lng": 79.0577
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.12718902989272,
+                        "lng": 79.05903887989273
+                    },
+                    "southwest": {
+                        "lat": 21.12448937010728,
+                        "lng": 79.05633922010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Apresh's Yoga YO Fitness Club",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 853,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101131799669077415296\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjwQGYXSX6CWgCMXf1Gb378M4t7stKiH4TN7zT9k__b1TR7ZT9_aywfLIm4xO-Fz4a9PH_7w8v7xDtThByM1Nb_w4DONWB0U-yL0I8JWWK7vK8YbyBWoZgvSkk4spIHP9i5ypX18La3bq0lnWr4P1lPYHWbug54DNVgjuESrhxTNZGD",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJcU5VBX7A1DsRx5UM2ziujgw",
+            "plus_code": {
+                "compound_code": "43G5+83 Nagpur, Maharashtra",
+                "global_code": "7JHX43G5+83"
+            },
+            "rating": 4.8,
+            "reference": "ChIJcU5VBX7A1DsRx5UM2ziujgw",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 48,
+            "vicinity": "Plot No. 129, Zenda Chauk, opp. Sony showroom, Abhyankar Nagar, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.1473105,
+                    "lng": 79.07403450000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.14865147989272,
+                        "lng": 79.07564822989272
+                    },
+                    "southwest": {
+                        "lat": 21.14595182010728,
+                        "lng": 79.07294857010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Vasanthan- Yoga class in Nagpur | Fitness club | Iyengar yoga",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108330637562801919279\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhvFEotCMvfnf3bQqv1plMMSoiHC5hJGHwR6u07JjSsViys0GK2lvmlyAJg94JOZgmLhCUpBFfYdVCym-uUdkguRLw5sY4kzEmqS5PpJJUPpR_8-OUK11gFNWhiFeyTLIQDF5LathQbuJjgQsE1mk1kBoK_nBb10DMl8HsnjQPXSo_D",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJvQhRKR7r1DsR5tcyBKKCBAI",
+            "plus_code": {
+                "compound_code": "43WF+WJ Nagpur, Maharashtra",
+                "global_code": "7JHX43WF+WJ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJvQhRKR7r1DsR5tcyBKKCBAI",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 63,
+            "vicinity": "64/1, Patrakar Club, opposite Science of Institute, Civil Lines, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.1320232,
+                    "lng": 79.1134623
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.13333977989272,
+                        "lng": 79.1148136798927
+                    },
+                    "southwest": {
+                        "lat": 21.13064012010727,
+                        "lng": 79.11211402010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "M Yoga Studio",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 939,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103678928290823124335\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjHy18YGgz5FgT-2dJuehD8VQcuhbbCKc8ZgWVEuEZ8dano-RC-x7xQWvDuPJzAsXIWoCkN_b2b7U198VBkef-poVXdpxFTPvZ4HDvlNaaewdgBOtPoD2gH9ZOOouM0CA8YiIcbiRE8qKlKdXgw8oNZ4ouGBfNfGp1HiAqA1DhtOvo",
+                    "width": 1668
+                }
+            ],
+            "place_id": "ChIJJ_WvWCTH1DsRLDj9Ssde52w",
+            "plus_code": {
+                "compound_code": "44J7+R9 Nagpur, Maharashtra",
+                "global_code": "7JHX44J7+R9"
+            },
+            "rating": 5,
+            "reference": "ChIJJ_WvWCTH1DsRLDj9Ssde52w",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 111,
+            "vicinity": "Sant Gajanan Maharaj Chowk, Azamshah Layout, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.1746148,
+                    "lng": 79.083849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.17597002989272,
+                        "lng": 79.08507632989271
+                    },
+                    "southwest": {
+                        "lat": 21.17327037010728,
+                        "lng": 79.08237667010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Sivananada Ashtang Yogashala",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3952,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103712867663012892875\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg_8X9Bkxd-Ql4w2dz5fxQEoojYHjoQYmB0_3YCIFqEQp0jpJb17MhrcD3C5wIO8MxzzsazZz_wupDD6mwZrr4lJC7sW5tlQUdv-ozBS_ZpAwF6fo_2xt_AVgi5yDfpL0q-COER1vAHYOgphOFMOhcLhY0l4cKUHMhQpARw4drQylgD",
+                    "width": 3952
+                }
+            ],
+            "place_id": "ChIJoTRxrBbB1DsR6LdP-5zceb4",
+            "plus_code": {
+                "compound_code": "53FM+RG Nagpur, Maharashtra",
+                "global_code": "7JHX53FM+RG"
+            },
+            "rating": 5,
+            "reference": "ChIJoTRxrBbB1DsR6LdP-5zceb4",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 70,
+            "vicinity": "Basement, J.P. Heights, Byramji Town, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.135043,
+                    "lng": 79.1125742
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.13638412989273,
+                        "lng": 79.11384797989272
+                    },
+                    "southwest": {
+                        "lat": 21.13368447010728,
+                        "lng": 79.11114832010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Dr.KajalJaiswal Yoga Studio NX New Branch ( Gents Ladies Kids )",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3680,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110599353190062494438\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiwciR7A2-JhgAZFIK_YbjVX6_8-j1-Y80Caisb2HYgm4WSY9DgVh4AIvSNZ5quMn2x5iHgRcobWq91Ja66oSfTq5e2UmOhV4JSiGsi8jI8vkTp9NvboAeSMkVcruaJt2H1qqL1yym1xSd1RZgVHPZfTJKGpyWmkJOFPZ31dWSx14AU",
+                    "width": 5520
+                }
+            ],
+            "place_id": "ChIJI7K-h0PH1DsREHVfxurrr9A",
+            "rating": 4.8,
+            "reference": "ChIJI7K-h0PH1DsREHVfxurrr9A",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 101,
+            "vicinity": "44P7+227, Dr.Kajal Jaiswal Yoga studio Junishukrawari, Sakkardara Rd, beside Hanuman Temple, Gajanan Chowk, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.1791375,
+                    "lng": 79.04388759999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.18053397989272,
+                        "lng": 79.04526272989273
+                    },
+                    "southwest": {
+                        "lat": 21.17783432010728,
+                        "lng": 79.04256307010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Amrit Dynamic Yoga Meditation and Reiki Studio (Yoga, Meditation and Reiki Centre near Friends Colony)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100137736133829106905\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjolVxpjRs459S2yuIB73KUI2IUJPuGRlvDTxF0d9pndQf5-uX8JuUF-3H8iN2OVh81AYMpksekZHJtyNKoVhQn4NWsaUchS1CHK3IdiYz11BJP6lqkUzX6yF6bcIy9B6IcE4fFe1t6ORAyHolxfq55UWEKrbJ7T3v-l2uivaoeKocS",
+                    "width": 3999
+                }
+            ],
+            "place_id": "ChIJfck36E3B1DsRWoyUSX22PmI",
+            "plus_code": {
+                "compound_code": "52HV+MH Nagpur, Maharashtra",
+                "global_code": "7JHX52HV+MH"
+            },
+            "rating": 5,
+            "reference": "ChIJfck36E3B1DsRWoyUSX22PmI",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "school",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 113,
+            "vicinity": "Meghmalhar, opposite to HP petrol pump, near Friends colony, chowk, Katol Rd, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.1189259,
+                    "lng": 79.065833
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.12035832989272,
+                        "lng": 79.06718067989272
+                    },
+                    "southwest": {
+                        "lat": 21.11765867010728,
+                        "lng": 79.06448102010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Akruti Power Yoga",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115153308460981221398\">Nikita Chavan</a>"
+                    ],
+                    "photo_reference": "AcYSjRijYSaSdSPLOZ8BUE8lCN4aaa8sZ1v4JBTutssvujocTwvlBDWh_ZccaBt3w270lJSIj71YJgGY_Vkw0vpTlqvYkHgaILDKHPh43ZOYhhv774RnLnbFTQce7dyTJIjVwDicdntR3dVOLuNnpeAIbovxqaqZ2UYZfEdxFT_QKhJHx6SV",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJY4WToXvA1DsRGYDBBqS18jw",
+            "plus_code": {
+                "compound_code": "4398+H8 Nagpur, Maharashtra",
+                "global_code": "7JHX4398+H8"
+            },
+            "rating": 4.9,
+            "reference": "ChIJY4WToXvA1DsRGYDBBqS18jw",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 48,
+            "vicinity": "64, RPTS Rd, near jerryl lawn, Surendra Nagar, Laxminagar, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.117183,
+                    "lng": 79.0728511
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.11855237989272,
+                        "lng": 79.0741141798927
+                    },
+                    "southwest": {
+                        "lat": 21.11585272010728,
+                        "lng": 79.07141452010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Yoga Darshan - Classical Hatha Yoga",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2001,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116902076859331654128\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh3VY5xmpzUTNdtF_h74crT27oEvmp70UHNgHyqsbaj5BgJFRSKneUyWvApPPUypkTIljgXc9RfYDYiTwOQNukpLzL2reotvHevROOgIIJa6lcwn8bNWrKAuxHqG8KRH9YaBHVofLsYpYe3Lgo-xpeS7g0oxkAyTvYmnvYo3tIILTif",
+                    "width": 1409
+                }
+            ],
+            "place_id": "ChIJ67WFz_S_1DsRLP5Mr9rSsC4",
+            "plus_code": {
+                "compound_code": "438F+V4 Nagpur, Maharashtra",
+                "global_code": "7JHX438F+V4"
+            },
+            "rating": 5,
+            "reference": "ChIJ67WFz_S_1DsRLP5Mr9rSsC4",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 108,
+            "vicinity": "Hanuman Mandir, Prashant Nagar, Samarth Nagar East, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.1143871,
+                    "lng": 79.1080057
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.11574582989272,
+                        "lng": 79.10935507989272
+                    },
+                    "southwest": {
+                        "lat": 21.11304617010727,
+                        "lng": 79.10665542010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Yoga With Aashi",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 452,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112257729810883016214\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiwvCad43zRyEOAiCYxzjJtfYGGbDWShBczJFX9Hpg4ZaLj9tniu7QxkFsG0wmONgetdNHyM73dKGs4dEkbn0DDqETrFXjeZGIoLNJIcHFWZLS6Vb7RkLkA2WCOA9dbZlNZeNMxUWfCFRXX0HoGikDvgy6ypJiMoiuO9KzVQS9B8sD4",
+                    "width": 678
+                }
+            ],
+            "place_id": "ChIJ3WVOPUm_1DsR1SnOhHWX-UY",
+            "plus_code": {
+                "compound_code": "4475+Q6 Nagpur, Maharashtra",
+                "global_code": "7JHX4475+Q6"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ3WVOPUm_1DsR1SnOhHWX-UY",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 274,
+            "vicinity": "near Gajanan Maharaj Temple, Rajanigandh, Ambika Nagar, Ayodhya nagar, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.1256306,
+                    "lng": 79.10374329999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.12698592989272,
+                        "lng": 79.10509307989273
+                    },
+                    "southwest": {
+                        "lat": 21.12428627010728,
+                        "lng": 79.10239342010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Yog Sanskar (Naturopathy Yog Center)",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106087539444467874614\">mohammad khizar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjZouDKDPPbg0QKNafASuvWytjNdGlQmzUQR3_CyZW2zx6EGlTGkxpGGIEJr1Uh-g4QXCW2ABEteRAhYzRaCmrE_JVsWPSZCRiWtlPEeY43F6AIypeLN4fgcmxvT_-JQKcqSK5I0TtFyT4oY8C9nHNNgi4UX3XgkwC2YGlvzvy_cBbs",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJAQAAMKnA1DsRKguFHmNDDV4",
+            "plus_code": {
+                "compound_code": "44G3+7F Nagpur, Maharashtra",
+                "global_code": "7JHX44G3+7F"
+            },
+            "rating": 4.9,
+            "reference": "ChIJAQAAMKnA1DsRKguFHmNDDV4",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 70,
+            "vicinity": "499, Medical Chowk, Professor's Colony, Proffessor Colony, Hanuman Nagar, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.1850795,
+                    "lng": 79.055561
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.18643682989272,
+                        "lng": 79.05687357989272
+                    },
+                    "southwest": {
+                        "lat": 21.18373717010728,
+                        "lng": 79.05417392010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Meena yoga and meditation centre",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2373,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104546548216834229652\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg-CdJi2WExOwvIhQieKGFgbXEoBYpZb0rtq7NO6yavIbObzWJb0tIfDS-OoJr9GvAP5KR-15n2uA1vk_RclzOlfg1GfoqBoNCx3jyBErtusmP_09p_tmSahM7iJvqhw9bga9m0C47rxXmRraFE4TaLIrQsoJRPwhAhHW-koa-9fJeV",
+                    "width": 2373
+                }
+            ],
+            "place_id": "ChIJ6X0oJp_B1DsRRmA3XBBzckg",
+            "plus_code": {
+                "compound_code": "53P4+26 Nagpur, Maharashtra",
+                "global_code": "7JHX53P4+26"
+            },
+            "rating": 5,
+            "reference": "ChIJ6X0oJp_B1DsRRmA3XBBzckg",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 64,
+            "vicinity": "9, near shiv mandir, Mahesh Nagar, Anant Nagar, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.1415416,
+                    "lng": 79.05368639999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.14295647989272,
+                        "lng": 79.05510147989271
+                    },
+                    "southwest": {
+                        "lat": 21.14025682010728,
+                        "lng": 79.05240182010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Shri Janardan Swami Yogabhyasi Mandal \u0936\u094d\u0930\u0940 \u091c\u0928\u093e\u0930\u094d\u0926\u0928 \u0938\u094d\u0935\u093e\u092e\u0940 \u092f\u094b\u0917\u093e\u092d\u094d\u092f\u093e\u0938\u0940 \u092e\u0902\u0921\u093c\u0933",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104047018550940327046\">priti kocheta</a>"
+                    ],
+                    "photo_reference": "AcYSjRgSdGiABBSW84sefJvDeUhkV5vjEfL8Ls7E9Xv3Fmhz5HeZ7HyO6sibtRv_RJ6vAbO2cQNeeLQtPW0iS-2KT7_pwQmtbJeGPndq0mVlh_7oeUdWwiU0xFPmpa9pFi-IAlY9vlbKDmG5mQVwLsfghyRSf_wRqjTVE2mrvYjcMn-oy-26",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJkTpV4WfA1DsRvP938u3umO8",
+            "rating": 4.9,
+            "reference": "ChIJkTpV4WfA1DsRvP938u3umO8",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 102,
+            "vicinity": "43R3+JF8, Janardan Swami Marg, Opp Ram Mandir, Near Ram Nagar Square, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.1202653,
+                    "lng": 79.134255
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.12161102989273,
+                        "lng": 79.13560417989272
+                    },
+                    "southwest": {
+                        "lat": 21.11891137010728,
+                        "lng": 79.13290452010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Yoga Life Center, Nagpur",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113840142667449989968\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgph0IvEXrFN9ed7i2A5f65NALlYFuq2y8Zv96zmiDXjUFwMcVy7-NMPC7iWG92jd4h9XMRHnancFMrzsltsRPbDYpBIiRv1hM_2fcLPmdvaSNe7PYs_Sl5LwOqP_ptH4qfxhPiwSCjZwq-2aOaBsF92DrVeQuvWidJL2ik-OWw44eo",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJE0Fbw1fH1DsRhbbhkHsxxSs",
+            "plus_code": {
+                "compound_code": "44CM+4P Nagpur, Maharashtra",
+                "global_code": "7JHX44CM+4P"
+            },
+            "rating": 4.6,
+            "reference": "ChIJE0Fbw1fH1DsRhbbhkHsxxSs",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "school",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 65,
+            "vicinity": "pl no.134, Block A, Ratan Nagar Ring Road, near Hanuman Temple, Gadge Baba Layout, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.1674412,
+                    "lng": 79.08746169999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.16879297989272,
+                        "lng": 79.08877972989272
+                    },
+                    "southwest": {
+                        "lat": 21.16609332010728,
+                        "lng": 79.08608007010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Yoga Studio by Payal Advani",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116243097329030185535\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjB22XenFsOOZ59uuDEeqORmwewMm8YIr0T-_4xYiqNxa864a3aMrjLcjym5prfVk_XbFl_32inPnfxSiVIiAiKjTCQbkVqjPXXUp8rdAcNTVUI0nO4leQlQAOVKrszccYHJ3hY0h2D-4CtC4kHi5zL7XDOSyz7gpnI36g_7wnUA_0y",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJtQt9rtfB1DsRxkteGLVWi_E",
+            "plus_code": {
+                "compound_code": "538P+XX Nagpur, Maharashtra",
+                "global_code": "7JHX538P+XX"
+            },
+            "rating": 5,
+            "reference": "ChIJtQt9rtfB1DsRxkteGLVWi_E",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31,
+            "vicinity": "Block no 14, sindhu sahar society, Clark Town, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.1416758,
+                    "lng": 79.1006417
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.14301332989272,
+                        "lng": 79.10207287989273
+                    },
+                    "southwest": {
+                        "lat": 21.14031367010728,
+                        "lng": 79.0993732201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Habuild - Online Yoga",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2736,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103175511470607025922\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRihlgB0Mz4hCaE6uTvJbDLbyEtyxWRMxOin7QOyZRRSSqUU0jQvc0g204buRqhavrGKf_Sd3GE3O-Rs1416Ql2_VU7WX7woTesyoCMCMkOHyR2vuiWZ2D8WBdjZETjKrq_Wa86R-t55G4gveMFOtoZxpmuot3y1vQLywSHxPeHEF4O7",
+                    "width": 2736
+                }
+            ],
+            "place_id": "ChIJ1YyjLibB1DsRHycZ23dnFig",
+            "plus_code": {
+                "compound_code": "44R2+M7 Nagpur, Maharashtra",
+                "global_code": "7JHX44R2+M7"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ1YyjLibB1DsRHycZ23dnFig",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1662,
+            "vicinity": "Bothra Complex, Model Mill Square, Ganeshpeth Colony, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.1185249,
+                    "lng": 79.1155931
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.11981587989272,
+                        "lng": 79.1168832798927
+                    },
+                    "southwest": {
+                        "lat": 21.11711622010728,
+                        "lng": 79.11418362010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "simply Yoga - Yoga Centre In Nagpur",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJQceZex251DsRr75LRyAJjDw",
+            "plus_code": {
+                "compound_code": "4498+C6 Nagpur, Maharashtra",
+                "global_code": "7JHX4498+C6"
+            },
+            "rating": 4.9,
+            "reference": "ChIJQceZex251DsRr75LRyAJjDw",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27,
+            "vicinity": "Cotton Federation Colony Flat No 17 Dattatreya Nagar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.1588633,
+                    "lng": 79.10722679999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.16017847989272,
+                        "lng": 79.10856697989273
+                    },
+                    "southwest": {
+                        "lat": 21.15747882010728,
+                        "lng": 79.10586732010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Varsha yoga centre (only ladies )",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 706,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106357084543023965836\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRihV7cPJvAZlQljz6_YLPArr4IvBa0-v16hLEa6ahOyEMB0tEocFvgRvZeXKjOgSsfGAVNTixYWj4QzwR2Zqt3Znqg47dy-TsRVxyILlMjhsfTwTDKn9lkAn_0dukN7Myzh_1-BETiptyF4a9_uSlxQMf7LJ1JNPBNs1TiHtP9ySwS4",
+                    "width": 706
+                }
+            ],
+            "place_id": "ChIJA9rOLHvB1DsR-Dnp81DGx4M",
+            "plus_code": {
+                "compound_code": "5454+GV Nagpur, Maharashtra",
+                "global_code": "7JHX5454+GV"
+            },
+            "rating": 5,
+            "reference": "ChIJA9rOLHvB1DsR-Dnp81DGx4M",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32,
+            "vicinity": "Jagnath Budhwari, Pili Marbath, sq, Nagpur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.1479459,
+                    "lng": 79.1363872
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.14928832989272,
+                        "lng": 79.13773682989272
+                    },
+                    "southwest": {
+                        "lat": 21.14658867010728,
+                        "lng": 79.13503717010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Khushyog",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104490447649676972256\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhsL7kSWWe-s-S2KUZvGOhQL-bUbWWxCBvIoj5-APceOPMHTjmsHyXKp4vIVYtv1sjq3cPmOrEKQjeJ7J5eFIUjZ1cPIm3eUhJPCawM5VZxYivlYPlJMA-wDEGH2tpaYqIxaSNsbulzroJXV_39kuTZNxrlNew2GwKhE-f07yxSRRka",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJuVApU8HH1DsRJiKZQqPSRaI",
+            "plus_code": {
+                "compound_code": "44XP+5H Nagpur, Maharashtra",
+                "global_code": "7JHX44XP+5H"
+            },
+            "rating": 5,
+            "reference": "ChIJuVApU8HH1DsRJiKZQqPSRaI",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27,
+            "vicinity": "Kalpvriksha Plot no. 155, Vaishnodevi chowk, Wardhaman Nagar Colony, Nagpur"
+        }
+    ],
+    "status": "OK"
+}

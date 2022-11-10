@@ -1,0 +1,130 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9338237,
+                    "lng": 78.94396189999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.93516807989272,
+                        "lng": 78.94532887989273
+                    },
+                    "southwest": {
+                        "lat": 12.93246842010728,
+                        "lng": 78.94262922010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Dr. B.R.Ambedkar Statue",
+            "place_id": "ChIJbTQ5ubMUrTsRoaKJHSzkmfQ",
+            "rating": 5,
+            "reference": "ChIJbTQ5ubMUrTsRoaKJHSzkmfQ",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "WWMV+GHG, Unnamed Road, Pasumathur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9222947,
+                    "lng": 79.0224051
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92345297989272,
+                        "lng": 79.02375027989272
+                    },
+                    "southwest": {
+                        "lat": 12.92075332010728,
+                        "lng": 79.02105062010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Margabandeswarar Temple",
+            "photos": [
+                {
+                    "height": 2400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108131660125729010317\">tr</a>"
+                    ],
+                    "photo_reference": "AcYSjRhPzyHP2rV19D6BgmzadPI_TJTUkWI6PqsPGF4Bg0xPcN7R3Oyg0DXwEuPf2zgZ74V-YwoBOO7PuY4pInZX24Myemg01-Xw2zCXwhFj1Mu0NiWmiKHz8x1LcEHT8VbHigGMVyzIandFWyj8ugQtb0CY8ITftdDGiZU0jdnUwlCCllyF",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJdRtBCeE_rTsRTj0pMgJJyjA",
+            "rating": 4.7,
+            "reference": "ChIJdRtBCeE_rTsRTj0pMgJJyjA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 315,
+            "vicinity": "W2CC+WX6, Virinchipuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8369656,
+                    "lng": 79.05500239999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.83832717989272,
+                        "lng": 79.05630822989272
+                    },
+                    "southwest": {
+                        "lat": 12.83562752010728,
+                        "lng": 79.05360857010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pillaiyarkovil, sivanathapuram",
+            "photos": [
+                {
+                    "height": 6000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113696331518179844297\">Kuralmudhu Kuralamudhu</a>"
+                    ],
+                    "photo_reference": "AcYSjRjHELxbYjynisKPo47PEvl1qc7pVvalKcqM32z6ikNzxCrAAbPJkH5AJ2YQjSWvqCBOBA8xIUKeqFlERvmyVISdElXp_lntqWKO_9DSxbgzJ0TTirfFao1UNmUH1zX0uQbD-Mvd0lTiUnWzfwwDkoNZBxPl_BkIOi0N5QJlZpq45WqX",
+                    "width": 8000
+                }
+            ],
+            "place_id": "ChIJqRXyDUg9rTsROadzgjVzhp0",
+            "rating": 5,
+            "reference": "ChIJqRXyDUg9rTsROadzgjVzhp0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "R3P3+QXQ, Unnamed Road, Sivanathapuram"
+        }
+    ],
+    "status": "OK"
+}

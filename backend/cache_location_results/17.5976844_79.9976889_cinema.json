@@ -1,0 +1,311 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5949365,
+                    "lng": 79.9965861
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59631552989272,
+                        "lng": 79.99788287989273
+                    },
+                    "southwest": {
+                        "lat": 17.59361587010728,
+                        "lng": 79.99518322010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Lakshmi Theater",
+            "photos": [
+                {
+                    "height": 3792,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110181382906645564239\">sameer mohammed</a>"
+                    ],
+                    "photo_reference": "AcYSjRixvtSNRZNxp6x9asvkT3JYCV50IjB8BAFg2KuaH7by9PaVv6OgLdtSb5QObyNCBGthSTz7bc-Cj6HIhRsNM8C9fqOLn49W1ItfFbIwpcSqdl5cOR4JJtn3b2rfMIGaKjyrlAM1ZWvglr5R7IBnHY2dGsm1zmAf4fdxEaDSFd46WkDY",
+                    "width": 5056
+                }
+            ],
+            "place_id": "ChIJVxNAYlqPNDoRtzjjNEakYn0",
+            "rating": 3.8,
+            "reference": "ChIJVxNAYlqPNDoRtzjjNEakYn0",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1388,
+            "vicinity": "HXVW+XJG, Lakshmi theater, Kankar Boad, Manukota"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5952975,
+                    "lng": 80.00521479999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59652507989273,
+                        "lng": 80.00652482989271
+                    },
+                    "southwest": {
+                        "lat": 17.59382542010728,
+                        "lng": 80.00382517010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Asian Mukunda",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103716331523288696138\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiY9Yj6s7KMKAvmDYo5DABcMFl8peMTv8WQ0LAIGKZG9Uj4LVyKTU8zfbzypxAzUXc7_p-qjrtsrflzSdoAmW5hl-ljwDtw_2Xpw-JR0beA4JiD2bS65n8fu6uhcrQhyYLLJ54xPZRDqzt2xnvFM6OE-OLLctrDcpsthLLEMPLljHa_",
+                    "width": 4208
+                }
+            ],
+            "place_id": "ChIJjxKBUlKPNDoR-mmzwRC7Txo",
+            "rating": 3.7,
+            "reference": "ChIJjxKBUlKPNDoR-mmzwRC7Txo",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1055,
+            "vicinity": "H2W4+438, Gundal - Yellandu Rd, Shikarkana Gadda, Mahabubabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5968929,
+                    "lng": 79.999951
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59834712989272,
+                        "lng": 80.00137102989272
+                    },
+                    "southwest": {
+                        "lat": 17.59564747010728,
+                        "lng": 79.99867137010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Srinivasa Theater",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4144,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104924583878384876584\">suri k</a>"
+                    ],
+                    "photo_reference": "AcYSjRi3jUENKzlRJeO4PLSdKIVvfYSqN92C4u0L7qlW-Sk3St6lKEN38Q2vWbRTGalKPiU_anA8iKCAEgy8o0ZZgsuiweuleRu5nHehG87L6yTDtxzYMteA-0ZzORTKs8uEx9hJaNSkCm-yUk7E1iVYE8Swu_Lg0YxKLfux3glrbgM2Jd9M",
+                    "width": 5520
+                }
+            ],
+            "place_id": "ChIJb_0y3FCPNDoRqBM6lNUCSnY",
+            "rating": 2.5,
+            "reference": "ChIJb_0y3FCPNDoRqBM6lNUCSnY",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47,
+            "vicinity": "HXWX+QXH, Mahabubabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6019087,
+                    "lng": 80.00223489999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60322922989272,
+                        "lng": 80.00370887989273
+                    },
+                    "southwest": {
+                        "lat": 17.60052957010728,
+                        "lng": 80.00100922010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Venkatrama Theater",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116973886671336823570\">donthunaresh kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjNGSpVtJ_aT4tVmQ-gI2D7HSWnJGbS5M-twynwDfq9DGxDZmtQSJDxaNCNrseD5wYOvOn_ZoQ-DQMgCJpaMgEV4ZlmlYmkGMd5oTLE2zUL0C8DOMDDl4MV-j13ezTBCuWdO1kTHp2eDYso-TPGCKEgHEsBEjnICLBqHJqnFhOn1FST",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJJy0LZVaPNDoRAvnanLH2DzE",
+            "rating": 3.2,
+            "reference": "ChIJJy0LZVaPNDoRAvnanLH2DzE",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 283,
+            "vicinity": "J222+QV9, Mahabubabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5938791,
+                    "lng": 80.0064141
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59521922989272,
+                        "lng": 80.00775967989273
+                    },
+                    "southwest": {
+                        "lat": 17.59251957010728,
+                        "lng": 80.00506002010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Surya Kalamandir (\u0c38\u0c42\u0c30\u0c4d\u0c2f \u0c15\u0c33\u0c3e \u0c2e\u0c02\u0c26\u0c3f\u0c30\u0c4d)- SVC",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101600401757599744687\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhEpNZiz0wCRHZosixgeEvlahX21jcJwjHPAHTe082KOZ-7glJQRgxLhmgP_erR5fLeDa9AM4JfZNRBTuxiS_wa3jcLsr3PdZwH25HHCTLvZc6NdxbWmy0u4bMCnobugpDyYLVoefHtQ_Ogv-56H5ZNMks9V9vsX70zoo-eaRIx0m8h",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ9a6MjFKPNDoR5FGmx3W2Iw8",
+            "plus_code": {
+                "compound_code": "H2V4+HH Mahabubabad, Telangana",
+                "global_code": "7M92H2V4+HH"
+            },
+            "rating": 4,
+            "reference": "ChIJ9a6MjFKPNDoR5FGmx3W2Iw8",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1489,
+            "vicinity": "Mahabubabad - Yellandu Rd, Mahabubabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6860603,
+                    "lng": 79.90109210000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68759287989272,
+                        "lng": 79.90239392989272
+                    },
+                    "southwest": {
+                        "lat": 17.68489322010727,
+                        "lng": 79.89969427010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Mohan Theatre",
+            "photos": [
+                {
+                    "height": 6000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106731600607207382979\">Santhosh Stylists</a>"
+                    ],
+                    "photo_reference": "AcYSjRj2ZMlIJaVevhT4p6O3rXAaf3tQeCX4KAmORUxNWV6YjhCP3EDuFZIhRfv1HgkaUB8aVKXaKvZtIB9SBzEckn4kGIoN6WBAj3H-Bujlzle9Q_U2sUlXt-9kJIQxgHnxHkQPXHL9hIG14TyAJmDqcTxIVYo2DB8YD-Lhv1eR-3KnCDl8",
+                    "width": 8000
+                }
+            ],
+            "place_id": "ChIJxat5GFybNDoRtlu121G8xlY",
+            "rating": 3.4,
+            "reference": "ChIJxat5GFybNDoRtlu121G8xlY",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 194,
+            "vicinity": "MWP2+CCG, Kesamudram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.566345,
+                    "lng": 80.06645999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56766112989272,
+                        "lng": 80.06780127989272
+                    },
+                    "southwest": {
+                        "lat": 17.56496147010728,
+                        "lng": 80.06510162010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Guguloth vinod",
+            "place_id": "ChIJfzsCHySJNDoRUN0XgLqyfS8",
+            "rating": 0,
+            "reference": "ChIJfzsCHySJNDoRUN0XgLqyfS8",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H388+8M6, Anantharam"
+        }
+    ],
+    "status": "OK"
+}

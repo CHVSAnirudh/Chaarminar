@@ -1,0 +1,50 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5087386,
+                    "lng": 78.3054848
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.51011937989272,
+                        "lng": 78.30684562989273
+                    },
+                    "southwest": {
+                        "lat": 17.50741972010728,
+                        "lng": 78.30414597010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Vallabhai Patel Statue",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112904027462814364903\">Surya Rao Rayarao</a>"
+                    ],
+                    "photo_reference": "AcYSjRgARsCq3iXYVJNtlFHUJLlnaGvT4dHCVnL3wquRwS2cRoau3s-nWImm8-IRDNuwKj5stqR4iHQvkNkLwFkSIiieqOFHCK_4Mskgz3TqnfNFkcW0tvMHxK1ll1zi4ffhTnstFNVljTE5k0a5MzQJtmSXh_1EAV7rUEu5HWXXOeiWUn00",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJs4qHw6eSyzsRlninV33fIKw",
+            "rating": 4,
+            "reference": "ChIJs4qHw6eSyzsRlninV33fIKw",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 146,
+            "vicinity": "G854+F5X, Mayuri Nagar, Ashok Nagar, Ramachandrapuram"
+        }
+    ],
+    "status": "OK"
+}

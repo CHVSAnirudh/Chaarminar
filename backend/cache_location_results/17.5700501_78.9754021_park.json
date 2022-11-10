@@ -1,0 +1,775 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhUtWjJNZ90AwetpDp7gIJnh_Hpoh2vfuP_am1h9iZBJN40dQVVvTEmZ31lvsKcKuv4SEfyk_-aQTZLb5lIQbEeCm9uqBYYMdPX8Gp3RQ_zUP9i2HDrz_DlnB0uvRliKKHPY4up6DijmZU2y0_LyxWDXa2ZN1ueQqiOV92ADdUlvcPxefd6WBfp2stZN6MrP49WEzlEzGheCspyr97bfhzUcyLMtED0RghYHF5kWxOB4tnlS2Q1n8xN2y0q-ME4RWxnZAkNPh4fmliMI3QIWu2_9N5swHzoIyuZkrpLy0xJxgA63b6Dd82LdhFnDfE5f9G_z9Y_nMilJWpncyI4J-dsilUF6sLLX8xF0BG3Wpr9UP7F8fKhgPYNi-jhMIneC0zgSCGi-mRt_ZaCyTqRQDjJY-PBj6Tj7swzs4D-AfQBgbSrgfsz",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5208259,
+                    "lng": 78.8895241
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.52219762989272,
+                        "lng": 78.89092417989272
+                    },
+                    "southwest": {
+                        "lat": 17.51949797010728,
+                        "lng": 78.88822452010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Kisan Nagar (Muncipal) Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 2607,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101354489215917011617\">VAMSHI MANDA</a>"
+                    ],
+                    "photo_reference": "AcYSjRgzS2eDs9TFAoNtGuftT5TVzheOsASVoj7qb_ugz8CMixVB61ZyIEaFFTaNd3gnPO-Ald_8BotVad7KMFogIZRQCvtaWA9MDtYgrA24icFddzrBwvx2jshbB6q5rQdJZjsqUVZMZDghSdqQ4K0PuYoeEwpAiYEekFHie1fO0Gnt87kD",
+                    "width": 3256
+                }
+            ],
+            "place_id": "ChIJW8OOqwxvyzsRnOjWakSUJ1k",
+            "rating": 3.8,
+            "reference": "ChIJW8OOqwxvyzsRnOjWakSUJ1k",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 296,
+            "vicinity": "GVCQ+8RJ, Kisan Nagar Rd, Bhuvanagiri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5200963,
+                    "lng": 78.8929185
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.52145627989272,
+                        "lng": 78.89428837989271
+                    },
+                    "southwest": {
+                        "lat": 17.51875662010728,
+                        "lng": 78.89158872010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Indira Park",
+            "place_id": "ChIJR2QPc6lvyzsRuTUS_KvegfA",
+            "rating": 0,
+            "reference": "ChIJR2QPc6lvyzsRuTUS_KvegfA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GVCV+25M, Bhuvanagiri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.547169,
+                    "lng": 78.93763000000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.54852737989273,
+                        "lng": 78.93923042989272
+                    },
+                    "southwest": {
+                        "lat": 17.54582772010728,
+                        "lng": 78.93653077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0c2f\u0c3e\u0c26\u0c3e\u0c26\u0c4d\u0c30\u0c3f \u0c05\u0c2d\u0c2f\u0c3e\u0c30\u0c23\u0c4d\u0c2f \u0c09\u0c26\u0c4d\u0c2f\u0c3e\u0c28\u0c35\u0c28\u0c02",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116661148525028924334\">raghunadhachowdary</a>"
+                    ],
+                    "photo_reference": "AcYSjRihl-_NVZPbcAmjx-i4Pneex-X0MG7-7WYPM3m5hQXKylway5zUX9QlpXA_OFS8nt-5LQVtWdGizHlfxz6Rs8DmfW9ttDxdvmLThBqM3pfUtE8YdFN0t9df3J0mJxmmJ22cY_HvOEVkztjEsIK-qWut-3EQU1kpCN6Zni-ODQGSOyYw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJo0rygQJmyzsRaFTtbS6mt5E",
+            "rating": 4.4,
+            "reference": "ChIJo0rygQJmyzsRaFTtbS6mt5E",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 221,
+            "vicinity": "GWWQ+V36, Yadagirigutta"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5212016,
+                    "lng": 78.88581429999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.52250972989272,
+                        "lng": 78.88715952989271
+                    },
+                    "southwest": {
+                        "lat": 17.51981007010728,
+                        "lng": 78.88445987010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Jyothi Rao Pulee Park Vidya Nagar",
+            "place_id": "ChIJNV1FZAJvyzsRcqFbcHI-RjA",
+            "rating": 4.2,
+            "reference": "ChIJNV1FZAJvyzsRcqFbcHI-RjA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "GVCP+F8P, Vidyanagar, Bhuvanagiri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5043027,
+                    "lng": 78.8802243
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50568447989272,
+                        "lng": 78.88163832989272
+                    },
+                    "southwest": {
+                        "lat": 17.50298482010728,
+                        "lng": 78.87893867010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sardar Vallabhai Patel Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109015694070292108512\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRj7qnqaEc81_URP4m2tgjwz8tj48xwn-Q-y_BdwhldZjY5p-i_jcTDgHpxZW0pLlVMCzBUG2z8kq_Rn5pOxSb9VUjPb1cOD7t3PoWz5-nYu4TwZM_frcW6arRok87ltjFqPKCpQTkJY0mUPFnOHXdd_coqW-HgWe_DhDo6kE60d-dBp",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJCbj8iUlvyzsRpBdb2vXdkYU",
+            "rating": 4.2,
+            "reference": "ChIJCbj8iUlvyzsRpBdb2vXdkYU",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 131,
+            "vicinity": "GV3J+P3H, Bhuvanagiri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5632266,
+                    "lng": 79.0088214
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56430862989272,
+                        "lng": 79.01032592989273
+                    },
+                    "southwest": {
+                        "lat": 17.56160897010728,
+                        "lng": 79.00762627010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Marrigudem Lake",
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104497931103808074846\">VIJAY KUMAR AELURI</a>"
+                    ],
+                    "photo_reference": "AcYSjRhsQMyAU2jzx-KBeOWb45aaZZo7RtMHGCnLTEbn_km7ligE-4G-WdLA3ulesoaVRaUFoOgalFheBZGLsojW560ttv8vg2ufP2gjFgXlxunN0N1VpnDufqvjVsWmNFHwB7L5VXE8t9m7dYHpGbovOu2uOJGjfb2LXkFGYVZCvgOaMPrl",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ-d0WD_BnyzsRoPQ0UEWJmZs",
+            "rating": 3.8,
+            "reference": "ChIJ-d0WD_BnyzsRoPQ0UEWJmZs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "H275+7GW, Nalgonda"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5317674,
+                    "lng": 79.0449411
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.53314807989272,
+                        "lng": 79.04665342989271
+                    },
+                    "southwest": {
+                        "lat": 17.53044842010728,
+                        "lng": 79.04395377010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0c32\u0c3f\u0c02\u0c17\u0c02 \u0c17\u0c3e\u0c30\u0c3f \u0c1a\u0c47\u0c2a\u0c32 \u0c1a\u0c46\u0c30\u0c41\u0c35\u0c41",
+            "place_id": "ChIJZTfYuKRDyzsRLyR9i-UiyT4",
+            "rating": 4.5,
+            "reference": "ChIJZTfYuKRDyzsRLyR9i-UiyT4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "G2JV+PX4, Motakondur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6316712,
+                    "lng": 78.89596449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63302087989272,
+                        "lng": 78.89730297989271
+                    },
+                    "southwest": {
+                        "lat": 17.63032122010728,
+                        "lng": 78.89460332010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Pragathi plot",
+            "place_id": "ChIJgUrTzoRlyzsRe92azOmowys",
+            "rating": 0,
+            "reference": "ChIJgUrTzoRlyzsRe92azOmowys",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JVJW+M9, Komatikunta"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6314287,
+                    "lng": 78.87995269999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63287497989272,
+                        "lng": 78.88087137989271
+                    },
+                    "southwest": {
+                        "lat": 17.63017532010728,
+                        "lng": 78.87817172010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "asd",
+            "place_id": "ChIJE2jIeh5lyzsRQ9vMbhR5SoI",
+            "rating": 3,
+            "reference": "ChIJE2jIeh5lyzsRQ9vMbhR5SoI",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "JVJH+HXG, Komatikunta"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.501074,
+                    "lng": 78.8820348
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50247827989272,
+                        "lng": 78.88345022989272
+                    },
+                    "southwest": {
+                        "lat": 17.49977862010728,
+                        "lng": 78.88075057010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Slns Washing Center",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101048887230359510383\">Shahab Quadri</a>"
+                    ],
+                    "photo_reference": "AcYSjRhduchumsElQEl4SU-SRPyh6v3WwkgqpktkRaMr6EGaVx9tKtHJdxF8JLGJfZsND5nwrdQwbT1kNF0aLw1QQDoQPnjN99mkh6q9GKlzLP39L865OtgpRSrkVH-IZUOxbw5dynR5u7gi4nR9NujSCG5A-Q5NNcoBBMX-88sLJSz9Woyv",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ_7XtQqpvyzsR_XU73KrfeBI",
+            "rating": 3.6,
+            "reference": "ChIJ_7XtQqpvyzsR_XU73KrfeBI",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 78,
+            "vicinity": "GV2J+CRF, Bhuvanagiri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5635662,
+                    "lng": 78.8934593
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56486727989272,
+                        "lng": 78.89480222989273
+                    },
+                    "southwest": {
+                        "lat": 17.56216762010728,
+                        "lng": 78.89210257010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Farm house",
+            "place_id": "ChIJp736oUllyzsR6KGqcu9v4R0",
+            "rating": 0,
+            "reference": "ChIJp736oUllyzsR6KGqcu9v4R0",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HV7V+C9G, Baswapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4888064,
+                    "lng": 78.95954929999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.48972717989272,
+                        "lng": 78.96027787989271
+                    },
+                    "southwest": {
+                        "lat": 17.48702752010728,
+                        "lng": 78.95757822010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "KVR FARMS",
+            "place_id": "ChIJa-rDPV9pyzsRPCNt0PchRYk",
+            "rating": 0,
+            "reference": "ChIJa-rDPV9pyzsRPCNt0PchRYk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FXQ5+GRF, Naginenipally, Bhuvanagiri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.638908,
+                    "lng": 78.93308689999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64034190000001,
+                        "lng": 78.93786664999999
+                    },
+                    "southwest": {
+                        "lat": 17.6346063,
+                        "lng": 78.93149365
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Chil out galaxy residency",
+            "place_id": "ChIJO9YzuzVnyzsRaN_LuPBgk8w",
+            "rating": 0,
+            "reference": "ChIJO9YzuzVnyzsRaN_LuPBgk8w",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JWQM+H68, Unnamed Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6437572,
+                    "lng": 79.04308400000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64508267989272,
+                        "lng": 79.04445717989272
+                    },
+                    "southwest": {
+                        "lat": 17.64238302010728,
+                        "lng": 79.04175752010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Rajampet.aler",
+            "place_id": "ChIJsXG3fRldyzsRo53fj2fxR0A",
+            "rating": 3.3,
+            "reference": "ChIJsXG3fRldyzsRo53fj2fxR0A",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "J2VV+G64, Bharath Nagar, Alair"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6154516,
+                    "lng": 78.882499
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61696647989272,
+                        "lng": 78.88424312989272
+                    },
+                    "southwest": {
+                        "lat": 17.61426682010728,
+                        "lng": 78.88154347010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Divine Meadows by Landmark Group Sector C-G",
+            "opening_hours": {},
+            "place_id": "ChIJSdTfN11lyzsRU9Sioy-m8w4",
+            "rating": 4.2,
+            "reference": "ChIJSdTfN11lyzsRU9Sioy-m8w4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "JV8J+5X, Jangampally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5445125,
+                    "lng": 79.0472662
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.54584022989272,
+                        "lng": 79.04853187989272
+                    },
+                    "southwest": {
+                        "lat": 17.54314057010728,
+                        "lng": 79.04583222010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0c2a\u0c32\u0c4d\u0c32\u0c46 \u0c2a\u0c4d\u0c30\u0c15\u0c43\u0c24\u0c3f \u0c35\u0c28\u0c02",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJoXtAJyVDyzsRryHucPaF2mY",
+            "rating": 0,
+            "reference": "ChIJoXtAJyVDyzsRryHucPaF2mY",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "G2VW+RW2, Motakondur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5367903,
+                    "lng": 79.02386770000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.53811117989272,
+                        "lng": 79.02521562989271
+                    },
+                    "southwest": {
+                        "lat": 17.53541152010728,
+                        "lng": 79.02251597010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Gopal shankar's plot 376",
+            "place_id": "ChIJuRKq9HlDyzsRVLqviYL7oUY",
+            "rating": 0,
+            "reference": "ChIJuRKq9HlDyzsRVLqviYL7oUY",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "G2PF+PG, Cheemala Kondur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5982035,
+                    "lng": 79.05972539999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59954162989273,
+                        "lng": 79.06111332989272
+                    },
+                    "southwest": {
+                        "lat": 17.59684197010728,
+                        "lng": 79.05841367010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "CVR Agricultural Farms",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103870418042309931594\">rakesh reddy Raavi</a>"
+                    ],
+                    "photo_reference": "AcYSjRjhfLgSStZ3668SvT4zYlKe41in6eMsSJjySIkLtHxT7E785ed2SkDocaBhlNpXjEfW_hoo7rurWV6Ym5kieztNljIHdpfjdjAIHDkHpCQe0wcE3ECdpUE4s1mF4QeKLKIodIgAuNide-XXlu-jNEVfg_EL8G4B2zfb2P0h2S8z55s1",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ0bfiWP9cyzsRjC63NpFBGs4",
+            "rating": 4.6,
+            "reference": "ChIJ0bfiWP9cyzsRjC63NpFBGs4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "H3X5+7VQ, Ikkurthi Road, Ikkurthy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.592565,
+                    "lng": 78.93304549999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59451297989272,
+                        "lng": 78.93484327989272
+                    },
+                    "southwest": {
+                        "lat": 17.59181332010728,
+                        "lng": 78.93214362010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Yadadri temple city",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115874135553364570962\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgbxWddeoocz5dRLeAgj550ektyIjXHeANAdQgWfvw278he6yVLsFmTkSlGzOzPGjR0ZPBmwEaatQR4LtvQK2-FZOGq9bhPIsxtGDU8Tt2RHKQjjml765jNvkpfLmu0ZnNhjwZJK6KP4yOKLsBnv97-5iaQWU_E6BXzLmnXlukVIaWS",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJr8mRqhhnyzsRZNzyD2CKTCA",
+            "rating": 4.6,
+            "reference": "ChIJr8mRqhhnyzsRZNzyD2CKTCA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 305,
+            "vicinity": "HWVM+26F"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5043207,
+                    "lng": 78.9811407
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50565272989272,
+                        "lng": 78.98256617989273
+                    },
+                    "southwest": {
+                        "lat": 17.50295307010728,
+                        "lng": 78.97986652010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Chandupatla",
+            "place_id": "ChIJ9989uDlpyzsRmx3y1FXf1yo",
+            "plus_code": {
+                "compound_code": "GX3J+PF Chandupatla, Telangana",
+                "global_code": "7J9WGX3J+PF"
+            },
+            "rating": 0,
+            "reference": "ChIJ9989uDlpyzsRmx3y1FXf1yo",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "3-64, near old school, Chandupatla"
+        }
+    ],
+    "status": "OK"
+}

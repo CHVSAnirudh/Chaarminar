@@ -1,0 +1,146 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5866848,
+                    "lng": 80.32396100000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58803492989272,
+                        "lng": 80.32529497989272
+                    },
+                    "southwest": {
+                        "lat": 17.58533527010728,
+                        "lng": 80.32259532010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Sita Rama Theater",
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112681363055930247834\">Jayanth Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRgIB9SVdqsPh0a8MnJFF3tWej8pNQbaD_CpBEJYdS4Qez6VGPUU2JJDbB-em4HQe6_3Qlrn9GXIBosKP5P2ACDjtnjSC5KW-MM9XhQ3S8uFE8TcJGSvep70nctQwVCl1w6rTlHj5Jg22WNOA7PEOQqJwCVJGoAQ0iQg8DQl25TZXMCF",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJPz4PCk1uNDoRiaHVNEjuzBE",
+            "plus_code": {
+                "compound_code": "H8PF+MJ Yellandu, Telangana",
+                "global_code": "7M92H8PF+MJ"
+            },
+            "rating": 3.3,
+            "reference": "ChIJPz4PCk1uNDoRiaHVNEjuzBE",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 527,
+            "vicinity": "Basthi Number 14, Indira Nagar, Yellandu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5070674,
+                    "lng": 80.2742561
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50844232989272,
+                        "lng": 80.27548772989272
+                    },
+                    "southwest": {
+                        "lat": 17.50574267010728,
+                        "lng": 80.27278807010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Runicha New Theater",
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105235532603747433835\">khammam diaries</a>"
+                    ],
+                    "photo_reference": "AcYSjRisd2wtEVPUTkMwnjWgtwy8K37tOPbyC3vtPd4HeZSXF-2fL4qF2NqmdNQZnCACaeDzwOD0J-Zqv-Tq5SX0HsuPZTHnjrrXHTCUnpJ4XPIj5P6B8hz-tx5VopAp76AT35yzAvR6O-pgEvkaILoXDKOVhSp90y3HKmd_2M_npiA__5Q2",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJJbib1x1mNDoRCT_5nIAiZbA",
+            "plus_code": {
+                "compound_code": "G74F+RP Karepalli, Telangana",
+                "global_code": "7M92G74F+RP"
+            },
+            "rating": 3.4,
+            "reference": "ChIJJbib1x1mNDoRCT_5nIAiZbA",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 97,
+            "vicinity": "main Road, Karepalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5844283,
+                    "lng": 80.3290667
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58570037989272,
+                        "lng": 80.33058272989273
+                    },
+                    "southwest": {
+                        "lat": 17.58300072010728,
+                        "lng": 80.32788307010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Kalanjali Theatre",
+            "photos": [
+                {
+                    "height": 1860,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112080386305367583889\">Pavan Vulluri</a>"
+                    ],
+                    "photo_reference": "AcYSjRjlPPwq2CpeMrxY-r3nY7Wcshul_tLDga7g8aulbp8jfXOSTLq7CN1mkaGQtKPc39S-XORjJu2u7kUiLLB0YYaQgNSpnOx68QuGhymE-8qI8gQm_CleUT1Jv869YHlfho0eYZGHcH3vG3ycbqdmueYWbC_T2_CN0QKTlaj3RVBuS0SR",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ0_SjcYRvNDoRqkQSBMJVzys",
+            "rating": 4.1,
+            "reference": "ChIJ0_SjcYRvNDoRqkQSBMJVzys",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 312,
+            "vicinity": "H8MH+QJG, Bhagya Nagar Thanda, Yellandu"
+        }
+    ],
+    "status": "OK"
+}

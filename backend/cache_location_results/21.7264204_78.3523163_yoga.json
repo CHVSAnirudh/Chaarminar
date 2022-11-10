@@ -1,0 +1,58 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 21.7751821,
+                    "lng": 78.2571256
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 21.77646922989272,
+                        "lng": 78.25853672989273
+                    },
+                    "southwest": {
+                        "lat": 21.77376957010728,
+                        "lng": 78.25583707010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Online Yoga and Meditation Classes",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 404,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113411181962080083149\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiFh83AaNn8FoA27nhBq4JYSxVk6LglX_cpdDfFaxI3V-_YS2PcCPo1exSK6E-UUsC_zyTemQYFngqUh9E1s_-f1674nWdv1_0Vs_3cxUfFiemzlgns6t0Vc0GiAEQ-wlIRv8qv7Da8F3_xlsKkeXykAnIt1VhDbnFRLKJL0Np8pAYF",
+                    "width": 605
+                }
+            ],
+            "place_id": "ChIJk8tcanzB1TsR-mJYKqNZbSs",
+            "plus_code": {
+                "compound_code": "Q7G4+3V Multai, Madhya Pradesh",
+                "global_code": "7JHWQ7G4+3V"
+            },
+            "rating": 0,
+            "reference": "ChIJk8tcanzB1TsR-mJYKqNZbSs",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Patel Ward, Subash Ward, Multai"
+        }
+    ],
+    "status": "OK"
+}

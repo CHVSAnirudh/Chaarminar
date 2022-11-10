@@ -1,0 +1,189 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0869694,
+                    "lng": 78.34546809999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.08843497989272,
+                        "lng": 78.3467969798927
+                    },
+                    "southwest": {
+                        "lat": 19.08573532010728,
+                        "lng": 78.34409732010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Shiva Sai Patanjali Yoga & Nature Cure Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJuzARTaKLzTsRocbEv83dUKM",
+            "plus_code": {
+                "compound_code": "38PW+Q5 Nirmal, Telangana",
+                "global_code": "7JFW38PW+Q5"
+            },
+            "rating": 0,
+            "reference": "ChIJuzARTaKLzTsRocbEv83dUKM",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shivaji Chowk ,Bhainsa Road, Nirmal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0922303,
+                    "lng": 78.3474067
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.09358557989272,
+                        "lng": 78.34882102989272
+                    },
+                    "southwest": {
+                        "lat": 19.09088592010728,
+                        "lng": 78.34612137010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Brahma Kumaris Nirmal",
+            "place_id": "ChIJxXDF9PqNzTsR_qonkbWb0Q4",
+            "plus_code": {
+                "compound_code": "38RW+VX Nirmal, Telangana",
+                "global_code": "7JFW38RW+VX"
+            },
+            "rating": 0,
+            "reference": "ChIJxXDF9PqNzTsR_qonkbWb0Q4",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "OM SHANTI NILAYAM H.NO: 7-2-83/51/B5, Indira Nagar, Nirmal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0840212,
+                    "lng": 78.3528135
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.08540172989272,
+                        "lng": 78.35408272989271
+                    },
+                    "southwest": {
+                        "lat": 19.08270207010728,
+                        "lng": 78.35138307010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "SHEKAR MASTER DANCE STUDIO",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113489608577407213386\">raja shekar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjJ6dfwTdX1CXO-MYHGPMbzPOeZKOoYeJpycraaGVzUALPqBpqFtaOrdVlctIX_bPtYkvv2WtXFLNvdQUmlGZ2atLMctyg-30_UuYS-TsoiIcTGqhiPtdMBnA-yu5cVbjG_8f-SkUnUkHNCRmYLh4p7cTS6uemG6V7EDThpaBB27QpO",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ4e9ZK0-NzTsR9Cl863PSnkY",
+            "plus_code": {
+                "compound_code": "39M3+J4 Nirmal, Telangana",
+                "global_code": "7JFW39M3+J4"
+            },
+            "rating": 5,
+            "reference": "ChIJ4e9ZK0-NzTsR9Cl863PSnkY",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Ibrahim Bagh, Nirmal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.005619,
+                    "lng": 78.3550794
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.00697182989272,
+                        "lng": 78.35641332989272
+                    },
+                    "southwest": {
+                        "lat": 19.00427217010727,
+                        "lng": 78.35371367010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Plus100years",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109015605874991675301\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgQup_w4tmxx_6Sz7Cu_SrEANL8nyzxCZaQc11mI7r49fiCtgEJNKj83spgYYzEKmhuIm8blWWkSLNd354de59r-rGhjFM_un7V6Z_n8jxRM1aWjjMqtUutf4zJPKDNfY8cYvpvH_sMt6L5crRT_43VkZdRY9WsqMsnjNb86JsceBCF",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJPwL2vX6MzTsRGTNvPZ5-kkk",
+            "plus_code": {
+                "compound_code": "2944+62 Nirmal, Telangana",
+                "global_code": "7JFW2944+62"
+            },
+            "rating": 5,
+            "reference": "ChIJPwL2vX6MzTsRGTNvPZ5-kkk",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "hospital",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Madhapur, soan, Nirmal"
+        }
+    ],
+    "status": "OK"
+}

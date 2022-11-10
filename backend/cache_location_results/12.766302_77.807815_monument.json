@@ -1,0 +1,97 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.6860138,
+                    "lng": 77.87993730000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.68735842989272,
+                        "lng": 77.88132222989272
+                    },
+                    "southwest": {
+                        "lat": 12.68465877010728,
+                        "lng": 77.87862257010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Rajaji Memorial House",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105483530563894355152\">siva karthick</a>"
+                    ],
+                    "photo_reference": "AcYSjRgxsEmx11eXosZpVMKOp4tlMGcuZsq28GydDEYFQ4pq7ef1vwKO16Mg7ukm-JH9fPlSyFStFhMGjxnWdFt5uozx9LsSRJD903xP3GYBuKS53Q7gAGIkVdIdg957OKygPsDerpAmDKfqXbWzSASaW8VKKO_wrloF0N9dRZXbXYfCei1P",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ83M_PrR5rjsRLbGXOrekZys",
+            "rating": 4.5,
+            "reference": "ChIJ83M_PrR5rjsRLbGXOrekZys",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 178,
+            "vicinity": "MVPH+CX3, Perandapalli -Thorapalli road, Thorapalli Agraharam"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.7353354,
+                    "lng": 77.82218639999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.73669882989272,
+                        "lng": 77.82354032989271
+                    },
+                    "southwest": {
+                        "lat": 12.73399917010728,
+                        "lng": 77.82084067010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kenilworth Fort",
+            "photos": [
+                {
+                    "height": 4080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104935357679406495769\">Karthik Yadhav</a>"
+                    ],
+                    "photo_reference": "AcYSjRi0hdGupHs42QpeLzWtPEDnl7ufkt0E3g39pDOYZBwJ7qmMWH_t3_2T0me12UPHJkuoYFOpn8mWoDUornqzGNf_OM9DyGXcaCHrbHhgt0J8Afu7dWdLC9s51iaUzNIhlqeAgNp17-gSHGg2CslRQQxuOcCH3Mq5JsE3NNX6Lflgwrup",
+                    "width": 3060
+                }
+            ],
+            "place_id": "ChIJncz8DNNxrjsRI0t5KNeY64g",
+            "rating": 4.1,
+            "reference": "ChIJncz8DNNxrjsRI0t5KNeY64g",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 110,
+            "vicinity": "PRPC+4VM, SBM Colony, Anthivadi, Hosur"
+        }
+    ],
+    "status": "OK"
+}

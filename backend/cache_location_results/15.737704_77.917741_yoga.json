@@ -1,0 +1,87 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8179832,
+                    "lng": 78.000376
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.81933902989272,
+                        "lng": 78.00172617989271
+                    },
+                    "southwest": {
+                        "lat": 15.81663937010728,
+                        "lng": 77.99902652010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Leaf Prenatal Yoga Classes",
+            "photos": [
+                {
+                    "height": 969,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112160458054059111255\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhPWiq3zFRbDtMMsf3jxw_9HMn5V85jU_PSylLxAw7tdC1Ilq0qQTcPiJAqAeYU_m6ekZPcCRCoSlO4mHp1B9SOhv9mIkF_vdKxBCAate7xpSSOZDXaRP6WzYDkzNm2sxYTRcNOntVwa-D1XFwyFl1u-dWgl88xJ1UyD7CuNdXatNJD",
+                    "width": 567
+                }
+            ],
+            "place_id": "ChIJFfaU9yDftTsRMdNf9O7KQK0",
+            "rating": 5,
+            "reference": "ChIJFfaU9yDftTsRMdNf9O7KQK0",
+            "scope": "GOOGLE",
+            "types": [
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "R292+656, SVN Colony"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8059321,
+                    "lng": 77.9810085
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.80730917989272,
+                        "lng": 77.98242687989273
+                    },
+                    "southwest": {
+                        "lat": 15.80460952010728,
+                        "lng": 77.97972722010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "VSPN YOGA CERTIFICATIONS INSTITUTIONS",
+            "place_id": "ChIJQ6bkrJHftTsRNLK3mEm85dg",
+            "plus_code": {
+                "compound_code": "RX4J+9C Peddapadu, Andhra Pradesh",
+                "global_code": "7J7VRX4J+9C"
+            },
+            "rating": 0,
+            "reference": "ChIJQ6bkrJHftTsRNLK3mEm85dg",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "M Manjulatha D.no.2/58, 2, Peddapadu"
+        }
+    ],
+    "status": "OK"
+}

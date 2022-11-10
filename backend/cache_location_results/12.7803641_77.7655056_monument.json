@@ -1,0 +1,49 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.7353354,
+                    "lng": 77.82218639999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.73669882989272,
+                        "lng": 77.82354032989271
+                    },
+                    "southwest": {
+                        "lat": 12.73399917010728,
+                        "lng": 77.82084067010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kenilworth Fort",
+            "photos": [
+                {
+                    "height": 4080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104935357679406495769\">Karthik Yadhav</a>"
+                    ],
+                    "photo_reference": "AcYSjRiN6QAQfx_FPiHOtHDEXpQVgF7DAbDEfJdOsFJEwCw3li6t0otTlfE1MsrU41E1ASqzz8WjK7lA730x10wtt-i3bH8C6nKwmWubmb9XJe1DZD7L8lX04JPNQEvGvHDmr6E9B_Q9bs3esBr1JBzAA4_PT8hT_glVa92aFh7DtXgLyQCn",
+                    "width": 3060
+                }
+            ],
+            "place_id": "ChIJncz8DNNxrjsRI0t5KNeY64g",
+            "rating": 4.1,
+            "reference": "ChIJncz8DNNxrjsRI0t5KNeY64g",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 110,
+            "vicinity": "PRPC+4VM, SBM Colony, Anthivadi, Hosur"
+        }
+    ],
+    "status": "OK"
+}

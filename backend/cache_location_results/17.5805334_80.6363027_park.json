@@ -1,0 +1,922 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRi_s46oNIN-fDBOXiro787CqeSnQBMXA-R379DB7L3hCL6Dmrbjotce9cRYb6Z6zIFLeI7JKB6ZDnhYwDaUROf27khajqryO6vqsTPjz5wQtIDKJfKs6O4wmox8nozIf-r2QgAVk8CnCYmZI3jbJwxZnCGvbRl_D9WfK8f4JHfnNJ-STtcPaMnLOz910DGj7F4kItD12c5egiKpKm81aNKU-UeqbfSAst7GMSKIMROBSUVCsD35qq5G3JCbMS7k0PUR4AaPVLhCSjFYNJ47lz3qT1VUFbgPDSnbXgdpn3fs6L_nGwfdwlB18yFnESfYISVUxKCtjJ4Rq5fLUTstS_rwkb8SEntzZ_tI7gW3HwiwnjZBAtpHTWPNKl-VFUR8fQybTcdHlAorSgC0l6pUnQBTg-bygEaY6G5b-Kl7Vvkt8TbZVUWs",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5472902,
+                    "lng": 80.62513899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.54870217989272,
+                        "lng": 80.62652487989271
+                    },
+                    "southwest": {
+                        "lat": 17.54600252010728,
+                        "lng": 80.62382522010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Rajiv Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3472,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103800593015111343689\">Sujan Jagadam</a>"
+                    ],
+                    "photo_reference": "AcYSjRi4HFo2Mb5LGZ3HgwMKXlsdpFwptl-O8ydwjwawYfQaHNcfrFmesBlOW-1YIVAYBXrHx61afUR7xKRJ-Crzv6HvGJ9xyNYBnCKQqaMlZQjd4GJWrIcFIrZy57d5T9kAMzunvaN71bh92YGmJ7DqXqsosq_GSX28_Kv91ytt6cKCdVLw",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJN0uBfa4QNDoRQcNZN3Oo49A",
+            "rating": 3.8,
+            "reference": "ChIJN0uBfa4QNDoRQcNZN3Oo49A",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 393,
+            "vicinity": "GJWG+W36, Bhajan Mandir Rd, Power House Basthi, Kothagudem"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5985074,
+                    "lng": 80.7084089
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59982807989272,
+                        "lng": 80.70976342989272
+                    },
+                    "southwest": {
+                        "lat": 17.59712842010728,
+                        "lng": 80.70706377010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "C Colony Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100584704523546383572\">Mourya makemytrip</a>"
+                    ],
+                    "photo_reference": "AcYSjRh4ZRQYtJIoRiiDEu66wDE5LLelNkAhIz1c1wSLX53EtVfuONdubaTkeMmoeuj-oWDZq46MGDDoe86WcTeSFW47gveoZhP_FLAyFRVK9ksDFRDAtnDdBecvUa3pVDR5Y59q6yWGh1K8_K48Hnp-PDYG_9wVhwZ2Yu5PWf-_OnuvFPVQ",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJJaANxXAbNDoRXlDrhErNvs8",
+            "rating": 4.1,
+            "reference": "ChIJJaANxXAbNDoRXlDrhErNvs8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 402,
+            "vicinity": "HPX5+C93, C Colony, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5194907,
+                    "lng": 80.6298108
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.52085512989272,
+                        "lng": 80.63121112989273
+                    },
+                    "southwest": {
+                        "lat": 17.51815547010727,
+                        "lng": 80.6285114701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Ambedkar Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115741261504289997233\">my digital55</a>"
+                    ],
+                    "photo_reference": "AcYSjRhcCNZ2tLfsxvaMjuFkX6ZRoFCQU-CqjsJagIbgPI4_A95Q6wocVzZR3Wt-bUYG9asC59-49i1-vYzGKJa1T5ekY_2vl8MVuSNZpv8wYvipApSndBwTARfpjpzZfqjUeku7FSgEsMix8or1W9BuXpBoSCIMNnBiqMBRrm8isma1iUg",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJvbQxWl4XNDoRyVbd0mVY6DM",
+            "plus_code": {
+                "compound_code": "GJ9H+QW Ramavaram, Telangana",
+                "global_code": "7M92GJ9H+QW"
+            },
+            "rating": 4.1,
+            "reference": "ChIJvbQxWl4XNDoRyVbd0mVY6DM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 220,
+            "vicinity": "D.A/1074, Ramavaram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.576379,
+                    "lng": 80.6337526
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57763507989272,
+                        "lng": 80.63532292989271
+                    },
+                    "southwest": {
+                        "lat": 17.57493542010728,
+                        "lng": 80.63262327010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Forest central park",
+            "place_id": "ChIJRzJM5UcbNDoR4bytjq1OjJk",
+            "rating": 0,
+            "reference": "ChIJRzJM5UcbNDoR4bytjq1OjJk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HJGM+HG2, Kothagudem"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6008311,
+                    "lng": 80.7076086
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60218272989272,
+                        "lng": 80.70902197989273
+                    },
+                    "southwest": {
+                        "lat": 17.59948307010728,
+                        "lng": 80.70632232010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "A colony Park",
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107853666690296061347\">Deepak Katakam</a>"
+                    ],
+                    "photo_reference": "AcYSjRjVKujkvwHIL-24UcEtPazdCXdsx1qFsss7in6i5qKzkwtpXBOpDLm-wYrAjOV1cSOENbHM5pzPuUyflgDDbiwky2HYvZ33XnSHziy7HdCIfhbrDiIKt8K3AIVBa7guUOWAGmOrFVOJTxtODQNnfUhBAlSY5219XvHYAbEeGZ2Gh5qZ",
+                    "width": 2136
+                }
+            ],
+            "place_id": "ChIJAeFaTfobNDoR49LOh_w3jzE",
+            "plus_code": {
+                "compound_code": "JP25+82 Palwancha, Telangana",
+                "global_code": "7M92JP25+82"
+            },
+            "rating": 0,
+            "reference": "ChIJAeFaTfobNDoR49LOh_w3jzE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H - 87, A Colony, KTPS, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5407201,
+                    "lng": 80.62533719999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.54203377989272,
+                        "lng": 80.62664632989272
+                    },
+                    "southwest": {
+                        "lat": 17.53933412010728,
+                        "lng": 80.62394667010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Singareni Head Office Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3468,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109353806094707718567\">vamsi</a>"
+                    ],
+                    "photo_reference": "AcYSjRiMKHYOqM25VDxFfEyCoB5deENWsAjN5pr35nXQgh7Mtn6kzJsXIYGYHqm1jLdfD4RsERfbC4IxRUqs7aW0I0seQi6quoJjQo3kZWl9Qm2D3_xoSjEiaZqQiI0FU3NRWzBsQpyE6hTtzuIYroNjKdwQgSB-_ZLWn0ViQvNZ-VE6QokH",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJNSbM0dYXNDoR1V5Z7o61RBo",
+            "plus_code": {
+                "compound_code": "GJRG+74 Kothagudem, Telangana",
+                "global_code": "7M92GJRG+74"
+            },
+            "rating": 5,
+            "reference": "ChIJNSbM0dYXNDoR1V5Z7o61RBo",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Head Office, Peon Basthi, Kothagudem"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5464533,
+                    "lng": 80.60883659999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.54783337989272,
+                        "lng": 80.61008157989271
+                    },
+                    "southwest": {
+                        "lat": 17.54513372010728,
+                        "lng": 80.60738192010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "PANCHATATVA PARK",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101095561085266927891\">Ravi kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhYpzFarIO4HlTwgMo-HZpIBPAxhXxiyzZ6lVWw3L2Co4sLn3dSObZGRizJqoZGBm6nOEcg-q5cezbT9Vi5SEellkz1hiozm-RoPhgvyY6mk7T4Gq4jgeLsyEh5uALPvUwcEOyOriSVqguezyMrkw-X5xPSXZahsFeVuifIZxcDMkXR",
+                    "width": 3984
+                }
+            ],
+            "place_id": "ChIJlbDroNYRNDoRNc0Y8Jeb6tE",
+            "rating": 3.8,
+            "reference": "ChIJlbDroNYRNDoRNc0Y8Jeb6tE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "GJW5+HGP, Sri Ramanjaneya Nagar Colony, Kothagudem"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5466802,
+                    "lng": 80.63271110000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.54808217989272,
+                        "lng": 80.63400477989272
+                    },
+                    "southwest": {
+                        "lat": 17.54538252010728,
+                        "lng": 80.63130512010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "BUDI PARK",
+            "photos": [
+                {
+                    "height": 850,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111224663754365968983\">Prabha Badugu</a>"
+                    ],
+                    "photo_reference": "AcYSjRhzSlVkIcMa984Jtv4i7eOVNmIRPX4I3kI8FV_OHQYsCKKszw9UBredf3CESh7qBXPZyh9pAk4mnU1yN9N35pf6iBmcxiYwEqmTGdIodh1BpojHqmUOBwoBUbkFI6u5tXfhOtPvEVG3rtks1KlWywVgNLTTKmomAshhTmwqQL2tbeSZ",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJb4Ebs60bNDoRPDQwb5t6e6Q",
+            "rating": 5,
+            "reference": "ChIJb4Ebs60bNDoRPDQwb5t6e6Q",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "GJWM+M3G, Budidagada Basthi, Kothagudem"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5869329,
+                    "lng": 80.6811864
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58828292989272,
+                        "lng": 80.68243817989273
+                    },
+                    "southwest": {
+                        "lat": 17.58558327010727,
+                        "lng": 80.67973852010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Genco Colony Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104211547824778430288\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgNnbFqow7VZIonc7hBM8ae5wChx1DntS69TBUvS-Dj5rV9tg9WxLIeZlJHAIgBGbFT5KKnplBTWWi_Qd78voiUfQA5HnwgCfQZTpEOsCUUDNd5FaQz06FDdcKKraE0JYK3agPVmv7RPdlsyyWmr69X3CojjbuQHqjG-KVbLzy5EBXX",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJc9rot6sbNDoRK3swcMP4Opo",
+            "rating": 4.1,
+            "reference": "ChIJc9rot6sbNDoRK3swcMP4Opo",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 254,
+            "vicinity": "HMPJ+QFF, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.601513,
+                    "lng": 80.70000069999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60287672989272,
+                        "lng": 80.70139232989271
+                    },
+                    "southwest": {
+                        "lat": 17.60017707010728,
+                        "lng": 80.69869267010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Park Nataraj Centre",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 6000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116686108079247144482\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgHCIt4rl3vUC4mRs88ZZwEeRX21ubapVOoSz4a86bDD2zRanOmXPyO8f429EL6C6z9JhJgQObdwu6Bj2XjeF0ozAfwz6e2zMa7GuuySWpDXPZIM2UgW_ilq3z7Ng_UcMpfBtfjcjmuMRtPT816oKf5Y9ZTYBxAicbwRlb4bHDu0eK6",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ7SbOx3IbNDoRAEB0-nSZr9E",
+            "rating": 3.5,
+            "reference": "ChIJ7SbOx3IbNDoRAEB0-nSZr9E",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47,
+            "vicinity": "JP22+J22, KSP Rd, Ganapathi Nagar, Gattaigudem, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6066843,
+                    "lng": 80.7048568
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60817082989272,
+                        "lng": 80.7061386298927
+                    },
+                    "southwest": {
+                        "lat": 17.60547117010727,
+                        "lng": 80.70343897010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Durga Ground",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109168935705532878333\">pavan kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhcej2JrWx1axjKqtDrwKAPWG1aXazjsz4nfJwGkm1HQIWWbPAKt5n3JO8S_cevXWlPacJsWSK6HL1vEwlzdDOEyr_Y27H5fXrmDzLaRbRfnOmjhzm7A9_et65EDh-KWPH12_cHYygaCsN3Xgez6dhC4HP8A73AIN2WMO8gq8YBOvFi",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJM1PulG4bNDoRSPbIb_KgNeM",
+            "plus_code": {
+                "compound_code": "JP43+MW Palwancha, Telangana",
+                "global_code": "7M92JP43+MW"
+            },
+            "rating": 4.1,
+            "reference": "ChIJM1PulG4bNDoRSPbIb_KgNeM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 282,
+            "vicinity": "Durga ground, B Colony, KTPS, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6096638,
+                    "lng": 80.7012524
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61101612989272,
+                        "lng": 80.70264817989272
+                    },
+                    "southwest": {
+                        "lat": 17.60831647010728,
+                        "lng": 80.69994852010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Park ADE",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105921917238388798762\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRilOFJU6mARx8nfe65Bh_IRu4Vbd6fbaTPHJIjrIH9mURGahYOFtAfBryv3icMt_vrQZ4CeUFeUURlG7hGLiw0ttIkaPMyzB1Eg0sqRKT61EnKAU9XZ9bswKenn0JNOILNFrjttZbvEEzDjEK1O3S3Q70vywJb_5fWU__n-mQHzJUKx",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJoxEWZWsbNDoRKfri-2kHjqA",
+            "rating": 4,
+            "reference": "ChIJoxEWZWsbNDoRKfri-2kHjqA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 58,
+            "vicinity": "JP52+VG6, KTPS, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6095941,
+                    "lng": 80.70491679999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61090957989272,
+                        "lng": 80.70618932989271
+                    },
+                    "southwest": {
+                        "lat": 17.60820992010727,
+                        "lng": 80.70348967010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "K.T.P.S Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100494750964556650093\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg1GKZAKvNcvjMIb_mq28E4P8QDmHeulkXUr8VdGGF8840wZSnFkivMLQv6guJ1hDU2AMIjkJsIX5l7CUeknn-h0xuR3M0sfHaBr81cfJ524OcSgrZWG3r5mCIqY_JMCCmvrISFOomZ_3cftu8um_iB2MixlpwpYGVSNvyf1c6iHD8b",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJqQp2VmkbNDoROpfPNYEFw6c",
+            "rating": 3.9,
+            "reference": "ChIJqQp2VmkbNDoROpfPNYEFw6c",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 62,
+            "vicinity": "JP53+RXM, KTPS, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6090467,
+                    "lng": 80.7038163
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61029907989272,
+                        "lng": 80.70521307989272
+                    },
+                    "southwest": {
+                        "lat": 17.60759942010728,
+                        "lng": 80.70251342010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "prudhy Park",
+            "photos": [
+                {
+                    "height": 1952,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109281041454147198358\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjtH2UXfa1iBBXEuHeyzIOaMRSCYb3cArAE6-0ZsOlpNWl4xyCMAOGFC0dbpOVP5OnHxFpPUnWQL7rafY0iNbDDSgHGxd0jCYfOP_q-ZwwbhkKfim43gdDkaEYcrkazRtFPwAqQ4n1JncoodegNM2rqGFWKL9_hbP2O7N4MfovsQCJB",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ28iRCWwbNDoRGFxb6vUFnYg",
+            "rating": 3.5,
+            "reference": "ChIJ28iRCWwbNDoRGFxb6vUFnYg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "JP53+JG8, KTPS, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.604896,
+                    "lng": 80.7028855
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60616592989272,
+                        "lng": 80.70426647989272
+                    },
+                    "southwest": {
+                        "lat": 17.60346627010728,
+                        "lng": 80.70156682010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "CHILDREN PARK ,BOLLORIGUDEM, PALVANCHA",
+            "opening_hours": {},
+            "place_id": "ChIJi_x9NB8bNDoRIYwAe4fTFBQ",
+            "plus_code": {
+                "compound_code": "JP33+X5 Palwancha, Telangana",
+                "global_code": "7M92JP33+X5"
+            },
+            "rating": 4.3,
+            "reference": "ChIJi_x9NB8bNDoRIYwAe4fTFBQ",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "BOLLORIGUDEM, KTPS, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5757608,
+                    "lng": 80.63355609999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57715292989272,
+                        "lng": 80.63485082989273
+                    },
+                    "southwest": {
+                        "lat": 17.57445327010727,
+                        "lng": 80.63215117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Central Park, Kothagudem",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117488761392886490702\">karni bharath</a>"
+                    ],
+                    "photo_reference": "AcYSjRiAJFgel_3LSG7yJ6M8WdtvAEplaZwM0qCTVTvEB6C5cb-Ad9aNusk6YU0lnGWlcdczU9OGrba_SdIYASrfXHA3iMJB3ezi7E5vK4rdRaWoMr2s5CJ0bkS-iaG7T7EHW1VDJYmyZ2bkEhkir9LT6jE5U089vBq45x7QmKj04OIXsi3g",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJXUr2PHgaNDoR1EexPJ6vQME",
+            "rating": 4.1,
+            "reference": "ChIJXUr2PHgaNDoR1EexPJ6vQME",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 816,
+            "vicinity": "HJGM+8C3, Laxmidevipally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4885506,
+                    "lng": 80.6535822
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.48990387989272,
+                        "lng": 80.65496342989273
+                    },
+                    "southwest": {
+                        "lat": 17.48720422010727,
+                        "lng": 80.65226377010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Rudrampur Park (Pragathi Vanam)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113396979647215136424\">Sachin Udbalwadi</a>"
+                    ],
+                    "photo_reference": "AcYSjRi_GNSOBZJ_yM-F-b-09SfcwtS4OgPHvseVMJ9rSRZOLCGkN5FuT_U6CLqRvpQLvLNEMza-h0lJ2P9AnXsjRHSBmTfP1AkhgL_E_tjBDLJ0ozqJLrjqt0HbLiQGMvBadoen3FCILkhwJKk2_PER-5517RXS72ebpPZBjmjbXNwyy_3S",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ8SmKHDcYNDoR72HbkjHtalo",
+            "plus_code": {
+                "compound_code": "FMQ3+CC Kothagudem, Telangana",
+                "global_code": "7M92FMQ3+CC"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ8SmKHDcYNDoR72HbkjHtalo",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1011,
+            "vicinity": "Rudrampur, Kothagudem"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5466854,
+                    "lng": 80.6166552
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.54803467989272,
+                        "lng": 80.61800772989272
+                    },
+                    "southwest": {
+                        "lat": 17.54533502010728,
+                        "lng": 80.61530807010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Singareni Children's Park, Kothagudem",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3464,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116008860990757539370\">Phanikar Palepu</a>"
+                    ],
+                    "photo_reference": "AcYSjRid8LrTAntvwsDSp9CgBedywbwbKtBKVpsNM5yKgBQC1CHbdpqF-ml042d5Z-zzVAJZBB1ZdXeAEV3xede0zKlBZUfIzJI-_x604aUF8xcLD9iffk6WbBGnWRXwwPk5LrV_AlWA7otW0o1ER9vZAUAoF9jaqRW9HsuZOvZPKIaJMfl5",
+                    "width": 4618
+                }
+            ],
+            "place_id": "ChIJZR2tx7IQNDoRYh9iagpA_O0",
+            "rating": 4,
+            "reference": "ChIJZR2tx7IQNDoRYh9iagpA_O0",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 142,
+            "vicinity": "GJW8+MMC, N.K.Nagar, Writer Basti, Kothagudem"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6051748,
+                    "lng": 80.7030284
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60652737989273,
+                        "lng": 80.70438577989272
+                    },
+                    "southwest": {
+                        "lat": 17.60382772010728,
+                        "lng": 80.70168612010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Library Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108974832876020083824\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgaxv_aOQ9BHvcru8LjgjhVG7zHyyiwTU2k_XzD63czVuKJcGO8WypyrH5aukBp33Tx8dr6Zjz4utgVf9qvJ4bwOpcoJW-k_LoV935tdQjMCelZHkMI7btzC2AXwk7_pjIOAbuV3Xlhbh0uSSV40bveq36B5IXaP-pfKCwGxQ6vcxQ_",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJW7Hou20bNDoR1I60Q5clz5s",
+            "rating": 4.2,
+            "reference": "ChIJW7Hou20bNDoR1I60Q5clz5s",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "JP43+366, KTPS, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6036478,
+                    "lng": 80.6995026
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60495307989272,
+                        "lng": 80.70087057989272
+                    },
+                    "southwest": {
+                        "lat": 17.60225342010728,
+                        "lng": 80.69817092010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Bunny",
+            "place_id": "ChIJZeU_UTsbNDoRXmtPOb8AdY0",
+            "rating": 0,
+            "reference": "ChIJZeU_UTsbNDoRXmtPOb8AdY0",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JM3X+FR2, Gattaigudem, Palwancha"
+        }
+    ],
+    "status": "OK"
+}

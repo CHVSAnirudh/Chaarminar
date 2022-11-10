@@ -1,0 +1,145 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.615396,
+                    "lng": 77.9481411
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61682827989272,
+                        "lng": 77.94953827989272
+                    },
+                    "southwest": {
+                        "lat": 17.61412862010728,
+                        "lng": 77.94683862010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Maheshwari 70mm A/C",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 577,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100566171463139799585\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgTFhA-1lRI54RQsqN5kW1wGsDpK0C8Af88uSTMxG-SCCdDmoBYMRZW72L9bjtuKF884rihrrxdaSHxKO4uo_cWc0nghQMCeG2dUFhvPst8T6t7I7w6iU7gWvHTlzZLBRz6u3OBzIj0WM0gPUb7DBecAjam4WYR_0mDLMum_miS7mqo",
+                    "width": 1032
+                }
+            ],
+            "place_id": "ChIJR3AotTn-yzsRBr18NM4mmso",
+            "plus_code": {
+                "compound_code": "JW8X+57 Sadashivpet, Telangana",
+                "global_code": "7J9VJW8X+57"
+            },
+            "rating": 4,
+            "reference": "ChIJR3AotTn-yzsRBr18NM4mmso",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 968,
+            "vicinity": "1-4-103, Gandhi Rd, Ravindra Nagar, Sadashivpet"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6158751,
+                    "lng": 77.9575776
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61747482989272,
+                        "lng": 77.95878892989272
+                    },
+                    "southwest": {
+                        "lat": 17.61477517010728,
+                        "lng": 77.95608927010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Jyoti 70mm AC",
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105085277398572187216\">Manoj Ch</a>"
+                    ],
+                    "photo_reference": "AcYSjRj-aOtQxqhuVSdyPWnwwWwkMkbgzo2TwLT3aLxrvgzVynNtBnwBqi-Sed5dhmtA3RwJ3u-nuDmPMBGpve922DxEoDFiWABPNKf-X8vy8-5NBRoDSXQ7Wtc9DskZTrwWPhCbeb90-eo5Mi1YXVBN8joak5PhxWH-cHMKdML803beDVJE",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJtc4Nw0X-yzsR-rONH_KkUE4",
+            "rating": 3.4,
+            "reference": "ChIJtc4Nw0X-yzsR-rONH_KkUE4",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1040,
+            "vicinity": "JX85+924, NH65, Sadashivpet"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6231885,
+                    "lng": 77.9536973
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62452657989272,
+                        "lng": 77.95504812989272
+                    },
+                    "southwest": {
+                        "lat": 17.62182692010728,
+                        "lng": 77.95234847010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Robin Studio",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111851362199510718150\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjmKCHiV1OOe0RrNinqksX2X1Wb4wFdwlq37sJAqp0Pz64uozg20It4HYDvyEsr3Ji1qGh-IgGO-kIn-2AGYLMb-BBpV-8_iwJxdkVWCy-HzfxVNethI_wbFr_1Tc4eWb4ytcYrRcVsE61JJc0VIow3n5WvboSj-ipM3EUX8fep3F7y",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJNyGLgEn-yzsRgh5yubKvg9E",
+            "rating": 3.8,
+            "reference": "ChIJNyGLgEn-yzsRgh5yubKvg9E",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "JXF3+7FG, Ravindra Nagar, Sadashivpet"
+        }
+    ],
+    "status": "OK"
+}

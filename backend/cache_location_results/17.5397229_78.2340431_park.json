@@ -1,0 +1,899 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRi1RIs-3SCMxet-_bUVmRiS2EIrZLpOxCrB2A-2njUVsruV65JUlrbMv6kaZypituefnbbKR2Nd-FqVmoiEY13docuf8zTrF5lL0uUx6vT2zW0ezBsy2ZhtOGj5D1WZhpPN8C8PdJ7SQ2fpatUaf7IIOLFaEfZUPRH1f7w-MlxqskJxznJdhbvZ6cfBuIQymOjhGoBle0fMbGPQLcV12ULgvNQ4sKRMR87CJf8WQug6iozLc4jatdL-qbKdkwZAqPQqcdWNhZJo5BksNc6WmCDcy1kn6Cib0zSzK43unh4bqR1iND3UwqSD3RBz7OxcjShQobd7vU0ca09GdgB6gPKzC1lYZBAuhEjgPLxXRu67Uvt_op4CST2N2fBjX0_GDwO8WpTKWre-engg_jcMe03SYGTDX1TZKK6X_IMQn1pLYJ8A7ogB",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5021107,
+                    "lng": 78.322322
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50343862989272,
+                        "lng": 78.32367587989273
+                    },
+                    "southwest": {
+                        "lat": 17.50073897010727,
+                        "lng": 78.32097622010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Arjun Reddy Colony Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111127162520676075414\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRindahL-WOtOyCgjbZHX8kSvwe4P2ENoniumhuJ0vxBH3-0dhJsvFV0ds6Vg80OTOF1divG3_yhGOZg7_gPOZN4R6qVrN8fM2IZPzNJ4zLgEJVH8zzm5e6kDkbK0YZGmK8q-UwL2HRCdmkJD7j3UGeLFqM0AFzoltsIqi5Kxn-CONyp",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJJTX5L5qSyzsR77BJSTtJarY",
+            "rating": 4.1,
+            "reference": "ChIJJTX5L5qSyzsR77BJSTtJarY",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 272,
+            "vicinity": "G82C+RWW, Arjunreddy Colony, Bandam Kommu, Chanda Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4697965,
+                    "lng": 78.3006632
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.47117587989272,
+                        "lng": 78.30201012989272
+                    },
+                    "southwest": {
+                        "lat": 17.46847622010728,
+                        "lng": 78.29931047010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Tellapur-Nallagandla (TellaNalla) Central Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102136446804138467282\">AJIT</a>"
+                    ],
+                    "photo_reference": "AcYSjRjOML4gxQvQbl_cfOYm2H7cr8OrKcmBVpbFNYimQLA8RMiGKsG9OJGedK2fbmnY6DKUqYEDTYt23cG3REfsP_fQLNxlZEHV0TuqFkow22Nxt1ixLGxg2_jIVVQ6wMdGiYjCnauXgYStDyofXYqmq6SWer1y_hW17zvz04N0xxrWsN31",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJt4AXRWWTyzsRPl329jp0duc",
+            "rating": 4.4,
+            "reference": "ChIJt4AXRWWTyzsRPl329jp0duc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 126,
+            "vicinity": "F892+W77, Unnamed Road, Nalagandla"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4730704,
+                    "lng": 78.3077627
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.47447622989272,
+                        "lng": 78.30922697989273
+                    },
+                    "southwest": {
+                        "lat": 17.47177657010727,
+                        "lng": 78.30652732010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Nallagandla Green Fields Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100786792537513303451\">Yashwanth c.k.</a>"
+                    ],
+                    "photo_reference": "AcYSjRiHzMFXZaqzxieUTFITuMv0P2r2E8yUCae03F169E_VTMUM689SlfaBmePZD00DaHRLBJSCuc8e6EZWxka6xTRmp4lS8_NWuoDRp8PtYo7PSdyA5OF5CPhimfoaoCUUGQETkfwbA4VxxAfdwHlE0p4qyincS3zjj8_8cEf_GxckqNSy",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJTaHSBtuSyzsRKe73A8IIVMA",
+            "plus_code": {
+                "compound_code": "F8F5+64 Nalagandla, Telangana",
+                "global_code": "7J9WF8F5+64"
+            },
+            "rating": 4.2,
+            "reference": "ChIJTaHSBtuSyzsRKe73A8IIVMA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 187,
+            "vicinity": "HUDA Layout, Nalagandla"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4727934,
+                    "lng": 78.3282941
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.47402247989272,
+                        "lng": 78.32955302989271
+                    },
+                    "southwest": {
+                        "lat": 17.47132282010728,
+                        "lng": 78.32685337010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Doyens Township Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106926173001006527561\">Mathyas Kodirekka</a>"
+                    ],
+                    "photo_reference": "AcYSjRjG5XTzz1lbm8Fx8LJj2DYdqwgoZXRZexRYGzA1UO9IHEDenigF8uhuMr8sODEbLdE4NC0WvkqCZxYmsQZpYZ3uGV8bx5M-f_adn-kYn94j86GVKJc12l4I3FORTuUsKDtRabbQdt31DddLEgIQvOgRjuGXX869xVYzAp2qpoK5ojeb",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ0-OeJPuSyzsRS-LxctcHoxk",
+            "plus_code": {
+                "compound_code": "F8FH+48 Serilingampalle (M), Telangana",
+                "global_code": "7J9WF8FH+48"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ0-OeJPuSyzsRS-LxctcHoxk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 61,
+            "vicinity": "34, Professor CR Rao Rd, Doyens Township, Doyens Colony, Serilingampalle (M)"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4658871,
+                    "lng": 78.3059844
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.46714587989272,
+                        "lng": 78.30733722989272
+                    },
+                    "southwest": {
+                        "lat": 17.46444622010728,
+                        "lng": 78.30463757010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "VVS park",
+            "place_id": "ChIJ512tX9iTyzsRLR9365TBSqA",
+            "rating": 0,
+            "reference": "ChIJ512tX9iTyzsRLR9365TBSqA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "F884+995, SN RAO PARK, VIRTUOUS ENGINEERING, Near Rock Garden, Nallagandla, HUDA Layout, Nallagandla, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4652327,
+                    "lng": 78.30209839999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.46658627989272,
+                        "lng": 78.30352547989271
+                    },
+                    "southwest": {
+                        "lat": 17.46388662010728,
+                        "lng": 78.30082582010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "GHMC Park",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105650893080445187013\">reshmarawat119</a>"
+                    ],
+                    "photo_reference": "AcYSjRjSpBDUzj6DMX2xOCRCCZtYjuAx6i9ZL6KIX9z_P3IeA-7_a6Y410tmH7yjPHdopHfS3UTQwWX3hK-o7jk69JwHUuRsWScMHl8AmSBbdixJ-dVSHEMHj_wF_SFX4cwmWoMG-c4bFMcTe_YDeBZ_QeJ6gP8GcHlgOvrx3Swf9o3V5HO6",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJr3XCCO6TyzsRCI4WGzcNcUA",
+            "rating": 3.7,
+            "reference": "ChIJr3XCCO6TyzsRCI4WGzcNcUA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "F882+3RX, HUDA Layout, Nalagandla"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5307274,
+                    "lng": 78.29325999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.53199302989272,
+                        "lng": 78.29460887989272
+                    },
+                    "southwest": {
+                        "lat": 17.52929337010728,
+                        "lng": 78.29190922010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Green Meadows Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113389141489905837502\">akshaymudiraj 9985</a>"
+                    ],
+                    "photo_reference": "AcYSjRhrgqqEX4iE9-SamQdpTgxXtX51PeyeEfs-4hXrVVSnlAzb3MRr0xJoZy4Hbe6lw642zetyrAGWbal4ztL-2AB2I1DLu2Dq7Lhu1KtIaKDiknIiqMdv0q4HmDLyh-A566aAx_D3OV1zyOswFjbtrkpNo4BdwbLFvOsnD3_ws871KeHg",
+                    "width": 1800
+                }
+            ],
+            "place_id": "ChIJgaWjcQaNyzsR_aHyTSOSQ94",
+            "rating": 4.1,
+            "reference": "ChIJgaWjcQaNyzsR_aHyTSOSQ94",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "G7JV+78R, Green Meadows, Iskabavi Village, Aminpur(G.P, Green Meadows Colony Rd, Praneeth Colony, Krishna Reddy Pet, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.494884,
+                    "lng": 78.30786859999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49615802989272,
+                        "lng": 78.30918372989271
+                    },
+                    "southwest": {
+                        "lat": 17.49345837010727,
+                        "lng": 78.30648407010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Bhel Main Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117898908958571664835\">Raghunatha Reddy Ontikommu</a>"
+                    ],
+                    "photo_reference": "AcYSjRim-zeRex_tAGZSvHQJ43zw4HCztL9VWwdv0pulQJzSBcy0W8kj-94WB2acxvrSZgrR6yCT4ElGUGYsH4XAe7gIhc9NV7CTcfgO5H3T6FJwz4U11nVp0LPbRYHj3vZfMKSUErs-iqkqcku1pypKmbVUjkkvuInh9qqba5-WXAuB5dJd",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJL1lHEqmSyzsRweIMlfQv--Q",
+            "plus_code": {
+                "compound_code": "F8V5+X4 Bharat Heavy Electricals Limited, Hyderabad, Telangana",
+                "global_code": "7J9WF8V5+X4"
+            },
+            "rating": 4.2,
+            "reference": "ChIJL1lHEqmSyzsRweIMlfQv--Q",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 872,
+            "vicinity": "Road No:14 , Central Ave, RC Reddy Colony, Bharat Heavy Electricals Limited"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5294748,
+                    "lng": 78.316953
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.53085552989272,
+                        "lng": 78.31831717989272
+                    },
+                    "southwest": {
+                        "lat": 17.52815587010728,
+                        "lng": 78.31561752010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Durga Province Children Park",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104131394157366327953\">Ashok Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRiqh_fcXw8b8iwKr0QQmxL2Ahij81al6zFyuzm5t6JzZmHa27EPacJuqrXwlIEeL_og3UVoiG1Zy1X2N1JeM_7HhrhYDHLjJqt0B8-RPhulHEiC9rNdGl7OPQw7mCx8KtBNbjeOLpH-6Cg-G1gdXtVrmNgKnIqLIhjgugBefryyUbAM",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJTYGsZ5GNyzsRR9yqMRL55_M",
+            "plus_code": {
+                "compound_code": "G8H8+QQ Miyapur, Telangana",
+                "global_code": "7J9WG8H8+QQ"
+            },
+            "rating": 4.2,
+            "reference": "ChIJTYGsZ5GNyzsRR9yqMRL55_M",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Ameenpur, Miyapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5289716,
+                    "lng": 78.3224559
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.53032502989272,
+                        "lng": 78.32376122989272
+                    },
+                    "southwest": {
+                        "lat": 17.52762537010728,
+                        "lng": 78.32106157010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "PNR COLONY PARK",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101415525196575945943\">Ramesh H</a>"
+                    ],
+                    "photo_reference": "AcYSjRjCUBlG3dz65ks9PIKeijCLYwfpt7kNfA9-SSKWkPzxeJ5TiGoh1VNG0aPYlJNvSqinxhJevElye9AsVbW8C9nxTWkhCGmBmMgz8J7saTo_2BmTnj2kfZ_yl2XopARtIV1YWNGvFURuAZGTNeYCubIpWhAwAYOt6v4M8RdPOPIr6rY0",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ9VeRp26NyzsRTB7gXyL-BZg",
+            "rating": 4.3,
+            "reference": "ChIJ9VeRp26NyzsRTB7gXyL-BZg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30,
+            "vicinity": "G8HC+HXP, PNR Colony Water Tank Aminpur Rd, Ameenpur, Ramachandrapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5079694,
+                    "lng": 78.3042806
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50937307989272,
+                        "lng": 78.30560552989273
+                    },
+                    "southwest": {
+                        "lat": 17.50667342010728,
+                        "lng": 78.30290587010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Kakatiya Nagar Park",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109712672756346277231\">Srinivasakumar Dasari</a>"
+                    ],
+                    "photo_reference": "AcYSjRjFIRgv8GK041dhCyFp4CrU5W1FA9XM1qkU5z8-Z0HeT6UttpI5T18b2iptwx9F5UUUq-D2m2FjwjAW0OhJ23VOwZnMJDGFyZC1dgRtu34xrDnWoIqKsLV7WM9P8erMyfFqdkhYu0D6ojJXnSMRtJJ_EhDOS2jaS0TMbV9tj8LWCBQ",
+                    "width": 1836
+                }
+            ],
+            "place_id": "ChIJVaEYQr6TyzsRN0g-7L9NLq4",
+            "rating": 3.7,
+            "reference": "ChIJVaEYQr6TyzsRN0g-7L9NLq4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "G853+5PJ, Unnamed Road, Kakatiya Nagar, Ramachandrapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5295442,
+                    "lng": 78.31581969999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.53089402989272,
+                        "lng": 78.31716952989271
+                    },
+                    "southwest": {
+                        "lat": 17.52819437010728,
+                        "lng": 78.31446987010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "LakshmiNivas Park",
+            "opening_hours": {},
+            "place_id": "ChIJv7KpddyNyzsROFIiRL8pUv8",
+            "rating": 5,
+            "reference": "ChIJv7KpddyNyzsROFIiRL8pUv8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "G8H8+R88, Lakshmi Nivas Rd, Ameenpur, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4764152,
+                    "lng": 78.2853391
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.47776562989272,
+                        "lng": 78.28678462989272
+                    },
+                    "southwest": {
+                        "lat": 17.47506597010727,
+                        "lng": 78.28408497010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "B Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 4224,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102709132630263296189\">raghu teja</a>"
+                    ],
+                    "photo_reference": "AcYSjRjljJGedt2o7fbOo7yVb8gCOGrT7LBMA7j7e9PWuaOnHNxo9S-z1-KELIv4jNr2HA8jJ9LtrnkNfmFrOWh-mL-I9BkEr4ZsS6BBnjlFIdf2GqdZiIOUiNaDUo60yPghs7MN4yGdMXkjPyvP1AQUtsDCoHy8Zj5iZhnoLzCpbBgpN8o9",
+                    "width": 3136
+                }
+            ],
+            "place_id": "ChIJw3Vx9uztyzsR2y_8L9CGKSg",
+            "plus_code": {
+                "compound_code": "F7GP+H4 Serilingampalle (M), Telangana",
+                "global_code": "7J9WF7GP+H4"
+            },
+            "rating": 4.3,
+            "reference": "ChIJw3Vx9uztyzsR2y_8L9CGKSg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "B Park, 13, Rd Number 12, MIG Phase 2 Colony, Serilingampalle (M)"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4761175,
+                    "lng": 78.2880455
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.47746822989272,
+                        "lng": 78.28943632989272
+                    },
+                    "southwest": {
+                        "lat": 17.47476857010728,
+                        "lng": 78.28673667010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "New Mig A Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117099414956415437911\">Vamshidhar Nimbagiri</a>"
+                    ],
+                    "photo_reference": "AcYSjRh4AKEXhKxkfORQA24FEvUBLcZWlFDxP9s2hiQcK8vJw7yX9OJTQNQpDYiDn8T7LENn8yWN_5wrfTEWS9XIZ9BwAZ1IIhmzR8QuPczs1FDpbtySMa-VfmWkWsTydSkpn6IutkEEIKddvcT9BAf6zCR1mQsyLn1rV3Ir43MAcMy_dRPS",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJSxj58zDtyzsRe716tEDZctk",
+            "rating": 4,
+            "reference": "ChIJSxj58zDtyzsRe716tEDZctk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1043,
+            "vicinity": "F7GQ+C6V, MIG Phase 2 Colony, Bharat Heavy Electricals Limited, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4662411,
+                    "lng": 78.30624610000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.46765287989273,
+                        "lng": 78.30751687989273
+                    },
+                    "southwest": {
+                        "lat": 17.46495322010728,
+                        "lng": 78.30481722010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "SN RAO PARK",
+            "place_id": "ChIJsUK0UcCTyzsR5CTawFORhCs",
+            "rating": 0,
+            "reference": "ChIJsUK0UcCTyzsR5CTawFORhCs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "F884+FFX, VIRTUOUS ENGINEERING, Near Rock Garden, Nallagandla Nallagandla, HUDA Layout, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5129315,
+                    "lng": 78.2844839
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.51433392989273,
+                        "lng": 78.28587562989271
+                    },
+                    "southwest": {
+                        "lat": 17.51163427010728,
+                        "lng": 78.28317597010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Dr.B R.Ambedkar Park",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103721608189227137305\">A RAJU</a>"
+                    ],
+                    "photo_reference": "AcYSjRj5qUv1BvW0NtPXgNEp05Rs1g5xsI81zrbObUZ3gFCIjooFhlicI7d-ApuNcUfJLr0nC_ZS5ze1f64eHd6UNfzFR8Jb9wePgL7wDICngns36rG_vVO2itj-JlAuhASOeLUU-PyAWfgZ-rV1IFNWFrgW3bT1ShRD68t1gorGMasEmIiP",
+                    "width": 1800
+                }
+            ],
+            "place_id": "ChIJ5YYME67zyzsRnIWwMAZV7lo",
+            "rating": 0,
+            "reference": "ChIJ5YYME67zyzsRnIWwMAZV7lo",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "G77M+5QH, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5247156,
+                    "lng": 78.2952047
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.52610387989272,
+                        "lng": 78.29660492989272
+                    },
+                    "southwest": {
+                        "lat": 17.52340422010728,
+                        "lng": 78.29390527010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Tulasivanam Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 4640,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101450283450262063289\">Raghu Kishore</a>"
+                    ],
+                    "photo_reference": "AcYSjRg5fUCq4VcwHRwlZpn-zWujnTvzELNPIfuQr6VvheRXwaV-EUJjMrztxa2T1Ltzs_G_5Ajl339A6L8bWExjiAtOyjs-hMAfghZzkeLxZc69ZCtoBIW-m492TwikQIbzp4yfA2oib3NDMPkQXRwj9wfktIQfrUEyNoIdYgzU3eAEiojY",
+                    "width": 2088
+                }
+            ],
+            "place_id": "ChIJp-9xzqCNyzsRw2RfFqEymrU",
+            "rating": 4.6,
+            "reference": "ChIJp-9xzqCNyzsRw2RfFqEymrU",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "G7FW+V3P, MSNS Sai Ram Nagar, Ramachandrapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.505406,
+                    "lng": 78.28923759999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50675517989272,
+                        "lng": 78.29057322989273
+                    },
+                    "southwest": {
+                        "lat": 17.50405552010728,
+                        "lng": 78.28787357010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Children Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117021114270330012738\">Sai Vishwa</a>"
+                    ],
+                    "photo_reference": "AcYSjRhD-g_j81_TQ6DDxPIeTUGoAy6dmx7TFyGTV3nv0EUiP-PDugq2dyQ92DHoRs1cfteW1aD_xxq6c1X1ya2HnFZx1zgROe7ndM3eDgHXMl73lhyaswYdMpEvKC3-0gUpXmyIQ1nXYAozLYv8zZFTi7hQETyAFRuBJv65ukOXFilUr7Db",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJd-OBQVTtyzsRzez3qhkhknc",
+            "plus_code": {
+                "compound_code": "G74Q+5M Hyderabad, Telangana",
+                "global_code": "7J9WG74Q+5M"
+            },
+            "rating": 3.9,
+            "reference": "ChIJd-OBQVTtyzsRzez3qhkhknc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 124,
+            "vicinity": "Bharathi Nagar, LIG Colony Rd, Bharat Heavy Electricals Limited, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4963332,
+                    "lng": 78.32322599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49768667989272,
+                        "lng": 78.32452762989273
+                    },
+                    "southwest": {
+                        "lat": 17.49498702010728,
+                        "lng": 78.32182797010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Gautami Nagar Park",
+            "place_id": "ChIJnakWnIGTyzsR-3TLFq-yIpY",
+            "plus_code": {
+                "compound_code": "F8WF+G7 Hyderabad, Telangana",
+                "global_code": "7J9WF8WF+G7"
+            },
+            "rating": 4,
+            "reference": "ChIJnakWnIGTyzsR-3TLFq-yIpY",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "2-37, Friends Colony, Jawahar Colony, Chanda Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.536003,
+                    "lng": 78.317212
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.53735267989272,
+                        "lng": 78.31858407989272
+                    },
+                    "southwest": {
+                        "lat": 17.53465302010727,
+                        "lng": 78.31588442010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Colony Park - A Block : Narendra Nagar Colony",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116904982137336490602\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjFogerDI-Zvv56O09XJ3yW8kzTlvyBAVCamuFTrnd2_3HrjJty4GTQ2gaKkSvbg3yF0jqRENPxfym9IOmTojjKnmQDjTZh8jVQg9nL-xy914qz76iOmebpIlXGvjFKpc3bp6PsNiCfH3H1vWKMCvoFJEnNrIffof5KtKGXHjo89j3B",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJeTzhUOKNyzsREhpY7FEHDg0",
+            "rating": 5,
+            "reference": "ChIJeTzhUOKNyzsREhpY7FEHDg0",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "G8P8+CV, Narendra Nagar Colony, Ameenpur, Hyderabad"
+        }
+    ],
+    "status": "OK"
+}

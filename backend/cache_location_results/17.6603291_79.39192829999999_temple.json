@@ -1,0 +1,797 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgVUbTm9QPzNjVXO8nHhfIM2rsppac3XGhdMKFi-fYk1_Y2RjYjwTn65OY-_aUdJ3fpiN_h54nsguAGA3U_duJ6EVxM4Ed2-0P9URABDXT9kPy37MV6nrQeJQHtGwTlWUoerfGyprKDvLfiXm2ff-k9fMJlPPVtyVoahTB5fgrYIz-W8_mZ0-i40p5IArGaf-gY2fF33ETLUMo-2nQcr_Zcn9uPX8A87K8R09vX8gyVU5yFu6HBpvnBz821d4X9lYcBCxsbxsHvvDym19jgzdXwLRkuI805kjeAAbdapMlsrEcXy246WhXRmkUP82MygfJga4gDz-fTlMgf9Zj5ZOONBuPcdBHOXia4vbdPpFbsZvsMxq2pj8jJgQxeB1FS6O_RY8ljEMURJGfI3jdSpWMItsTiRUWvcoTKBPCQloFIsf-L-oBVkzY",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6231591,
+                    "lng": 79.30268219999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62451147989272,
+                        "lng": 79.3040328298927
+                    },
+                    "southwest": {
+                        "lat": 17.62181182010728,
+                        "lng": 79.30133317010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJt7CDpi1TyzsRNCBYInk3NXI",
+            "rating": 0,
+            "reference": "ChIJt7CDpi1TyzsRNCBYInk3NXI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J8F3+737, Chinnamadur Rd, Chinnamadur, Madoorkhurd"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6653886,
+                    "lng": 79.4769434
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66668297989272,
+                        "lng": 79.47830782989273
+                    },
+                    "southwest": {
+                        "lat": 17.66398332010728,
+                        "lng": 79.47560817010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Durgamma Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108118688263492486998\">UV CREATIONS</a>"
+                    ],
+                    "photo_reference": "AcYSjRjm0TXazb5vM0xnu0IJktCGYWYhgzmXQpbSSvT5rSbjJSqkk4lweN59ZMM8g5Dua9XiuC2JiI0QK_SiLr53wxF8uEUmhIjNpRQVfXM8ZxZHM8jtmzo8JWGBzEi8AGdZHVLq5hEfR1nd2Acw8lsz1ro_XERR7FnL-AWkN4wuKS33I-Ui",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJm-5kEayuNDoRov0jx9hijq8",
+            "rating": 4,
+            "reference": "ChIJm-5kEayuNDoRov0jx9hijq8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "MF8G+5Q4, Kondapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7426824,
+                    "lng": 79.4302411
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74402767989272,
+                        "lng": 79.43160397989271
+                    },
+                    "southwest": {
+                        "lat": 17.74132802010728,
+                        "lng": 79.42890432010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman Temple",
+            "place_id": "ChIJ8YsOjb-rNDoRYMhRLbrybsA",
+            "rating": 0,
+            "reference": "ChIJ8YsOjb-rNDoRYMhRLbrybsA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "PCVJ+33H, Gopalapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6621386,
+                    "lng": 79.337047
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66385932989272,
+                        "lng": 79.3378144
+                    },
+                    "southwest": {
+                        "lat": 17.66115967010728,
+                        "lng": 79.3347448
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman Temple",
+            "place_id": "ChIJraGoGbJTyzsROgyyKVcMHVE",
+            "rating": 0,
+            "reference": "ChIJraGoGbJTyzsROgyyKVcMHVE",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "M86P+VR, Chowdur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7156236,
+                    "lng": 79.47773719999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.71700257989272,
+                        "lng": 79.47922802989272
+                    },
+                    "southwest": {
+                        "lat": 17.71430292010728,
+                        "lng": 79.47652837010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Durgamma temple",
+            "place_id": "ChIJy_9AgRepNDoR5VKh2QckzOk",
+            "rating": 1.3,
+            "reference": "ChIJy_9AgRepNDoR5VKh2QckzOk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "PF8H+63X, Unnamed Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6824813,
+                    "lng": 79.47192890000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68386482989272,
+                        "lng": 79.47332022989272
+                    },
+                    "southwest": {
+                        "lat": 17.68116517010728,
+                        "lng": 79.47062057010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Durgamma Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ9fIEgsipNDoRf18AIUjSnnM",
+            "rating": 0,
+            "reference": "ChIJ9fIEgsipNDoRf18AIUjSnnM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MFJC+XQR, Kondapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6388898,
+                    "lng": 79.4168102
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64020552989272,
+                        "lng": 79.41823877989272
+                    },
+                    "southwest": {
+                        "lat": 17.63750587010728,
+                        "lng": 79.41553912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Durgamma Temple",
+            "place_id": "ChIJJ0riAi2tNDoRcgfGj53dsBY",
+            "rating": 0,
+            "reference": "ChIJJ0riAi2tNDoRcgfGj53dsBY",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JCQ8+HP3, Unnamed Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5894201,
+                    "lng": 79.42883859999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59073607989272,
+                        "lng": 79.43024007989271
+                    },
+                    "southwest": {
+                        "lat": 17.58803642010728,
+                        "lng": 79.42754042010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Durgamma Temple",
+            "place_id": "ChIJyQ93hSOtNDoRp68yGiBHBHQ",
+            "rating": 0,
+            "reference": "ChIJyQ93hSOtNDoRp68yGiBHBHQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HCQH+QG8, Warangal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6536213,
+                    "lng": 79.36696719999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65496622989272,
+                        "lng": 79.3683412298927
+                    },
+                    "southwest": {
+                        "lat": 17.65226657010728,
+                        "lng": 79.36564157010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman Temple",
+            "place_id": "ChIJnXdicZ9TyzsR8wMKwQsBnms",
+            "rating": 0,
+            "reference": "ChIJnXdicZ9TyzsR8wMKwQsBnms",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "M938+CQW, Shatapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6557498,
+                    "lng": 79.4004208
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65707532989272,
+                        "lng": 79.40190337989272
+                    },
+                    "southwest": {
+                        "lat": 17.65437567010728,
+                        "lng": 79.39920372010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Durgamma Temple",
+            "place_id": "ChIJyR455O-tNDoRLSy3MUvYTts",
+            "rating": 0,
+            "reference": "ChIJyR455O-tNDoRLSy3MUvYTts",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MC42+853, Lakshminarayana Puram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.653176,
+                    "lng": 79.400467
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65455502989272,
+                        "lng": 79.40179332989271
+                    },
+                    "southwest": {
+                        "lat": 17.65185537010727,
+                        "lng": 79.39909367010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Durgamma Temple",
+            "place_id": "ChIJs_B43JWtNDoR2NYyqTl8QOQ",
+            "rating": 0,
+            "reference": "ChIJs_B43JWtNDoR2NYyqTl8QOQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MC32+75G, Palakurthy, Lakshminarayana Puram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7278745,
+                    "lng": 79.414119
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.72922987989272,
+                        "lng": 79.41547032989273
+                    },
+                    "southwest": {
+                        "lat": 17.72653022010727,
+                        "lng": 79.41277067010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman Temple",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113939680651941213777\">Ajithreddy Basireddy</a>"
+                    ],
+                    "photo_reference": "AcYSjRj5N81fxq490W8Fabq59LbsOLlJXHGjclePuE192KeF9XrzY9ZaklRGp7jZLX-5pt3tetmtVAtu9o7oDatIrs8oPSJz0ZGbA9OlbHxDrT0Es9tLsfwS7RdPcyK84Q1wB46qRoU2lXUqHzsmXg2_PLjVj9JiCQspYW0aa-10RmTzhvAU",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJlapwKvCqNDoR3gP5SiCze0g",
+            "rating": 5,
+            "reference": "ChIJlapwKvCqNDoR3gP5SiCze0g",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "PCH7+4JX, Gudur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6780619,
+                    "lng": 79.3016569
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67940007989272,
+                        "lng": 79.30309847989271
+                    },
+                    "southwest": {
+                        "lat": 17.67670042010728,
+                        "lng": 79.30039882010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Durga Temple",
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103510045918199759915\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjEil_Dt8TxWxNXMslHOqgc3Y9vm4X5FRKAVGkbZAQgK5IQXQERUwi8m2_o9evLVaBWxK6HaVB_dYhhG0VCM_We1GBfXE81iQDFmwsvxlsN_PYIQdtDhxUjgpKq8Sjqg_PDJioJ5SgnQH4uNdPInSfGdSv9VuWOyXLVxp4J1G7efUIx",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJObPiqhBUyzsRfNDixyRqkJ8",
+            "plus_code": {
+                "compound_code": "M8H2+6M Madoorkhurd, Telangana",
+                "global_code": "7J9XM8H2+6M"
+            },
+            "rating": 3.7,
+            "reference": "ChIJObPiqhBUyzsRfNDixyRqkJ8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Telangana 506303, India"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6332616,
+                    "lng": 79.3456933
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63463017989272,
+                        "lng": 79.34701302989272
+                    },
+                    "southwest": {
+                        "lat": 17.63193052010728,
+                        "lng": 79.34431337010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Durgamatha Temple",
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109425010249004188153\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRipYuW18stEtbgXF1VctOqc2g1cexT15P1HKIU7I5wGoi_A_rQ9iYpChRIpuMwbWk8afwJsh-jRRJ0F9TI4HlM22UFNRb11vPuaMx7npnVDtH3ehQVdlQgHgkG_9w02DGKt5HBrfxywI6CizJ_nxRAvqv-VHgSxxrFX9gIDnfj5iQz2",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJWayrDw5TyzsRNXxqKRzE5hM",
+            "rating": 3,
+            "reference": "ChIJWayrDw5TyzsRNXxqKRzE5hM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "J8MW+874, Unnamed Road, Chowdur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5735372,
+                    "lng": 79.3393933
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57489927989272,
+                        "lng": 79.3407021298927
+                    },
+                    "southwest": {
+                        "lat": 17.57219962010728,
+                        "lng": 79.33800247010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pochamma Temple",
+            "place_id": "ChIJZzMSFYFSyzsRdRaNzER_Ygk",
+            "rating": 5,
+            "reference": "ChIJZzMSFYFSyzsRdRaNzER_Ygk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "H8FQ+CQ6, Kadavendi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6900634,
+                    "lng": 79.3721182
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69140017989272,
+                        "lng": 79.37346007989272
+                    },
+                    "southwest": {
+                        "lat": 17.68870052010728,
+                        "lng": 79.37076042010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pochamma Temple",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109246212473162524326\">Raju Damera</a>"
+                    ],
+                    "photo_reference": "AcYSjRhFNKUQ-94OWpVMQgi3FPlxWQgdrprTm8yHH2HO-jBsxcq3OwbkgB4VxRRoUJ1vib6PLi_zpxCicaIDbj20X1J34wWw6zFKgvsamOwYKwj87-SL1F5uuXcjWJiC5i3c3fBKs-jvhnRTTBtOZkEIKf-yzBr1R0-QeWKyFht5Rk2htDwH",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJp8v2rclUyzsRwdJE2BGK_1A",
+            "rating": 5,
+            "reference": "ChIJp8v2rclUyzsRwdJE2BGK_1A",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "M9RC+2VR, Palakurthy Mandal, Iravennu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6699533,
+                    "lng": 79.42264829999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67141057989272,
+                        "lng": 79.42404877989271
+                    },
+                    "southwest": {
+                        "lat": 17.66871092010728,
+                        "lng": 79.42134912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Peddama Temple",
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114698714757980081886\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRha_OjDWYM0-gFDmz4d8fbvin2J2aEqeHLQkTn8TSP9LpmREgtdbfIdblGCjsVZJsVO-7FjZPo9Jr-eSrhER_FQVSTWW9c8kNbCeew_faGqcYfB49HBFZZt73fLOUDoLPARnLbz7Vv0kxrb5Gnxb5Cm4A8GDHWL_BKO8OzJkPzrhvsb",
+                    "width": 1536
+                }
+            ],
+            "place_id": "ChIJG20iq3-rNDoRJO2U5YKPTqg",
+            "rating": 5,
+            "reference": "ChIJG20iq3-rNDoRJO2U5YKPTqg",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "MC9F+X3J, Warangal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6257222,
+                    "lng": 79.4084388
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62718612989272,
+                        "lng": 79.40990437989272
+                    },
+                    "southwest": {
+                        "lat": 17.62448647010727,
+                        "lng": 79.40720472010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pochamma Temple",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111658818195986696996\">Suresh Ravula</a>"
+                    ],
+                    "photo_reference": "AcYSjRgKE00KaGaj2RI9IgiKcuE2ymClPV31Chl6WkkQGupq54nt6KRm6PKbaP9v7EFNAw0JfpIVsONZzMYgejoV1rK32eEtxyADK0ukWNipDyfkJpwVU_FlG9s6Cx6FgAKl_5NinpliOLZtx0z_8C4kQBPmQxtGpbBT2bLd4Zw_7DeRq4MX",
+                    "width": 1844
+                }
+            ],
+            "place_id": "ChIJQQWOBEytNDoR_zAgpxx9peo",
+            "rating": 5,
+            "reference": "ChIJQQWOBEytNDoR_zAgpxx9peo",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "JCG5+79W, Unnamed Road, Visnoor"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6298971,
+                    "lng": 79.4107259
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63123932989272,
+                        "lng": 79.41212172989273
+                    },
+                    "southwest": {
+                        "lat": 17.62853967010727,
+                        "lng": 79.40942207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Satyanarayana Swamy Temple",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111658818195986696996\">Suresh Ravula</a>"
+                    ],
+                    "photo_reference": "AcYSjRhanUhHE1lcELhr2zcoiXWLn7Hs31KZqfIRslR2OAwo7025XvDAZmpinle2Xvlp-meGC7xEWhXDXf4BhhQuqz-k1i5t6KHanw83rXOgMEOWeIey9Sw1qooV7Uf7H3fMkRkFdiFXb3L7F-7thH3cjZXnaG6UqyaLPZx-jURdIkPjDJjQ",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJf4HiouWsNDoRefNWA1__heg",
+            "rating": 3.9,
+            "reference": "ChIJf4HiouWsNDoRefNWA1__heg",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "JCH6+X75, Visnoor"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7180083,
+                    "lng": 79.4336397
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.71934327989272,
+                        "lng": 79.43501412989272
+                    },
+                    "southwest": {
+                        "lat": 17.71664362010728,
+                        "lng": 79.43231447010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Durga matha temple",
+            "place_id": "ChIJ6UPNaYGrNDoRX0Frc1kjnRA",
+            "rating": 0,
+            "reference": "ChIJ6UPNaYGrNDoRX0Frc1kjnRA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "PC9M+6F6, Unnamed Road"
+        }
+    ],
+    "status": "OK"
+}

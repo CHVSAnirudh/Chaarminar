@@ -1,0 +1,176 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9338237,
+                    "lng": 78.94396189999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.93516807989272,
+                        "lng": 78.94532887989273
+                    },
+                    "southwest": {
+                        "lat": 12.93246842010728,
+                        "lng": 78.94262922010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Dr. B.R.Ambedkar Statue",
+            "place_id": "ChIJbTQ5ubMUrTsRoaKJHSzkmfQ",
+            "rating": 5,
+            "reference": "ChIJbTQ5ubMUrTsRoaKJHSzkmfQ",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "WWMV+GHG, Unnamed Road, Pasumathur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9028798,
+                    "lng": 78.9449683
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.90423502989272,
+                        "lng": 78.94636977989272
+                    },
+                    "southwest": {
+                        "lat": 12.90153537010728,
+                        "lng": 78.94367012010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Megalithic Burial site (Dolmen)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101435174331518442509\">Tamil vanan</a>"
+                    ],
+                    "photo_reference": "AcYSjRgBUzns1pWYMSrXiaapcaTWDHASbnmFm0LwmEErR1aFtC_J1roQvYX5Iy9KU8x1osGipEi07htRwyaLSqosRO3v19zNy2eDORhMQ9boXuix0gto0Y-DqYUlgKtyCuuk_zqPJt2PEF8rLY-2HPd9kuovGZ5qZKpG-FmkgyaTOxprf8_C",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJR_sgOXYVrTsRfJZx57vOrRw",
+            "rating": 5,
+            "reference": "ChIJR_sgOXYVrTsRfJZx57vOrRw",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "WW3V+5X4, Jamedar Thopu St, SVM Nagar, Pallikonda"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9222947,
+                    "lng": 79.0224051
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92345297989272,
+                        "lng": 79.02375027989272
+                    },
+                    "southwest": {
+                        "lat": 12.92075332010728,
+                        "lng": 79.02105062010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Margabandeswarar Temple",
+            "photos": [
+                {
+                    "height": 2400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108131660125729010317\">tr</a>"
+                    ],
+                    "photo_reference": "AcYSjRjoO3dJ_2urqsq8ie85OarlmlWO8qKkCvJGjhP8DlS4jXc_IFvr1In5sL9GL-x9YV8rbGmq_JxeHeWJj4KZIgHeBgiQmQH-MOwGz3A-NKihDTVtF_0rPCK83Xh-tRWP9w6-TDin1HEeakpl5nTwwbaQWA_wBZUDK-CXiY51Ppi9OIzK",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJdRtBCeE_rTsRTj0pMgJJyjA",
+            "rating": 4.7,
+            "reference": "ChIJdRtBCeE_rTsRTj0pMgJJyjA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 315,
+            "vicinity": "W2CC+WX6, Virinchipuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8369656,
+                    "lng": 79.05500239999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.83832717989272,
+                        "lng": 79.05630822989272
+                    },
+                    "southwest": {
+                        "lat": 12.83562752010728,
+                        "lng": 79.05360857010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pillaiyarkovil, sivanathapuram",
+            "photos": [
+                {
+                    "height": 6000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113696331518179844297\">Kuralmudhu Kuralamudhu</a>"
+                    ],
+                    "photo_reference": "AcYSjRhZleEjunWtd7UB6MGumE45xU3oDdwcDLBiyWCaD1hs4YOWdp3hThZtyxFkl9qmEjcc1wgu7Jp6cm_QjFwm62hXqqqeERpBaCl8Wl3CrNH8_n4YJcGa_pzj5P9DU_hWsbyGkc4l0bnDwxp70-kzRSg3SjpvrN-IkNKQEleXO-MNGFtD",
+                    "width": 8000
+                }
+            ],
+            "place_id": "ChIJqRXyDUg9rTsROadzgjVzhp0",
+            "rating": 5,
+            "reference": "ChIJqRXyDUg9rTsROadzgjVzhp0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "R3P3+QXQ, Unnamed Road, Sivanathapuram"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,178 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.5688892,
+                    "lng": 78.2901782
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.57056637989272,
+                        "lng": 78.29140397989272
+                    },
+                    "southwest": {
+                        "lat": 12.56786672010728,
+                        "lng": 78.28870432010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sri Mangala Rocks, Granite Factory, Krishnagiri, TN",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107139644100092180333\">sri theja</a>"
+                    ],
+                    "photo_reference": "AcYSjRjjg9xyEY4G_mmbufSGRV3vxqrDhuw20XClTIviY9R1VWkg7UDawTdZKQsFi--NT_4yd4seMRAv_b-www5KvjoDqb7uDRCEH0Y8Oi2iTWxySR9sEZ_HAusqfwKvvmd0v1RYWudZ0rObuNcRvtmgCkDfNM6nfjiO2NJBmYj3Ce7h8hWb",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJrQK3zaHKrTsRMNfjHKXYxCg",
+            "plus_code": {
+                "compound_code": "H79R+H3 Palepalle, Tamil Nadu",
+                "global_code": "7J4WH79R+H3"
+            },
+            "rating": 4.2,
+            "reference": "ChIJrQK3zaHKrTsRMNfjHKXYxCg",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "Krishnagiri - Palamaner Hwy, Palepalle"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.5221356,
+                    "lng": 78.321103
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.52337042989272,
+                        "lng": 78.32244727989273
+                    },
+                    "southwest": {
+                        "lat": 12.52067077010728,
+                        "lng": 78.31974762010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "J.P GRANITE'S 3",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJdaxN5-tKrDsRPjttgLVH0iw",
+            "rating": 0,
+            "reference": "ChIJdaxN5-tKrDsRPjttgLVH0iw",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "G8CC+VCQ, Krishnagiri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.5029454,
+                    "lng": 78.3001261
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.50428687989272,
+                        "lng": 78.30150332989272
+                    },
+                    "southwest": {
+                        "lat": 12.50158722010728,
+                        "lng": 78.29880367010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "RAK INDIA GRANITES PVT LTD",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 858,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107066668747630036514\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjteGSfsg007sRMo1E7O0xRcl6pmEhveDDQG_3iKT-hjjNHZ9w8zKhpj0wK8PRYrA37B61N0IiJaXSuOzJGPMuhaHO-BuB80QbkIMlYOoONoqQQHMSiycAGrKix4amll6foB_f7lniMX7f8-rLs5x0M7_8PQhkN0SvNKCC0PGjcNW1f",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJk64F_CZLrDsRb7RBGf2cIsg",
+            "plus_code": {
+                "compound_code": "G832+53 Marudepalli, Tamil Nadu",
+                "global_code": "7J4WG832+53"
+            },
+            "rating": 5,
+            "reference": "ChIJk64F_CZLrDsRb7RBGf2cIsg",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Sulamalai village, post, Marudepalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.480003,
+                    "lng": 78.3247662
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.48120692989272,
+                        "lng": 78.32600022989271
+                    },
+                    "southwest": {
+                        "lat": 12.47850727010728,
+                        "lng": 78.32330057010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "M R Granite",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ____r0FKrDsRtUrRPgOo9t8",
+            "rating": 5,
+            "reference": "ChIJ____r0FKrDsRtUrRPgOo9t8",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "F8JF+2W2, Krishnagiri"
+        }
+    ],
+    "status": "OK"
+}

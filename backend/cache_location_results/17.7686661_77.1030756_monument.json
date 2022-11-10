@@ -1,0 +1,52 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8312815,
+                    "lng": 77.1764231
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83268307989272,
+                        "lng": 77.17769562989272
+                    },
+                    "southwest": {
+                        "lat": 17.82998342010728,
+                        "lng": 77.17499597010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Jalasangvi Temple",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107726409870331266977\">Sreenath Mysore</a>"
+                    ],
+                    "photo_reference": "AcYSjRi67lnZWcJHZHprGx2CrERSH_mS20yHX038nkQ_SuamLCz0H943NjEAWQjf-U2qRvjAkJdVVi0INXqqWcHR1Mhvej4MPgMGZ9PMycXCo1IYoRkufyTo70ulRemI28V0RBreV1LkXVyhA1g59VQiXpnXyVsbVl_KvnD5eRaqHcquxXT2",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJke2XkesnzzsRlTr3suEM8MA",
+            "rating": 4.5,
+            "reference": "ChIJke2XkesnzzsRlTr3suEM8MA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 114,
+            "vicinity": "R5JG+GH7, Jalsangvi"
+        }
+    ],
+    "status": "OK"
+}

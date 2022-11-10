@@ -1,0 +1,935 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjfkbQgB2HzVBTeQ4R4jBLeWWePbnIbAHUMMWBKxWoqJaZf0ZGZCQ3dQq_Pk3OuGNNRkXWimg-3GLjzxdXwQkZvPGFTGU9qWal1wnNQ_Wr2VpheGDtyzdVjxY4Oa07Ntb64NUwUIYlum_n-6wY6bxiNEr5AWAC12qtfDSfDFo5RYGldyFLlgvjGyigvjzrkoMURA2RSFgdQx7PqiTIBoMD6kO5pdDmWTOeXS6ouNQRE1m2GY89zZAjsIAkLEgUpdygl5LroAo4y9VK3SJCG96EM3Faew7o6QS5MtIcIpKKGljrLehTF3ZogXu8LCuL5qHCEOqU4_6juvrbk5eSSByghf_RBSqh2fP6GR7AU-uLp5qow9pXaSvEUCYwt-DYRqA5u4PBwoF9OGupCsZlAt_JfzqfTy7U4Ik0bvaNc6HSG-bp5o-wmPOs",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9260624,
+                    "lng": 79.14144879999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92741662989272,
+                        "lng": 79.14280987989272
+                    },
+                    "southwest": {
+                        "lat": 12.92471697010728,
+                        "lng": 79.14011022010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113309274157385156307\">AAMAR CHOKHE</a>"
+                    ],
+                    "photo_reference": "AcYSjRgXyD2iIWw0yw8mjjimkTHGJF7-zCMlkfxdhvY320x1Y3U4optp479VnJBp6YxtE826m_G2lxdEwtqU1-EkgMJhzq6S4T2QXG5a4nXdf_hb2kJjlaJUyJctNFqHNOLmpAs_7jsvhLsdj4-7qs4z47liXyPExMBui-TE4M2oi1TDWU9F",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJoV_sY5I4rTsRMuWRDhuQ5M0",
+            "plus_code": {
+                "compound_code": "W4GR+CH Vellore, Tamil Nadu",
+                "global_code": "7J4XW4GR+CH"
+            },
+            "rating": 3.8,
+            "reference": "ChIJoV_sY5I4rTsRMuWRDhuQ5M0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "81, Arcot Rd, Sripuram, Thottapalayam, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9910327,
+                    "lng": 79.1320899
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.99235752989272,
+                        "lng": 79.13346612989271
+                    },
+                    "southwest": {
+                        "lat": 12.98965787010728,
+                        "lng": 79.13076647010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113299559137407526486\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg-g9YqH36ovxHh5Tw_5-m1vobMHER-Rd0p4hPuqF09_5qCbkBg4_cD0wYuTbQPwZXxvJ_9Fc8XSlg7ymYwnOFh5sglo_Q4pPZWXCe2ZZAZjdnm5dTLQIWfKqfsvAOfoS_h0HMtL3JGdkv_l_LQQp94uCeaKQGWaRq0jNPWVHfO1mGY",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJkf2Fwd9GrTsRpbIF89Hgt6s",
+            "rating": 4.3,
+            "reference": "ChIJkf2Fwd9GrTsRpbIF89Hgt6s",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "X4RJ+CR3, Kalpudur, Katpadi, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9087263,
+                    "lng": 79.1381605
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.91009352989272,
+                        "lng": 79.13951167989273
+                    },
+                    "southwest": {
+                        "lat": 12.90739387010728,
+                        "lng": 79.13681202010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Muniswaran Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105882667775099801407\">Suresh Mani</a>"
+                    ],
+                    "photo_reference": "AcYSjRgf-MVdwyiByR7irGKDAb2EhyvVP0rVNXCTnK8ak39YyHcZodvuDwFfJIYizvJ5OnJZQijrqYg8ryqEvNKDhf9AY3s-p9bJ-NRlsIUlK9q1H26j373bml0MGp7VWhZIdN8Y3_zUG1Ak1jqFQIeDfCUGbH-8r-uukZESKQNNYOkSU2G6",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJZdw_KeQ4rTsR6_qeyY18bAc",
+            "rating": 5,
+            "reference": "ChIJZdw_KeQ4rTsR6_qeyY18bAc",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "W45Q+F7M, Salavenpet, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8975912,
+                    "lng": 79.0599356
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.89887157989272,
+                        "lng": 79.06093577989272
+                    },
+                    "southwest": {
+                        "lat": 12.89617192010728,
+                        "lng": 79.05823612010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Eswaran temple",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104826410728349767109\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjnXmYgIuFTZUwmUx8aKwF9Bcj_qTcJ217FNTsVMmTzCQlDbxEaHJc5U_2bX_w1u3_JjHsllQCcBIFvYQGU5fa86AbFbOSQPK-dEUv5IBwCQ-t2Wzz6gdHvVhH8F5o5m4I0lqTOAlgL17W0SoVZaRvSsc89b431AS8C6RiXtaVvqZV1",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJS2TY_z8_rTsRMCY7f-7MeN0",
+            "rating": 5,
+            "reference": "ChIJS2TY_z8_rTsRMCY7f-7MeN0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "V3X5+2XM, Nattamangalam, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9808272,
+                    "lng": 79.1359653
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.98218802989272,
+                        "lng": 79.13727642989272
+                    },
+                    "southwest": {
+                        "lat": 12.97948837010728,
+                        "lng": 79.13457677010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shri Perumal Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1872,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104072520121549137601\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg_2vxsyGCnEW8s_LIA-6COvfe-2A3gFPeVYvFMivit3F6e0kum3WIriweCpvsf7eFxg-8_iGuLf52HvWps506R6m529CypiE_vSqTo3FCAY8_XkcvncHSFjBG0Qd2zYtAGE4fw3o56zVNxx4j2A_DKz_U0FF7SZEFYA_IF1wMvUdpE",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJB1Ma2xlHrTsRFLz2lzqQQhY",
+            "rating": 4.1,
+            "reference": "ChIJB1Ma2xlHrTsRFLz2lzqQQhY",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "X4JP+79W, Chitoor-Vellore, SH 9, Chenguttai, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9225255,
+                    "lng": 79.1363532
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92387072989272,
+                        "lng": 79.13765287989273
+                    },
+                    "southwest": {
+                        "lat": 12.92117107010728,
+                        "lng": 79.13495322010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Kasiviswanathar Temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107900050277703175267\">sujay poyra</a>"
+                    ],
+                    "photo_reference": "AcYSjRiQOeUfDW-B1ox0r-Osgpfr38jM2Krea4qQGMy4C5VgjH9-IMnE_-cvIsH6bcFzLkabyDMmsbyUnQJUExsTVA6DHIb4JeXqAwHYsEi8NDTEtQjMJ6gTkhRItNgoVhMWN8PVaEJKkzh1V0sdMILBzQ_NvoNUGTSS3NI51xD_9HpQtIVt",
+                    "width": 3280
+                }
+            ],
+            "place_id": "ChIJZWLnOes4rTsRVUWrnUVhe1g",
+            "rating": 4.4,
+            "reference": "ChIJZWLnOes4rTsRVUWrnUVhe1g",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 66,
+            "vicinity": "W4FP+2F5, Sukkiah Vadhiyar St, Sripuram, Beripettai, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9274802,
+                    "lng": 79.1157475
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92876692989272,
+                        "lng": 79.11710062989272
+                    },
+                    "southwest": {
+                        "lat": 12.92606727010728,
+                        "lng": 79.11440097010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shanthaneshwari Temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJY9su_vI5rTsRUfkJY8Wd2ZM",
+            "rating": 0,
+            "reference": "ChIJY9su_vI5rTsRUfkJY8Wd2ZM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "W4G8+X7X, Shenbakkam, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9733908,
+                    "lng": 79.0676569
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.97473512989272,
+                        "lng": 79.06900312989272
+                    },
+                    "southwest": {
+                        "lat": 12.97203547010728,
+                        "lng": 79.06630347010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Maariyamman temple",
+            "photos": [
+                {
+                    "height": 1057,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105538708337297612272\">Vijayalakshmi Sm</a>"
+                    ],
+                    "photo_reference": "AcYSjRg_swqm8jKfaaA5HHx1mDv04kwaROZZCGc5GmnWxtOTpPzXl5aZmtc0jrVm8bTXdhPqDpLh_VYZRUpMQl6EHTMP-EPYPfnnlCszCrQxeafdZSoQ2HOEim2kpHMAi-biFyZxvtmtj9cfIwPFtyiTR70xmgjAqViFkuKKG1G3g39BjsWB",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJn2i_ZfBBrTsRsp2QYYlardg",
+            "rating": 4.5,
+            "reference": "ChIJn2i_ZfBBrTsRsp2QYYlardg",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "X3F9+83C, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9847968,
+                    "lng": 79.1443079
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.98611587989272,
+                        "lng": 79.14571372989273
+                    },
+                    "southwest": {
+                        "lat": 12.98341622010728,
+                        "lng": 79.14301407010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hindu temple",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100043660060264662715\">Tashkent Nadar</a>"
+                    ],
+                    "photo_reference": "AcYSjRi95p-S8EOFB-Iw04Oh56qggKuT_x34BhzYvjnrQ-D9Xlw-zpH8Df1Ato9xNm926N6TYYZTUp_-BDV8LrKOvQWeah8AkIum8HuWCgUIxIm70sePrI3kR9YiuuEbBuwTn7gTEpZx4EIHfENEv6jBhLF76Or_JPsEF-fOtjIGDP4qZ1Mr",
+                    "width": 1960
+                }
+            ],
+            "place_id": "ChIJRyzBNxJHrTsRXnba4GmJI2Q",
+            "plus_code": {
+                "compound_code": "X4MV+WP Vellore, Tamil Nadu",
+                "global_code": "7J4XX4MV+WP"
+            },
+            "rating": 0,
+            "reference": "ChIJRyzBNxJHrTsRXnba4GmJI2Q",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "97, Vallimalai Rd, Annai Nagar, RadhaKrishnan Nagar, Katpadi, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9392983,
+                    "lng": 79.1526595
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.94066407989272,
+                        "lng": 79.15403622989272
+                    },
+                    "southwest": {
+                        "lat": 12.93796442010728,
+                        "lng": 79.15133657010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "SRI THARUMARAJA SAMODHA TEMPLE",
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106283136289110047325\">Lakshmi Narasimhan</a>"
+                    ],
+                    "photo_reference": "AcYSjRgcG8eRWzfLBSKrC5FHdM6NoxqtnHGCKcBZuiL__mS4wVueE4Dk9Q0g54n6Tc15ECH-TJ3q-h5JJk3vE0r6IV05-wWtDF0oweZOD2eAi8w5vl2SyKzlNNMN29GozpOUS-upn13cxrHzJ9WWIp2xJaZ9KGons5SY06wqFhOeAF5l3H1m",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ1eHAGYc4rTsRmxPXnlcYp1s",
+            "rating": 4.3,
+            "reference": "ChIJ1eHAGYc4rTsRmxPXnlcYp1s",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "W5Q3+P37, Thandu Maariyamman Kovil Street, Sathuvachari, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9272507,
+                    "lng": 79.1235846
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92851667989272,
+                        "lng": 79.12497132989272
+                    },
+                    "southwest": {
+                        "lat": 12.92581702010728,
+                        "lng": 79.12227167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sivasakthi Kaaliyamman Temple",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104511634357868404113\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgt0EGWJaNYEtyUMA9kkhm_Ft-h1ockF8LDQS3O3AbgQEBXL4WhOrzfQQdJ5UT75vZCbHvTIHjLP14nHhTRAdmyVdlXNqvkCq1QmJjDnEVuIluE9F5U83CtTr1OgUmfLA2CDHQLvlQxV1Vqg_-GBmE_d3YiK2pLy7RuCPZcP34OPXOA",
+                    "width": 1856
+                }
+            ],
+            "place_id": "ChIJD-RwgJ05rTsRmT-raV4efrs",
+            "rating": 5,
+            "reference": "ChIJD-RwgJ05rTsRmT-raV4efrs",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "W4GF+VCW, NH 46 Service Rd, Shenbakkam, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9832803,
+                    "lng": 79.12131939999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.98463642989272,
+                        "lng": 79.12262317989271
+                    },
+                    "southwest": {
+                        "lat": 12.98193677010728,
+                        "lng": 79.11992352010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shri Mahalingeshwar Temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109516449988678663593\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRihYO74na6rGMjC6DP_oq4GgjCSl1kkyMLQWxyjAviG40YgqpMVUQustgCC-Hc_VEINXGMiJeQwbvWDYnpSie12AqDlP8_drH1npKkMp46w8gze6fIdTolVm9WsceNxqjWXn7Dkm3vavDYLpXfBn1T8fDhkp9b4Yru9NiHpPz-GeBxs",
+                    "width": 1504
+                }
+            ],
+            "place_id": "ChIJx5hniYhHrTsRwJlkoyi49hk",
+            "plus_code": {
+                "compound_code": "X4MC+8G Vellore, Tamil Nadu",
+                "global_code": "7J4XX4MC+8G"
+            },
+            "rating": 4.1,
+            "reference": "ChIJx5hniYhHrTsRwJlkoyi49hk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "Pillaiyaar Kovil street, Vandranthangal village, Taluk, Katpadi, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9167361,
+                    "lng": 79.1705747
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.91811722989272,
+                        "lng": 79.17189767989271
+                    },
+                    "southwest": {
+                        "lat": 12.91541757010728,
+                        "lng": 79.16919802010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "\u0b85\u0bb0\u0bc1\u0b9f\u0bcd\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd\u0b9c\u0bcb\u0ba4\u0bbf \u0b86\u0bb2\u0baf\u0bae\u0bcd",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115999120555018415291\">ganesh</a>"
+                    ],
+                    "photo_reference": "AcYSjRgNiShJi_51Xxj21lLFlAAN2IWl6dMiM8Bd5tZYhTguSogrvYbMmdNumFl6sntIAp8aBcRx_dxzGhUOiRdTxCJXTnnbvLVpvEwuoaY8EaTm1FtXIIssbhSFFqKOI0srlWd1gpw5rEx4OYBl5lF5EExe39Gu2saKHCD4lHambFN0JVSh",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJo78oV7M5rTsRDtG72pcy9P4",
+            "rating": 0,
+            "reference": "ChIJo78oV7M5rTsRDtG72pcy9P4",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "W58C+M6P, Mel Senganatham, Sathuvachari, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.941013,
+                    "lng": 79.1686726
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.94235897989272,
+                        "lng": 79.17002482989272
+                    },
+                    "southwest": {
+                        "lat": 12.93965932010728,
+                        "lng": 79.16732517010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Thirupathi Vinayagar Temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2090,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100820756130505567970\">Rekha Raj</a>"
+                    ],
+                    "photo_reference": "AcYSjRi_ZCf7NZF3CDdh-ANLG-D2D1lsWpBQlT-_-LsD8RB3x0ycUs7BQzEuNfKTrt_ytp0HACYDX2KaeEmiHDCKTQbdabi8O1iLTupN0jWb4OLSz10f93K0I432Kkp1AF6-AISinRA8CvlJ3rpiRTDQaljb4HkGj7Qpys2SWKL54UdZ9d81",
+                    "width": 845
+                }
+            ],
+            "place_id": "ChIJReRB13A4rTsRb4dJJnU6A6s",
+            "rating": 4.4,
+            "reference": "ChIJReRB13A4rTsRb4dJJnU6A6s",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "W5R9+CF5, Pillaiyar Koil St, Vallalar Nagar, Phase III, Sathuvachari, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9773051,
+                    "lng": 79.13765029999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.97862267989272,
+                        "lng": 79.13899467989273
+                    },
+                    "southwest": {
+                        "lat": 12.97592302010728,
+                        "lng": 79.13629502010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Vinayagar Temple",
+            "photos": [
+                {
+                    "height": 4480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104317302420799778109\">Sanjeevi G</a>"
+                    ],
+                    "photo_reference": "AcYSjRj4qL5-p47mTFJNClI_wS0HIeqvAMLU1aJi2395ikBcnAz9nkeAzYDadtEUFPUWdAR7hcHki09xJZaSV18hdO1__rdSaSlxZ0jA44MHi9kOswGbTVHfqbbU_3rEcFo4-BGLGLtGdJqJeu9M0_tQcJKOANJ4UjRf_HydFVa5h57id8dk",
+                    "width": 6720
+                }
+            ],
+            "place_id": "ChIJk1unBIRHrTsRVgitqi-j08U",
+            "plus_code": {
+                "compound_code": "X4GQ+W3 Vellore, Tamil Nadu",
+                "global_code": "7J4XX4GQ+W3"
+            },
+            "rating": 4,
+            "reference": "ChIJk1unBIRHrTsRVgitqi-j08U",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Vinayagar Temple, Kamaraj Street, Vallimalai Rd, Katpadi, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.920312,
+                    "lng": 79.13606709999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92167482989272,
+                        "lng": 79.13741632989272
+                    },
+                    "southwest": {
+                        "lat": 12.91897517010728,
+                        "lng": 79.13471667010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Kothanda Ramasamy Temple",
+            "photos": [
+                {
+                    "height": 3600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106283136289110047325\">Lakshmi Narasimhan</a>"
+                    ],
+                    "photo_reference": "AcYSjRgUwLoRJtxAXoUVeKLU1cDbbfdYj7P_hK4sDl1HiAizcdla6zJUlBjF5vbyIiIK1XgyK6TIINuzgsxWvrJnI_E0CH1Lb0K7TJJ3wz4VUfMqaLLA4unYoj0uLCfx2j8IgkVGbTBuOLKqHtAyeJSioT5O4ARdolOWsjILh9b7zGJh4RvM",
+                    "width": 2400
+                }
+            ],
+            "place_id": "ChIJW_xpp-s4rTsRfeu8dSnwlGQ",
+            "rating": 4.3,
+            "reference": "ChIJW_xpp-s4rTsRfeu8dSnwlGQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "W4CP+4C8, Vani Chetty Street, Sripuram, Saidapet, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.893393,
+                    "lng": 79.1327436
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.89474152989272,
+                        "lng": 79.13409987989272
+                    },
+                    "southwest": {
+                        "lat": 12.89204187010728,
+                        "lng": 79.13140022010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sree Pillaiyar Temple",
+            "photos": [
+                {
+                    "height": 2000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114271299019319827774\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRh3rBV05gDDH08Jbtw1TX0h98vymmsQrjQvQN5mp_I8d_cJCbmYSPqGMD8B5vIYShM3iYyt4a9MfSDM_OSzdiDX_0Yqg651zVLB3L-BlhNIAEfZ637eey2lgms3i6ais6Q-1O0R6dG3vE1s5NFCinkhq6sxMMuTrkEuLgPZDtM2cjIH",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJoa9sohg5rTsRwkrxfaSFxU8",
+            "rating": 4.5,
+            "reference": "ChIJoa9sohg5rTsRwkrxfaSFxU8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "V4VM+935, Nadu St, Palavansathukuppam, Krishna Nagar, RV Nagar, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.993641,
+                    "lng": 79.132688
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.99501122989272,
+                        "lng": 79.13409892989273
+                    },
+                    "southwest": {
+                        "lat": 12.99231157010728,
+                        "lng": 79.13139927010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Anjenaya Temple",
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113720170256238331337\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjkbrx8bppLTClZkFKrV3JfLyCPjxPRXzndyxjQNYkREiv95dQ3YNY_Qg-_Jhn8_VOfGHSkqYDR05vGhSs38QyKL-MpZQ03z-7MWzzCMohp1R6WSHTOnDNHDBeFU9OdShBg20mrOwsb_pN6wGkIseHsqMdmBgjLAVUmKKftMXXnNfVf",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJG2jue-BGrTsRdFLzQTcfz60",
+            "plus_code": {
+                "compound_code": "X4VM+F3 Vellore, Tamil Nadu",
+                "global_code": "7J4XX4VM+F3"
+            },
+            "rating": 4.4,
+            "reference": "ChIJG2jue-BGrTsRdFLzQTcfz60",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "Kalpudur, Katpadi, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9149027,
+                    "lng": 79.1434211
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.91609272989272,
+                        "lng": 79.14440775
+                    },
+                    "southwest": {
+                        "lat": 12.91339307010728,
+                        "lng": 79.14046115
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Old Town Shivan Temple",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117929500002941858202\">Jeeva Jeeva</a>"
+                    ],
+                    "photo_reference": "AcYSjRgXBA94hPDiaoTM_VuvBe3z9LVR6oQ5EntihFdcXyZEiB2ExKkWrB8Jtag9kYcq0sX1LPY55buqwgdOMZAeJbQQQ6lxCPJgMKCxp0i8lE8NrBPijZEm95mYMBphdRacfXRHGccGYmo8Uu92kyHNRr6j1iSHGdBJ6FTdhelgXdg1Yuhe",
+                    "width": 699
+                }
+            ],
+            "place_id": "ChIJX49JP8U5rTsRhB0Zs4fxLZM",
+            "rating": 5,
+            "reference": "ChIJX49JP8U5rTsRhB0Zs4fxLZM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "W47V+X97, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8841691,
+                    "lng": 79.14566409999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.88554662989272,
+                        "lng": 79.14704832989273
+                    },
+                    "southwest": {
+                        "lat": 12.88284697010728,
+                        "lng": 79.14434867010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Munieswar temple",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106911303912132885391\">Vickyvignesh24102001 Vignesh</a>"
+                    ],
+                    "photo_reference": "AcYSjRgLPqsgicno_7W91nYjeJaRHnjazuJwLjH3x_ZSpfvCFSjoMJPmsFgWCFcC-HhouwcgaF1Z9R4z0wO5TozbicmY9Fr_zhvKnE2horD_cbvx1q4B0P6MfxQfbotcE7nwwp4BCvWgKgMSev8c1XidPeQ4fLsaOcKacZKBH5EWDPiqnxQ",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJwZhL-E05rTsR0qPYevhejbc",
+            "rating": 0,
+            "reference": "ChIJwZhL-E05rTsR0qPYevhejbc",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "V4MW+J7P, Otteri Rd, RV Nagar, Vellore"
+        }
+    ],
+    "status": "OK"
+}

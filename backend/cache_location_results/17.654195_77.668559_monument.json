@@ -1,0 +1,39 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5842109,
+                    "lng": 77.6432377
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58553802989272,
+                        "lng": 77.64471727989272
+                    },
+                    "southwest": {
+                        "lat": 17.58283837010728,
+                        "lng": 77.64201762010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ambedkar statue",
+            "place_id": "ChIJ3UDDRi9LyTsRZ-xficEKd8M",
+            "rating": 0,
+            "reference": "ChIJ3UDDRi9LyTsRZ-xficEKd8M",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HJMV+M7Q, Parsapally"
+        }
+    ],
+    "status": "OK"
+}

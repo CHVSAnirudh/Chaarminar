@@ -1,0 +1,793 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRg-l6QzxfmN1Eh0w0PTVoPK1PmnPsH00ntmom5c4oGG7yOy1Sthes7_hLRyM7Ew0h07vXKJuEi4hwhjc2qV51TwsDp-KPOnwbD3Xob2T9GOkHhCSmb-qeaMrx6yihnLwq17S4Yu18BSL5QBXIVfKrRUIK43Ek8Aznzdlezo2NxNrar-_QYWy7HWuDUzyQZeqY44OZpfnx30bOmCjJWANfUD_2CdFXHSGJ-Cfmj_O7ckZ_vQq5GGnFxN1kx7fb9FyEMULt3V_AdFjoQTYea26TEdMhTgbtfFqZtg6MmwJaQt321Kmi1_KlT27-qea39ecJSi1N7zXb56cY-tO3ujvQVC9MGl5uweVuQbXuCFmBKaOey0ChdaHofBpzZxM1CDgavqWjk8On0fb1Ueo7PqlF_xaKr7KV69e_BG1T8rxyc_WeXjcGua",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6840962,
+                    "lng": 77.6420151
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68540817989272,
+                        "lng": 77.64335952989272
+                    },
+                    "southwest": {
+                        "lat": 17.68270852010727,
+                        "lng": 77.64065987010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Green valley park",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104086840010177637305\">Golla Swapna</a>"
+                    ],
+                    "photo_reference": "AcYSjRiv9Y9_4WtiqG_HytEjnATzjsuvfIqUmfB-SjDkbhrUcqFQC1AUS-vnAtjaadgVXapKZfkp0FszXkMu8le6VdXPkV_11o8vqNriMS0qf7LNxczCJ7xL8UzfQ7BrwSylXOGdOYYVLty6KSM5oWGEhrbNH-JvRX5wWFf9Zu58kKP5-zcD",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJe3ePDMu1zjsR7FzAFcHgOio",
+            "rating": 4,
+            "reference": "ChIJe3ePDMu1zjsR7FzAFcHgOio",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "MJMR+JRJ, Unnamed Road, Allipur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.684453,
+                    "lng": 77.6232466
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68580287989272,
+                        "lng": 77.62467692989271
+                    },
+                    "southwest": {
+                        "lat": 17.68310322010727,
+                        "lng": 77.62197727010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Ganesh park Dattagiri colony",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101437396980600188304\">omkar patil</a>"
+                    ],
+                    "photo_reference": "AcYSjRgHjV5_jam3jYQckBW2IPB8Q-yErklQ_xuRI93q1U-tkGT-_hyqPkyoC5yAmS_DpoUS7JOW3d1zDzCc7QTl3fBwsqxOV387IRrWg5gXyepr6Qjr5mnONOBoLDfHByDfbjDeShay-SMWc2l0m9nzHzUn0-4XDjef_llOclL6qN5j_ILy",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJ78F6LvO1zjsRtP4c10ddfkc",
+            "plus_code": {
+                "compound_code": "MJMF+Q7 Zahirabad, Telangana",
+                "global_code": "7J9VMJMF+Q7"
+            },
+            "rating": 3.5,
+            "reference": "ChIJ78F6LvO1zjsRtP4c10ddfkc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "Shisu Mandir, School Rd, Sairam Nagar Colony, Dattagiri Colony, Shantinagar, Zahirabad Rural, Zahirabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6320843,
+                    "lng": 77.6694687
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63341372989272,
+                        "lng": 77.67075062989271
+                    },
+                    "southwest": {
+                        "lat": 17.63071407010728,
+                        "lng": 77.66805097010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Saheb's land",
+            "place_id": "ChIJzfGdOLtNyTsR2rMScQCgJFQ",
+            "rating": 0,
+            "reference": "ChIJzfGdOLtNyTsR2rMScQCgJFQ",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JMJ9+RQP, Zahirabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6771918,
+                    "lng": 77.6159148
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67847157989272,
+                        "lng": 77.6172652798927
+                    },
+                    "southwest": {
+                        "lat": 17.67577192010728,
+                        "lng": 77.61456562010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "N.G.O's Colony Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108338994467855227263\">swaneeth bobby</a>"
+                    ],
+                    "photo_reference": "AcYSjRg4Nt5JZhIE2UTNY0JPAKjzHEZPn0SyUZ-wutkHuv-d0_6ohBLNI1BCj3QNydGbASkdKPxJUQObmw_VDw0mJ3SFgZGTX9gQkbBG7QYzrwJXkKaKo6dtIj65r-USG6j1ldtA7h0m-15OdnlO_ihrW20sTFV-th33qgCUd5_Qpd4qySp7",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJPUlDhN20zjsR4AqrudyzAH8",
+            "rating": 3.8,
+            "reference": "ChIJPUlDhN20zjsR4AqrudyzAH8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 61,
+            "vicinity": "MJG8+V9F, Zahirabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.723789,
+                    "lng": 77.63122249999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.72518692989272,
+                        "lng": 77.63257447989271
+                    },
+                    "southwest": {
+                        "lat": 17.72248727010728,
+                        "lng": 77.62987482010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Mr Acts Park Algole",
+            "place_id": "ChIJOX6mpvK1zjsRoKtY6PzpIZo",
+            "rating": 0,
+            "reference": "ChIJOX6mpvK1zjsRoKtY6PzpIZo",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "PJFJ+GF9, Unnamed Road, Didgi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6173945,
+                    "lng": 77.7591458
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61920917989272,
+                        "lng": 77.76071397989271
+                    },
+                    "southwest": {
+                        "lat": 17.61650952010728,
+                        "lng": 77.75801432010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Ishaq bhai's Farm",
+            "place_id": "ChIJ7W4IDQ1TyTsRb5vLhCSQ7D0",
+            "rating": 0,
+            "reference": "ChIJ7W4IDQ1TyTsRb5vLhCSQ7D0",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JQ95+28R, Jamshedapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5638122,
+                    "lng": 77.6301118
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56487845,
+                        "lng": 77.63112772989271
+                    },
+                    "southwest": {
+                        "lat": 17.56061345000001,
+                        "lng": 77.62842807010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Pedadodd narsimulu park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102232887077844241636\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRis1tmNUD2HY7acShuMHGrY5dEUYoJJPwTDhaMa54RbnilrNyEUqciqDe2cP2AAbY_6e0DD9nyT_Y-KiNHMwTj-KII1F44jxN8OgPNfP-rmsGNUDtUErHMezT_6MR9oiLmbhq4Q4I5YjV1qQ_EeXXRl5mMecakpnmSi_uEvjTIUfV2B",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJaSONFQNLyTsR7tDt0hAaBco",
+            "rating": 5,
+            "reference": "ChIJaSONFQNLyTsR7tDt0hAaBco",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "HJ7J+G2H, Unnamed Road, Godgar Palle"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.568624,
+                    "lng": 77.681231
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57001567989272,
+                        "lng": 77.68269157989272
+                    },
+                    "southwest": {
+                        "lat": 17.56731602010728,
+                        "lng": 77.67999192010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sarasu Farm",
+            "photos": [
+                {
+                    "height": 2056,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112766311546141909400\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiThPdjqKfAVmY7hes2_6W6qaF_89subi4dxOmbjC-WJMfz73HDuZAsOP37-PBi5xvUU1svY5ONrtl99oeAnebA6gT2HSxrAbEqjSH61YhlXvobWYNe3vm_pk4DsfRQiXUNwGgZufGDMDZQiHLpwng4QiR7d4n7uHVXzqRdgoXjBhQv",
+                    "width": 1536
+                }
+            ],
+            "place_id": "ChIJl2HZJiFMyTsRG3QNDQe95GE",
+            "plus_code": {
+                "compound_code": "HM9J+CF Bilalpur, Telangana",
+                "global_code": "7J9VHM9J+CF"
+            },
+            "rating": 2.3,
+            "reference": "ChIJl2HZJiFMyTsRG3QNDQe95GE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "17\u00b034'07.0\"N 77\u00b040'52.4\"E"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6744807,
+                    "lng": 77.7584933
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67596627989272,
+                        "lng": 77.75948267989271
+                    },
+                    "southwest": {
+                        "lat": 17.67326662010728,
+                        "lng": 77.75678302010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sadhana Garden",
+            "place_id": "ChIJvZafy7WtzjsR0NoQ1BZYupQ",
+            "rating": 0,
+            "reference": "ChIJvZafy7WtzjsR0NoQ1BZYupQ",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MQF5+Q9X, Ananthasagar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.713973,
+                    "lng": 77.647408
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.71532282989272,
+                        "lng": 77.64875782989272
+                    },
+                    "southwest": {
+                        "lat": 17.71262317010728,
+                        "lng": 77.64605817010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Duggus farm house",
+            "place_id": "ChIJF-sLaIm1zjsRJbJetVqACRk",
+            "rating": 0,
+            "reference": "ChIJF-sLaIm1zjsRJbJetVqACRk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "PJ7W+HX, Algole"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6524375,
+                    "lng": 77.6729375
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65425217989272,
+                        "lng": 77.67466387989272
+                    },
+                    "southwest": {
+                        "lat": 17.65155252010728,
+                        "lng": 77.67196422010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Tuljaiah farmland",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116085301046230572594\">Swaram B</a>"
+                    ],
+                    "photo_reference": "AcYSjRgPZm-NSahJZ1-aclLUPtJOJuGiF8nAU9l_jkdUFXjFR_35JuCCGIWbPdECFkwMuRZVIzspdfV_3fb3x5I-bHGURw6yFARFvXGLhr2DXAckLBKJPlq4fblOK814ZhRpyGWlme--qi9wd-sVW-bt5Z5KgeyCwEDiV92hX8oenPTBBsLw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJpbZz18lNyTsRm2DEgvqKO7M",
+            "rating": 4.5,
+            "reference": "ChIJpbZz18lNyTsRm2DEgvqKO7M",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "MM2F+X5, Huggelli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6473325,
+                    "lng": 77.57770579999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64870297989272,
+                        "lng": 77.57902127989271
+                    },
+                    "southwest": {
+                        "lat": 17.64600332010728,
+                        "lng": 77.57632162010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "NAND KISHORE PALLOD",
+            "place_id": "ChIJh5p0utlLyTsRcXFD5ZLRN4Q",
+            "rating": 4.4,
+            "reference": "ChIJh5p0utlLyTsRcXFD5ZLRN4Q",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "JHWH+W3P, Hothi B"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6775732,
+                    "lng": 77.6158178
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67882347989272,
+                        "lng": 77.61714522989273
+                    },
+                    "southwest": {
+                        "lat": 17.67612382010728,
+                        "lng": 77.61444557010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Tuljaiah farmhouse",
+            "place_id": "ChIJsYiLmvO1zjsRUFiAQoZGhzY",
+            "plus_code": {
+                "compound_code": "MJH8+28 Zahirabad, Telangana",
+                "global_code": "7J9VMJH8+28"
+            },
+            "rating": 5,
+            "reference": "ChIJsYiLmvO1zjsRUFiAQoZGhzY",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "2-1-204/1, Ngos Colony, Zingabai Takli, Zahirabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6856307,
+                    "lng": 77.61600059999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68709687989272,
+                        "lng": 77.6173459798927
+                    },
+                    "southwest": {
+                        "lat": 17.68439722010728,
+                        "lng": 77.61464632010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Chennareddy Colony park",
+            "place_id": "ChIJB9ovlli1zjsRXyptZ3p9JHw",
+            "rating": 5,
+            "reference": "ChIJB9ovlli1zjsRXyptZ3p9JHw",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "MJP8+7C2, Zahirabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5763201,
+                    "lng": 77.7266428
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57753027989273,
+                        "lng": 77.72779817989273
+                    },
+                    "southwest": {
+                        "lat": 17.57483062010728,
+                        "lng": 77.72509852010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "VANAMALI FARMS",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108400250733148526400\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjsyt9Lutjfhddmc253nYz-qlpNP-O1RzNkQsCSVW0AabgIwsa9dbLAHLnmKfimV5jjuTIR_yglyuIc__XusW-uI_n8TSqntVI3z_690kYVn31l3a7fSPUdSEvpMWI-SLFloMZjXRwK-WO6ywZOjn-UeJKHpP0VoF_EietwyZ0XPnQ2",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJIV2tjPJNyTsRvoRuXTPbrEs",
+            "rating": 1,
+            "reference": "ChIJIV2tjPJNyTsRvoRuXTPbrEs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "HPGG+GMC, Unnamed Road, Paidigummal"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6925705,
+                    "lng": 77.67976569999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69380657989272,
+                        "lng": 77.68165737989271
+                    },
+                    "southwest": {
+                        "lat": 17.69110692010728,
+                        "lng": 77.67895772010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Peerzada Garden",
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105139301965098914253\">Syed Noor Mohammed</a>"
+                    ],
+                    "photo_reference": "AcYSjRhFqMpCOmZB9zLNh8x5yLKPZbo0t-vniHO4nqgBIllMOYAxI_xL_j_pcwnyb-wklPiRT1Lrm28SILI5Q38vCV4Y527QA2H-rvQ1PHVAtDsts6Ijt31u27mSkW7yBdl94qgtu3Iz1ZCaNYnJjhr5NODgU-XeOkPAZWABkGePBAh5FnjK",
+                    "width": 648
+                }
+            ],
+            "place_id": "ChIJp-6jZBKzzjsRvvAtCZ23sOk",
+            "rating": 4.8,
+            "reference": "ChIJp-6jZBKzzjsRvvAtCZ23sOk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "MMVH+2WC, Bidekanna"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6892754,
+                    "lng": 77.62691989999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69066647989272,
+                        "lng": 77.62843457989273
+                    },
+                    "southwest": {
+                        "lat": 17.68796682010728,
+                        "lng": 77.62573492010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Park",
+            "place_id": "ChIJORbdTG61zjsRZ9MCGRiezDE",
+            "rating": 0,
+            "reference": "ChIJORbdTG61zjsRZ9MCGRiezDE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MJQG+FPH, Zahirabad Rural, Zahirabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6319044,
+                    "lng": 77.6719847
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63356932989272,
+                        "lng": 77.67367297989273
+                    },
+                    "southwest": {
+                        "lat": 17.63086967010728,
+                        "lng": 77.67097332010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "GBS Mango Garden",
+            "photos": [
+                {
+                    "height": 3006,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110020516939307340368\">Sai Kiran Maheshwaram</a>"
+                    ],
+                    "photo_reference": "AcYSjRgt174RGXvIJGl_m3yS6spa_Ubzre5mH_qHK5LFE7XvjI0aWUrJQ9FqtBIkYFHRYQCP426osW52JCGcEZ4a1RpiWVOsliEedKSvQE8VDhJD-_Vdb-_wGFD2zQMZzUiOd5ku-FyiQfjqQimaCUibNESFIA4642-lOh7raxpENJxQY9E2",
+                    "width": 5344
+                }
+            ],
+            "place_id": "ChIJnxeEy5VMyTsR2i89bleXN-8",
+            "rating": 4.4,
+            "reference": "ChIJnxeEy5VMyTsR2i89bleXN-8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "JMJC+QQ9, Peecharagadi Road, Picharagad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6667602,
+                    "lng": 77.6517435
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66811562989272,
+                        "lng": 77.65298022989272
+                    },
+                    "southwest": {
+                        "lat": 17.66541597010728,
+                        "lng": 77.65028057010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Ranjole",
+            "place_id": "ChIJhYyjpcy1zjsROmL7Y9lLtEM",
+            "rating": 5,
+            "reference": "ChIJhYyjpcy1zjsROmL7Y9lLtEM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "MM82+PM5, Unnamed Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6799036,
+                    "lng": 77.60413559999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68118312989272,
+                        "lng": 77.60547692989272
+                    },
+                    "southwest": {
+                        "lat": 17.67848347010728,
+                        "lng": 77.60277727010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "ZUBER PATEL'S FARM HOUSE",
+            "place_id": "ChIJL_UMp2i1zjsRmN0WKmHXAkU",
+            "rating": 4,
+            "reference": "ChIJL_UMp2i1zjsRmN0WKmHXAkU",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "MJH3+XM6, Zahirabad"
+        }
+    ],
+    "status": "OK"
+}

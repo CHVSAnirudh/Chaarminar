@@ -128,9 +128,9 @@ export default function Location() {
                                     <img src={Neutral} alt=""></img></li>
                             </ul>
                             <select>
-                                <option>One</option>
-                                <option>Two</option>
-                                <option>Three</option>
+                                <option>Young</option>
+                                <option>Mid</option>
+                                <option>Old</option>
                             </select>
                             <input type="submit" onClick={handleSubmit} />
                         </div>

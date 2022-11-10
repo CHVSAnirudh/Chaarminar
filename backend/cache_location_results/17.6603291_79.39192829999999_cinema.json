@@ -1,0 +1,169 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6600511,
+                    "lng": 79.4321144
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66139982989272,
+                        "lng": 79.43346577989273
+                    },
+                    "southwest": {
+                        "lat": 17.65870017010728,
+                        "lng": 79.43076612010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Priya Cinema Hall",
+            "photos": [
+                {
+                    "height": 2736,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100880400205686583372\">RajKumar Polasa</a>"
+                    ],
+                    "photo_reference": "AcYSjRiOL40qw1bJbbETtDBhiHRKcqtPFTEuTwAp4DBu4a3w2ZNgFAGJ_4wvniF4kS1xihqXx-x2EHrwzK4tcq-YmeKz5sP_MvIUzcTarkngLYLiPBmuVUcQPe_dOPc1JrZkJkevqznBK6-9yHaQpKKBTuLklUIXoR_tMi2P5m_HzI0jMHIO",
+                    "width": 4864
+                }
+            ],
+            "place_id": "ChIJ0UkgZnusNDoRfRf7ZmAZnH4",
+            "rating": 3.2,
+            "reference": "ChIJ0UkgZnusNDoRfRf7ZmAZnH4",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 172,
+            "vicinity": "MC6J+2RX, Theatre Road, Dardepally, Palakurthy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6600501,
+                    "lng": 79.4321425
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66140882989272,
+                        "lng": 79.4334948798927
+                    },
+                    "southwest": {
+                        "lat": 17.65870917010728,
+                        "lng": 79.43079522010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Theatre Palakurthy",
+            "place_id": "ChIJix0If-StNDoRRmhS0bA5GnY",
+            "rating": 2.7,
+            "reference": "ChIJix0If-StNDoRRmhS0bA5GnY",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "MC6J+3V2, Theatre Road, Dardepally, Palakurthy"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7159217,
+                    "lng": 79.38193919999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.71728137989272,
+                        "lng": 79.38325797989273
+                    },
+                    "southwest": {
+                        "lat": 17.71458172010728,
+                        "lng": 79.38055832010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mahikalyan cinema theatre",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 809,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108388721527291088855\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiJgncGhS4bcLG6DR3TDZjbizdwctaLgi272qZ1BgwyCGYzPcccjjmoAx2znA7IbGBco1j5UWotlT_8b1lxbbeBWz7DOZBXUYf9Di4i0nPUMMAtO_19ux1GenD_6l7My6-s0_F_tVMEs4vZ5apTi3nsIm4kjvPavLsNH0wL98we9Wlg",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJSxpxkSarNDoRByzJKmYqnn8",
+            "plus_code": {
+                "compound_code": "P98J+9Q Gudur, Telangana",
+                "global_code": "7J9XP98J+9Q"
+            },
+            "rating": 5,
+            "reference": "ChIJSxpxkSarNDoRByzJKmYqnn8",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Narasingapuram thanda, Gudur"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.7075585,
+                    "lng": 79.3948577
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.70889122989272,
+                        "lng": 79.39620597989271
+                    },
+                    "southwest": {
+                        "lat": 17.70619157010728,
+                        "lng": 79.39350632010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "\u0c36\u0c3f\u0c35 \u0c17\u0c4c\u0c21\u0c4d",
+            "permanently_closed": true,
+            "place_id": "ChIJFdr-sRmrNDoRvRrRru7x8ss",
+            "rating": 5,
+            "reference": "ChIJFdr-sRmrNDoRvRrRru7x8ss",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "P94V+XWW, Palakurthy Road, Mandal, Thirmalagiri"
+        }
+    ],
+    "status": "OK"
+}

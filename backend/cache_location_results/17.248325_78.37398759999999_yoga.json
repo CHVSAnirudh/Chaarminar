@@ -1,0 +1,103 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3001962,
+                    "lng": 78.2895444
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.30142517989272,
+                        "lng": 78.29089422989271
+                    },
+                    "southwest": {
+                        "lat": 17.29872552010728,
+                        "lng": 78.28819457010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "SANJEEVINI WELLNESS INSTITUTE OF NATUROPATHY AND YOGA",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102784575893167129229\">gchatla</a>"
+                    ],
+                    "photo_reference": "AcYSjRjtIlCskaDsCjCbWeLo8ls_4oueItmS4v-BWMzLRGJsTZcub9gxRsf_KkcQA47Ch1goxV1wba89na0KBplmrfUhYbnODvL29AJ0cnucXy9GoXASmvdC62xNKaOLNENBBxFZxRIF6Kzsu0RRWEa1ZMrWaAe-cW5lZuWD2IzHw7g7D7Bf",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJJxXlMgvAyzsRbnoo8ULnN00",
+            "plus_code": {
+                "compound_code": "872Q+3R Nazeebnagar, Telangana",
+                "global_code": "7J9W872Q+3R"
+            },
+            "rating": 4,
+            "reference": "ChIJJxXlMgvAyzsRbnoo8ULnN00",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 157,
+            "vicinity": "Amdapur Panchayath, Moinabad Mandal, Ranga Reddy District, Nazeebnagar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3067034,
+                    "lng": 78.28939919999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.30806962989272,
+                        "lng": 78.29054682989273
+                    },
+                    "southwest": {
+                        "lat": 17.30536997010728,
+                        "lng": 78.28784717010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Sanjeevini wellness institute of naturopathy and yoga",
+            "photos": [
+                {
+                    "height": 2736,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116104603611224384660\">Sreekanth G</a>"
+                    ],
+                    "photo_reference": "AcYSjRi5WfBqCsLvxWUZRgUSU3GUJwrAs7B271skc3c-gfazuYwbc2x_78X9ngl1Sf_baLlTN4E76xsblPbYbUknfBTG0nzIub0g6QdNmNIp96SS1PPkfbgY4kOHWGhYOCsECHrrmkHFuu5DGRdAJXvBTr_cHNCetBjgaguOK8EFpVC_jMdl",
+                    "width": 3648
+                }
+            ],
+            "place_id": "ChIJVVVVFdSQyzsRqZQ7-fVLB7c",
+            "rating": 4,
+            "reference": "ChIJVVVVFdSQyzsRqZQ7-fVLB7c",
+            "scope": "GOOGLE",
+            "types": [
+                "gym",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "874Q+MQJ, Srinagar Colony, Himayatnagar"
+        }
+    ],
+    "status": "OK"
+}

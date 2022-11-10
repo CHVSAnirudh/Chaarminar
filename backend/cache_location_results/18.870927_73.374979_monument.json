@@ -1,0 +1,196 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.8316034,
+                    "lng": 73.39475589999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.83236902989272,
+                        "lng": 73.39569629999998
+                    },
+                    "southwest": {
+                        "lat": 18.82966937010728,
+                        "lng": 73.3919347
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Manranjan Balekilla",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116882028863479191846\">PRATIK DHUMAK</a>"
+                    ],
+                    "photo_reference": "AcYSjRjQ73wvPMNU-W8ZJ-ot0iHzjRG6WXYPZH9xVAAdpV_SoJiTSsQ19ywZPAdfpSuQbzdxO5iy-aky2onU6ObvFbplyU-OIucyLsnhCIna3g-lzK4MElg1ioanvMiYiBG5ep9HWyc6-khsiWtexqlRL_1wM8V-pQW4IPlpLojWgnoVKvrU",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJxyF7Mj7-5zsR0HRDjytN_ts",
+            "plus_code": {
+                "compound_code": "R9JV+JW Udhewadi, Maharashtra",
+                "global_code": "7JCMR9JV+JW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJxyF7Mj7-5zsR0HRDjytN_ts",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 556,
+            "vicinity": "Lonavala Rajmachi road, Trek to Rajmachi Village, Udhewadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7832762,
+                    "lng": 73.4704426
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.7839919,
+                        "lng": 73.47128257989272
+                    },
+                    "southwest": {
+                        "lat": 18.7811291,
+                        "lng": 73.46858292010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_dharma-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Karla Caves",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114162235746829091221\">Payal Chordiya</a>"
+                    ],
+                    "photo_reference": "AcYSjRj-g_8ZktvRV7sAB58czEHr7k13txkmtzdgh5MW73eWxnMmH00w_mCGm0AxPYxbPeHiQJ_ERjoh15_f62YYC3hemrjAUCWyzjlhEaTRTJZ3fDYC9yR5yWLgOUvNvjsN1z5QI-luNvNoXctKqAsN9l5jpJWf56iwQp5M6HOUkTjgiHsu",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ00EhToOqwjsRdm0blvace3o",
+            "rating": 4.4,
+            "reference": "ChIJ00EhToOqwjsRdm0blvace3o",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23036,
+            "vicinity": "QFMC+858, Karla, \u090f\u0915\u0935\u0940\u0930\u093e \u0926\u0947\u0935\u0940 \u0930\u094b\u0921, Lonavla"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.9155113,
+                    "lng": 73.3837822
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.91978735,
+                        "lng": 73.38525582989273
+                    },
+                    "southwest": {
+                        "lat": 18.91408595,
+                        "lng": 73.38255617010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bhivgad / Bhimgad Fort - \u092d\u093f\u0935\u0917\u0921 \u0915\u093f\u0902\u0935\u093e \u092d\u0940\u092e\u0917\u0921",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104513904133943719614\">Viraj Torawane</a>"
+                    ],
+                    "photo_reference": "AcYSjRhIVsliUAxLV47A5x32mK9GhEeb-Oxx4ax8rK7LOv9cscApMN0cZAcMMiLIrnm4jSJ07IBGT5sduIn2nRjIzX1uTdeKcY-TCJjNYc0Rbg1ZAZf3RcqFY1MRl3pZzEpi3u8WCLTIA2CJVvC8RLqF36MKIuiMmS54VBDBlQpegnmyUA4S",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJJeyrPkX55zsR578VJfp2cxk",
+            "rating": 4.4,
+            "reference": "ChIJJeyrPkX55zsR578VJfp2cxk",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 267,
+            "vicinity": "W98M+6G3, Gaurkamat"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.8393811,
+                    "lng": 73.3839653
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.84075977989272,
+                        "lng": 73.38524567989272
+                    },
+                    "southwest": {
+                        "lat": 18.83806012010728,
+                        "lng": 73.38254602010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kondhane Buddhist Caves",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 864,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111459507076993451161\">Akash Lokhande</a>"
+                    ],
+                    "photo_reference": "AcYSjRg8Z2SI3a5gM9q9OEwc-Felix9sYPWlO0a6_6OvkfNOosNSfWlrMPDCKN4v-FSiw3qH3um9s0bHd3pvkjRty5EDLpZZsY8bUFz0eShf9o34-6gGGk-V50XrquyWYAMLVzXCFMLAJMmEWLjQGeJDssqE1mxQX060EQX7WfzY5OJRYDgX",
+                    "width": 864
+                }
+            ],
+            "place_id": "ChIJY6mF6m3-5zsRLRj-NVT1Cvs",
+            "rating": 4.5,
+            "reference": "ChIJY6mF6m3-5zsRLRj-NVT1Cvs",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1288,
+            "vicinity": "R9QM+QH4, Rajmachi Trek, Kondhane"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,615 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5631689,
+                    "lng": 80.6225441
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56449947989272,
+                        "lng": 80.62388097989272
+                    },
+                    "southwest": {
+                        "lat": 17.56179982010728,
+                        "lng": 80.62118132010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Vishwaroopa Theater",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109842885600478650662\">Vishnuvardhan Ch</a>"
+                    ],
+                    "photo_reference": "AcYSjRhfuLfFrMO6CF8ygob1UJukVtnBdj_AJl6hRmzES6AZ1tpURu7yAwpIgH6cKfovTkCPXcODK9U9FMJJphVjJuwlqtq8LNsYdVJyR5OvasoTP0LhffEiR19r9r3P8g0TesoTiW0hczl4jsBpY9etXwtfHYRhFu__MZuZqSJyqTqP0oPs",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJY-IMlqIQNDoRDJgBgbMuOi0",
+            "rating": 2.6,
+            "reference": "ChIJY-IMlqIQNDoRDJgBgbMuOi0",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 313,
+            "vicinity": "HJ7F+72P, Kothagudem-Bhadrachalam Rd, Laxmidevipalle, Kothagudem"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.560983,
+                    "lng": 80.6208924
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56219847989272,
+                        "lng": 80.62247142989273
+                    },
+                    "southwest": {
+                        "lat": 17.55949882010728,
+                        "lng": 80.61977177010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Parmeshwari Theatre",
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104792091438102442730\">Hymavathi Patil</a>"
+                    ],
+                    "photo_reference": "AcYSjRih1dvjNh63DZxH-uLG4DibdGEzUuhTsVsbkMwA0FkVwRhcFQEgcNpVo4fFonHZncVSU14oJ6sqcgb3UPwN-QNaGRPATWSy_n4LhVfFAA-FR9fhyxgO8uP-Ao3q2y_l-fOsOL4Ow3pdz--kWWUodZzVmYvaNPewHSy-S0JwcWX2thut",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJOcZf2rwQNDoR7agu2OLmobE",
+            "rating": 3.1,
+            "reference": "ChIJOcZf2rwQNDoR7agu2OLmobE",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 380,
+            "vicinity": "HJ6C+99R, NH30, Laxmidevipally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.563822,
+                    "lng": 80.6229918
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56515427989272,
+                        "lng": 80.62436922989272
+                    },
+                    "southwest": {
+                        "lat": 17.56245462010728,
+                        "lng": 80.62166957010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Maheshwari Theater",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103241416612974154829\">vidya sagar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjGJYUMa6PVOQYOHcLZgqaYb16Ud0hviTZm5GfaakXOYkg4-uyycQZB0tjuGFz1J1rjV8_O4XTD1apxaKrvHEW9oyGn9tce-qDMAMjxJf1S-OOfvQ-usf1lOS6XgoWyAZvnmXD985Uf-fz_ggj-siuM7Op24sU8oBVRDm41BNviaK4E",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJNeRHErkQNDoR_ISqzODyZuc",
+            "rating": 2.8,
+            "reference": "ChIJNeRHErkQNDoR_ISqzODyZuc",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 473,
+            "vicinity": "HJ7F+G5P, Kothagudem,, Laxmidevipally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5963834,
+                    "lng": 80.7034608
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59788357989272,
+                        "lng": 80.70467127989272
+                    },
+                    "southwest": {
+                        "lat": 17.59518392010728,
+                        "lng": 80.70197162010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Venkateshwara Theatre",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111588474925154934639\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhMDjvYRKQwOv7joArqQabS0liimKiZykJP-xUWMXGwVbnpji1Zqcup569jpRPDDmQVZran7YWuWXBK2FPCTPQN22Zq44smmFpPToStga388aSjimCSOAzQZqhm_kadex9BzEBvehV_i3Z0OH3jDBBRx6Of2zBNp4jNY2r2yW-bDq8",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJDcdPE3QbNDoR8otNb_2sPPc",
+            "rating": 3,
+            "reference": "ChIJDcdPE3QbNDoR8otNb_2sPPc",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 655,
+            "vicinity": "HPW3+H94, NH30, Bapuji Nagar Phase I, Bapuji Nagar, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5609354,
+                    "lng": 80.6211057
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56220277989271,
+                        "lng": 80.62259622989272
+                    },
+                    "southwest": {
+                        "lat": 17.55950312010727,
+                        "lng": 80.61989657010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "SVC Poorna Theatre",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1872,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101474954742945114428\">vinay Vardhan</a>"
+                    ],
+                    "photo_reference": "AcYSjRh1Ejj0ZSdAm9fshdqFHFvwa1UshLcDPt3TzeXNpzwnT7oUxtTkLjjRGNS6MvE4cqzUC1Iftt9ukR3Dz6r1UuzU3D5gJeiaJyBMC0UypTVm-2Ce-P5KZnCd5wcoHo6xtEDCmvc87FOdIHzplvK7pXFNBCW_3Q-VFJo-IDLEBUh3hx6H",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJIfX-tFARNDoRBohnQZ4ekHM",
+            "plus_code": {
+                "compound_code": "HJ6C+9C Laxmidevipally, Telangana",
+                "global_code": "7M92HJ6C+9C"
+            },
+            "rating": 3.8,
+            "reference": "ChIJIfX-tFARNDoRBohnQZ4ekHM",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 291,
+            "vicinity": "5, Kothagudem-Bhadrachalam Rd, Srinagar, Laxmidevipally"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5641244,
+                    "lng": 80.62287309999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56544897989272,
+                        "lng": 80.62425577989272
+                    },
+                    "southwest": {
+                        "lat": 17.56274932010728,
+                        "lng": 80.62155612010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Maheswari 70 MM",
+            "place_id": "ChIJkWXGoaIQNDoRkbRPtDax6X0",
+            "rating": 2.3,
+            "reference": "ChIJkWXGoaIQNDoRkbRPtDax6X0",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "HJ7F+J4X, Kothagudem"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5958333,
+                    "lng": 80.7030556
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59714642989272,
+                        "lng": 80.70443112989271
+                    },
+                    "southwest": {
+                        "lat": 17.59444677010728,
+                        "lng": 80.70173147010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Shanthi Theatre",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109198212177714215161\">SRIDHAR RAJU KUCHARLAPATI</a>"
+                    ],
+                    "photo_reference": "AcYSjRhMJIGZrtV0UCOPtbMRNs-wdJUyzqo5SDdHM9Fz6p7Yl96SRceL3Xbw_o707kEDRsfs-l_YChMCNrT5NZvtEQTODErMj6EnflpheutXv0OQBJ5xmVzXH0E14XYIoM-apENhdIex49tmVm7dmQDsN2j5ilJKNaeQEus2VqCqSLx73kGt",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJPaMLQnQbNDoR4eZ7N68O3vc",
+            "plus_code": {
+                "compound_code": "HPW3+86 Palwancha, Telangana",
+                "global_code": "7M92HPW3+86"
+            },
+            "rating": 3.6,
+            "reference": "ChIJPaMLQnQbNDoR4eZ7N68O3vc",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1401,
+            "vicinity": "National Highway 30, Bapuji Nagar Phase I, Bapuji Nagar, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5540336,
+                    "lng": 80.62289299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.55538522989272,
+                        "lng": 80.62424267989273
+                    },
+                    "southwest": {
+                        "lat": 17.55268557010728,
+                        "lng": 80.62154302010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Sowmika Samhith Silver Screens",
+            "photos": [
+                {
+                    "height": 9144,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100511258102239135971\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhm-LwIrQdQ3i3iHmTxzSpWXG9HtPEhiplMJEYom1m6DxFUYw0d-rCtv0D-UdT73jWRj9OZFNQY1Cq8F5t55ZW0673606MZL8mJR8MyTmtkOIeewED5zgsSBu07pRbkmL5dwqBPgwJKyMFrRA9jzSMm9eCx7lccWxHqWaNkFVvhWw0-",
+                    "width": 9144
+                }
+            ],
+            "place_id": "ChIJq8zuMFARNDoRRsy8IHvJc-Q",
+            "plus_code": {
+                "compound_code": "HJ3F+J5 Kothagudem, Telangana",
+                "global_code": "7M92HJ3F+J5"
+            },
+            "rating": 0,
+            "reference": "ChIJq8zuMFARNDoRRsy8IHvJc-Q",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Coolie Lane, Hanuman Basthi, Kothagudem"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5957901,
+                    "lng": 80.7030856
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59714642989272,
+                        "lng": 80.70443112989271
+                    },
+                    "southwest": {
+                        "lat": 17.59444677010728,
+                        "lng": 80.70173147010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Kamareddy",
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104098842706325840519\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjTWSHkigiX4id3pUlIVPF04cjUtlnZmVnYIfYBzupKNLEaJGq713CfrzMvofB8IfANmPM6QGcidieG9rfMYqN5imuEk4XPtZu8VQg1ujiWM7Da3wcE2nY1YqlnZ185hYxzMNFfsysXVQQ8DyT84CI6O3UV_6ekiWpIh5Ize9dAZ9Hi",
+                    "width": 1936
+                }
+            ],
+            "place_id": "ChIJf1lBcrsbNDoRtQ9-OAvaHmM",
+            "plus_code": {
+                "compound_code": "HPW3+86 Palwancha, Telangana",
+                "global_code": "7M92HPW3+86"
+            },
+            "rating": 5,
+            "reference": "ChIJf1lBcrsbNDoRtQ9-OAvaHmM",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "National Highway 30, Bapuji Nagar Rd, Bapuji Nagar Phase I, Bapuji Nkamaredagar, Phase I, Bapuji Nagar, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5476894,
+                    "lng": 80.6074544
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.54890857989272,
+                        "lng": 80.60875262989272
+                    },
+                    "southwest": {
+                        "lat": 17.54620892010728,
+                        "lng": 80.60605297010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Sri Venkateshwara Palvancha",
+            "place_id": "ChIJCeU2CskQNDoRfQcLzU0SYLQ",
+            "rating": 3,
+            "reference": "ChIJCeU2CskQNDoRfQcLzU0SYLQ",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "GJX4+4X5, NH30, Writer Basti, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5956252,
+                    "lng": 80.6994905
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59699812989272,
+                        "lng": 80.70090437989272
+                    },
+                    "southwest": {
+                        "lat": 17.59429847010728,
+                        "lng": 80.69820472010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Pallavi Creations Banjara",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ4R8JeJMbNDoRhiB4J9PGXQs",
+            "rating": 0,
+            "reference": "ChIJ4R8JeJMbNDoRhiB4J9PGXQs",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "HMWX+6QX, Gattaigudem, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5578596,
+                    "lng": 80.61872050000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.55932902989272,
+                        "lng": 80.62012732989272
+                    },
+                    "southwest": {
+                        "lat": 17.55662937010728,
+                        "lng": 80.61742767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "BALASANI NARSA GOUD FAMIly & Durga Kala Mandir",
+            "place_id": "ChIJbT7HWBwRNDoRa-Irt6Gorsk",
+            "plus_code": {
+                "compound_code": "HJ59+4F Laxmidevipally, Telangana",
+                "global_code": "7M92HJ59+4F"
+            },
+            "rating": 5,
+            "reference": "ChIJbT7HWBwRNDoRa-Irt6Gorsk",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "NH30, Srinagar, Laxmidevipally"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 17.5966157,
+                    "lng": 80.7037359
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59807887989273,
+                        "lng": 80.70498032989272
+                    },
+                    "southwest": {
+                        "lat": 17.59537922010728,
+                        "lng": 80.70228067010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Venugopal Theatre",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103888386904433724630\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRivOR7PlcCT6OtfcAh5xS539tAvJEbJr0HHoFTMT8cSXgKS4gjjaHjiMAH4mc3v0piU5U0wLWPPBDoGywlijjIWQt_RNctf3kMfk70LWh9cDSpMhLXIbQwOVYLiV3aFEWCfGr-Ayq40X5o1VBhGYqK9zqVGb7uadygAf-cyROjklq99",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJ06mdEXQbNDoRk9idWIV8-1E",
+            "rating": 2.7,
+            "reference": "ChIJ06mdEXQbNDoRk9idWIV8-1E",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 184,
+            "vicinity": "HPW3+JG7, NH30, Bapuji Nagar Phase I, Bapuji Nagar, Palwancha"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.560934,
+                    "lng": 80.6211079
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.56220337989272,
+                        "lng": 80.62258012989273
+                    },
+                    "southwest": {
+                        "lat": 17.55950372010728,
+                        "lng": 80.61988047010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Poorna Pictue Palace",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112306479457869809604\">Ranjith Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRgyrS-qOSMzIUVUD7WnFBpnlYkVY5o1kAzTWMI3I6Ka6yTgQEzl3EQs-zvAJHx-gxDoMLtZsrxMEs5N8klHIabKwSX6OtADEgg98mMirtw_0ZOLax_5gF0NHlB6L8YLV0BersP4wBsoWjnDND9y4x1TOyIoHfbjpDEA23NoO7YTBEaV",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJNaEt17wQNDoR2HYKBo0Agjw",
+            "plus_code": {
+                "compound_code": "HJ6C+9C Laxmidevipally, Telangana",
+                "global_code": "7M92HJ6C+9C"
+            },
+            "rating": 3.6,
+            "reference": "ChIJNaEt17wQNDoR2HYKBo0Agjw",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 207,
+            "vicinity": "5, Kothagudem-Bhadrachalam Rd, Srinagar, Laxmidevipally"
+        }
+    ],
+    "status": "OK"
+}

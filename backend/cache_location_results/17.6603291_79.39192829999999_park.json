@@ -1,0 +1,757 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6227376,
+                    "lng": 79.45289629999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62418172989272,
+                        "lng": 79.45433112989272
+                    },
+                    "southwest": {
+                        "lat": 17.62148207010728,
+                        "lng": 79.45163147010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "PARK VALMIDI",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108114683429887295639\">Kiran Ramya</a>"
+                    ],
+                    "photo_reference": "AcYSjRiZumReHdMd4LFOjvOHJDjKb_BK7rDSLygimTwbe3lgtfMeYqpWuK59nf5milD67bYUw1k2eCug82025ZmbOIcIS83D9lVO-ygi1dKBl1luvkxvIEzZf6aRQ07eN0R7l6Iv2WXUlMsEmri7eJ3zmzLX_CAPUMjoa8_kO_EKSxMppSeF",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJSWWSJO2tNDoRCMblmXrwfXE",
+            "rating": 4.5,
+            "reference": "ChIJSWWSJO2tNDoRCMblmXrwfXE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "JFC3+X88, Valmidi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7462997,
+                    "lng": 79.30701429999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74764832989272,
+                        "lng": 79.30836862989271
+                    },
+                    "southwest": {
+                        "lat": 17.74494867010728,
+                        "lng": 79.30566897010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Garuda Mini Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112506236237554841290\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjZD7MaWwzc5FjxtbEa90_dB3LEf1V0H7eiw0WEPietLBiCsoaj4xjQASIV6D0lcfxEaqAXUMePCDq1gux-DSYFk0QPWt3CNkoi_nYUhVEtEppFExJQO7ZW5ySZbB-jYODWbSELk9qUB7gkgx4TZZ7X9ibFc1hzxO4_D38rlWVQjyEO",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJBZYHhuRVyzsRsiGnT_ujqVU",
+            "rating": 5,
+            "reference": "ChIJBZYHhuRVyzsRsiGnT_ujqVU",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "P8W4+GR6, Unnamed Road, Peddamma Gadda, Kanchanpalle"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6135036,
+                    "lng": 79.4398903
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61502687989272,
+                        "lng": 79.44124107989272
+                    },
+                    "southwest": {
+                        "lat": 17.61232722010728,
+                        "lng": 79.43854142010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Valmidi park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103605887688919272529\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg0CAWGwv3dRYRTLl1HE_rdMSgzYaAiqqbOHXaKGViuU7zY99-02u0DnLQspNnq0ZVwFh3cwLPqePfz4OCVYMyLaLMLUSeCqmj-h__ovw04kiRmpCOMeELtusCxFKbS97dv-QjuZTT3TfCkk0ewQC4q0jpoK3eMdlG_tynJIkdUO9Xu",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJPb7uC0-tNDoR79ARRbrZe-g",
+            "rating": 0,
+            "reference": "ChIJPb7uC0-tNDoR79ARRbrZe-g",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JC7Q+CX2, Valmidi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6284011,
+                    "lng": 79.40600189999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62972457989272,
+                        "lng": 79.40746522989272
+                    },
+                    "southwest": {
+                        "lat": 17.62702492010728,
+                        "lng": 79.40476557010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Visnoor public park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 4325,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109128416592450221110\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjVP70kmWteEWvunmZmcU7yughJiEyoGHzvPV9lb9YDc8B1wKFAZ4F7Lo8sk8RtvuEcM3ZVOwt1XstFZas8xH7Mgn75DBGBFOIbcZgj-ZEltBMnkIm65EMIKFzQ1eic_5hSP5XXLohxyqVtRB9iZO4-rsDClB2aRxonrAtLdqs87qTh",
+                    "width": 5780
+                }
+            ],
+            "place_id": "ChIJ6eypUJutNDoRSXOChchIDnw",
+            "plus_code": {
+                "compound_code": "JCH4+9C Visnoor, Telangana",
+                "global_code": "7J9XJCH4+9C"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ6eypUJutNDoRSXOChchIDnw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Unnamed Road, Visnoor"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6635193,
+                    "lng": 79.3801669
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66486987989272,
+                        "lng": 79.38157512989272
+                    },
+                    "southwest": {
+                        "lat": 17.66217022010728,
+                        "lng": 79.37887547010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Nursary park THORRUR",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102770683660496001392\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhF_twl6eKdyOquqO5uwtX2SlUHr0i1f2QUP0KlcFqh_nwwbbWzTk-nJB_KWsIka8SgFVdS9nLxTZ8ZRxZGveYl9OL8uzz-B4DwDhdcckRq83X3XruhS2L2JzY1ULL_JLsvfRN7Ke4LDnIgv4PZnsFtSCT8TgKwDhFsJDNTzxcT6wyh",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ64r2FlhTyzsRNYPL6PgDz7c",
+            "rating": 5,
+            "reference": "ChIJ64r2FlhTyzsRNYPL6PgDz7c",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "M97J+C33, Thorrur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7104331,
+                    "lng": 79.31724059999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.71177842989272,
+                        "lng": 79.31856872989272
+                    },
+                    "southwest": {
+                        "lat": 17.70907877010728,
+                        "lng": 79.31586907010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "PALLE PRAGATHI GABBETA KPEL",
+            "opening_hours": {},
+            "place_id": "ChIJdfEI-hFVyzsRiTlzPBu1YJk",
+            "rating": 0,
+            "reference": "ChIJdfEI-hFVyzsRiTlzPBu1YJk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "P868+5VH, Gabbeta"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.65262,
+                    "lng": 79.4012733
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65391927989272,
+                        "lng": 79.40253157989272
+                    },
+                    "southwest": {
+                        "lat": 17.65121962010728,
+                        "lng": 79.39983192010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sathwik",
+            "place_id": "ChIJNwG828StNDoRVjbnJCWKdWU",
+            "rating": 0,
+            "reference": "ChIJNwG828StNDoRVjbnJCWKdWU",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MC32+2GR, Laxminarayanpur, Lakshminarayana Puram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7243144,
+                    "lng": 79.4156154
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.72520757989272,
+                        "lng": 79.41636125
+                    },
+                    "southwest": {
+                        "lat": 17.72250792010728,
+                        "lng": 79.41337784999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0c2a\u0c32\u0c4d\u0c32\u0c46 \u0c2a\u0c4d\u0c30\u0c15\u0c41\u0c24\u0c3f \u0c35\u0c28\u0c02 \u0c17\u0c42\u0c21\u0c42\u0c30\u0c41",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107101996760017211900\">pullaiah macherla</a>"
+                    ],
+                    "photo_reference": "AcYSjRgj8WB0-1lv7a54RFbcd3Lg_YZH66TtmoeaB3glUV4NWzDpaJtaxIRorPCBniu0IiiITTizjOLpjaBWU5xKSEavlO6muioVcoLMUOo1dT8aEvLfATfmu0UM6rQOymlsUQIFBDmlcsqrMtZNoDDPKF7-BslNit6U_QO4dvoM1_WmsDs",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJQzuE1XKrNDoRSPlANzOqbgk",
+            "rating": 0,
+            "reference": "ChIJQzuE1XKrNDoRSPlANzOqbgk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "PCF8+P6H, Unnamed Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.744364,
+                    "lng": 79.3100864
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74595322989272,
+                        "lng": 79.31144472989273
+                    },
+                    "southwest": {
+                        "lat": 17.74325357010728,
+                        "lng": 79.30874507010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Nagaraju Shamla 1",
+            "place_id": "ChIJqdh0abhVyzsRNTHoTv77Lb0",
+            "rating": 0,
+            "reference": "ChIJqdh0abhVyzsRNTHoTv77Lb0",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "P8V6+P2W, Peddamma Gadda, Kanchanpalle"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6519858,
+                    "lng": 79.40080619999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65336872989272,
+                        "lng": 79.40215997989272
+                    },
+                    "southwest": {
+                        "lat": 17.65066907010728,
+                        "lng": 79.39946032010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Aravind nani",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJPTXY6SWtNDoRwP6IQku5jso",
+            "rating": 0,
+            "reference": "ChIJPTXY6SWtNDoRwP6IQku5jso",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MC22+Q8V, Laxminarayana Puram Rd, Lakshminarayana Puram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6171852,
+                    "lng": 79.45651529999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61854287989272,
+                        "lng": 79.45786667989273
+                    },
+                    "southwest": {
+                        "lat": 17.61584322010728,
+                        "lng": 79.45516702010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Vinay Polasa",
+            "place_id": "ChIJBXQ2K2OtNDoR1EZ2FaxHxwQ",
+            "rating": 0,
+            "reference": "ChIJBXQ2K2OtNDoR1EZ2FaxHxwQ",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JF84+VJC, Valmidi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6272038,
+                    "lng": 79.4524089
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62858257989272,
+                        "lng": 79.45390932989271
+                    },
+                    "southwest": {
+                        "lat": 17.62588292010728,
+                        "lng": 79.45120967010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Enuga Narsaiah",
+            "place_id": "ChIJlfgSKMitNDoRdxXg1vrIbY4",
+            "rating": 0,
+            "reference": "ChIJlfgSKMitNDoRdxXg1vrIbY4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JFG2+VXM, Valmidi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.655048,
+                    "lng": 79.36322870000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65640102989272,
+                        "lng": 79.36456912989271
+                    },
+                    "southwest": {
+                        "lat": 17.65370137010728,
+                        "lng": 79.36186947010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Shatapuram Nursery",
+            "place_id": "ChIJ7z1xMZBTyzsRa3-tAzcgsEc",
+            "rating": 0,
+            "reference": "ChIJ7z1xMZBTyzsRa3-tAzcgsEc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "M947+279, shatapuram Bus Stop, Palakurthy, Shatapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6019162,
+                    "lng": 79.4740387
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60334452989272,
+                        "lng": 79.47573307989272
+                    },
+                    "southwest": {
+                        "lat": 17.60064487010727,
+                        "lng": 79.47303342010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Badike uppalaiah aggricultural land",
+            "place_id": "ChIJXyfSTbqvNDoRcmtGjCC5LCA",
+            "plus_code": {
+                "compound_code": "JF2F+QJ Mutharam, Telangana",
+                "global_code": "7J9XJF2F+QJ"
+            },
+            "rating": 0,
+            "reference": "ChIJXyfSTbqvNDoRcmtGjCC5LCA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Danthalagadda thanda, Mutharam"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6267287,
+                    "lng": 79.3029397
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62859877989272,
+                        "lng": 79.30416047989272
+                    },
+                    "southwest": {
+                        "lat": 17.62589912010728,
+                        "lng": 79.30146082010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "K.Venkatesh land",
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114363760769079345922\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRghbhQutOdsnuPr_nLcBaktMjmSdvdiO2zE6pjUs6sVukp4TOjuyTPlbRkuy138VbsOG8hFztc9c9HDmQyWquHDvdiJbhm_k4_80gSup1DymZY_4ZLPCrp3JOkNoydWWa9k13RMmkX-QgiszqS9ej2HoEY-IlJg8xcZ2SiAbvlfaUMB",
+                    "width": 1536
+                }
+            ],
+            "place_id": "ChIJ1RECGnpTyzsRESEPa1K3e5E",
+            "rating": 5,
+            "reference": "ChIJ1RECGnpTyzsRESEPa1K3e5E",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "J8G3+M5W, Chinnamadur Rd, Chinnamadur, Madoorkhurd"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6240101,
+                    "lng": 79.4508025
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62536822989272,
+                        "lng": 79.45225892989272
+                    },
+                    "southwest": {
+                        "lat": 17.62266857010728,
+                        "lng": 79.44955927010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Erra cheruvu",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103605887688919272529\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjjPAAkwkJV9CGVEHbpROqtw_MMw_78pGiAA1fJWbfJS7_rGcB9SIhXsqQ6lx6NMc8n8T9GF6hHezU6nMYJIQZ-M3EbbiYy40G4RXkrvtSO1QUlGTrCVUbA5Uiw8t9HjTazpkvc_6AzK4j-YF3x4pPTgBGrUPBtHpOTu12lywlvEfMR",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJdUb6dMKtNDoRxQ3hgKhLI1Y",
+            "rating": 5,
+            "reference": "ChIJdUb6dMKtNDoRxQ3hgKhLI1Y",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "JFF2+J83, Valmidi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6007029,
+                    "lng": 79.4753977
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60221222989272,
+                        "lng": 79.47676142989272
+                    },
+                    "southwest": {
+                        "lat": 17.59951257010728,
+                        "lng": 79.47406177010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Farm",
+            "place_id": "ChIJ5T35XgmvNDoRiAmXC7wlV9c",
+            "rating": 0,
+            "reference": "ChIJ5T35XgmvNDoRiAmXC7wlV9c",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "JF2G+FF3, Mutharam"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5861616,
+                    "lng": 79.3399946
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.58738712989272,
+                        "lng": 79.34097977989272
+                    },
+                    "southwest": {
+                        "lat": 17.58468747010728,
+                        "lng": 79.33828012010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Mango garden",
+            "place_id": "ChIJnfBID8VTyzsRf1WRPThBcvI",
+            "rating": 5,
+            "reference": "ChIJnfBID8VTyzsRf1WRPThBcvI",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "H8PQ+FX9, Kadavendi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6225402,
+                    "lng": 79.3716338
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62453377989272,
+                        "lng": 79.37350057989272
+                    },
+                    "southwest": {
+                        "lat": 17.62183412010728,
+                        "lng": 79.37080092010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Chintu land",
+            "place_id": "ChIJQUwpPYBTyzsRDhK7UNPVA-g",
+            "rating": 0,
+            "reference": "ChIJQUwpPYBTyzsRDhK7UNPVA-g",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J9FC+2M, Thurputhanda"
+        }
+    ],
+    "status": "OK"
+}

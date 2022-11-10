@@ -1,0 +1,567 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8903844,
+                    "lng": 79.12290349999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.89172497989272,
+                        "lng": 79.12428492989272
+                    },
+                    "southwest": {
+                        "lat": 12.88902532010728,
+                        "lng": 79.12158527010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr.MGR Statue",
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117054553586941006202\">Samartha B S</a>"
+                    ],
+                    "photo_reference": "AcYSjRh6gDFJNDz8InLis8PCA2SY_ifM0ENWhG7X65W78qqVs1dAXUkp9UgOa89V_cUJsP4_Es_724nMnxjzbgpTUiLe-AVKCC_VPl59OHD4zISjHr9QaDe-g1s5YVOD3u8nEUfBqBahlFb9Bx2_IeVnXCxT8g_0O6e-n3f2TWpCdx6eMm44",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJRYTZFiU5rTsRhdVNvRjtgXo",
+            "rating": 4.1,
+            "reference": "ChIJRYTZFiU5rTsRhdVNvRjtgXo",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "V4RF+552, Vellore,, Ramset Nagar, Thorapadi, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9211772,
+                    "lng": 79.1316095
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92246037989272,
+                        "lng": 79.13290677989272
+                    },
+                    "southwest": {
+                        "lat": 12.91976072010728,
+                        "lng": 79.13020712010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mahatma Ghandhi Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102155126180671953703\">Krishna Prosad Mondol</a>"
+                    ],
+                    "photo_reference": "AcYSjRijag30crKqnR0j1SeDMsYySur5lbXerjZ9Vxxwn3Z0fKhsRrCfNntZ7zbHvIYBZ0keAl-fLp8rnOIgekFG1Xp8IJ6n05PgjNo4COcC0ph2iWv7pMmqVfnT6U-cNxIS3p0VCdXcfwiH1ovWKLIdojNlBTNy1KVK_dKbzvYjoY_fC71A",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ73dXfTA5rTsRGWbZO-7tHf0",
+            "rating": 0,
+            "reference": "ChIJ73dXfTA5rTsRGWbZO-7tHf0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "W4CJ+FJH, Balaji Nagar, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9165721,
+                    "lng": 79.1323341
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.91791447989272,
+                        "lng": 79.13366702989272
+                    },
+                    "southwest": {
+                        "lat": 12.91521482010728,
+                        "lng": 79.13096737010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Queen Victoria Jubilee Memorial Pillar",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116851255415056212662\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjux8vyAT5jRCAiPDVLDa9dgbaoTpVKKNBz-mmsXH6DVFM_zh0lUR_jjJ0VZBPgz7J0yBquZPMQctOT2bajTGWPah7XVo4IeofcVEURUUHiv1HQdP73RZlA0FEyF29C2fazmTDZFHuIhSQ3OgZTcnn0TFizfnAQyaMv_ENe3jmZb7fk",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJH_6J4uk4rTsRJhpNFfDIih4",
+            "rating": 4.2,
+            "reference": "ChIJH_6J4uk4rTsRJhpNFfDIih4",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "W48J+JW8, Officer's Line Opp. South Police Station, National Highway 234, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8953583,
+                    "lng": 79.123545
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.89670617989272,
+                        "lng": 79.12497047989272
+                    },
+                    "southwest": {
+                        "lat": 12.89400652010728,
+                        "lng": 79.12227082010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Megalithic Burial site",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101435174331518442509\">Tamil vanan</a>"
+                    ],
+                    "photo_reference": "AcYSjRju8c4v3hFU5GsFpryMsMSRmcVnrfOoT3CVDpsf1BKkPLICVIoorCy3VcBvzlu6WZ2aziHWXSHjdaEALkMVQTScxwoM24vndemRWtqsAnVIiK7rcJ7_Qd4fdXfQxIbWRG6B-d5zpG5D3Z_TUjqbMDUPWjPlVcxQ6scurQU-_fooKlUR",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJy1atQG05rTsR1Ke68MrnvYE",
+            "plus_code": {
+                "compound_code": "V4WF+4C Palavansathu, Tamil Nadu",
+                "global_code": "7J4XV4WF+4C"
+            },
+            "rating": 5,
+            "reference": "ChIJy1atQG05rTsR1Ke68MrnvYE",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "15, 2nd St, Periyar Nagar, Rahim Nagar, Allapuram, Thorapadi, Palavansathu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9210886,
+                    "lng": 79.129471
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92240897989272,
+                        "lng": 79.13086837989272
+                    },
+                    "southwest": {
+                        "lat": 12.91970932010728,
+                        "lng": 79.12816872010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Vellore Fort, Tamil Nadu",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 9248,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115197511592555494302\">Raja Ravi</a>"
+                    ],
+                    "photo_reference": "AcYSjRhOl3p1qcskb0vmIivmo9eIfLQa-bOGUBOVCeSb5Rr8DZMKlmQeTxZfyis9VViwgmWPGhVy0LQq1u6s56j6CAfV4asQu6GWxOJB3X3KfqYIpIxw4xyy69btL55C9kqfg8HOyTAbmDpEray5F8FkOd4PMZz7nBdfzk4ITRBdyTdWf8iz",
+                    "width": 6936
+                }
+            ],
+            "place_id": "ChIJE6vB5sA4rTsRo8qGLhiADtQ",
+            "plus_code": {
+                "compound_code": "W4CH+CQ Vellore, Tamil Nadu",
+                "global_code": "7J4XW4CH+CQ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJE6vB5sA4rTsRo8qGLhiADtQ",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22306,
+            "vicinity": "Balaji Nagar, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9156122,
+                    "lng": 79.1323006
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.91696052989272,
+                        "lng": 79.13377262989272
+                    },
+                    "southwest": {
+                        "lat": 12.91426087010728,
+                        "lng": 79.13107297010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Philately Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111606565613037897015\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhgIO9gCzjf9TeicSEz_XPqZaoYqfHZYRQwH-Ckir-1U5xwoj7G-jgXcyMXrvv5Fr9j7pa4B_yYpBPHg1hQVDzwLQS77VXznZvjyJrUZlNT4SosmqkYRSp8ytIKh61QTxJ96r9nebsXH1Oo1ANUg8jHDyjR94q_9-1KQmNGdzCUEyn5",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJQdWTu6E5rTsRezfpcZ4Fx6w",
+            "plus_code": {
+                "compound_code": "W48J+6W Vellore, Tamil Nadu",
+                "global_code": "7J4XW48J+6W"
+            },
+            "rating": 5,
+            "reference": "ChIJQdWTu6E5rTsRezfpcZ4Fx6w",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "In side Head post office, National Highway 234, Anna Salai, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9199146,
+                    "lng": 79.1314053
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92128157989272,
+                        "lng": 79.13307047989272
+                    },
+                    "southwest": {
+                        "lat": 12.91858192010728,
+                        "lng": 79.13037082010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Vellore Fort Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103559433607355458851\">yugesh edara</a>"
+                    ],
+                    "photo_reference": "AcYSjRjkt2yCr_dvXosSu25Y-pHe2wNWNG6_byJ1lO2RC7ivCvJXkYfFuI2ilwJuF3V-VktmFgA5XE69p8aQYKp6ls6AusIUQybSoRPkd3-9TS_OuakjiWW3KbeJ70nfbsX4MR3Li0xAGFDjEFxh8gj1yTcUoOXfVe4vo1m0fpWW_-dCWmwU",
+                    "width": 1836
+                }
+            ],
+            "place_id": "ChIJx1GmzcE4rTsREGswQAVxsm8",
+            "plus_code": {
+                "compound_code": "W49J+XH Vellore, Tamil Nadu",
+                "global_code": "7J4XW49J+XH"
+            },
+            "rating": 4.3,
+            "reference": "ChIJx1GmzcE4rTsREGswQAVxsm8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2919,
+            "vicinity": "Archaelogical Road, Officer's Line, near Fort, Balaji Nagar, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9195268,
+                    "lng": 79.1298741
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92087777989272,
+                        "lng": 79.13080857989272
+                    },
+                    "southwest": {
+                        "lat": 12.91817812010728,
+                        "lng": 79.12810892010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Government Museum",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113156742688791989504\">Sambit KUMAR SWAIN</a>"
+                    ],
+                    "photo_reference": "AcYSjRiwzQlx09Xo45xhSd9E4NBGAqlgXEHnt3U-icD3IilgjK54-T_zpgMJZXpR8kzA3aVtPJMQgq6lSzYCYSWnD_hzfHbXXMHdtUx2pPhLtUu1yEAna1mU3ElPpYgiLGIiN1to7_-t1RCvfLxLIvBWCLGUpEmEgxZh-44XXn3GB5MuLniP",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJnz4br8E4rTsRZpwfGexuAqc",
+            "rating": 4,
+            "reference": "ChIJnz4br8E4rTsRZpwfGexuAqc",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 458,
+            "vicinity": "W49H+RX6, Balaji Nagar, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9252635,
+                    "lng": 79.1467765
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9285395,
+                        "lng": 79.14781255
+                    },
+                    "southwest": {
+                        "lat": 12.9241715,
+                        "lng": 79.14366834999998
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sajra Fort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104233429334230331931\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgj6xLAY7V-tXZfmVuMmyMa70LSzgCcaHu9CZCaZ7TkU234REnocVb6esmghKk2bp4XgMqeDE83U7oMXcx2eKDoEpeWpnz0MlGkmsJ2fSN56Wse8V3t0gdwADUYwpfEaNxzt0tIzlmJukJo5eczx809c6juVQjsV3iES1Xp-7SWh-fm",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJBXyrII04rTsRsm4U_gmeKXo",
+            "rating": 4.3,
+            "reference": "ChIJBXyrII04rTsRsm4U_gmeKXo",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 245,
+            "vicinity": "W4GW+4P2, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9222947,
+                    "lng": 79.0224051
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92345297989272,
+                        "lng": 79.02375027989272
+                    },
+                    "southwest": {
+                        "lat": 12.92075332010728,
+                        "lng": 79.02105062010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Margabandeswarar Temple",
+            "photos": [
+                {
+                    "height": 2400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108131660125729010317\">tr</a>"
+                    ],
+                    "photo_reference": "AcYSjRhThzVdNbcMiSM8_8OYJl8jMqZ7OFkffa6pDFwQ6bvFfshBiKJEysyXmIk3JHnNZzlNiBYfkCJN3RMynzKweeu1O-fOxDbeTlDTul2saouBLIuB7vXYstnN8DdagdyIYhDdQRzyD4LucFpUZUq8mFuUKMIuGZmJPV7WKYdiMP1dUbf2",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJdRtBCeE_rTsRTj0pMgJJyjA",
+            "rating": 4.7,
+            "reference": "ChIJdRtBCeE_rTsRTj0pMgJJyjA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 315,
+            "vicinity": "W2CC+WX6, Virinchipuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9530214,
+                    "lng": 79.14267009999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.95437127989272,
+                        "lng": 79.14398847989273
+                    },
+                    "southwest": {
+                        "lat": 12.95167162010728,
+                        "lng": 79.14128882010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Silver Stone Granites",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJBb9j_6JHrTsRUPKdauU9bDM",
+            "plus_code": {
+                "compound_code": "X43V+63 Vellore, Tamil Nadu",
+                "global_code": "7J4XX43V+63"
+            },
+            "rating": 5,
+            "reference": "ChIJBb9j_6JHrTsRUPKdauU9bDM",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "6A, 14th East Main Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8369656,
+                    "lng": 79.05500239999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.83832717989272,
+                        "lng": 79.05630822989272
+                    },
+                    "southwest": {
+                        "lat": 12.83562752010728,
+                        "lng": 79.05360857010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pillaiyarkovil, sivanathapuram",
+            "photos": [
+                {
+                    "height": 6000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113696331518179844297\">Kuralmudhu Kuralamudhu</a>"
+                    ],
+                    "photo_reference": "AcYSjRiVksXUstqx1ln7yl1um0cGhgIF-aZux1nFxEmLK_hzVGEXo0bk0LZ-dpq4oRo8DctmSB2CCki-hTolJT4cvMOrPXaOLHDeit8LpRbbsuTzSvPcchbwwwj1-3CYu2xX4LeSklTs_av3HZ4sf0A7JOtwI-newTftojmJvA7bJZaY8ZKw",
+                    "width": 8000
+                }
+            ],
+            "place_id": "ChIJqRXyDUg9rTsROadzgjVzhp0",
+            "rating": 5,
+            "reference": "ChIJqRXyDUg9rTsROadzgjVzhp0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "R3P3+QXQ, Unnamed Road, Sivanathapuram"
+        }
+    ],
+    "status": "OK"
+}

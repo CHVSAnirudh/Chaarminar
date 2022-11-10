@@ -1,0 +1,241 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3838071,
+                    "lng": 76.4594565
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.38520217989272,
+                        "lng": 76.46078287989273
+                    },
+                    "southwest": {
+                        "lat": 17.38250252010728,
+                        "lng": 76.45808322010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Dr B R ambedkar nagar yalasangi",
+            "place_id": "ChIJXYm6hpKnyDsRCOI37gfMWt8",
+            "rating": 1,
+            "reference": "ChIJXYm6hpKnyDsRCOI37gfMWt8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "9FM5+GQG, Yelsangi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3940721,
+                    "lng": 76.5462615
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39542192989272,
+                        "lng": 76.54761132989272
+                    },
+                    "southwest": {
+                        "lat": 17.39272227010728,
+                        "lng": 76.54491167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sanagundi Farm land",
+            "place_id": "ChIJkQ6nKiSnyDsRbGaQDcsiLGg",
+            "rating": 4,
+            "reference": "ChIJkQ6nKiSnyDsRbGaQDcsiLGg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "9GVW+JGC, Unnamed Road, Hithal Sirur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4122342,
+                    "lng": 76.5138765
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41358402989272,
+                        "lng": 76.51522632989271
+                    },
+                    "southwest": {
+                        "lat": 17.41088437010728,
+                        "lng": 76.51252667010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "SM fields",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115426954754668304551\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiiTYznVCQi_KVe8qtIZUuYKqg59jghGOAzkiKrSWjixiU1FXCsvOltjcCCwzVkFscnDjBpjriNyeobmhvDVmdH3hqF6CmWISBR3SCxlClNV2q6-Sxl9ua1fr2dH-ewKDlZI0JiysH1osDSIT4luk6p35ge047vaQr4tdhCmDZTcRab",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJSSEOYLipyDsRR4xR8V5oicM",
+            "rating": 0,
+            "reference": "ChIJSSEOYLipyDsRR4xR8V5oicM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "CG67+VH, Jawali.D"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3862819,
+                    "lng": 76.5365766
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.38769677989272,
+                        "lng": 76.53800932989272
+                    },
+                    "southwest": {
+                        "lat": 17.38499712010728,
+                        "lng": 76.53530967010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "kacheri katti",
+            "place_id": "ChIJpW8c3emnyDsR4mw4I4sFt3g",
+            "rating": 0,
+            "reference": "ChIJpW8c3emnyDsR4mw4I4sFt3g",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "9GPP+GJ8, Hithal Sirur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5153087,
+                    "lng": 76.57335890000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.51664492989272,
+                        "lng": 76.57478597989272
+                    },
+                    "southwest": {
+                        "lat": 17.51394527010728,
+                        "lng": 76.57208632010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Saalu Marada Timmakka Wrukshodyana",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 1816,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102069996990216586194\">Sharanu kusur</a>"
+                    ],
+                    "photo_reference": "AcYSjRjMH3l2Ac8-769Q3ABZkiU5tg2POIkBAmR-0ttsh9N6G-CqMBaTi2WPvinsJSmPDvCYHGIa-L4rDZuzj7PqjGjczGjNikRrsCZKSmbSXUOPBGR6spgaR1wcQqEUBoyFOeTQ-4x_Fyw4C6Z2UnPyAxB0bD1rxZtxo4JJb7io-NaIsIUT",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ_Rl9YrWtyDsRzUIrX4fz3bo",
+            "rating": 4.3,
+            "reference": "ChIJ_Rl9YrWtyDsRzUIrX4fz3bo",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "GH8F+48H, Koralli, Tq. Aland, Korhalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3608695,
+                    "lng": 76.4972626
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.36216422989272,
+                        "lng": 76.49922722989272
+                    },
+                    "southwest": {
+                        "lat": 17.35946457010728,
+                        "lng": 76.49652757010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Shivaram Bhat Joshi Farm",
+            "photos": [
+                {
+                    "height": 6000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111763712955322520979\">shrungesh shastry</a>"
+                    ],
+                    "photo_reference": "AcYSjRiNiBl4Ziwfp6vuHibYa7_unC-j-DPlXR_gJTWIzC7UT079Rgo6NQB9-VU3kpICvCt5iBJDn9Jmo5fh4dgcOe1z1HrEQBL0gKl-HXdwvxV00Ka0WDqTrWKEdlUlOxOPcks_jxX201zDDIDpuZBFq8Xk0skP9cthCJEyX7OtWiyTReZq",
+                    "width": 8000
+                }
+            ],
+            "place_id": "ChIJy6Xi6r6nyDsRWE7ZDXR50I4",
+            "rating": 0,
+            "reference": "ChIJy6Xi6r6nyDsRWE7ZDXR50I4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "9F6W+8WR, Madiyal Tanda, Rd, Bennishiroor"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,117 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 14.4754838,
+                    "lng": 78.7144922
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 14.47683717989272,
+                        "lng": 78.71585932989274
+                    },
+                    "southwest": {
+                        "lat": 14.47413752010728,
+                        "lng": 78.71315967010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Yogi Vemana Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJIalpdgF1szsRnkOuAkMNELU",
+            "rating": 0,
+            "reference": "ChIJIalpdgF1szsRnkOuAkMNELU",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FPG7+5QX, Yogi Vemana University"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 14.4733791,
+                    "lng": 78.8409906
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 14.47472737989272,
+                        "lng": 78.84233977989273
+                    },
+                    "southwest": {
+                        "lat": 14.47202772010728,
+                        "lng": 78.83964012010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "NTR Statue",
+            "place_id": "ChIJaRVLgPdtszsRyVGS5qFo22o",
+            "reference": "ChIJaRVLgPdtszsRyVGS5qFo22o",
+            "scope": "GOOGLE",
+            "vicinity": "Kadapa"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 14.5959028,
+                    "lng": 78.7565625
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 14.59700332989272,
+                        "lng": 78.75788217989272
+                    },
+                    "southwest": {
+                        "lat": 14.59430367010728,
+                        "lng": 78.75518252010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Kamakshi Vaidyanatha Swamy Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104918463598137561953\">Vijay Varshney</a>"
+                    ],
+                    "photo_reference": "AcYSjRiNRaaqbc7YAridnLgizTNhX4uSOKzjG1CxweH4eYpTVjPhmDj_qeZM9bO5N9KYpshnLhMnb8AZ5luwwy91JkSv16qju3Qwyt-6J31BR5SSkIMLpL0bTV-6aqTRyhNUkmzffSLQJX0iL0GbXR4nvGAblYM1pJ7E8K2F-8rqPqP9vwTL",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJdWPNbxh6szsRBwqALTAMw1s",
+            "rating": 4.5,
+            "reference": "ChIJdWPNbxh6szsRBwqALTAMw1s",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 311,
+            "vicinity": "HQW4+9J8, Chinnamachupalli - Pushpagiri Rd, Kotluru"
+        }
+    ],
+    "status": "OK"
+}

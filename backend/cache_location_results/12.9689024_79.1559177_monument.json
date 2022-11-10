@@ -1,0 +1,466 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8903844,
+                    "lng": 79.12290349999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.89172497989272,
+                        "lng": 79.12428492989272
+                    },
+                    "southwest": {
+                        "lat": 12.88902532010728,
+                        "lng": 79.12158527010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dr.MGR Statue",
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117054553586941006202\">Samartha B S</a>"
+                    ],
+                    "photo_reference": "AcYSjRg6HkrDy9xK-TgiMlHPCuJ5PBnvQsUXJ3m0DasqcgrXJqr5qmebRIsT3v3cwIMB6k5qlAU1vjFxyeGlSsrvmz9_NSTT8WuKYX7RRtcDQOrR1r1h_XpYSDMjA3QjF5uvBdXz8rKp1naH6U5omQDT2hB51freujvf31fp2bg1gY9PrSSs",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJRYTZFiU5rTsRhdVNvRjtgXo",
+            "rating": 4.1,
+            "reference": "ChIJRYTZFiU5rTsRhdVNvRjtgXo",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9211772,
+                    "lng": 79.1316095
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92246037989272,
+                        "lng": 79.13290677989272
+                    },
+                    "southwest": {
+                        "lat": 12.91976072010728,
+                        "lng": 79.13020712010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mahatma Ghandhi Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102155126180671953703\">Krishna Prosad Mondol</a>"
+                    ],
+                    "photo_reference": "AcYSjRgfCCbzSgrEbyrsAbu1Tg2ZZBCJR4NIr-M_mr5oQLw1fSFekDszqM0tOb2ZptUbuWrieUjz1s6e557meiUTJtASfQ_T4HMIz7Y4IEtBELuR_YvERgyLuw6ryH3vbKpUXYCJnzTJecZo_Rk7uKHkdvpnEtrklxKaX7GLAl6173YJ_rDw",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ73dXfTA5rTsRGWbZO-7tHf0",
+            "rating": 0,
+            "reference": "ChIJ73dXfTA5rTsRGWbZO-7tHf0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9165721,
+                    "lng": 79.1323341
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.91791447989272,
+                        "lng": 79.13366702989272
+                    },
+                    "southwest": {
+                        "lat": 12.91521482010728,
+                        "lng": 79.13096737010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Queen Victoria Jubilee Memorial Pillar",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116851255415056212662\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRidf3-E56RGsUnPfIyIfJ2nGRqaTGuc0jAFeLXV_chnapvHqqoQrFywh7FgaPf_ja4tC5YMkHXB9P_5zVUieN52EQ-uAbrgAIAusBrahAyxT5NrILg0b1DZBdkjJmMl6tatBXtuL1Hq_UpP_gfhr7-gAGj46eEd_7xe2pjc1UBjuXg9",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJH_6J4uk4rTsRJhpNFfDIih4",
+            "rating": 4.2,
+            "reference": "ChIJH_6J4uk4rTsRJhpNFfDIih4",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.8953583,
+                    "lng": 79.123545
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.89670617989272,
+                        "lng": 79.12497047989272
+                    },
+                    "southwest": {
+                        "lat": 12.89400652010728,
+                        "lng": 79.12227082010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Megalithic Burial site",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101435174331518442509\">Tamil vanan</a>"
+                    ],
+                    "photo_reference": "AcYSjRiOcFxKxTvCBSGgqDGBe5_6mDMhw_NRy3z2nbIkU3BSmKUmCQsQK85PH2WAcmLBev5G8iu76mm1yRvxeFo1U0-B33riHhRIBmQntlQKVIIAxQ5TkrLVFvf1AbmlWLp-UahgNeCsVVJdlDemn4h_zUhjCNLBIdRNX6JIY0fXatiYowJI",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJy1atQG05rTsR1Ke68MrnvYE",
+            "plus_code": {
+                "compound_code": "V4WF+4C Palavansathu, Tamil Nadu",
+                "global_code": "7J4XV4WF+4C"
+            },
+            "rating": 5,
+            "reference": "ChIJy1atQG05rTsR1Ke68MrnvYE",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9210886,
+                    "lng": 79.129471
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92240897989272,
+                        "lng": 79.13086837989272
+                    },
+                    "southwest": {
+                        "lat": 12.91970932010728,
+                        "lng": 79.12816872010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Vellore Fort, Tamil Nadu",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 9248,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115197511592555494302\">Raja Ravi</a>"
+                    ],
+                    "photo_reference": "AcYSjRhVabK46NVNI76mQXfIhbQtdUGz3viTBVIxh9sXKjGRajnMJfKLk8Lf4X6CxDPoGaAp0r93ZA0VIl5TT0dsEYT1ZNqepg2nBdKRGRPDEOpwm6a3I5aMXart7nHbQpq6xL38bQZw9NYpfjxE5ghF8QiV7JNZFB1nj5Aj-n1RlBbeZr5p",
+                    "width": 6936
+                }
+            ],
+            "place_id": "ChIJE6vB5sA4rTsRo8qGLhiADtQ",
+            "plus_code": {
+                "compound_code": "W4CH+CQ Vellore, Tamil Nadu",
+                "global_code": "7J4XW4CH+CQ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJE6vB5sA4rTsRo8qGLhiADtQ",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22306
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9156122,
+                    "lng": 79.1323006
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.91696052989272,
+                        "lng": 79.13377262989272
+                    },
+                    "southwest": {
+                        "lat": 12.91426087010728,
+                        "lng": 79.13107297010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Philately Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111606565613037897015\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi7oKq4MbGOYI1VaLudp_gH8GcHZLxqAy-TYvxfTQCd_npE0HrL_vXLyQTgp-k-gXjiPdZULhLg4d6oOdxQrmO_1OvRXKSwSyGHAckDItrqcv3CDkF3StVerkhlpKu7DZUz-PyOmfgrynwhUHw2DkJmvS-7MCccTAZGCBX-kIugsT5S",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJQdWTu6E5rTsRezfpcZ4Fx6w",
+            "plus_code": {
+                "compound_code": "W48J+6W Vellore, Tamil Nadu",
+                "global_code": "7J4XW48J+6W"
+            },
+            "rating": 5,
+            "reference": "ChIJQdWTu6E5rTsRezfpcZ4Fx6w",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9199146,
+                    "lng": 79.1314053
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92128157989272,
+                        "lng": 79.13307047989272
+                    },
+                    "southwest": {
+                        "lat": 12.91858192010728,
+                        "lng": 79.13037082010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Vellore Fort Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103559433607355458851\">yugesh edara</a>"
+                    ],
+                    "photo_reference": "AcYSjRgvH7jp_fAjs_EPVGj0u4vfAZOyrTKUT4aaoK3xY-JVmbgPXg103hNF6ikckyQW1oFC6LtE7_84inauGi6xYA4jNr_sEmm8PXtO6-MiaBU4c0qpZFQ4uKgBAVcHSkGBPpbDtfbJkaDp_m_lrbU42E428AfFfVJNACD25sOQVONC3IoS",
+                    "width": 1836
+                }
+            ],
+            "place_id": "ChIJx1GmzcE4rTsREGswQAVxsm8",
+            "plus_code": {
+                "compound_code": "W49J+XH Vellore, Tamil Nadu",
+                "global_code": "7J4XW49J+XH"
+            },
+            "rating": 4.3,
+            "reference": "ChIJx1GmzcE4rTsREGswQAVxsm8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2919
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9195268,
+                    "lng": 79.1298741
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92087777989272,
+                        "lng": 79.13080857989272
+                    },
+                    "southwest": {
+                        "lat": 12.91817812010728,
+                        "lng": 79.12810892010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Government Museum",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113156742688791989504\">Sambit KUMAR SWAIN</a>"
+                    ],
+                    "photo_reference": "AcYSjRjG5JutpmB4xSiKxy6MLlh9zhyn0dFcC-5o0d_0Hsp_SmYgSHXoYHgSP28aql58sq42QcvJihnSzGAvwC6s8sD_N6QcHmkUlwaAecBvtrD8SetujwEv3FCauhryodG0oNfKG5OKmCGX4_ViWDnqHKDDnRMFITpkMpWkWRYrPZY5zydk",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJnz4br8E4rTsRZpwfGexuAqc",
+            "rating": 4,
+            "reference": "ChIJnz4br8E4rTsRZpwfGexuAqc",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 458
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9252635,
+                    "lng": 79.1467765
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.9285395,
+                        "lng": 79.14781255
+                    },
+                    "southwest": {
+                        "lat": 12.9241715,
+                        "lng": 79.14366834999998
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sajra Fort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104233429334230331931\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhs9A0XM6ANu9qeZiNlZgZhLcilcxtyDs0Fq01Drk0RXhBPdIsU76CDNboQL1-8l5fn-obcRlpVovCMC42rS842fBq3dCmSZtFBQ41fhCxmAXcUmgbkmRcsMjR2Kw3zH4FpD5uel2TvoaqSVuu7CW0f0UyoCsfTbGR3TrQsh_Uqw6ut",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJBXyrII04rTsRsm4U_gmeKXo",
+            "rating": 4.3,
+            "reference": "ChIJBXyrII04rTsRsm4U_gmeKXo",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 245
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9530214,
+                    "lng": 79.14267009999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.95437127989272,
+                        "lng": 79.14398847989273
+                    },
+                    "southwest": {
+                        "lat": 12.95167162010728,
+                        "lng": 79.14128882010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Silver Stone Granites",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJBb9j_6JHrTsRUPKdauU9bDM",
+            "plus_code": {
+                "compound_code": "X43V+63 Vellore, Tamil Nadu",
+                "global_code": "7J4XX43V+63"
+            },
+            "rating": 5,
+            "reference": "ChIJBb9j_6JHrTsRUPKdauU9bDM",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,838 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRje3WWHgu3i0WeAASHEYrB__-8fmP5G6XaBLtpJZCYoqCmKX7iPDwzB7pymAPUls8VXs7MP4itXVQrqaeG7kWa9oTF2dHR1qcZiliNh-s2IuAg-83fOmvDu9AQ7q7-nrEHVjrYjo0Cxw2idhK_A-MZuZ0IUTwtSJiFGcLWp1FlTjIBLfsFY6rNY2aYsd_4GGgWQB5SZfD7Rfg9foQp8xAn8gl5pNMVEn2pWHY2n8STiSAgWKvASWSOcLUxiWkqbtmCDEEX0wdMg-EgFBV9OsFE8JBFWQNKHpZldjy3um5k-I6XfTTZ2WMnE7HBNGL0HiBqQL-y4JPYFKzYBCHGsyxinTBsrGdLyBIpqyANTYdVmTc9BQ--HfF5X78MTeMGhCFt8GWFc7rxypK3BpbtSD-goZ7NoRYFPWP2XePqjXTX2eIdSM-pT",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6340321,
+                    "lng": 80.0509438
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63548367989272,
+                        "lng": 80.05168057989273
+                    },
+                    "southwest": {
+                        "lat": 17.63278402010728,
+                        "lng": 80.04898092010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Kambalapally Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100659274273004428907\">chandu sivasaiviratkumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhVlYyKrA-vMbhSPjc1r_RSx-P1ozlo1Xm9tttFu-R0I2iARStm5kKfS7RakaWliRjxsMr_I75F2a-ej9n7hQ-_e-vlP4vGj0bEJamFSo1J-DZrnX5gpds4hjjmLZ_yFdP8tC4WY5EN8vSLoJtBMNc3eh4lDD63dxCW0mLoK_VODcil",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJT4vONxiHNDoR-ROXPousqeI",
+            "rating": 4.6,
+            "reference": "ChIJT4vONxiHNDoR-ROXPousqeI",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25,
+            "vicinity": "J3M2+J98, Mahbubabad - Warangal Rd"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5430765,
+                    "lng": 79.9105543
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.54449947989272,
+                        "lng": 79.91174627989272
+                    },
+                    "southwest": {
+                        "lat": 17.54179982010728,
+                        "lng": 79.90904662010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0c2a\u0c32\u0c4d\u0c32\u0c46 \u0c2a\u0c4d\u0c30\u0c15\u0c43\u0c24\u0c3f \u0c35\u0c28\u0c02 \u0c28\u0c47\u0c30\u0c21",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105348531032366150652\">yugender pandu</a>"
+                    ],
+                    "photo_reference": "AcYSjRjVspqsQ3DOu59AMzgv3x8rA3mziDSSaJFrYwc6N1uPPDbPynR2B-k6CV5TQgj49zrGRuj5tV7hlTrS11v8lTKkOzSf_DGl6Lf7xUIAteA4UgbwBmoY9idc3ePTcJERVWpb4lmqEgxolgZDej63FbrBfj30Kc9dOIaM7FsxcXvXmX_d",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJwXqEcpqRNDoRkeIPRzpS3hE",
+            "rating": 5,
+            "reference": "ChIJwXqEcpqRNDoRkeIPRzpS3hE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "GWV6+66M, Parvathagiri"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5900912,
+                    "lng": 79.98171459999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59144222989272,
+                        "lng": 79.98309747989272
+                    },
+                    "southwest": {
+                        "lat": 17.58874257010728,
+                        "lng": 79.98039782010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "BC Colony Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107392911806187210200\">Shanthan Ramaraju</a>"
+                    ],
+                    "photo_reference": "AcYSjRg-UH27tufDN5mUuXhFBO5taa29agUVT3hMzQsMFc3ZIWFz9mKauYbt7OvCjgkkcbhKsI0fKpcDh4EJYB1f1X224e52ZwuVEhbwF764e1zqTKSkoI2FuHcYIWJQc3m7BeER8ja1EWKEtTlEhGOK0TNrTHl4KtCsit4w6rPLAmVmV-gy",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJp31quWiPNDoRhLTtHFnwGDM",
+            "rating": 3.8,
+            "reference": "ChIJp31quWiPNDoRhLTtHFnwGDM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 40,
+            "vicinity": "HXRJ+2MP, Sri Ram Nagar BC Colony, 506102, Mahabubabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6152126,
+                    "lng": 80.0022339
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61656972989272,
+                        "lng": 80.00368547989271
+                    },
+                    "southwest": {
+                        "lat": 17.61387007010728,
+                        "lng": 80.00098582010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "municipal Children's Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116809043071320277894\">shravan kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRiLb9noRpzS4lprRKe5YN3hm3XHfjk2lAcCyA1bEAKfOaOQcvLnAwk_ICqCQW7th5zer7rAAQ4eDkAQny8uSLTJ25um0__XdfgLTS-YNEH672Wz-anNsRUpGhOqyhe_s6Ibjw1NJobBuhJK8rBLpil1JEPth10G3wrKMsXq6vvbiosE",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJpeSt3fqFNDoRI_JG6TFKFIs",
+            "plus_code": {
+                "compound_code": "J282+3V Gumudur, Telangana",
+                "global_code": "7M92J282+3V"
+            },
+            "rating": 4.3,
+            "reference": "ChIJpeSt3fqFNDoRI_JG6TFKFIs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 73,
+            "vicinity": "Unnamed Road, Gumudur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5952093,
+                    "lng": 79.99245189999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59656362989272,
+                        "lng": 79.99373877989271
+                    },
+                    "southwest": {
+                        "lat": 17.59386397010728,
+                        "lng": 79.99103912010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Muncipal Park",
+            "place_id": "ChIJgxXmv_6PNDoRb8ivjCjblEc",
+            "rating": 4.3,
+            "reference": "ChIJgxXmv_6PNDoRb8ivjCjblEc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "HXWR+3XP, Unnamed Road, Mahabubabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.597237,
+                    "lng": 79.98976329999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59861342989272,
+                        "lng": 79.99108557989273
+                    },
+                    "southwest": {
+                        "lat": 17.59591377010728,
+                        "lng": 79.98838592010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Colony park",
+            "place_id": "ChIJybr_IVuPNDoRImka04xzN0Y",
+            "rating": 5,
+            "reference": "ChIJybr_IVuPNDoRImka04xzN0Y",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "HXWQ+VWR, Mahabubabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6760649,
+                    "lng": 80.0237075
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67744237989272,
+                        "lng": 80.02512132989271
+                    },
+                    "southwest": {
+                        "lat": 17.67474272010728,
+                        "lng": 80.02242167010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0c2a\u0c32\u0c4d\u0c32\u0c46 \u0c2a\u0c4d\u0c30\u0c15\u0c43\u0c24\u0c3f \u0c35\u0c28\u0c2e\u0c41 \u0c30\u0c46\u0c21\u0c4d\u0c2f\u0c3e\u0c32",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100939011016774782531\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRif_imjEimg1jMCuGxeeJLUdB-BhtBDughPZ7Jue8C97pLSF9cAaJEEspDU7a4etY96Qz8p7Z2WWJNCKToVqQnJ62ZepOiD2XL0m_TPZ1MYVTyJGKh99fFbuNaGPW3D4MnWMh6KuEO8NVSLBhQhPOBC_CAg9-Jg3zjn1lkfDF8Iobdo",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ23sTjU2HNDoRoRHAgRHHgYw",
+            "plus_code": {
+                "compound_code": "M2GF+CF Mahabubabad, Telangana",
+                "global_code": "7M92M2GF+CF"
+            },
+            "rating": 5,
+            "reference": "ChIJ23sTjU2HNDoRoRHAgRHHgYw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Redyala ,mahabubabad, Mahabubabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6214608,
+                    "lng": 80.09044540000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62276787989272,
+                        "lng": 80.09172537989272
+                    },
+                    "southwest": {
+                        "lat": 17.62006822010727,
+                        "lng": 80.08902572010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0c28\u0c30\u0c4d\u0c38\u0c30\u0c40 \u0c2c\u0c3e\u0c32\u0c3e\u0c1c\u0c40\u0c2a\u0c47\u0c1f",
+            "place_id": "ChIJxRcopk-HNDoR-LgmLY19dPE",
+            "rating": 0,
+            "reference": "ChIJxRcopk-HNDoR-LgmLY19dPE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J3CR+H5P, Unnamed Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.633618,
+                    "lng": 80.05006340000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63500472989272,
+                        "lng": 80.05119067989273
+                    },
+                    "southwest": {
+                        "lat": 17.63230507010728,
+                        "lng": 80.04849102010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Central park mahabubabad.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 853,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115757534031213858685\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhMPSPHiGjo5r78_nGIAst02MKNhvF8Qc5IA98fHH4tkeX5Sldswqa4pb5pO-1w50LltH8f-A2qumbbPzPrTx6b-Y1XNMWeHaaP7fXOsOBwRH508zB-UmGEL9aRp69HyVz4eMfMAv_rhol0XweyAODo1t__gZSvLU9RxKBkBJ_yHeM7",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJo6LDSOOHNDoRGujFOKAoi5Q",
+            "rating": 4.2,
+            "reference": "ChIJo6LDSOOHNDoRGujFOKAoi5Q",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "J3M2+C2W, Nadiwada"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6196742,
+                    "lng": 80.08980729999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62106822989272,
+                        "lng": 80.0911701298927
+                    },
+                    "southwest": {
+                        "lat": 17.61836857010728,
+                        "lng": 80.08847047010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0c2a\u0c32\u0c4d\u0c32\u0c46 \u0c2a\u0c4d\u0c30\u0c15\u0c43\u0c24\u0c3f \u0c35\u0c28\u0c02 \u0c2c\u0c3e\u0c32\u0c1c\u0c3f\u0c2a\u0c47\u0c1f",
+            "place_id": "ChIJQdRIRUOHNDoRMabI0GCMic0",
+            "rating": 0,
+            "reference": "ChIJQdRIRUOHNDoRMabI0GCMic0",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J39Q+VW7, Unnamed Road"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6596914,
+                    "lng": 80.08207449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66104122989272,
+                        "lng": 80.08342432989271
+                    },
+                    "southwest": {
+                        "lat": 17.65834157010728,
+                        "lng": 80.08072467010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Motlathanda park",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101985810461062263504\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhOiMu6DZUF8ciCGXrBybRKL5amui60gjRVRMC3DWy34VcxgNhhv2J6M-c_Wpbwcx2hZy3DsUfjh_1Z2Ub6z20LMn0MDCSdBelxJdA2bBK5XKBvWj-WPj85gHZw8LAa6zpJnonQIVEkm9944HZ_o1shewSy1S274wp8G0YfLFSLpjRy",
+                    "width": 2250
+                }
+            ],
+            "place_id": "ChIJW3TaaEeHNDoRluqR0aALfqw",
+            "rating": 3.7,
+            "reference": "ChIJW3TaaEeHNDoRluqR0aALfqw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "M35J+VRG, Motlathimmapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6350731,
+                    "lng": 80.0366651
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63635737989273,
+                        "lng": 80.03804832989272
+                    },
+                    "southwest": {
+                        "lat": 17.63365772010728,
+                        "lng": 80.03534867010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0c35\u0c3f\u0c32\u0c47\u0c1c\u0c4d \u0c2a\u0c3e\u0c30\u0c4d\u0c15\u0c4d - Nadiwada",
+            "place_id": "ChIJr64XnW-HNDoR7-1zCRlT5BI",
+            "rating": 0,
+            "reference": "ChIJr64XnW-HNDoR7-1zCRlT5BI",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J2PP+2MF, Nadiwada"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6524168,
+                    "lng": 80.0047015
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65397497989272,
+                        "lng": 80.00605917989273
+                    },
+                    "southwest": {
+                        "lat": 17.65127532010728,
+                        "lng": 80.00335952010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Pally prakruti vanrullu",
+            "opening_hours": {},
+            "place_id": "ChIJ-XE5y7SFNDoRpUQWS6HfkyI",
+            "rating": 5,
+            "reference": "ChIJ-XE5y7SFNDoRpUQWS6HfkyI",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "M223+XV, V.S.Lakshmipur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6344517,
+                    "lng": 80.03582949999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63577417989273,
+                        "lng": 80.03716042989271
+                    },
+                    "southwest": {
+                        "lat": 17.63307452010728,
+                        "lng": 80.03446077010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0c39\u0c30\u0c3f\u0c24 \u0c28\u0c30\u0c4d\u0c38\u0c30\u0c40",
+            "place_id": "ChIJ2e47l0-HNDoR0K6PIIwjGrw",
+            "rating": 0,
+            "reference": "ChIJ2e47l0-HNDoR0K6PIIwjGrw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "J2MP+Q8P, Nadiwada"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6753365,
+                    "lng": 80.0539046
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67666377989272,
+                        "lng": 80.05529757989272
+                    },
+                    "southwest": {
+                        "lat": 17.67396412010728,
+                        "lng": 80.05259792010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Purithanda park",
+            "place_id": "ChIJH9yNpFCHNDoRx2mpY3M-ZGs",
+            "plus_code": {
+                "compound_code": "M3G3+4H Khambhalpalle, Telangana",
+                "global_code": "7M92M3G3+4H"
+            },
+            "rating": 0,
+            "reference": "ChIJH9yNpFCHNDoRx2mpY3M-ZGs",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "NH365"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5958142,
+                    "lng": 80.0030228
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59696027989272,
+                        "lng": 80.00422852989271
+                    },
+                    "southwest": {
+                        "lat": 17.59426062010728,
+                        "lng": 80.00152887010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "RAILWAY PARK",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJibyzfVGPNDoRT4XNodXbIAg",
+            "rating": 2.8,
+            "reference": "ChIJibyzfVGPNDoRT4XNodXbIAg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "H2W3+86C, Manukota"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.652613,
+                    "lng": 80.05270159999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65395582989272,
+                        "lng": 80.05410827989272
+                    },
+                    "southwest": {
+                        "lat": 17.65125617010728,
+                        "lng": 80.05140862010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Village Green Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102524839168899537167\">kuppam suryateja</a>"
+                    ],
+                    "photo_reference": "AcYSjRhS9f4sNq2y56NjHhg3Wsidj9iEBC6fGGR6Z6RwtZk4xdoUMZib7cgl9BQHbl4J5XK9y2ifFZ_oyim1RjqIHmLsQyu0C6ZJnFVAwtnl1A7zkRZbgq4DGJRDUbgwdguHz3-MLK0CUQW0TM5pVniX1FBh6zOg07N40v99vkCgmwbs7QTL",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJeV3S1FeHNDoRgwu5CfWTw3k",
+            "rating": 3.1,
+            "reference": "ChIJeV3S1FeHNDoRgwu5CfWTw3k",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "M333+23W, Mahbubabad - Warangal Rd, Khambhalpalle"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5942441,
+                    "lng": 80.01404219999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59560597989272,
+                        "lng": 80.01527837989272
+                    },
+                    "southwest": {
+                        "lat": 17.59290632010728,
+                        "lng": 80.01257872010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Children's Park Housing Board",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104501728244159268985\">Kranthi Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjbVVSxNYMIq3dOQEAKqU_XuNluw3NRZKCntOMbI3fWQaq4sirCK4HqVcDepDpKLaBw308RFfU6QFjgTpVU7gVNpoFWh5OFDcqJ_ZvVELqlUO6bHfAdNA15dHM157MEw8tNN1_3wKiGTfVTLWvHjpbhOTe7nzGTlTitfPh0OKABSIvQ",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJ9T25yVeJNDoREwL0K2er6bI",
+            "plus_code": {
+                "compound_code": "H2V7+MJ Mahabubabad, Telangana",
+                "global_code": "7M92H2V7+MJ"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ9T25yVeJNDoREwL0K2er6bI",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67,
+            "vicinity": "HOUSING BOARD COLONY, Mahabubabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5348525,
+                    "lng": 79.9134219
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.53612777989272,
+                        "lng": 79.91474787989273
+                    },
+                    "southwest": {
+                        "lat": 17.53342812010728,
+                        "lng": 79.91204822010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "KARANTH KUMAR FIELD",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107301189171188061847\">Karanth Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRiCaRD_U0KjYUvOZ20Q46mmiMy3PUtUFipVt7Dl4hLgmI0pHdBQcuV5afAQSNZFA8CgBbDOImLB3mtIoo6_4G6ecG4ymIKzi6wJJo1rPY0HIlD6HVIN3y9Wt2acfJqnH-zMQK97yr3kaaTWeAmHoZtdvdGVUYoEmwh4swBC4-LYM_go",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJF6nHd7yRNDoRX68a-I0LSqU",
+            "rating": 5,
+            "reference": "ChIJF6nHd7yRNDoRX68a-I0LSqU",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "GWM7+W9V, Unnamed Road, Nerada"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6069404,
+                    "lng": 79.99575399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60835622989272,
+                        "lng": 79.99713147989272
+                    },
+                    "southwest": {
+                        "lat": 17.60565657010728,
+                        "lng": 79.99443182010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Nandana Gardens",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111847044841914070771\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgN79BxNRhg1_5-cK5tkJAtFqU_zD4MOTPiFLXzOdtu0s7kQ3541rcEefLCADHDRHNJSnxPa7Z55MxPS3QaFC_GD9D3BS95RHeyeDC4D03Bh_CDLIJ-1Od4jvUdLSSrB03LFRtKYqQoEBzUguH2XLhY0oAzJ7ndaxP5iboc0B88i3fz",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJaeiNp_eFNDoRcEPEkQaVZ-U",
+            "rating": 4.1,
+            "reference": "ChIJaeiNp_eFNDoRcEPEkQaVZ-U",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 160,
+            "vicinity": "JX4W+Q8C, Gopalapuram, Krisha Colony, Mahabubabad"
+        }
+    ],
+    "status": "OK"
+}

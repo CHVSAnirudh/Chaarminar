@@ -1,0 +1,934 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjYuOvf0lXwAvNqlbUFRftSbOBz7fcgNPm1CxJj8WD23guM0qvdOPxt-im-aKQ3j4o6iKgrpddukmEIRr-T-ok0ge7MZnXC_ZZtllsbSQ91m8A2anZrwbFK0AlGTJKm1t-Hy2RxOSFz7b478WnRkD8r774r11-Y4L8ZgpzoYTF4vKG8gPFcZUVSH2btoWSNtvPnMa9Dwz9DMlzwKdyrm01YRddJQ-mBME56FmZQib9SbB-neTGeubdrIk-JFW25Fdel7IIDWo0PoYXK5D1ibjXav67kqubw0NTHy4c9akK1x_u6c6Hm1scNM5xD6c17t6wNpcD6KCtjfbYbHhrKuz_9IirMrcQ6Hm4n4rIV3VZ2VweFXfG3zQ4Ki5RCn1iofxvQ8PIxr3zsme5bpET3Ek-ZYhKe-OnMkWpRJbfNXhJhwUpupjwQRcs",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1093473,
+                    "lng": 72.86927279999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.11071512989272,
+                        "lng": 72.87063082989272
+                    },
+                    "southwest": {
+                        "lat": 19.10801547010728,
+                        "lng": 72.86793117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJbym1Mj_I5zsRtH-nH2boTck",
+            "plus_code": {
+                "compound_code": "4V59+PP Mumbai, Maharashtra",
+                "global_code": "7JFJ4V59+PP"
+            },
+            "rating": 0,
+            "reference": "ChIJbym1Mj_I5zsRtH-nH2boTck",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "10, Ajit Nagar, J B Nagar, Andheri East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1167228,
+                    "lng": 72.90149629999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.11807337989272,
+                        "lng": 72.90284967989273
+                    },
+                    "southwest": {
+                        "lat": 19.11537372010728,
+                        "lng": 72.90015002010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shivji Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114622775976962791991\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiE2OgtWxJbogIgE5PGCfnUFNpjr-sdv_GnGrT-ubmDckEYE7KVNx01aCIFKAjobTDjDfDv0_3joPYWel6nxUbBXI0-4OOEQ4IrbXR0C1LeE7U2H7WVJVURuiiioUuX_T0rlVyRGAeby-uOlCjShJ6gL58JxPwpEapmmDJMLoPQKP5N",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJsWodLuLH5zsREq5NBRdeKKk",
+            "plus_code": {
+                "compound_code": "4W82+MH Mumbai, Maharashtra",
+                "global_code": "7JFJ4W82+MH"
+            },
+            "rating": 4.4,
+            "reference": "ChIJsWodLuLH5zsREq5NBRdeKKk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28,
+            "vicinity": "1, MHADA Colony 20, Powai, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.139466,
+                    "lng": 72.9292578
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.14077082989272,
+                        "lng": 72.93061717989272
+                    },
+                    "southwest": {
+                        "lat": 19.13807117010728,
+                        "lng": 72.92791752010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hindu temple",
+            "photos": [
+                {
+                    "height": 1960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100043660060264662715\">Tashkent Nadar</a>"
+                    ],
+                    "photo_reference": "AcYSjRiDXSsZIlrnaXuyAWwdDaa4qevaCAOGQ_DrSkHB820r7G8yOpswx0NQGdnx38nReB30WGFg5UYxc5VNs1tfSXKB3HyR7B6Vuhvv2Pb_V9Nbfvzp1Sk35nRgcn69enetoVgAM8DDhFAW4rStBaZag6u5L4bLPdsGktSj0iIQgwjPAiOn",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJVyMchVm55zsR5M8mJ1nAk9c",
+            "rating": 5,
+            "reference": "ChIJVyMchVm55zsR5M8mJ1nAk9c",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "4WQH+QPJ, Quarry Rd, Bhandup, Ganesh Nagar, Bhandup West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1002892,
+                    "lng": 72.86904899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.10151587989272,
+                        "lng": 72.87003542989271
+                    },
+                    "southwest": {
+                        "lat": 19.09881622010728,
+                        "lng": 72.86733577010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJp86uC0TI5zsRDhIbljvVJjo",
+            "plus_code": {
+                "compound_code": "4V29+4J Mumbai, Maharashtra",
+                "global_code": "7JFJ4V29+4J"
+            },
+            "rating": 4.5,
+            "reference": "ChIJp86uC0TI5zsRDhIbljvVJjo",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "400047, Tank View, CPWD Colony, Sahar Village, Andheri East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0168254,
+                    "lng": 72.8302504
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.01816477989272,
+                        "lng": 72.83142067989273
+                    },
+                    "southwest": {
+                        "lat": 19.01546512010728,
+                        "lng": 72.82872102010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Siddhi Vinayagar Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102142978633678493688\">Rick</a>"
+                    ],
+                    "photo_reference": "AcYSjRi53iW3_OLrUq5A9reIJ1zJyg3P9gXKcwZC8yOnBFHqI4dlWUtA-lLslxsjmqrxrxOjXPPPwz6fX-RjFSULxISTSJVvDgMu4bPGT_43g7zxRIwc82_PcQU5k5Z_U8ZHZ8OvVg82PgrKUuJuMVV4HODHmXsgENSn3HHJy9mvDGdRgiJR",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJw-tR2MDO5zsRKWNSFGmHYcw",
+            "rating": 4.8,
+            "reference": "ChIJw-tR2MDO5zsRKWNSFGmHYcw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67286,
+            "vicinity": "2R8J+P4J, SK Bole Marg, Prabhadevi, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0638207,
+                    "lng": 72.89599129999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.06526082989272,
+                        "lng": 72.89737577989271
+                    },
+                    "southwest": {
+                        "lat": 19.06256117010728,
+                        "lng": 72.89467612010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Muthumariyamman Temple",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106104668559003149187\">poovizhi kannan</a>"
+                    ],
+                    "photo_reference": "AcYSjRgLRcfipV2wlr_RyH3nzYxAJz3xz5Mvj25LNi7ALYODxj5QJL9TEXiywOIu76RLVuqbHNPstKhLb5_bwcy7sk9Pl85irttjtwppfvZbdDBLpdiFGNggKesoAtcKvUYN_ZPSZoDrfIXw_rSYxiWzOwnhh4lWG0ajcdLoebn4n0CK2EP4",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJA3WQKqDI5zsRr1VPhGiM4uw",
+            "rating": 4.5,
+            "reference": "ChIJA3WQKqDI5zsRr1VPhGiM4uw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 34,
+            "vicinity": "3V7W+G99, Shell Colony Rd, Shramjivi Nagar, Sai Baba Nagar, Chembur, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0724333,
+                    "lng": 72.82955799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07378162989272,
+                        "lng": 72.83086787989272
+                    },
+                    "southwest": {
+                        "lat": 19.07108197010728,
+                        "lng": 72.82816822010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Lakshmi Narayan Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111901938542882135367\">sumitrey agnihotri</a>"
+                    ],
+                    "photo_reference": "AcYSjRhHZPDs7RaqQZNph7C0GiEgAnQsTfvHNO8AMbErNjmtTvQ4X1uEnd5NdO6A24QbhPSfEk8DXpJSMy7syV3fXKNr8gKPP6ozjyhu0pKLcpqQ6_fAxssacKVyT8aLnzmUQWtJXZW5kAI2Fusr7N8oY3efkQH36AxnzIHsqs_evHMoUAip",
+                    "width": 2136
+                }
+            ],
+            "place_id": "ChIJs3hI4QzJ5zsRwWm5-X3GWls",
+            "plus_code": {
+                "compound_code": "3RCH+XR Mumbai, Maharashtra",
+                "global_code": "7JFJ3RCH+XR"
+            },
+            "rating": 4.4,
+            "reference": "ChIJs3hI4QzJ5zsRwWm5-X3GWls",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 160,
+            "vicinity": "Plot No, 561, 18th Rd, Khar, Khar West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0504801,
+                    "lng": 72.90470359999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.05188507989272,
+                        "lng": 72.90601537989272
+                    },
+                    "southwest": {
+                        "lat": 19.04918542010728,
+                        "lng": 72.90331572010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 512,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110022327534948489143\">ARSHAD KHAN</a>"
+                    ],
+                    "photo_reference": "AcYSjRhNrPZndP_GZeVxsaIQ_pSECuUwlHjtN4iFKL9gG3pu_eKPitAg8efytEjPF3WuECWSh5ZDjT_ycACmbLjPRvHiZyKOStMsj3iAA_THZwbijx0PbT9v4cMs2cCRJYeTriFFD1JxN7HrNdMWGpeydVGEpKLFCAdVFf5B1OEbeF8WXuG2",
+                    "width": 288
+                }
+            ],
+            "place_id": "ChIJH6zZ-EXH5zsRioBlK0PA9r0",
+            "plus_code": {
+                "compound_code": "3W23+5V Mumbai, Maharashtra",
+                "global_code": "7JFJ3W23+5V"
+            },
+            "rating": 5,
+            "reference": "ChIJH6zZ-EXH5zsRioBlK0PA9r0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "at Atur Park Shiv Parvati Co-op Housing Society Ltd V N Purva Rd, Shop No-12&13, VN Purav Marg, opposite Matri Park, Atur Park, Basant Garden, Chembur, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.131004,
+                    "lng": 72.8734539
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.13233042989272,
+                        "lng": 72.87486902989272
+                    },
+                    "southwest": {
+                        "lat": 19.12963077010728,
+                        "lng": 72.87216937010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shree Lingeshwar Mahadev Temple (\u0936\u094d\u0930\u0940 \u0932\u093f\u0902\u0917\u0947\u0936\u094d\u0935\u0930 \u092e\u0939\u093e\u0926\u0947\u0935 \u092e\u0902\u0926\u093f\u0930)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101832032439963659408\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjb7fRT6SZTOG2zROkA01IjptTmmzxbVty8S2MjZu61aGx_2F_l0w5LuSatJcZmOdmPT1qPlaGB4IgIorns5dMWLfBiaMnbfWkNKOsb2f3wDorHzBIA0gv16Jz3joURofXU-PcNOuHoJ8kkprlW70u0MbRJy6AMdwEnzX9ITKcdfRGb",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJCVmXi9-35zsR6JjbSonvG0k",
+            "plus_code": {
+                "compound_code": "4VJF+9C Mumbai, Maharashtra",
+                "global_code": "7JFJ4VJF+9C"
+            },
+            "rating": 4.7,
+            "reference": "ChIJCVmXi9-35zsR6JjbSonvG0k",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24,
+            "vicinity": "Lingeshwar Mahadev Temple, opp. Mahakali Caves, MMRDA Colony, Tripathi Nagar, Andheri East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1637977,
+                    "lng": 72.8407053
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.16521627989272,
+                        "lng": 72.84205217989272
+                    },
+                    "southwest": {
+                        "lat": 19.16251662010728,
+                        "lng": 72.83935252010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Svayambhu Ganapati Temple",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117689897692510162895\">Chinmay Sawardekar</a>"
+                    ],
+                    "photo_reference": "AcYSjRh3kCLlHmJtN6qJB5bQPHFD0A6gL2fVZDMi2hMn-tOCmAKtdvXcgXBqoZWeOyMFd8MJPjgUfC_4LqtZ2YQVrv5QNCRGtnQdoXhmuiM0mC4OX-iRgHSLVgHcf1OY-TonAxeW1GskTV8JbNak7VYcNksKITNlZQRZsC_o4Dr-0h21Yj5B",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJyZt9aVC25zsRrm3QNjfAXHY",
+            "rating": 4.6,
+            "reference": "ChIJyZt9aVC25zsRrm3QNjfAXHY",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36,
+            "vicinity": "5R7R+G78, Unnat Nagar III, Motilal Nagar III, Goregaon West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1175332,
+                    "lng": 72.9055903
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.11888377989272,
+                        "lng": 72.90694007989272
+                    },
+                    "southwest": {
+                        "lat": 19.11618412010728,
+                        "lng": 72.90424042010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple Jalvayuvihar",
+            "place_id": "ChIJ-1WPEeTH5zsRBZuUpHMLtuQ",
+            "rating": 0,
+            "reference": "ChIJ-1WPEeTH5zsRBZuUpHMLtuQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "4W94+268, C Block, Sector V2, Jalvayu Vihar, Powai, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0939443,
+                    "lng": 72.89725179999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.09538267989272,
+                        "lng": 72.89870332989271
+                    },
+                    "southwest": {
+                        "lat": 19.09268302010728,
+                        "lng": 72.89600367010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shree Geetambika Temple, Asalpha",
+            "photos": [
+                {
+                    "height": 938,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110683693847566722625\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiERx3gRTV89JohMYb77uRCbpM4dwIfG9swZz536zzJb1z9f-z9cyhV8N6hcDXpQagsqe_GVVKs3fG9qgH-lPOMJarWOerAI4MB1Rbh19ZV-ZKxDEAkoLAXly5gAUW5Ix_adXPVcu8SQyobzSy8DG5KwevU3FF-QELW-VxVbpgeOSWg",
+                    "width": 750
+                }
+            ],
+            "place_id": "ChIJ_5TpZTrJ5zsRs1iOGvwCnEQ",
+            "rating": 4.6,
+            "reference": "ChIJ_5TpZTrJ5zsRs1iOGvwCnEQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "3VVW+HVF, Bhim Nagar, Saki Naka, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.083074,
+                    "lng": 72.8559938
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.08447967989272,
+                        "lng": 72.85733707989272
+                    },
+                    "southwest": {
+                        "lat": 19.08178002010728,
+                        "lng": 72.85463742010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Lord Shiv Temple",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107538992026625007219\">Sachin H</a>"
+                    ],
+                    "photo_reference": "AcYSjRjpZClui6E4ccB479jV0axjrNSdWXNAaomsqr0HohM8QaWs9G8C8kk1odWLbkmB1sOr3D26MZh9NlLswWuV6eGtzTRyjyjTZR29gxvHGp1tc8n4JNKfjQ-2s2SScgvWrpKbI7Y3S7cX2GnJp1o6MrfO-6MY4QRX4MoWcNOz0PfBgO7O",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJ3ZM09VXI5zsR3qA2cX5JDTk",
+            "rating": 4.8,
+            "reference": "ChIJ3ZM09VXI5zsR3qA2cX5JDTk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "3VM4+69Q, Nehru Rd, P and T Colony, Vakola, Santacruz East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.04728,
+                    "lng": 72.8963873
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.04852052989272,
+                        "lng": 72.89772067989273
+                    },
+                    "southwest": {
+                        "lat": 19.04582087010728,
+                        "lng": 72.89502102010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Mahadev Temple",
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104855331093068726818\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhORuLTVTHSc83DhflTi5s_CA-u_9sEU1kbgPbRc_skVqic_une_KrQ5qW0mVVWchfKxc-dt649Oiil8tNeFJHx2Or1dznC56W0ppx7TICl_UGA4drH4JQDOk2q99OJr9pH5P7iKiuzbV8gyh2X3PmpXIEXCNjXTZT06NK5feLcamDF",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJkdBGrqnI5zsRpt-2Jm4kWO0",
+            "plus_code": {
+                "compound_code": "2VWW+WH Mumbai, Maharashtra",
+                "global_code": "7JFJ2VWW+WH"
+            },
+            "rating": 4.4,
+            "reference": "ChIJkdBGrqnI5zsRpt-2Jm4kWO0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Gandhi Market, Inlaks Hospital Rd, Chembur Colony, Indira Nagar, Kurla, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1195116,
+                    "lng": 72.92455190000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.12077882989272,
+                        "lng": 72.92611607989272
+                    },
+                    "southwest": {
+                        "lat": 19.11807917010728,
+                        "lng": 72.92341642010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJ60d3AmTH5zsRukXcQNNEwNE",
+            "plus_code": {
+                "compound_code": "4W9F+RR Mumbai, Maharashtra",
+                "global_code": "7JFJ4W9F+RR"
+            },
+            "rating": 0,
+            "reference": "ChIJ60d3AmTH5zsRukXcQNNEwNE",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "205, Surya Nagar, Chandan Nagar, Vikhroli West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.109299,
+                    "lng": 72.86926199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.11069447989272,
+                        "lng": 72.87063272989272
+                    },
+                    "southwest": {
+                        "lat": 19.10799482010727,
+                        "lng": 72.86793307010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shri LaxmiNarayan Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108638165399857172930\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgIzSFGYSebjSM1WpcY9037QTRWVTHXH_NDaXNmjsRlat0woY07SbARjxOEUXjn8yrwT_qSoU7xs_b3wVIkekJOnIphhGo2FqlWC5l_qWTyH5F0hZpDiKebtPMabbH1L0gt8T5qmbRf8KRonob5jQdwNaMqf8jPDWKT-kGcxABpcr-j",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJQ_AyzTjI5zsRekNqbDTdadI",
+            "plus_code": {
+                "compound_code": "4V59+PP Mumbai, Maharashtra",
+                "global_code": "7JFJ4V59+PP"
+            },
+            "rating": 4.7,
+            "reference": "ChIJQ_AyzTjI5zsRekNqbDTdadI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 163,
+            "vicinity": "Sree Jagdish Prasad Zabarmal Marg, near Ajit Bhavan, Ajit Nagar, J B Nagar, Andheri East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1023755,
+                    "lng": 72.8667002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.10384827989272,
+                        "lng": 72.86797247989271
+                    },
+                    "southwest": {
+                        "lat": 19.10114862010728,
+                        "lng": 72.86527282010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Annapurna Temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112000044772838478367\">sudarshan poojary</a>"
+                    ],
+                    "photo_reference": "AcYSjRjqATCsGXtPeUmujhoqrxxqc9HrD35GSahfhfNjQ7nQfxoRKp_HGfx_QK5XAoyGXN1RSJA_6nTOaNZCS9B1Y6Rn-b6PKJLKFgew5MTnYf1D1Bnm3EAVWjcScnSQtUyKm33anAroS5-TqnyYfurDrWxszQKrMvWhozt-GYR_w3Gb57Wo",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJFTyuh0bI5zsR67n-2VrEH-w",
+            "plus_code": {
+                "compound_code": "4V28+WM Mumbai, Maharashtra",
+                "global_code": "7JFJ4V28+WM"
+            },
+            "rating": 5,
+            "reference": "ChIJFTyuh0bI5zsR67n-2VrEH-w",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "1, IA Project Rd, Sahar Village, Andheri East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0702333,
+                    "lng": 72.877448
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07144712989273,
+                        "lng": 72.87890362989273
+                    },
+                    "southwest": {
+                        "lat": 19.06874747010728,
+                        "lng": 72.87620397010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Mahadev Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112390166589805903033\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg1vw12TC6E1hOk7KFS5b9FG0-cp_gyUTrVEsssbhPZETYm5GYDAM5xJoGIV6HIOXGI42q0rldWVunEu-h7yVXVsvuQlgpaVLdvHVDsyWzCM6YmSWCntJIjk3z58Ms12C1BBGYwYqbUaXHofGhdSRn_WoHb-AFFZ2l3oMUh_y5przU",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ23NJBZPI5zsRVtQwOPRXDDg",
+            "rating": 4.6,
+            "reference": "ChIJ23NJBZPI5zsRVtQwOPRXDDg",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "3VCG+2WH, New Mill Rd, BMC Colony, Kurla West, Kurla, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0302165,
+                    "lng": 72.9043152
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.03168942989272,
+                        "lng": 72.90555672989272
+                    },
+                    "southwest": {
+                        "lat": 19.02898977010728,
+                        "lng": 72.90285707010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hindu Temple",
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100313874785181398883\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiTt1KNLkrucy06jVd8wmokzZTAwYCWbzJjH4yrYjhmBIw_4PAZ5108am5VvuQBREDnFEKP-en4pakctQEgub2XPn6R3GSbcH2eqYyCZiMMJEsfkwDNwHvyyT1TNG4KmLvjtUoKPtxW-h9lbe-TXOhT0zQleDt6CCONdloRmpHyphb1",
+                    "width": 1400
+                }
+            ],
+            "place_id": "ChIJ_djggXTF5zsRsiDSduJDfhA",
+            "rating": 5,
+            "reference": "ChIJ_djggXTF5zsRsiDSduJDfhA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "2WJ3+3PP, Sai Shraddha Rahivasi Seva Sangh, Bharat Nagar, Chembur, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0006503,
+                    "lng": 72.82088929999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.00199592989272,
+                        "lng": 72.82226692989272
+                    },
+                    "southwest": {
+                        "lat": 18.99929627010728,
+                        "lng": 72.81956727010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shree Balaji Temple Worli",
+            "photos": [
+                {
+                    "height": 898,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110852880578398907347\">myananag</a>"
+                    ],
+                    "photo_reference": "AcYSjRjGFlKHr47yIn98wuEuufdq0ADA-7KM5oByHb7ee0RkUTBmC-XqR0BQL0PBL88HG8bgOiCjFESo7tHTX0xcl3X3S6zy-DaPPUg5VBtt7BiCAntCkCHcmQKkw93-usky4ivWU2Y0T5vu336Wll1YSyJFMYlzSW5ikSihqjrh7FXXg8O_",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJx9NS65HO5zsRflsdyswOBys",
+            "rating": 4.3,
+            "reference": "ChIJx9NS65HO5zsRflsdyswOBys",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 69,
+            "vicinity": "2R2C+789, DN Wakrikar Marg, Ambedkar Nagar Colony, BDD Chawls Worli, Worli, Mumbai"
+        }
+    ],
+    "status": "OK"
+}

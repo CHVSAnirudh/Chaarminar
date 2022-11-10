@@ -1,0 +1,50 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6171095,
+                    "lng": 77.0152112
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61860117989272,
+                        "lng": 77.01708092989271
+                    },
+                    "southwest": {
+                        "lat": 17.61590152010728,
+                        "lng": 77.01438127010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bamman Farms",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108711494899028226851\">Rahu roid</a>"
+                    ],
+                    "photo_reference": "AcYSjRgohad_F7Y0EtOxprQGIRmh0oK02W2EVkRh_k3UbxfoIZGmafNXMk_unNvqDivVSgjII0-2qmV1lZdNwjL3L93ABlLVsKciJm_MNUTpzUrKP-HxUwmIytOkm1VBQwy74rE_PVQTG2zC5ggy22s038difLw50tQycZM0TXgyhrnWDHBx",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJV_BvHPwtzzsRxHpJepDJ9II",
+            "rating": 4.7,
+            "reference": "ChIJV_BvHPwtzzsRxHpJepDJ9II",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "J288+R3, Bachnal"
+        }
+    ],
+    "status": "OK"
+}

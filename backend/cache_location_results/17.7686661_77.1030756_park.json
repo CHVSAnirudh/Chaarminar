@@ -1,0 +1,649 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7502906,
+                    "lng": 77.1245471
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.75163082989272,
+                        "lng": 77.12593087989272
+                    },
+                    "southwest": {
+                        "lat": 17.74893117010728,
+                        "lng": 77.12323122010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Silver Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115008624291035775856\">Qaxi Junaid</a>"
+                    ],
+                    "photo_reference": "AcYSjRhRbZY0zS1uZJLRqAkBT4UZ0WTwoIgYCc7h7DK3fd5KynLKj_BNWoaYvmvVmIZMcbqgwY-FnBu7GOwrLJsn8dtnKCtVmFdeFEtd0uqG2f62xC-MPZKC4AW4oM6Qwf1_QHvj2yOZWG1vAn9dcYTovlpOBsbQZ70S1hS_RYsOYwyFpYTy",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJD7BngH8pzzsRYNJoSW9a3Nc",
+            "rating": 4.1,
+            "reference": "ChIJD7BngH8pzzsRYNJoSW9a3Nc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "Q42F+4R7, Teacher's Colony, Humnabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7626662,
+                    "lng": 77.124066
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.76405122989272,
+                        "lng": 77.12522682989272
+                    },
+                    "southwest": {
+                        "lat": 17.76135157010728,
+                        "lng": 77.12252717010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Park",
+            "place_id": "ChIJ8QVK-IApzzsR8-xGo8E_Fns",
+            "rating": 0,
+            "reference": "ChIJ8QVK-IApzzsR8-xGo8E_Fns",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Q47F+3J8, Humnabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7490832,
+                    "lng": 77.1143159
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.75049677989272,
+                        "lng": 77.11569177989271
+                    },
+                    "southwest": {
+                        "lat": 17.74779712010728,
+                        "lng": 77.11299212010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Public Garden",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115008624291035775856\">Qaxi Junaid</a>"
+                    ],
+                    "photo_reference": "AcYSjRjcAOVNSi8QVP7U9_qR_Y-IsfNsOB7HMjq7R9exm7_yBwWdHuAErMu34UUxOZHt6GA-CD9XvDWGKtLjyJGCcRKn6U_lGNLHo16nsUh3C0UaDU-vORJxjfkY8xIS0c-ag713SWaSIf6mBUzVvi1ItTcqrGgFcO-TmN7MiTfpfNAN4ajG",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJzUXeLvMpzzsRy3zKkknUtMc",
+            "rating": 4.7,
+            "reference": "ChIJzUXeLvMpzzsRy3zKkknUtMc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "P4X7+JPP, Bidar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7841341,
+                    "lng": 77.1179325
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.78704605,
+                        "lng": 77.1190465
+                    },
+                    "southwest": {
+                        "lat": 17.78316345,
+                        "lng": 77.1145905
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Manik Rao Bhamshetty",
+            "place_id": "ChIJs5qQC_EpzzsREmXoddfVK4A",
+            "rating": 0,
+            "reference": "ChIJs5qQC_EpzzsREmXoddfVK4A",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Q4M9+M5, Maniknagar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7383532,
+                    "lng": 77.1673019
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.73970302989272,
+                        "lng": 77.16865172989273
+                    },
+                    "southwest": {
+                        "lat": 17.73700337010728,
+                        "lng": 77.16595207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Shivpuje Hills",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107538307627358610477\">Gurupad Shivapuje</a>"
+                    ],
+                    "photo_reference": "AcYSjRhBZNPJSoJJdstDoWM3LoLgbA0QHFeJ083DaqfUvNAtw_qx3nzX9xrglXaEVZXCg5EGaANl779n1HeQEj92TPZ750KNrb4gpfEWTrSC2SjllU8C7sv7KkPADvH5-PNG8y2tNwmBA3tGXNNz5JmwlsJkxLGN6T44GXucer58_UcraJX5",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJkfL8nhUpzzsR0AtxHOqVvAk",
+            "rating": 4.8,
+            "reference": "ChIJkfL8nhUpzzsR0AtxHOqVvAk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "P5Q8+8WV, Sindankera"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8306885,
+                    "lng": 77.1952683
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83188202989272,
+                        "lng": 77.19671147989271
+                    },
+                    "southwest": {
+                        "lat": 17.82918237010728,
+                        "lng": 77.19401182010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Hasiru Farms",
+            "place_id": "ChIJdwMbROzZzjsRTXKIMs4GyqE",
+            "rating": 0,
+            "reference": "ChIJdwMbROzZzjsRTXKIMs4GyqE",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "R5JW+74C, SH 105, Benchincholi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7821576,
+                    "lng": 77.1133821
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.78350702989272,
+                        "lng": 77.11478787989273
+                    },
+                    "southwest": {
+                        "lat": 17.78080737010728,
+                        "lng": 77.11208822010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Manik Prabhu Garden",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 779,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111054432667093375589\">Balram Deokar</a>"
+                    ],
+                    "photo_reference": "AcYSjRgme-7ImSohWsNuUJVmlf-y-HQaZ4vSzR57h0hGgsd6w1Ln8N4PUQqxcNGkhQuU6PgtvTivwRfs6PBBpEwWfl8CYZEIskPZ56S5suqJXCWKlUsSE5gaa_2POBc-71KjhtcQi7vUmqBbRao-cE0NcztDNl4N3g3kuueP6ryjXmc6-K_x",
+                    "width": 777
+                }
+            ],
+            "place_id": "ChIJc-vZyMUpzzsRc7hcC5Gbby8",
+            "rating": 4.5,
+            "reference": "ChIJc-vZyMUpzzsRc7hcC5Gbby8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Q4J7+V96, Maniknagar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7916194,
+                    "lng": 77.1219096
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.79298557989272,
+                        "lng": 77.12325507989272
+                    },
+                    "southwest": {
+                        "lat": 17.79028592010728,
+                        "lng": 77.12055542010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "S arya",
+            "place_id": "ChIJldlI1A0pzzsRMbmDuNK_VxM",
+            "rating": 0,
+            "reference": "ChIJldlI1A0pzzsRMbmDuNK_VxM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Q4RC+JQV, Dhumansur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7280218,
+                    "lng": 77.11144019999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.72923647989272,
+                        "lng": 77.11299222989271
+                    },
+                    "southwest": {
+                        "lat": 17.72653682010728,
+                        "lng": 77.11029257010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Khaja garden nawaz",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103720516965851785763\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgFNwxr4AoWM5d5_tko1H8FzCXOVirTOFYZqWpUTGDoU-goj5fXzJoe_6saSOKelCHdJ9cyNdPJcx_0FdpBKx9yZdJXO7mtd0bD2pAm-bIbv9WGx1zgkA-wOt9tTNKxq8-k9UhVtVMJmEk4gM6IYw3eP7NNdUyqQ899tmf82A4co2gE",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJZc_68pYpzzsRDZ7n2h2dZZU",
+            "plus_code": {
+                "compound_code": "P4H6+6H Kathalli, Karnataka",
+                "global_code": "7J9VP4H6+6H"
+            },
+            "rating": 0,
+            "reference": "ChIJZc_68pYpzzsRDZ7n2h2dZZU",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Kathalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8501881,
+                    "lng": 77.141261
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.85154062989272,
+                        "lng": 77.14259587989271
+                    },
+                    "southwest": {
+                        "lat": 17.84884097010728,
+                        "lng": 77.13989622010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Alikatta",
+            "place_id": "ChIJsXKovgInzzsRfwUOlh8ckOg",
+            "plus_code": {
+                "compound_code": "V42R+3G Sedol, Karnataka",
+                "global_code": "7J9VV42R+3G"
+            },
+            "rating": 5,
+            "reference": "ChIJsXKovgInzzsRfwUOlh8ckOg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Unnamed Road, Sedol"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8170374,
+                    "lng": 77.1745273
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.81921915,
+                        "lng": 77.17540292989271
+                    },
+                    "southwest": {
+                        "lat": 17.81631015,
+                        "lng": 77.17270327010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\ud83d\udc51PATEL'S FARMING LAND \ud83d\udc51",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107259839897622971704\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg9E3WwvMxvr-73q5TshoJSOzAHzZo2iH2e1ki519yyRfhmrdxBRsg39pgBKGqAEo0mdeFkkAJap_Fc0txJ_CR2_x3eN_zFJbu4-ZAK2erxC6E--92NW-maRfzLPQ-7iXAd9RelDS2xA1iUUXxSV8ESnfCgvdsLR7H1OvaUSsDgTxMl",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJM2SWZnMnzzsRF0CKGbB4Ry8",
+            "plus_code": {
+                "compound_code": "R58F+RR Jalsangvi, Karnataka",
+                "global_code": "7J9VR58F+RR"
+            },
+            "rating": 4.8,
+            "reference": "ChIJM2SWZnMnzzsRF0CKGbB4Ry8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Jalsangvi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.734944,
+                    "lng": 77.15426839999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.73659272989272,
+                        "lng": 77.15686655
+                    },
+                    "southwest": {
+                        "lat": 17.73389307010727,
+                        "lng": 77.15340235
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Shivraj.swami.",
+            "photos": [
+                {
+                    "height": 3104,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103101216104669916612\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRg6R6QlPzZu3ndN14YotHzJDBQS_tvgXhqy0-tAl_Svqeb6jC2M83cPbzVc5_wf7MmTSptcaZKTL74XXwH7biAInsmOUHfeAa787Qqhw77r0CeP247w6E3cUV_KPGAlePBNPs_t9Gvmt7IXEpKsNuk8SkFp5aI4tp7sSUlYLHlqCqBu",
+                    "width": 3104
+                }
+            ],
+            "place_id": "ChIJt-si2yApzzsRqCYCQhhMLrc",
+            "rating": 0,
+            "reference": "ChIJt-si2yApzzsRqCYCQhhMLrc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "P5M3+XPC, Sindankera"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8359919,
+                    "lng": 77.0276744
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.83727437989272,
+                        "lng": 77.02928412989272
+                    },
+                    "southwest": {
+                        "lat": 17.83457472010728,
+                        "lng": 77.02658447010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "\u0cae\u0cb9\u0cbe\u0cb0\u0cc1\u0ca6\u0ccd\u0cb0 \u0c97\u0cc1\u0cb2\u0cbe\u0cac\u0cbf \u0ca4\u0ccb\u0c9f",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104114799006070978518\">sunil bali</a>"
+                    ],
+                    "photo_reference": "AcYSjRih1LAWFefn6n62SPnuaUllvEAm9a0CuRT2C1osX9UrHSXPc_vn_1zi3E4WRYhnefN236_mN1aY-Z_qV2GA23dakt5ITLhbJGrNVGRo9bt8-4DTVJ299zaP-rmYF4GoI_eDxplQ5No-HTo92ZCsi9Q5XKRpzdYt-MfnMmnI72pWJ3YQ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJPQpU758lzzsR9Rm-pwirgEQ",
+            "rating": 5,
+            "reference": "ChIJPQpU758lzzsR9Rm-pwirgEQ",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "R2QH+394, Rajola"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7674584,
+                    "lng": 77.1235011
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.76870727989272,
+                        "lng": 77.12482062989272
+                    },
+                    "southwest": {
+                        "lat": 17.76600762010727,
+                        "lng": 77.12212097010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "TMC Garden",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115008624291035775856\">Qaxi Junaid</a>"
+                    ],
+                    "photo_reference": "AcYSjRjM8lW9OO0zGuJxB6gTOKgcuC2gTfG1F0ber4DusDolKl8nR578Kv0xJ3BB1tvJbUzO31-TAVbdNbUbSXGEot55SLtQDnXsNLX9e5nOa9s--MiwWE8nUnqHMVgwKEzEIlXxWmeDvbR8kzph3g1a7B6RfHoFZjLf3qkv9jejQkc6wbQ4",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJpz4kd94ozzsRWFMXTOlwPhU",
+            "rating": 3.6,
+            "reference": "ChIJpz4kd94ozzsRWFMXTOlwPhU",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "Q48F+XCJ, Kallur Rd, Humnabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.767458,
+                    "lng": 77.1235014
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.76870702989272,
+                        "lng": 77.12482097989272
+                    },
+                    "southwest": {
+                        "lat": 17.76600737010728,
+                        "lng": 77.12212132010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Games For Playing children",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115008624291035775856\">Qaxi Junaid</a>"
+                    ],
+                    "photo_reference": "AcYSjRgpBaN3iPwlhubk4ZzugslAK1eedTZ0Sev3qXam18ltHJgF1p8rZx9zoJchs56R9xd3-W-3aP_ZbKwOdRwCHIjVClrdrjRv-YFOUNYhHv2m3kjWQqE0KbJiENEr56fQDQYmk39BNgnio8EGPniRM1lDqL8ZH23UbrVULxzJ8LXLO0OI",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ7Tskd94ozzsR2plodEcZiwk",
+            "rating": 3.4,
+            "reference": "ChIJ7Tskd94ozzsR2plodEcZiwk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 96,
+            "vicinity": "Q48F+XCJ, Humnabad"
+        }
+    ],
+    "status": "OK"
+}

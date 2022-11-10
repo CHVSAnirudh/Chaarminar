@@ -1,0 +1,872 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRi2Jdoz3HWp8e0252w4hIzJkHxiVaKTjwnc406ki74EQ4nmkgv7h7VZkw3_-gtYdV5ddsU4vVNBvKh9jtfRWkTQ-d6vUajcmqxyU9q6mIVgJwmF08natwwgSJgyqYupNWBGmrcG0ZGfWTrqUerjEfTiIJ3ZAhZE19F1QvOelSdtC10WozlRa2D2WPB7U-iTWvJtf8rrbzKiKRNiRit0PaDiBZwSWTeW9E97l77KdkM5haQsPBcWfDHeKiSukhTQqzjJJ4xyvLANisLpVJs25CH5z6-HFR4SaL4YSRTnUFOPIehWPMLjvjg06ebM1DC7cTZ5Sf1AhRalfXUE-woihMZH98E8HI5ukb225N0nf6IblGp-sE8joMEo7Jx6aCecIE51bQme9qCMgL2Nt4nm_AXAe7xwYDt7S7upuoknRlXaVvZc5643e0A",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5527805,
+                    "lng": 78.2639918
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.55412192989272,
+                        "lng": 78.26534167989271
+                    },
+                    "southwest": {
+                        "lat": 17.55142227010728,
+                        "lng": 78.26264202010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple In Patancheru",
+            "place_id": "ChIJG-zfKfPzyzsR7tlouSQwSEQ",
+            "rating": 0,
+            "reference": "ChIJG-zfKfPzyzsR7tlouSQwSEQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "H737+4H9, Unnamed Road, Citizens colony, Patancheruvu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.52594,
+                    "lng": 78.2972642
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.52728977989272,
+                        "lng": 78.29867592989274
+                    },
+                    "southwest": {
+                        "lat": 17.52459012010728,
+                        "lng": 78.29597627010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104972362254008872949\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgAEv21wuUTPmoIoPDT7Pkoat_ikCREPv0u2YVRyBw1_E_VOtEHYCNErUnb3iOdKUaBa08rECrx80eEhiE18pRrphnE6hIbaM3tx5d24xnDixqwXGJ6Wu4uvfYvMSMszugOEZ0rSHevVmPTDSNL1a8njGdUR0r59u1XCpByKWtt2b2z",
+                    "width": 2080
+                }
+            ],
+            "place_id": "ChIJVfVA202NyzsRKorl17YuPSk",
+            "rating": 4,
+            "reference": "ChIJVfVA202NyzsRKorl17YuPSk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "G7GW+9WC, ICRISAT Colony, Beeramguda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5161485,
+                    "lng": 78.298936
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.51743992989272,
+                        "lng": 78.30032692989272
+                    },
+                    "southwest": {
+                        "lat": 17.51474027010727,
+                        "lng": 78.29762727010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Lord Shivayya Temple",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110863476972319191856\">Lucky Mishra</a>"
+                    ],
+                    "photo_reference": "AcYSjRh4V6eF71Agk9pCq4cG10U8QiuTAahwL1c55bnO49eI0PBWul0NoxDkj6D4S2hBMj23VphHGMPy7PuGl_aSTmeP7kgE7t5bwpQYM4k4IRROkqOtJMmfC_4t-5D56OP2sXyXHUF_aDxFM_n5U4qIB-pibg-29cW-1zd0WCblLZfnT3Gf",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJP3uCVVGNyzsRP53tonMRDp8",
+            "plus_code": {
+                "compound_code": "G78X+FH Ramachandrapuram, Telangana",
+                "global_code": "7J9WG78X+FH"
+            },
+            "rating": 4.7,
+            "reference": "ChIJP3uCVVGNyzsRP53tonMRDp8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Beeramguda, Ramachandrapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.474025,
+                    "lng": 78.2922683
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.47538597989272,
+                        "lng": 78.29361507989272
+                    },
+                    "southwest": {
+                        "lat": 17.47268632010728,
+                        "lng": 78.29091542010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJV32-KoPtyzsRKD_6_VnpgMU",
+            "rating": 4.7,
+            "reference": "ChIJV32-KoPtyzsRKD_6_VnpgMU",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "F7FR+JW2, Indira Nagar, Komaram Bheem Colony, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5057547,
+                    "lng": 78.3183823
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50706327989272,
+                        "lng": 78.31972722989272
+                    },
+                    "southwest": {
+                        "lat": 17.50436362010728,
+                        "lng": 78.31702757010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104276647691559185396\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgOb6VrDV4EYYg6k1yr0sEYKTZcxUKzYkDKnPdsE45_XAz8Pt6fdSe_L2IoO1DhvrrWphDELKHA2p6yk3kVufvAYhHYWv_mSGAe62TOalNWoLhM8N9KFiYK1aIa4AqSPlAbHUghkbhzYQfGM63TDYAYNub8wy7m3de6cAwESBKEMcsO",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ7-htLJ-SyzsRfhjmvwXMdHA",
+            "rating": 4,
+            "reference": "ChIJ7-htLJ-SyzsRfhjmvwXMdHA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38,
+            "vicinity": "G849+892, Maruthi Hill Society, Vidya Nagar Colony, Lingampally, Chanda Nagar, Ramachandrapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4520167,
+                    "lng": 78.3065261
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45335147989272,
+                        "lng": 78.30793797989271
+                    },
+                    "southwest": {
+                        "lat": 17.45065182010728,
+                        "lng": 78.30523832010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101013882391545245977\">dhiren bhuyan</a>"
+                    ],
+                    "photo_reference": "AcYSjRhvaAtx_aXR4E3JV9Vdm8UaFHaJLP8PQpm3EG61gEP2pTvLq6WoB75RcfyZCTVOy4wpwGqsULgMEof9r8lEu2NilPLDKziq7yU_8LWaxi3qeZ5eKHa-WwW47QDRgSensCexRT9O2qlc8Gu7ptPa-tYFS1GaLqKeKi6djIa6hGaWOp6l",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJn6p1mHmTyzsRo2hfWJgwscE",
+            "rating": 4.7,
+            "reference": "ChIJn6p1mHmTyzsRo2hfWJgwscE",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "F824+QJJ, Gopanpalle"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5110737,
+                    "lng": 78.28460079999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.51246867989272,
+                        "lng": 78.28586957989272
+                    },
+                    "southwest": {
+                        "lat": 17.50976902010728,
+                        "lng": 78.28316992010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pochamma Temple",
+            "place_id": "ChIJxxlPS6jyyzsR00fxgVsN15A",
+            "rating": 0,
+            "reference": "ChIJxxlPS6jyyzsR00fxgVsN15A",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "G76M+CRH, Srinivas Nagar Colony, Bharat Heavy Electricals Limited, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.52224,
+                    "lng": 78.32584419999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.52355832989272,
+                        "lng": 78.32715392989272
+                    },
+                    "southwest": {
+                        "lat": 17.52085867010728,
+                        "lng": 78.32445427010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Maisamma Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114957439148808242816\">suresh gupta</a>"
+                    ],
+                    "photo_reference": "AcYSjRjnzLH9ThL0TrPozYni9j_fC1Fig-YeczU0n_QdfWnq0MSbxfz7QvwS6kQNP4-cXI0RYsWkZ4uQ7_zcHgbL9KFcGSUwBv5Sze08Oeha_58CamRgJ4XWsIe6ArtSqoASq3izD5tWKd5ea_km5yNOHhY6qXb_EJXb_x0VEip0oTCOWNu2",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJX9XoGi6NyzsRO6Xl5jK5aZ0",
+            "rating": 4.5,
+            "reference": "ChIJX9XoGi6NyzsRO6Xl5jK5aZ0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "G8CG+V8X, Ameenpur, Miyapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5319805,
+                    "lng": 78.26553059999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.53333347989272,
+                        "lng": 78.26690422989272
+                    },
+                    "southwest": {
+                        "lat": 17.53063382010728,
+                        "lng": 78.26420457010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJI8eO0v_zyzsRnJ1GQVHCgQE",
+            "rating": 0,
+            "reference": "ChIJI8eO0v_zyzsRnJ1GQVHCgQE",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "G7J8+Q6V, JP Colony, Patancheruvu"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4561686,
+                    "lng": 78.3177355
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.45730627989272,
+                        "lng": 78.3184652
+                    },
+                    "southwest": {
+                        "lat": 17.45460662010727,
+                        "lng": 78.31554639999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 2041,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112368015716314580118\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhQCgXlp_YESNBYUu0yOqTGOEQxQmELIpPX4drqxKdSS7YdI7Ck65j4DpBFZQyN7cPM4zEysgwAUJAwrl1PEop7ZfS8YT4QfgPN53kqc9zCWRvrmi87vPNLNOe0J3gqhr8olrED8bwBD9lwmkBJQP-bkAV3j0e-QpT2Tvmb_yLFn6Dp",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJK2c0v5mTyzsRZV4B4QirDWk",
+            "rating": 5,
+            "reference": "ChIJK2c0v5mTyzsRZV4B4QirDWk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "F849+6JV, Gopanpalle"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5176668,
+                    "lng": 78.3093978
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.51901752989272,
+                        "lng": 78.31075652989273
+                    },
+                    "southwest": {
+                        "lat": 17.51631787010728,
+                        "lng": 78.30805687010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104064844570495128990\">khaleel ahmed</a>"
+                    ],
+                    "photo_reference": "AcYSjRg5GDJHnU_AI71o8Bjc1p2tZLGrPwS1BQIjlkUxx4u1JjR9_oVAMtDiwJsYMEWIbvmdmld49NWFEbaay8BzsGHqflCZs8u40dtprkz_6UfQYUhfC3qgWCkFj-a-lflxRvCtwQ5dy09rrpIrW3StOi1cQlkqCMSyYGSvLmGSi5dDs6Rg",
+                    "width": 3472
+                }
+            ],
+            "place_id": "ChIJSfcA9wiNyzsRjpJaL799P1o",
+            "rating": 4,
+            "reference": "ChIJSfcA9wiNyzsRjpJaL799P1o",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "G895+3Q8, Unnamed Road, Beeramguda, Ramachandrapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.514011,
+                    "lng": 78.31147539999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.51537782989272,
+                        "lng": 78.31282097989272
+                    },
+                    "southwest": {
+                        "lat": 17.51267817010728,
+                        "lng": 78.31012132010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Ramalayam Temple",
+            "place_id": "ChIJpVlyR2ONyzsRoaqeozIp3J8",
+            "rating": 5,
+            "reference": "ChIJpVlyR2ONyzsRoaqeozIp3J8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "G876+JJ3, Sriramnagar Colony Phase 2, NSL Colony, Ramachandrapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4833002,
+                    "lng": 78.3251722
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.48459497989272,
+                        "lng": 78.32651147989272
+                    },
+                    "southwest": {
+                        "lat": 17.48189532010728,
+                        "lng": 78.32381182010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Mahadev Temple",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114333940252998553862\">uday gurav</a>"
+                    ],
+                    "photo_reference": "AcYSjRivdZ8CNaiNTHm_lTX4pOb69lxUP8xqCIuKLB3nSd6xzP_rrKgeJCYUF0hNlakZnqZV-Z7o_Gj3qdWpa3ZC1X-W3VOv1lljeJY_Sa4_GNefM0FW2KtpJOJS4dkklm3MweC9WA5K-cL4jrE0yc1efkTtgEdHIgGhLB7ETQhvqE1fEZKZ",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJowrMc3WTyzsRu56HyOMqwXA",
+            "rating": 5,
+            "reference": "ChIJowrMc3WTyzsRu56HyOMqwXA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "F8MG+837, Nehru Nagar, Serilingampalle (M)"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.500733,
+                    "lng": 78.2978639
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50207232989272,
+                        "lng": 78.29914547989272
+                    },
+                    "southwest": {
+                        "lat": 17.49937267010727,
+                        "lng": 78.29644582010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Yogeswara Temple",
+            "photos": [
+                {
+                    "height": 2740,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117898908958571664835\">Raghunatha Reddy Ontikommu</a>"
+                    ],
+                    "photo_reference": "AcYSjRhXo3jSpx84S_jSV4nF4X2Nb_7Ix1uuJmJj--U2X_Af2b39RlwMR1COfaYgyjYYK5fm-oas4hxwru_5HU3Mct5XokrHSMAz98UC3k0JdEQ_K5Zyl7J7Mn8UppxhI6LtTrE9BZeVbcEyOwxPPpO91CEChRas7x6SiSmY2-wSFaAYGna0",
+                    "width": 2924
+                }
+            ],
+            "place_id": "ChIJmYZAz62SyzsR61219MwptSs",
+            "rating": 4.5,
+            "reference": "ChIJmYZAz62SyzsR61219MwptSs",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "G72X+74X, Bharat Heavy Electricals Limited, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5226524,
+                    "lng": 78.3081347
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.52391817989272,
+                        "lng": 78.30944132989272
+                    },
+                    "southwest": {
+                        "lat": 17.52121852010728,
+                        "lng": 78.30674167010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sree Krishna Lotus Temple",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107922542697106890929\">Nagesh Ch</a>"
+                    ],
+                    "photo_reference": "AcYSjRg_WbwDRU2JBCvTrNQjaGbMApuWZkFMAOsuFNivsj-0KOouHYexRfXhv-Ftrh1Ug-2vQawsyvSGq0sGKfAfu5ErgpZx0P1IYnnzK5WHMSYdbqBVVI0Z9HyE67TrD46veRpLJtcAOuDlTwpnczU-FMa1rb9ZE7IlBxLT51wyysgX_MNF",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJLTH2jpqNyzsR2QOWFmib9K8",
+            "rating": 4.4,
+            "reference": "ChIJLTH2jpqNyzsR2QOWFmib9K8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28,
+            "vicinity": "G8F5+37C, Raghavendra Colony, Ramachandrapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4793171,
+                    "lng": 78.29075689999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.48066177989272,
+                        "lng": 78.29222642989272
+                    },
+                    "southwest": {
+                        "lat": 17.47796212010728,
+                        "lng": 78.28952677010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Gayathri Devi Temple",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116831691900841578189\">Krishna Nagh Varanasi</a>"
+                    ],
+                    "photo_reference": "AcYSjRh7Lc9yIIK5SEfE5NT2CUmAGuM-5sKY9p2XuulzogPhzv00-BmboTFZqAzVzWOFMJYGjGntBlfGzUQg64yYVgzA42OuzK8AtS4PRstarcIJrUMB-EuG26U68p9Z0-xhQq-lA5s75OhR7bhU8IDGSDSpgr54UA8ly6l9pdiW-sbMxHRy",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJS9SeczPtyzsRWwFOT3irKR0",
+            "plus_code": {
+                "compound_code": "F7HR+P8 Hyderabad, Telangana",
+                "global_code": "7J9WF7HR+P8"
+            },
+            "rating": 4.7,
+            "reference": "ChIJS9SeczPtyzsRWwFOT3irKR0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 168,
+            "vicinity": "Vidyut Nagar, MIG Phase 2 Colony, Bharat Heavy Electricals Limited, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5272256,
+                    "lng": 78.32640169999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.52855652989272,
+                        "lng": 78.32775042989272
+                    },
+                    "southwest": {
+                        "lat": 17.52585687010728,
+                        "lng": 78.32505077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Ammenpur Grama Devatha Temple",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114201843373568225323\">druvatej87</a>"
+                    ],
+                    "photo_reference": "AcYSjRgHNAxQmo8wo-XDzgePlRkTITF7L1MSqRantTXD95a5dCfwoViNPuCSIY7bVEapBe0JZj91mPIeON0-vpEtIoAjnyq9kIqoazsZGtR0d08J4V-bN39DmC3ry8K-v64kzrO4rB-RrLl6v01h4F70GglV1elybDjwdgp3KGgKPPf2NCC3",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJl2nlIzaNyzsR9NuvZ1Zyyp0",
+            "rating": 5,
+            "reference": "ChIJl2nlIzaNyzsR9NuvZ1Zyyp0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "G8GG+VHR, Ameenpur Village, Ameenpur, Miyapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4826447,
+                    "lng": 78.3107567
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.48403882989272,
+                        "lng": 78.31210132989271
+                    },
+                    "southwest": {
+                        "lat": 17.48133917010728,
+                        "lng": 78.30940167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pochamma Temple",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109226587467440542585\">Prashant Pathak</a>"
+                    ],
+                    "photo_reference": "AcYSjRi61186188MkEplvfYuhJvD21DNQPnMU3fdE0Vu-q96ZyvqAxAb7vT-ZLCBzNt5WB4_kq150EYdGDbKu49oYzIErTKymTqfy_OU1wH-IAqtMkEwXLXSeEHj90jPEm-BxxiMfxv2ASoQR1seUP5lCGLLXEti1xj2zisV4_Zoucq5zVxD",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ8bHQTsGSyzsRZRsP3fyc8W0",
+            "plus_code": {
+                "compound_code": "F8M6+38 Hyderabad, Telangana",
+                "global_code": "7J9WF8M6+38"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ8bHQTsGSyzsRZRsP3fyc8W0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67,
+            "vicinity": "MIG Colony, MIG Phase IV, Bharat Heavy Electricals Limited, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.509165,
+                    "lng": 78.3197783
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.51051007989273,
+                        "lng": 78.32110207989271
+                    },
+                    "southwest": {
+                        "lat": 17.50781042010728,
+                        "lng": 78.31840242010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Lord Venkateswara temple",
+            "place_id": "ChIJRUSpmLuTyzsRuAOeWq7-95w",
+            "plus_code": {
+                "compound_code": "G859+MW Ramachandrapuram, Telangana",
+                "global_code": "7J9WG859+MW"
+            },
+            "rating": 0,
+            "reference": "ChIJRUSpmLuTyzsRuAOeWq7-95w",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "58, Maruthi Hill Society, Maruthi Nagar Colony, Bandam Kommu, Ramachandrapuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4848563,
+                    "lng": 78.3168621
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.48620847989272,
+                        "lng": 78.31817002989271
+                    },
+                    "southwest": {
+                        "lat": 17.48350882010727,
+                        "lng": 78.31547037010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pochamma Temple",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117617075213284818200\">Uday Yadav</a>"
+                    ],
+                    "photo_reference": "AcYSjRgYvbtBL3YR1C4PUby3dEE6U-MenE5RxVn_T_8ADRnM3y1JarhhR53_sBoLicL1B1wAlfMK8KJtMdYKHaKB3Frv7I4c0gHEKjn9f2X3D2qUYBsBFSO2G0yZcO7K32h8bBs7UHK6yAAYyx-VjYmT8h_PDhMq809pqiiJVIm4ut-7jeSi",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJ8wbYieqSyzsRuJ925mBGbkA",
+            "rating": 4.3,
+            "reference": "ChIJ8wbYieqSyzsRuJ925mBGbkA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 34,
+            "vicinity": "F8M8+WPX, Rail Vihar, Serilingampalle (M)"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,41 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.0507763,
+                    "lng": 77.8722189
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.05211752989272,
+                        "lng": 77.87361137989272
+                    },
+                    "southwest": {
+                        "lat": 15.04941787010728,
+                        "lng": 77.87091172010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Yadiki pedda garidi,yoga centre",
+            "place_id": "ChIJw5OxEKGhtjsRZIVZADsvdmQ",
+            "rating": 0,
+            "reference": "ChIJw5OxEKGhtjsRZIVZADsvdmQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "3V2C+8V8, Yadiki"
+        }
+    ],
+    "status": "OK"
+}

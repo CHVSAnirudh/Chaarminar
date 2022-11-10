@@ -1,0 +1,779 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRhhP2p53xO3SX435mlOKNMi2c5PtZ5cEXpavHwb_kOp9vjxr3yig3hEhYsYP8huby2LFKHTHjEjmRTKyq8ABeti56YA1-IDXtSl1hepqUALC1NGIar1LMsFtgPLrSLrV5N9EfUp0HzzMArJRdjnukRAHC-6T7eSAmSrCf8PA0c5LoE-Y_0RysTuQ1TCsyFlTmkaKvd06gYkHSolOPeEez6q2kSAqmK-zZYY9nYfZaJqIvNyqR-UDANLEYRaxrnDlj3T0ZCUIeQRtqDdSFNXgF1UNPDIP5HGOWLE5RnutPDNwO3nFAY8BGm5Ch1rxbHCheEtRefXiMF7g1qPG8_Jao6nBQ3YoQQavPcSj2gmVRrrigT2ETPSWVeXUOVfPB3_0McaJ17-LHR9a5R1HlFYU8AsYLQsmGub42kHESeChsG46_rcbzHKq38",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7272595,
+                    "lng": 77.753491
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.72898392989272,
+                        "lng": 77.75443669999999
+                    },
+                    "southwest": {
+                        "lat": 17.72628427010728,
+                        "lng": 77.75065389999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shiv Mandir",
+            "place_id": "ChIJnRjHs3ytzjsR1NSmOTDVovo",
+            "rating": 5,
+            "reference": "ChIJnRjHs3ytzjsR1NSmOTDVovo",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6442171,
+                    "lng": 77.8082642
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64557187989272,
+                        "lng": 77.80968412989273
+                    },
+                    "southwest": {
+                        "lat": 17.64287222010728,
+                        "lng": 77.80698447010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman Temple",
+            "photos": [
+                {
+                    "height": 1968,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100441760587100681967\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhHTHM4w3mO8ATklbfRjzKp0LF3gMqiJtHKiZq6k95HXJ9aaMDMnePgEh3DaRSdj5nzmKTs3UDFbwJZOsLAoTrehm2Xu1QqaBTh7ysCtGUtLydxqpyC9h8fGMPWVwESwr6izzhFRy4vEFfeo_Lef3QlEc0v5MBdJjt0-NctljW-b2q5",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJjxt2dbhTyTsRnhFjgt1uZWo",
+            "rating": 5,
+            "reference": "ChIJjxt2dbhTyTsRnhFjgt1uZWo",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6258613,
+                    "lng": 77.67802999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.62723082989272,
+                        "lng": 77.67943857989272
+                    },
+                    "southwest": {
+                        "lat": 17.62453117010728,
+                        "lng": 77.67673892010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman Temple",
+            "place_id": "ChIJR62aGO1MyTsRHEnLNyg_uc0",
+            "rating": 5,
+            "reference": "ChIJR62aGO1MyTsRHEnLNyg_uc0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6492645,
+                    "lng": 77.6915776
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.65061707989272,
+                        "lng": 77.69293862989271
+                    },
+                    "southwest": {
+                        "lat": 17.64791742010728,
+                        "lng": 77.69023897010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman Temple",
+            "place_id": "ChIJ83CP7dBMyTsRg6bD3vfQhlA",
+            "rating": 5,
+            "reference": "ChIJ83CP7dBMyTsRg6bD3vfQhlA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7252146,
+                    "lng": 77.6344668
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.72654847989272,
+                        "lng": 77.63580662989273
+                    },
+                    "southwest": {
+                        "lat": 17.72384882010728,
+                        "lng": 77.63310697010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman temple",
+            "place_id": "ChIJ__0jtN21zjsR4ks-RMIk9UU",
+            "rating": 0,
+            "reference": "ChIJ__0jtN21zjsR4ks-RMIk9UU",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7446108,
+                    "lng": 77.7180647
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74606162989272,
+                        "lng": 77.71916027989272
+                    },
+                    "southwest": {
+                        "lat": 17.74336197010728,
+                        "lng": 77.71646062010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "SRI DURGA MATHA TEMPLE",
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106817880348971165349\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRixSIMDyadDA45fUklT84GdmQX8bUtTCJRiAdewGScOK55qMxmHf7tyi5agi0RGV7JZBjceV1SOh8slIBvQ2Zx59ooqlK_9BkOTI8P9Cg1f9mijFZLGML6b7qv_XuHMv4iVhE8yA7eElmCx1wksLAbD3RSappkRFj1aYgQmzA4uyItn",
+                    "width": 1275
+                }
+            ],
+            "place_id": "ChIJET1E5AqzzjsRchzlX79H3hs",
+            "rating": 4,
+            "reference": "ChIJET1E5AqzzjsRchzlX79H3hs",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7395992,
+                    "lng": 77.7695864
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74088337989272,
+                        "lng": 77.77092387989272
+                    },
+                    "southwest": {
+                        "lat": 17.73818372010728,
+                        "lng": 77.76822422010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "shivalayam mandir",
+            "place_id": "ChIJiXDeisGtzjsRKJvy93FQ_DI",
+            "rating": 0,
+            "reference": "ChIJiXDeisGtzjsRKJvy93FQ_DI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.609164,
+                    "lng": 77.76501440000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61049282989272,
+                        "lng": 77.76640837989272
+                    },
+                    "southwest": {
+                        "lat": 17.60779317010727,
+                        "lng": 77.76370872010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman Mandir",
+            "place_id": "ChIJuYzfB5ZTyTsR0DVt05WHUsw",
+            "rating": 0,
+            "reference": "ChIJuYzfB5ZTyTsR0DVt05WHUsw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5995666,
+                    "lng": 77.71374089999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60093072989272,
+                        "lng": 77.71505817989272
+                    },
+                    "southwest": {
+                        "lat": 17.59823107010728,
+                        "lng": 77.71235852010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman temple \u0939\u0928\u0941\u092e\u093e\u0928 \u092e\u0902\u0926\u093f\u0930",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ_-GASgtNyTsRuACu9y0s558",
+            "plus_code": {
+                "compound_code": "HPX7+RF Kohir, Telangana",
+                "global_code": "7J9VHPX7+RF"
+            },
+            "rating": 0,
+            "reference": "ChIJ_-GASgtNyTsRuACu9y0s558",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5936126,
+                    "lng": 77.7169029
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.59498067989272,
+                        "lng": 77.71824982989271
+                    },
+                    "southwest": {
+                        "lat": 17.59228102010728,
+                        "lng": 77.71555017010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pochamma Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJN4PvK79NyTsRv3eFN5F3rDA",
+            "rating": 4.3,
+            "reference": "ChIJN4PvK79NyTsRv3eFN5F3rDA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6006164,
+                    "lng": 77.7213829
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.60200057989272,
+                        "lng": 77.72269292989273
+                    },
+                    "southwest": {
+                        "lat": 17.59930092010728,
+                        "lng": 77.71999327010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Omkareshwara Temple",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108256094633017040692\">srimausharani</a>"
+                    ],
+                    "photo_reference": "AcYSjRjpS3A1Tm034up2SsEOn9SFx6iXYTG2nOtOOIytDC8wWA9z0cPp11HLEhhqXCtqZdENAE80ic3JuQZRJLF5d6PJO_7c6ytTgwQrVDVoOzprr1KBY72sMqzYkxTfKHHbLH89IdyBkip3W9nB8_XRDyfY255m7xbxxHJkbKN4bx2xbJgp",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJe7HPcb1NyTsRfNp6xLV4Enk",
+            "rating": 4.4,
+            "reference": "ChIJe7HPcb1NyTsRfNp6xLV4Enk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6352482,
+                    "lng": 77.7543496
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.63657532989272,
+                        "lng": 77.75577227989272
+                    },
+                    "southwest": {
+                        "lat": 17.63387567010728,
+                        "lng": 77.75307262010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114291299528578516062\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiwQeY8cQNbW8FdhYiY103ZhQg_br6TQpxN4Qw2Z05XZ0VBTTF_fbFreuVeGmWN_KmdiNFw8SSL3m49Ah-EQmzEIVWJwr_YN3iA_UxSTpptMD02cpvhcGJaHxR8SpEZI7vqV7Fg4a58w6yCQ6NF7se_GVLx6-n4QasaoRGSojetoG2B",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJnTKfmZlSyTsR-PfIDJAmfx0",
+            "rating": 5,
+            "reference": "ChIJnTKfmZlSyTsR-PfIDJAmfx0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7192141,
+                    "lng": 77.7287598
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.72055322989272,
+                        "lng": 77.73011262989272
+                    },
+                    "southwest": {
+                        "lat": 17.71785357010727,
+                        "lng": 77.72741297010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman temple",
+            "place_id": "ChIJaZVteAuzzjsRVG4NTzPYuRs",
+            "rating": 5,
+            "reference": "ChIJaZVteAuzzjsRVG4NTzPYuRs",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.695436,
+                    "lng": 77.8112335
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69637737989272,
+                        "lng": 77.81204622989273
+                    },
+                    "southwest": {
+                        "lat": 17.69367772010727,
+                        "lng": 77.80934657010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Rukmini Panduranga Temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103090426953008643820\">jagan dodlas</a>"
+                    ],
+                    "photo_reference": "AcYSjRhmjEe-EJIXilvf7Wa_k9e3YVdoS_mm--zYrJq_92kubhrUWY9OPKgjjJtz7xaTNm1QFATPwuKOwX77T5LfAPJqY18H5_s9zhU4DCZmiqj2HmrRudORqWzDNUqdTZ0fHKdbFyDQcLxVUUKbt2BnsVT0Ao8YqAzBkSdeEjLET_Yg_eun",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJy_3DfuuszjsRMYde3M_ukis",
+            "rating": 4.5,
+            "reference": "ChIJy_3DfuuszjsRMYde3M_ukis",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6172534,
+                    "lng": 77.8109958
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.61885892989272,
+                        "lng": 77.81294607989273
+                    },
+                    "southwest": {
+                        "lat": 17.61615927010728,
+                        "lng": 77.81024642010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pochamma Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJl7BFglJTyTsRXaQcfcl3iyI",
+            "rating": 5,
+            "reference": "ChIJl7BFglJTyTsRXaQcfcl3iyI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6814293,
+                    "lng": 77.65521
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.68276047989272,
+                        "lng": 77.65655762989272
+                    },
+                    "southwest": {
+                        "lat": 17.68006082010728,
+                        "lng": 77.65385797010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pochamma Temple",
+            "place_id": "ChIJW3Eba2CzzjsRzvmsqaBimws",
+            "rating": 0,
+            "reference": "ChIJW3Eba2CzzjsRzvmsqaBimws",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7442884,
+                    "lng": 77.7531219
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74572332989272,
+                        "lng": 77.75445392989272
+                    },
+                    "southwest": {
+                        "lat": 17.74302367010727,
+                        "lng": 77.75175427010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman Temple",
+            "place_id": "ChIJm9NhPkOtzjsRAIwshb4Ahg0",
+            "rating": 0,
+            "reference": "ChIJm9NhPkOtzjsRAIwshb4Ahg0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6920321,
+                    "lng": 77.639639
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69332062989272,
+                        "lng": 77.64099772989272
+                    },
+                    "southwest": {
+                        "lat": 17.69062097010728,
+                        "lng": 77.63829807010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Durgamatha Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 6944,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114834704107227468209\">Jagannath Reddy</a>"
+                    ],
+                    "photo_reference": "AcYSjRiCde2M72J97K89seTEyB8S1FfXzRoLRallzjydKaK8s8uAhQaKTtphqwpv50FrklcFyOyMmLcgZwXXBOKof_D9mDzOzwuzx8XWWAuKd4I0-xP9fn7zOA7d5__WH2YqE31ds3mRVDVJpcn7lYmcg9-nOO3CU_YdpgBbrr7J-FGVdNUW",
+                    "width": 9280
+                }
+            ],
+            "place_id": "ChIJtcWzFSa1zjsRiQv_1oNYSRw",
+            "rating": 5,
+            "reference": "ChIJtcWzFSa1zjsRiQv_1oNYSRw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5774512,
+                    "lng": 77.7650192
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57879777989272,
+                        "lng": 77.76638302989274
+                    },
+                    "southwest": {
+                        "lat": 17.57609812010728,
+                        "lng": 77.76368337010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman Temple",
+            "place_id": "ChIJd_NcJhlSyTsRyIB-IYWyauU",
+            "rating": 3.7,
+            "reference": "ChIJd_NcJhlSyTsRyIB-IYWyauU",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.571602,
+                    "lng": 77.7552218
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.57295322989272,
+                        "lng": 77.75681227989271
+                    },
+                    "southwest": {
+                        "lat": 17.57025357010728,
+                        "lng": 77.75411262010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "\u0c36\u0c4d\u0c30\u0c40 \u0c36\u0c4d\u0c30\u0c40 \u0c36\u0c4d\u0c30\u0c40 \u0c38\u0c3f\u0c26\u0c4d\u0c26\u0c47\u0c36\u0c4d\u0c35\u0c30 \u0c26\u0c47\u0c35\u0c3e\u0c32\u0c2f\u0c02",
+            "photos": [
+                {
+                    "height": 1932,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110986929927226788912\">jilla saikiran</a>"
+                    ],
+                    "photo_reference": "AcYSjRjn4XCbi08x2uX7f2isAlxSTwWvpHIujQopu1YspSVKG6MFI3tImn6BpWS_1EbvSfzxARnoP0Nc95LpONXyaqTqne5RwbAyvjQ3DL4_rr22WUNAX_eLj5OPp_ttvzmikhoe6AjCJSwQz-pn1W2pvV5NkNHMUVgUz_4nlJHTEg0MHjEx",
+                    "width": 2576
+                }
+            ],
+            "place_id": "ChIJKXH4FqJTyTsRGF3lyaCMhXw",
+            "rating": 5,
+            "reference": "ChIJKXH4FqJTyTsRGF3lyaCMhXw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        }
+    ],
+    "status": "OK"
+}

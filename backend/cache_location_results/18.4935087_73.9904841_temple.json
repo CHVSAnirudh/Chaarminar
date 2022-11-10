@@ -1,0 +1,891 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjc61iwG-YYKsClw-xNvIaTQLjzsj_k9uJIXB56QIxwmdgVJa9r7TIyUPtp1WZ9P_cgUr1ME446mXwsyyknfuLz8JYIfgI0Nq1pwJpA_k9LrZ3tD2tYpROhIjb0_h89ut-5-RAxTayNkTHRN8PYEG29UhLoaO16rcLiqBNvsk9oE-IJpRT8-pe1ykT97EEmrYH03D05dkXF5op1ItZrb0XXD3Y0r_XE_Oh4E2n8HaBo1P1R1vFEOf4n7H7jxcD9843RiiLG3Mur7xlz9H2GN8DKm_8EnvoUwQAs0iTMc4kQF1YniiLbsFEWcylyonOG8FO7XJc0WwkQXD3--t-EI38uVsOq5_-8fANMeY7HVKHsjGX8rXaWZ--IY9QhVX9cFJcyvItTmbkzRrsfLdMhXqo3xkRFDD0m9D82yzE8PVGOGxFTKu6K6VY",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4738636,
+                    "lng": 73.92413169999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.47522187989272,
+                        "lng": 73.92545722989271
+                    },
+                    "southwest": {
+                        "lat": 18.47252222010728,
+                        "lng": 73.92275757010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJLzvCoE3rwjsRWHbV7Gz9Ogc",
+            "plus_code": {
+                "compound_code": "FWFF+GM Pune, Maharashtra",
+                "global_code": "7JCMFWFF+GM"
+            },
+            "rating": 0,
+            "reference": "ChIJLzvCoE3rwjsRWHbV7Gz9Ogc",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "3, Hadapsar Rd, Tarawade Vasti, Mohammed Wadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5273007,
+                    "lng": 73.8996459
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.52866072989272,
+                        "lng": 73.90098892989272
+                    },
+                    "southwest": {
+                        "lat": 18.52596107010728,
+                        "lng": 73.89828927010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Mandir",
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107500649961795654701\">PARSHURAM BULBULE</a>"
+                    ],
+                    "photo_reference": "AcYSjRgu6b68lS9BiJQoWMHc0tzr4Mf6-NFPFsFy46Zgl_I41XTj3MP4GmkxJ_trwBwsQJlt9iYYMcPc-N_1ibd4UxbfEi9REZ5o7IWIejlt-5a-cubR3-1Ao3bk89kBzjPSpz9gpL4t_pygt9tRlnNlHhyNp92nmFqBStFm4Jdd2ORiS-Yu",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJ1UfQTq_BwjsRGzvrBdeuKnI",
+            "rating": 5,
+            "reference": "ChIJ1UfQTq_BwjsRGzvrBdeuKnI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "GVGX+WVC, Jay Hind Chowk, Ghorpadi Gaou, Ghorpadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5345195,
+                    "lng": 73.9337306
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.53588562989273,
+                        "lng": 73.93498962989271
+                    },
+                    "southwest": {
+                        "lat": 18.53318597010728,
+                        "lng": 73.93228997010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 4248,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108463428118658410045\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgIG6EOVDk1u-8cRyAXjQocPIqq-iLvz3n07oSuhpvbjT6rYJkfGvdwHtllpuknTHQhO74u3Og-MqQYDgMH2g5rqNrw77WSTY48RkbJVCv2oppo0Dn8E1Vw-r_X4TRUnQzokuUPS02ku0eZuaI20nS4AdC2xfEgR3LTBJtFWWz-Zv-o",
+                    "width": 5664
+                }
+            ],
+            "place_id": "ChIJf_Dv1JHBwjsRwmczDrmrZwM",
+            "plus_code": {
+                "compound_code": "GWMM+RF Pune, Maharashtra",
+                "global_code": "7JCMGWMM+RF"
+            },
+            "rating": 4.6,
+            "reference": "ChIJf_Dv1JHBwjsRwmczDrmrZwM",
+            "scope": "GOOGLE",
+            "types": [
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Sr No. 56, Near, Mundhwa Bridge, Mundhwa, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4759722,
+                    "lng": 73.895605
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.47731792989272,
+                        "lng": 73.89689962989272
+                    },
+                    "southwest": {
+                        "lat": 18.47461827010727,
+                        "lng": 73.89419997010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sankatharan Temple",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105216735443260575013\">Prabhashini Mohapatra</a>"
+                    ],
+                    "photo_reference": "AcYSjRi8-gckPOKT-DsZZ84KPlOtGe0ObSf-_pU8ykDDCyjh24IQUiC2Kt_agDmFdoiQtFGlY7oM-esNBAGvGtNtZ7Lije39P-Yx2qQ4aFII2jS2WVF4WTg-6upV-wauhmmBxuGh9fT5NEuG-WUxmzUxwODmi3Zu9n-DCAr0H4MuWvmJfWMb",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJsSlxUnvqwjsR7TLzEW29VG8",
+            "rating": 4.7,
+            "reference": "ChIJsSlxUnvqwjsR7TLzEW29VG8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 289,
+            "vicinity": "FVGW+96Q, NIBM Rd, NIBM Undri Road, Kausar Baugh, Kondhwa, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4507142,
+                    "lng": 73.917405
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.45205102989272,
+                        "lng": 73.91876107989273
+                    },
+                    "southwest": {
+                        "lat": 18.44935137010728,
+                        "lng": 73.91606142010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Laxmi Temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101592161731663386058\">SuYoG Chavan</a>"
+                    ],
+                    "photo_reference": "AcYSjRgv2KorpIdtuYwXwctVErSrybAalne9k9i34Vb5pnRHQojoKFWxmo7F5RlfPnNz71fTz01uLYN2OEj3CcAi5k372Ttl6l6jebXcjZ_cCrHzeIGt0hzoCzSLBmvSrdKnMPuzXIQjG0DHbOzLjZoUTRjDJ9JmIS-ejRkE3T75FFSievxC",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJCZMDxTbqwjsR8DIM0CZqBM8",
+            "rating": 4,
+            "reference": "ChIJCZMDxTbqwjsR8DIM0CZqBM8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "FW28+7XR, Kondhwa - Saswad Rd, Undri, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4806038,
+                    "lng": 73.9281657
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.48195752989272,
+                        "lng": 73.92950832989273
+                    },
+                    "southwest": {
+                        "lat": 18.47925787010728,
+                        "lng": 73.92680867010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Ganpati Temple",
+            "photos": [
+                {
+                    "height": 1452,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105645484966026784277\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjTzqkme-W5d9vytH449-CPV0pnJjExQuf1mAzCf8f6tPhfyOaWA5feR650wtxU_oClE613StH1olzdwbXYq4nENgFfZLUJIGf2acwPAUp8G7iDAAMLowQ6lqrWUZMjJQZYUtkAvrOhldW4Iw-Rubuw_xsB1BrV0SFgZC0r13Q5WTof",
+                    "width": 1438
+                }
+            ],
+            "place_id": "ChIJI_KBPlbrwjsRZ0noY0e-O84",
+            "plus_code": {
+                "compound_code": "FWJH+67 Pune, Maharashtra",
+                "global_code": "7JCMFWJH+67"
+            },
+            "rating": 5,
+            "reference": "ChIJI_KBPlbrwjsRZ0noY0e-O84",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "MOHAMMAD WADI ROAD, Tarawade Vasti, Hadapsar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4785895,
+                    "lng": 74.004243
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.47994492989272,
+                        "lng": 74.00550767989272
+                    },
+                    "southwest": {
+                        "lat": 18.47724527010728,
+                        "lng": 74.00280802010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shiv the temple",
+            "place_id": "ChIJQ0A20tHpwjsRmRKDI_qgD6c",
+            "rating": 0,
+            "reference": "ChIJQ0A20tHpwjsRmRKDI_qgD6c",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "F2H3+CM, Pandavdand Rd, next to gold city, Saykarwadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.499285,
+                    "lng": 73.95199439999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.50056947989272,
+                        "lng": 73.95333552989271
+                    },
+                    "southwest": {
+                        "lat": 18.49786982010728,
+                        "lng": 73.95063587010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shiv shambu temple",
+            "place_id": "ChIJWcsjl8_DwjsR-vlNbRmr7-c",
+            "plus_code": {
+                "compound_code": "FXX2+QR Pune, Maharashtra",
+                "global_code": "7JCMFXX2+QR"
+            },
+            "rating": 0,
+            "reference": "ChIJWcsjl8_DwjsR-vlNbRmr7-c",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "NH65, Subhash Nagar, Chaitanya Colony, Hadapsar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5599118,
+                    "lng": 73.9319378
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56127917989272,
+                        "lng": 73.93328847989271
+                    },
+                    "southwest": {
+                        "lat": 18.55857952010728,
+                        "lng": 73.93058882010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shri Someshwar Mandir",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110982445646117265139\">rat</a>"
+                    ],
+                    "photo_reference": "AcYSjRgRPIoaezDaaOb4k8BEUax8lFzzspNmbFkyFlo71ckFy1ELT61whBOd7Pl4_6SOKWWQLTrJAh7I2-in51dp7yMLLQUwbQb3EVD-KksmTyfD6oVbiy4XEU0q88wNak0pyRHYqzg3qaMqj09AbubWGBcOgyzVTcIXkDcE05YlyyB_ZHlT",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ6x-PI17BwjsR2EBY0wM_KIc",
+            "plus_code": {
+                "compound_code": "HW5J+XQ Pune, Maharashtra",
+                "global_code": "7JCMHW5J+XQ"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ6x-PI17BwjsR2EBY0wM_KIc",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67,
+            "vicinity": "47/3 Eknath Pathare Vasti Vadgoan Sheri, Eknath Pathare Vasti, Chandan Nagar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4759686,
+                    "lng": 73.8956048
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.47731437989272,
+                        "lng": 73.89689967989273
+                    },
+                    "southwest": {
+                        "lat": 18.47461472010728,
+                        "lng": 73.89420002010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Mahadev Temple",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101055110873405570737\">cadcam.nitin</a>"
+                    ],
+                    "photo_reference": "AcYSjRid0JgNset0xKXeTihGSh09CRLwfe-zcFWbagIQ_d3DmiKXWu3R-E58CDf5x3-KGdaMnQPlUKZgcEagSTxd9W8oyhVZkYQVXmE8FttG0MTAlWIRax1JYYaylWJ7kNOPFaNLggoCkbuQCC94zIginHJv_tQ6H6g2ZAM76iVXhCoNLDtp",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJz6ZWMsLrwjsRaXtqOhlLJZ8",
+            "rating": 4.8,
+            "reference": "ChIJz6ZWMsLrwjsRaXtqOhlLJZ8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "FVGW+96Q, NIBM Undri Road, Kausar Baugh, Kondhwa, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5318479,
+                    "lng": 73.93801859999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.53324572989272,
+                        "lng": 73.93938337989272
+                    },
+                    "southwest": {
+                        "lat": 18.53054607010728,
+                        "lng": 73.93668372010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Sri Vithhal Rukmini Temple",
+            "photos": [
+                {
+                    "height": 1123,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105067296127841281959\">Pravin Kodre</a>"
+                    ],
+                    "photo_reference": "AcYSjRiz0CIYMhZ7-uMUsL0Gz7BQDoX-aZuhE_nvXHIpibPfZG2RAGQ3242ohq_-UhTJwVcqXwXYh-zqnkKuHp1gHJHCSr3IjtTlRmuAlnCzrzl5xp15c2uE43roMHFipYv2t4MM1TnT_JlS1vgAhKDKdea5yHuz_aOE_aSKqrQz_jVAXAE3",
+                    "width": 750
+                }
+            ],
+            "place_id": "ChIJZaHZ7SHDwjsRCRcZ3FZZliY",
+            "plus_code": {
+                "compound_code": "GWJQ+P6 Pune, Maharashtra",
+                "global_code": "7JCMGWJQ+P6"
+            },
+            "rating": 5,
+            "reference": "ChIJZaHZ7SHDwjsRCRcZ3FZZliY",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "82, Manjari Rd, Kodre Nagar, Shankar Nagar, Mundhwa, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5784772,
+                    "lng": 74.0073022
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.57983107989272,
+                        "lng": 74.00866157989272
+                    },
+                    "southwest": {
+                        "lat": 18.57713142010728,
+                        "lng": 74.00596192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shiv Temple",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108609102433266681593\">Diptesh</a>"
+                    ],
+                    "photo_reference": "AcYSjRgu5bRzkBuFR68pLNXu98L2GaRtasx5XeUQ2mSsM0VeE315PZ5zr5Lzb3KzWYkDskWVA63PB1jbvYchMbNOUTDFt2VC3v50ZOQm2k_Ap_HFVhHptIuvENEBxJdL_SDBwxm4El3ez2RyxS4Q3LRWuajdgCHOeyG9FUN-uuLwTzeoDYpf",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJyQfuvaPDwjsRtGPaKpc8Rso",
+            "rating": 4.5,
+            "reference": "ChIJyQfuvaPDwjsRtGPaKpc8Rso",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "H2H4+9WF, Kesnand Rd, Hillshire Society, Near"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5476671,
+                    "lng": 73.92585369999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.54899582989272,
+                        "lng": 73.92726407989271
+                    },
+                    "southwest": {
+                        "lat": 18.54629617010728,
+                        "lng": 73.92456442010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shri Ayyappa Swamy Mandir",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110937930299208866836\">sani poovathingal</a>"
+                    ],
+                    "photo_reference": "AcYSjRiINZrcqinUf_C_wqVWMP-2qMaOd33c3DPohfm28ZuR9_29zY533KBBWqUIotoGboHtwOUXJBPntvp_sTtVE1IFvjkegBHW8LnSpkK9hjhFNrwpZWhHcVZhwJXt7jCmA-Rni1noku08EKYBHpQnEAZ09C0X6GfatBh0B3uEaDZ1f5U",
+                    "width": 2600
+                }
+            ],
+            "place_id": "ChIJQy_BNWXBwjsR7y8ioMQTLKY",
+            "plus_code": {
+                "compound_code": "GWXG+38 Pune, Maharashtra",
+                "global_code": "7JCMGWXG+38"
+            },
+            "rating": 4.6,
+            "reference": "ChIJQy_BNWXBwjsR7y8ioMQTLKY",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 253,
+            "vicinity": "Mamta Housing Society, Lane Number 1, Balajinagar, Prem Nagar, Mahadev Nagar, Wadgaon Sheri, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5107961,
+                    "lng": 73.9019387
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.51203522989272,
+                        "lng": 73.90329542989271
+                    },
+                    "southwest": {
+                        "lat": 18.50933557010728,
+                        "lng": 73.90059577010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shiva temple",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100625780006354873167\">Akash Pandey</a>"
+                    ],
+                    "photo_reference": "AcYSjRh_AaXI8v7jLZjVHn5BGRrwQ4KbNGuGMVUHguakkM36qNiVHSDaOoyv3BVp1xPoRo6dIir84MGNG7nWJAlAAyrayz5DN932XedvnC32L_l0M15APSGKb9otKfS9Gp9HLLaJbRVWQyEvGwAIXbFEHyD-kAh7izgJntGmAL1O-AdT-Dru",
+                    "width": 4080
+                }
+            ],
+            "place_id": "ChIJBfr2SL_BwjsRJ7XAJ8PhBPE",
+            "rating": 5,
+            "reference": "ChIJBfr2SL_BwjsRJ7XAJ8PhBPE",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "GW62+8Q8, Uday Baug, Ghorpadi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5627355,
+                    "lng": 73.8971832
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56407397989272,
+                        "lng": 73.89842802989271
+                    },
+                    "southwest": {
+                        "lat": 18.56137432010728,
+                        "lng": 73.89572837010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "ShriKrishna Temple",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108150078037965908779\">bhagyashree killedar</a>"
+                    ],
+                    "photo_reference": "AcYSjRgpNmXN_qAJBskWa33rCY77l9DuurF02Pp5XYApctJKlzRykW5GPsHoY_OOgKHKKHw9uodYwebsr034ZorxSq0X7NjQVuoi2CvkY1bTwSl7ASMlxI0VzOssaWaJ9BRb_HWuXiP2d8R7ghOrBv0ntt4068b_dBHIZnfpoHdVBZC2jnFl",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJkxbjeiTBwjsRVcOB3qX0SBM",
+            "rating": 3.8,
+            "reference": "ChIJkxbjeiTBwjsRVcOB3qX0SBM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "HV7W+3VV, Masjid Rd, Maharashtra Co-Operative Housing Society, Yerawada, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5510472,
+                    "lng": 73.91029379999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.55240062989272,
+                        "lng": 73.91158162989272
+                    },
+                    "southwest": {
+                        "lat": 18.54970097010728,
+                        "lng": 73.90888197010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 4640,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103665987631415158117\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgyIyPzPM9eMtjZPO-mfHnQPJzfDrrMBmxQb5CY0YvaFYUz5alHLELD0Olk4e-NtoTcKMAEqKtd-IZsNTnDT6PHUAxLASwwet3Yi_AfdKbjvNLXPwQVCltmxgeW1gO40A_3h-3Y7OcZ7Qb3LEsB-ZGMhotWG2cgzMLjAiuGl36GPPkR",
+                    "width": 3472
+                }
+            ],
+            "place_id": "ChIJ9WZpPcfBwjsRpFSX5if_7kU",
+            "plus_code": {
+                "compound_code": "HW26+C4 Pune, Maharashtra",
+                "global_code": "7JCMHW26+C4"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ9WZpPcfBwjsRpFSX5if_7kU",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Trimbhakeshwar, Near, Holy Cross Rd, Wadgaon Sheri, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4877702,
+                    "lng": 73.9323524
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.48913402989272,
+                        "lng": 73.93370492989271
+                    },
+                    "southwest": {
+                        "lat": 18.48643437010728,
+                        "lng": 73.93100527010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Wagheshwar temple",
+            "place_id": "ChIJm5N7k43rwjsR9hOa53z57H0",
+            "plus_code": {
+                "compound_code": "FWQJ+4W Pune, Maharashtra",
+                "global_code": "7JCMFWQJ+4W"
+            },
+            "rating": 0,
+            "reference": "ChIJm5N7k43rwjsR9hOa53z57H0",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Near, 3, Handewadi Rd, Ganga Village, Chintamani Nagar, Hadapsar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4717911,
+                    "lng": 73.9352387
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.47310982989272,
+                        "lng": 73.93660022989273
+                    },
+                    "southwest": {
+                        "lat": 18.47041017010728,
+                        "lng": 73.93390057010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shiv Temple",
+            "place_id": "ChIJ__Wu8OzrwjsR6kse4Ooo9EI",
+            "rating": 0,
+            "reference": "ChIJ__Wu8OzrwjsR6kse4Ooo9EI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Shiv Temple, Handewadi Rd, near JSPM, Satar Nagar, Hadapsar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4505466,
+                    "lng": 73.91562259999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.45194542989272,
+                        "lng": 73.9169633798927
+                    },
+                    "southwest": {
+                        "lat": 18.44924577010728,
+                        "lng": 73.91426372010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Lord Shiva Temple",
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101592161731663386058\">SuYoG Chavan</a>"
+                    ],
+                    "photo_reference": "AcYSjRgWIJxGOwdGrCs-XNtNJ2UJL-NZtlPITgkAPbF5GlAjXdsdsDC4jJvw4XwJVcjhpl7KptCngqrD5c1UG_hkiBJ-s3AsG-FkglE-gStAUGaHV2MM1Zpivh2KwWrYx6d56wmQ0DbAkb9vco5kXIsAfNjZcZecONVZF0EefCHtsOe56g5G",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJg24E9zbqwjsRJzxNTdSr2fc",
+            "rating": 4.8,
+            "reference": "ChIJg24E9zbqwjsRJzxNTdSr2fc",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "FW28+66H, Undri, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.491881,
+                    "lng": 73.9596925
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.49325797989272,
+                        "lng": 73.96106957989274
+                    },
+                    "southwest": {
+                        "lat": 18.49055832010728,
+                        "lng": 73.95836992010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Mahadev Temple",
+            "place_id": "ChIJG5sZxgHpwjsRGolkKjyaj_s",
+            "rating": 0,
+            "reference": "ChIJG5sZxgHpwjsRGolkKjyaj_s",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "FXR5+QV4, Canal Rd, Ganga Nagar, Fursungi"
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,904 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRjqCWIwpdn_UfEVUtCBRV8R0JgeREus5U0CDK6VT39Z4AsZDyGz5bEsCO7vRVTgaHbfx0hinUnMPmx0j1MmpGIt1CUenhvAplUF-mg-ZOgnbLmsaXwrkwkmYtCBzUWFkXpwJgDJx-9BFFdFke3Ty5ck8tibKZ1H1K_g85pFK2GMQ-rN6R94M03ab-tbR2DoJG5jyZj4SzUYkbGV2GXrh5eyaEdHvPV3jdKOjW5kMl8UuzKyGp9cdDGVs1Aq_hX5zs1Xs3TAr1zriWBpiBfYUok1bGNwgmDy_ZSQZYw2WnOQ129wNwFGhV1stBPi38tHEbRSAahXoSgVYcGz-rpaEEtQk4zMCCdH2OUNArQ5Z92ib_-6DGotnRz5telx0MmOtCBIpDXVCwn0haENjazhYdvCGTBON00e1tdJbGtsUH4HNICJVTqw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4085347,
+                    "lng": 78.5806168
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40989627989272,
+                        "lng": 78.58188997989272
+                    },
+                    "southwest": {
+                        "lat": 17.40719662010728,
+                        "lng": 78.57919032010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Anjaneya Nagar Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103709397152864712299\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhm_FL9_nqYfmMv_gwr3z9Nfs_V0dSqcv-VY-7vbPL1YS6ScTs0Hn0fHXhHehz-xOWIM9poYzdG-Lp8JN9uvh6TrTaidRfHunSNaaT77CPqKJQUBOhCDJfTrCQwTQDkjopmGpZOpcMLyDdrLKtg_ETmJLI4oXnbilGx6Qz_95rqR5I1",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJD-GBC8eeyzsRi58eRifR_lc",
+            "rating": 3.9,
+            "reference": "ChIJD-GBC8eeyzsRi58eRifR_lc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 299,
+            "vicinity": "CH5J+C69, Rd Number 4, Gayatri Nagar, Anjaneyanagar Colony, Bhagya Nagar Colony, Boduppal, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.491317,
+                    "lng": 78.5753245
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49268787989272,
+                        "lng": 78.57670027989272
+                    },
+                    "southwest": {
+                        "lat": 17.48998822010727,
+                        "lng": 78.57400062010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "G.R. Reddy Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117872872397233069029\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiGjhaMJGqOxa4_Wtk_RqWzl15Kb6jfQGBD6tF2yhJ80ftfLZDJpZRh0thqj5-YNOtYLCPMJuZkMAzM2npH8kJSLmiRwE5fJGwu85RMbxwtNuc-rVGm-V6R2RfowlqIpPYJrYH7gHhn7EO7F9yQ7DSi2syGoDluZrQ0Myl88TFuJSvk",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJafBsLIWcyzsRo6nnQJWUuK8",
+            "plus_code": {
+                "compound_code": "FHRG+G4 Secunderabad, Telangana",
+                "global_code": "7J9WFHRG+G4"
+            },
+            "rating": 3.9,
+            "reference": "ChIJafBsLIWcyzsRo6nnQJWUuK8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 263,
+            "vicinity": "173, Saket Rd, ECIL, GR Reddy Nagar, Kapra, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4110283,
+                    "lng": 78.60169929999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41239482989272,
+                        "lng": 78.60304372989272
+                    },
+                    "southwest": {
+                        "lat": 17.40969517010727,
+                        "lng": 78.60034407010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Vishwam Park",
+            "opening_hours": {},
+            "place_id": "ChIJu-MnyvKeyzsReOukK2W0kyg",
+            "plus_code": {
+                "compound_code": "CJ62+CM Hyderabad, Telangana",
+                "global_code": "7J9WCJ62+CM"
+            },
+            "rating": 4,
+            "reference": "ChIJu-MnyvKeyzsReOukK2W0kyg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "6-73/3, NH163, Vishwam Vihar, Kamala Nagar Colony, Boduppal, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4189001,
+                    "lng": 78.59367449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42021857989272,
+                        "lng": 78.59503427989272
+                    },
+                    "southwest": {
+                        "lat": 17.41751892010728,
+                        "lng": 78.59233462010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "NIN Colony Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113113499244720604896\">Nishanth Bommineni</a>"
+                    ],
+                    "photo_reference": "AcYSjRi4Yg7JVMzGP6eeAl0-JyrKzEcZG67ABJyrdgGK436rBE-AZtF29HgCvbtEf3sU8hFaPHwqD79vZtpJpWETxwY32IuUUeZRW6adSnRuvZd-k9MT1csBdoRvIXpvDMDm0kY-QqDeD9YWdRr_nkRb_pUaFpAAK5EzTnCze8MGRkwj51kw",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJlyhIxZaeyzsRZGJIFGr8YMc",
+            "rating": 3.9,
+            "reference": "ChIJlyhIxZaeyzsRZGJIFGr8YMc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 201,
+            "vicinity": "CH9V+HF7, West Hanuman Nagar, Boduppal, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.414175,
+                    "lng": 78.597388
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41522502989272,
+                        "lng": 78.59862042989272
+                    },
+                    "southwest": {
+                        "lat": 17.41252537010728,
+                        "lng": 78.59592077010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Nandanavanam park back gate",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101593314107925040909\">Porla Mahesh</a>"
+                    ],
+                    "photo_reference": "AcYSjRgWuOc10EjoTmhr-rlgoHNkh_4EV8N7RboWKa3vp5KYvP_J7YVCA6PCvzBev1sMFfgwqvYWFniUrS1m8YPSgRUAJz-9Imna3o_hbRFdxf7vovsGPBn3CLwpkV-pjM7XdW2Gfi3JnMmuqhptF0bHL-tkhnboebOgBBE6vAoiVFQaVKBz",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJt__g5iefyzsRPZTFV0MFyLA",
+            "plus_code": {
+                "compound_code": "CH7W+MX Hyderabad, Telangana",
+                "global_code": "7J9WCH7W+MX"
+            },
+            "rating": 4.6,
+            "reference": "ChIJt__g5iefyzsRPZTFV0MFyLA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "Plot No 50, Cheenas Residency, 1, BheemReddy Nagar Road, Bheem Reddy Nagar, Boduppal, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4894418,
+                    "lng": 78.5831176
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49080612989272,
+                        "lng": 78.58441042989271
+                    },
+                    "southwest": {
+                        "lat": 17.48810647010728,
+                        "lng": 78.58171077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sri Vasavi Siva Nagar Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117053595570338732633\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjFqWwQFaZ2ewry8FiKDtOFd4ikehYRUZD9DRF_s_SrGaLxDDIHsuEzzsuwhKiMDxGpCTZLomfSFjDra648hgmZCmMGODRBG77BrnZk7lOZIGwUpLGmy2va4T5Vho5fekwrgwHnJBbdewbj0Rhj1LToRDEeM6j3nxtIlLEd45wgUI8W",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJlymeeI6cyzsRryIYRFkSJak",
+            "rating": 4.1,
+            "reference": "ChIJlymeeI6cyzsRryIYRFkSJak",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 109,
+            "vicinity": "FHQM+Q6H, Sri Vasavi Siva Nagar Colony, Kapra, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4104183,
+                    "lng": 78.6010794
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41173487989272,
+                        "lng": 78.60244337989273
+                    },
+                    "southwest": {
+                        "lat": 17.40903522010728,
+                        "lng": 78.59974372010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Bharatpuri colony park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101760714860692264993\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgc5VO0Ptr4zgyoBf0ZXa45yqKnFGGcsBti3V3ZaQFpr3xIbCtlLRcJfE3Q77zJcVXJ9na8mVr1SVdnEz-lcN82b2I27bzRpl1rhJR9Qej8-XqgtzwquwiGuhCNmOu-kFq4DVC4EYxvzuUBDulKMt0zo7jRwDFnnCKa9IO8yfcQfhvT",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJHXNi5LqfyzsREBDNQe4SToo",
+            "rating": 4,
+            "reference": "ChIJHXNi5LqfyzsREBDNQe4SToo",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "CJ62+5C8, Medipally Street, near SVM Grand, Kamala Nagar Colony, Boduppal, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5017333,
+                    "lng": 78.5756433
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50303897989272,
+                        "lng": 78.57699297989272
+                    },
+                    "southwest": {
+                        "lat": 17.50033932010728,
+                        "lng": 78.57429332010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Saket GHMC Park Kapra",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106209627570739592925\">noblesword square</a>"
+                    ],
+                    "photo_reference": "AcYSjRhj2GZX054XWdAYKFZNd4syoVEpg1JE1fvrcJ0HbVBagQH-X_Ku3WfMA9ZWmPOkoyFLSMENIXDTT5sYNyyu6iVRiQ4zQYRwcy-X_gtlFpvr-1rvzaurGniaA6AJdX3ji_hiH7QjEa7n1VAYrw8cLbZK_gU9lIsuVO_wt7DWeoElLyUh",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJdTLXvSadyzsRZSvo5837Gzg",
+            "plus_code": {
+                "compound_code": "GH2G+M7 Secunderabad, Telangana",
+                "global_code": "7J9WGH2G+M7"
+            },
+            "rating": 4.5,
+            "reference": "ChIJdTLXvSadyzsRZSvo5837Gzg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "Hno 61. road, no 28, Saket Rd, Phase 2, Saket, Kapra, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4258942,
+                    "lng": 78.5772369
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42716137989272,
+                        "lng": 78.57861432989272
+                    },
+                    "southwest": {
+                        "lat": 17.42446172010728,
+                        "lng": 78.57591467010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Ambedkar Nagar park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101106908349859970262\">santhosh reddy</a>"
+                    ],
+                    "photo_reference": "AcYSjRgzvhxHuvgV0y-FJ6kyur2vnmqWi5gQGzLsJgX_1_T-_anB2R83if7I2d8rZdXt0Z3QLotIVBeRKvdYJWToEzL4xOJmE4nBOz4Nr7Rsv9_qUaQuCwGJDRYJjwPwVAlrnWYj69qqmvCner2SZ9sf5a2pJezGTJ7rsvic-OcU35-Pc3ge",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJO4yZyU-fyzsR0bCB0Gi-Nf8",
+            "plus_code": {
+                "compound_code": "CHGG+9V Secunderabad, Telangana",
+                "global_code": "7J9WCHGG+9V"
+            },
+            "rating": 4.5,
+            "reference": "ChIJO4yZyU-fyzsR0bCB0Gi-Nf8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31,
+            "vicinity": "7-77/75, Ambedkar Nagar, Boduppal, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4096368,
+                    "lng": 78.59393469999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41102007989272,
+                        "lng": 78.59527367989271
+                    },
+                    "southwest": {
+                        "lat": 17.40832042010728,
+                        "lng": 78.59257402010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Baba Park",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105770363096569245353\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiXM7vILjE_lD60HbQC5UTEMZKTU_pWgNatcT-EUyM0o6UPFWI0ba1gAo_fNcqGectSc8ta52LcsnmtggceLAmuht7yYkCAAkGYdYdo9r-yGotbssl4AvxfLFZeKAaCED8ct6qbwsDVHpf3_CTGslqu3n8TMqlI2DKlr0jCUNzvO7qa",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ7dael2GfyzsRVlQheNS9BEY",
+            "rating": 4.4,
+            "reference": "ChIJ7dael2GfyzsRVlQheNS9BEY",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 115,
+            "vicinity": "CH5V+VH3, Fish Bldg Rd, Budha Nagar, Sai Residency, Mallika Arjun Nagar, Boduppal, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.476515,
+                    "lng": 78.57622769999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.47790457989272,
+                        "lng": 78.57748057989271
+                    },
+                    "southwest": {
+                        "lat": 17.47520492010728,
+                        "lng": 78.57478092010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Park Place",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJNd8xi3idyzsRSNMERym-uZo",
+            "rating": 4.1,
+            "reference": "ChIJNd8xi3idyzsRSNMERym-uZo",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "FHGG+JF5, Padmavathi Colony, ECIL, Laxmi Garden, Kushaiguda, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4475385,
+                    "lng": 78.5881726
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44891612989272,
+                        "lng": 78.58950192989272
+                    },
+                    "southwest": {
+                        "lat": 17.44621647010728,
+                        "lng": 78.58680227010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Gokul Nagar colony park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104994077862491667941\">sreenivas rao</a>"
+                    ],
+                    "photo_reference": "AcYSjRhoZs3IdxZV18VTyQkvi08-txUq5qI72DfGytueEabDyWPKOCnHXKUmuAi6I0mHsnsQXtuJlFPbJWOvAx7A65h_BeuB3eKfgV36XFAAwpaZiE81rrM0aovIi9ayEwNuZuNsNme_69QIbZo7Oqg3zeHkaUrmX8JPPMm4RU_3SXUVHXP9",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJr3PZrySdyzsRzrznCWKc3BM",
+            "rating": 4.3,
+            "reference": "ChIJr3PZrySdyzsRzrznCWKc3BM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 65,
+            "vicinity": "CHXQ+277, FCI Godown Rd, Chanikyapuri Colony, Gokul Nagar colony, Mallapur, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.423226,
+                    "lng": 78.5875208
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42457952989272,
+                        "lng": 78.58883542989273
+                    },
+                    "southwest": {
+                        "lat": 17.42187987010728,
+                        "lng": 78.58613577010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Bl nagar park",
+            "place_id": "ChIJO92SqaCfyzsRHXVQ5QB4IGk",
+            "rating": 5,
+            "reference": "ChIJO92SqaCfyzsRHXVQ5QB4IGk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "CHFQ+72R, BL Nagar, Telephone Colony, Boduppal, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4093946,
+                    "lng": 78.5939786
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41077477989272,
+                        "lng": 78.59542187989273
+                    },
+                    "southwest": {
+                        "lat": 17.40807512010728,
+                        "lng": 78.59272222010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Buddha Nagar Public Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118416480184825142498\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhGkAWp_vAf31MCCk8zBegzbHh1NFPQKeW_AB3FKBh3GAWWTN8QUIaF1G1RIaeIl80SJH0_9xr3cRoRlGyx_I3Z6bos8Rnv_O_dCT4IXIkF1AbtbkuXsRn8-z82yEIWuqz3GVDAfhN5b3tIZyzvapiYo1EeRucJe8ltVHRmdwQC6efg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ69x_XhufyzsRoo7HrrHdtz4",
+            "rating": 4.3,
+            "reference": "ChIJ69x_XhufyzsRoo7HrrHdtz4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "CH5V+QH5, Budha Nagar, Boduppal, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4665526,
+                    "lng": 78.60874
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.46794242989272,
+                        "lng": 78.61020242989272
+                    },
+                    "southwest": {
+                        "lat": 17.46524277010728,
+                        "lng": 78.60750277010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Cherlapally officers colony park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108375411754610803721\">Nagaraju Srirangam</a>"
+                    ],
+                    "photo_reference": "AcYSjRiWoxzdQxFCBZ3smSMtUGPakCWRJepUpyzhntjSvEm0bhGmsUzW9GcmofomGKaZy6E6ijhh0I7smZrSQMrVQQcDOi74kMgssJfIx8TScDBX45smgrL5TgNX9P4tjQJNYqceIQEx34B6dXtgPirRybOIafS1af0ufryFu8aya6cMzYnz",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJOX5o-EycyzsR4ynb3mYfZTk",
+            "plus_code": {
+                "compound_code": "FJ85+JF Secunderabad, Telangana",
+                "global_code": "7J9WFJ85+JF"
+            },
+            "rating": 3.7,
+            "reference": "ChIJOX5o-EycyzsR4ynb3mYfZTk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 179,
+            "vicinity": "2-10-15, Cherlapally Main Rd, Venkat Reddy Nagar, Mint Twp, Cherlapalli, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4292006,
+                    "lng": 78.5898094
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43055212989272,
+                        "lng": 78.59113572989273
+                    },
+                    "southwest": {
+                        "lat": 17.42785247010728,
+                        "lng": 78.58843607010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Rajalingam Colony Park area",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110351536939738802702\">Pranay Teja</a>"
+                    ],
+                    "photo_reference": "AcYSjRi_lFGauXRh1ALicGHf8FZUtlMFYiRatbbS55p1wfqzK3NxOtyTMbPMBoKUs5kxN4NqSvIGjNXjA0cBVRoZd8UCD36j27krNVn9o8h4icTTMExfhX3T3t45XuM0lfTcV_a1kfioImqlQE-FDO1Sm4-CholvF-XNR-CPsHhHpINr1lBX",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJwYa-PsafyzsRlcYZ8_b0PHw",
+            "rating": 3.8,
+            "reference": "ChIJwYa-PsafyzsRlcYZ8_b0PHw",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "CHHQ+MWM, Venkat Reddy Colony, Rajalingam Colony, Telephone Colony, Boduppal, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.413556,
+                    "lng": 78.59730019999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41489882989272,
+                        "lng": 78.59860442989273
+                    },
+                    "southwest": {
+                        "lat": 17.41219917010728,
+                        "lng": 78.59590477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Shantivanam Park back gate",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102017965306721294019\">Sudarshan Chowdary</a>"
+                    ],
+                    "photo_reference": "AcYSjRhuf-hhYixN8uUw2JighuouxMAdPnRk9XZNVo_acQst_U7asxDRJn_43ePyJ57n6WwnlqDtBUSo8-c50uQSTDs3LsYapcAIxyLjXcF97ACCzSWI7Q5rlUYq17TQivVhM1vJSVco_P_b6AWSzMMSLfZ_3eu3o9_0LbLIzy4xtCp-O93J",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJbwJZc1afyzsR5h9CRQfyskc",
+            "rating": 4.3,
+            "reference": "ChIJbwJZc1afyzsR5h9CRQfyskc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "CH7W+CWF, P&T Colony, Kamala Nagar Colony, Peerzadiguda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4426841,
+                    "lng": 78.5795242
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44411367989272,
+                        "lng": 78.58090407989272
+                    },
+                    "southwest": {
+                        "lat": 17.44141402010727,
+                        "lng": 78.57820442010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Shakthi Sai Nagar Colony Park 2",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101555424741583602125\">praveen pr</a>"
+                    ],
+                    "photo_reference": "AcYSjRiXrZ8J3j6WZp8yC10eRfj2SmRSjKY0DTEwU_noMe8AqhQ5FfucCNEaPe8DPOwS5rj7ky8cKEHvSbnkzW92aHTXn1eiW4jLLFv9sxyex4QtDJr_ZWpyuOEPe6l7ZsMnSVQt0pvEJ3fvEvo4RLLSrY9r2kBzj7PzO9KmM5lMT0jtp4H7",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJDedjXNWdyzsRHlGj_xWFysc",
+            "rating": 4.4,
+            "reference": "ChIJDedjXNWdyzsRHlGj_xWFysc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37,
+            "vicinity": "CHVH+3RC, Shakthi Sai Nagar, BEL, Industrial Development Area, Mallapur, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4330877,
+                    "lng": 78.58481549999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43444672989272,
+                        "lng": 78.58613397989271
+                    },
+                    "southwest": {
+                        "lat": 17.43174707010727,
+                        "lng": 78.58343432010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Vasant Vihar Park",
+            "place_id": "ChIJS_5dl1mfyzsRlmdLA1dVICk",
+            "rating": 4.6,
+            "reference": "ChIJS_5dl1mfyzsRlmdLA1dVICk",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "CHMM+6WP, Sai Nagar Colony, CCMB Colony, Boduppal, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4314342,
+                    "lng": 78.6003065
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43273582989272,
+                        "lng": 78.60165052989272
+                    },
+                    "southwest": {
+                        "lat": 17.43003617010728,
+                        "lng": 78.59895087010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Laxmipuri Colony Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4640,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116831792096698020524\">Ravikanth Reddy</a>"
+                    ],
+                    "photo_reference": "AcYSjRjFodHaYw_hV87oRZ9yJyUDG8lt0ItIBNJnuH7FMNcFK2mR5VoBXdnJkinGdMbFyhB9YowqZoNItb_UJWHlsIYcVzn98hgH3TiqTE-YVlLi2896UScPVWv5in5x_1Xb2jkOBoszzemBatkc_NJU1PQmXL0m6kcQib9LeKGhaEs9YtB4",
+                    "width": 3472
+                }
+            ],
+            "place_id": "ChIJv28LK4OeyzsRQOd_X_s8SuY",
+            "plus_code": {
+                "compound_code": "CJJ2+H4 Secunderabad, Telangana",
+                "global_code": "7J9WCJJ2+H4"
+            },
+            "rating": 3.8,
+            "reference": "ChIJv28LK4OeyzsRQOd_X_s8SuY",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 78,
+            "vicinity": "2, 500092, Road No. 1, Laxmipuri Colony, Telephone Colony, Chengicherla, Secunderabad"
+        }
+    ],
+    "status": "OK"
+}

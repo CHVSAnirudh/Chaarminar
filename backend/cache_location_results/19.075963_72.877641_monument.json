@@ -1,0 +1,878 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0983871,
+                    "lng": 72.82674639999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.09970977989272,
+                        "lng": 72.82819172989272
+                    },
+                    "southwest": {
+                        "lat": 19.09701012010728,
+                        "lng": 72.82549207010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Chhatrapati Shivaji Maharaj Monument.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2300,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117430865447143230160\">Anish Karnakar</a>"
+                    ],
+                    "photo_reference": "AcYSjRgNqEAjHjpR6swWEHlw2TOATmbSyRk4W2ICeQusP_GNYowptaNY5sA2pcjDuy9LbdJkuFg7vP75rs6J2tO0BUIfXP9dFbn0sX0c5xCYuS09UMdxwLVAgTogyFwjK9q_SDDfIk952XpfNft5cFIPkeK7oBKLmuAXcB-DFU8dtjr6qnFR",
+                    "width": 1840
+                }
+            ],
+            "place_id": "ChIJjSUk6ZXJ5zsRmB_egejUl3g",
+            "plus_code": {
+                "compound_code": "3RXG+9M Mumbai, Maharashtra",
+                "global_code": "7JFJ3RXG+9M"
+            },
+            "rating": 4.5,
+            "reference": "ChIJjSUk6ZXJ5zsRmB_egejUl3g",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 114,
+            "vicinity": "1, Juhu Tara Rd, Nazir Wadi, Airport Area, Juhu, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0275284,
+                    "lng": 72.83716570000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.02891557989272,
+                        "lng": 72.83843862989272
+                    },
+                    "southwest": {
+                        "lat": 19.02621592010727,
+                        "lng": 72.83573897010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Chhatrapati Shivaji Maharaj Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2999,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103714653367032447564\">Sanjeev Dighe</a>"
+                    ],
+                    "photo_reference": "AcYSjRjX63_lLRGSeeMBqDaI8dJYSuXf8LvbMwUgvbC152H8XjLR_PN3Lk-eepbBHfCXyzLyD1S4AC-Rn7JnxqWQeDV3t0E0eZW_RS2qcrls69jqCikQDjsschmOCbHuHK6mMFhNPwSNAlobNwX_QbC7LsXeNJUN_X9ZP5aSXiNoBag1Iiq3",
+                    "width": 3675
+                }
+            ],
+            "place_id": "ChIJXZYyWs7O5zsRtyWgws99Hk8",
+            "rating": 4.5,
+            "reference": "ChIJXZYyWs7O5zsRtyWgws99Hk8",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 259,
+            "vicinity": "2RHP+2V7, SVS Road, Dadar West, Shivaji Park, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1095728,
+                    "lng": 72.8529499
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.11092082989272,
+                        "lng": 72.85433027989272
+                    },
+                    "southwest": {
+                        "lat": 19.10822117010728,
+                        "lng": 72.85163062010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Jiva Mahale Statue.",
+            "photos": [
+                {
+                    "height": 1944,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105899816689828756141\">Kenneth Russel</a>"
+                    ],
+                    "photo_reference": "AcYSjRjpbh2G6_PJmGhmnbesueh0XJOM52dPt0cTT4rwMc49dNutSkB9k2fkdywTaU2VgN_Gjn86pv57zgZVUMZUCl9zESHvGr3Mb2HjJ_gjzRBi12DPw6ATOVEz5jS9c4uR_axnLBOOJWmVtQGO4H7xXVEh4ALzsHgo3S6ypMRccIiRNNuz",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJiUdrwjTI5zsRsM5OnvzRcG0",
+            "rating": 4.3,
+            "reference": "ChIJiUdrwjTI5zsRsM5OnvzRcG0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "4V53+R5G, Jiva Mahale Marg, Sai Wadi, Andheri East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0458365,
+                    "lng": 72.9095358
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.04707502989272,
+                        "lng": 72.91108677989271
+                    },
+                    "southwest": {
+                        "lat": 19.04437537010728,
+                        "lng": 72.90838712010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Chhatrapati Shivaji Maharaj Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2256,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114514450498259757861\">Sarang Dale</a>"
+                    ],
+                    "photo_reference": "AcYSjRhfeQjU_FA-qtAXwQ5fL00_cdra0kQg16CAdCse6yJ1xcO6yxuH7lY0tazG-b0JXITWbov6moWbMG3TWkfk-0UQSTW3pTupzTMm8yrem6bRfh9CM7E7jX-hVOpn3FkMYHFHmhUy7N7BFuxX6NaS3Kvcw5p8LboFc5ma3nk8Hpj2DslS",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ511sOgbG5zsRNYbxtA0yTn8",
+            "rating": 4.5,
+            "reference": "ChIJ511sOgbG5zsRNYbxtA0yTn8",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14721,
+            "vicinity": "2WW5+8RM, Sion - Panvel Expy, Best Colony, Govandi East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0291002,
+                    "lng": 72.8366843
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.03043852989272,
+                        "lng": 72.83804437989272
+                    },
+                    "southwest": {
+                        "lat": 19.02773887010727,
+                        "lng": 72.83534472010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "\u092c\u093e\u0933\u093e\u0938\u093e\u0939\u0947\u092c \u0920\u093e\u0915\u0930\u0947 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0938\u094d\u092e\u093e\u0930\u0915",
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101025505020712402859\">Sadanand Savardekar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhut2VPlCgj42YMHd6iAwskeEvGONjaT84uQoNE0BX7OcEsYlfRQZGOF7BLj_BJRxx4tT0pw4fkbdfvyX9mgbtDVzmoACgED9NqA7stKXzPksrW2-nbMmVOxitHPMfhPMrMdMXrAz0nt-IWGnbSLzpiEvQkK91Uz_b98uFxmGm34yCU",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJFSYpFTDP5zsRGZ0SKwTOJFY",
+            "rating": 4.6,
+            "reference": "ChIJFSYpFTDP5zsRGZ0SKwTOJFY",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "2RHP+JMV, SVS Rd, Dadar West, Shivaji Park, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0501261,
+                    "lng": 72.8214579
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.05147737989272,
+                        "lng": 72.82285292989272
+                    },
+                    "southwest": {
+                        "lat": 19.04877772010728,
+                        "lng": 72.82015327010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sea Harrier Monument",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102577171975182081895\">Amar Patel</a>"
+                    ],
+                    "photo_reference": "AcYSjRiWQ_NHWDM98lSjxLHnat7EJcm2nJoAEVaCV_9BykZ3FHNCzXASpOWVtf_oVOeU-QdA5N-swNi2qoSGe8scPGyCjoYCXHMRMEofgQtsaGhR0kAW1xBASDlXDRxLJVVAdYHAyf7XxUbRiP8D3aeNWnBVa9D1SGWDmmj7B7IuthNVaJN3",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJTzqkgrjJ5zsR_83XoaJl_P4",
+            "plus_code": {
+                "compound_code": "3R2C+3H Mumbai, Maharashtra",
+                "global_code": "7JFJ3R2C+3H"
+            },
+            "rating": 4.9,
+            "reference": "ChIJTzqkgrjJ5zsR_83XoaJl_P4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "12, Bandstand Promenade, Ranwar, Bandra West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0543126,
+                    "lng": 72.8376521
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.05563672989273,
+                        "lng": 72.83897977989272
+                    },
+                    "southwest": {
+                        "lat": 19.05293707010728,
+                        "lng": 72.83628012010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Pt. Mohd Rafi Chowk",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111490178448668325017\">jaipal jadhav</a>"
+                    ],
+                    "photo_reference": "AcYSjRjRC8ot09qzfz1BnfJmcdxrahuo8ecBIUdtDAw-eVuj91bYeamg5MPCwCsUY4SEqq_GiUBRSSlNqTxLtjchdSb-GEffc_X6pba0HatVaJ4wTxN-7M0AxKqwlsGQM7D39rx549364lAdQcFmjQ5vktMpqHdZmE60S2xtbSW4uUT8hGQP",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJj2yO7DzJ5zsRrEs2hMbfFeA",
+            "plus_code": {
+                "compound_code": "3R3Q+P3 Mumbai, Maharashtra",
+                "global_code": "7JFJ3R3Q+P3"
+            },
+            "rating": 4.3,
+            "reference": "ChIJj2yO7DzJ5zsRrEs2hMbfFeA",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 48,
+            "vicinity": "10c, Hill Rd, Madam Wadi, Santosh Nagar, Bandra West, Mumbai"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 19.086084,
+                    "lng": 72.90996799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.08744447989272,
+                        "lng": 72.91130687989272
+                    },
+                    "southwest": {
+                        "lat": 19.08474482010728,
+                        "lng": 72.90860722010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Jay Bhim",
+            "permanently_closed": true,
+            "place_id": "ChIJSSBAZS3G5zsRr13StsSiUe4",
+            "rating": 0,
+            "reference": "ChIJSSBAZS3G5zsRr13StsSiUe4",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "3WP5+CXP, Shival Nagar, Saibaba Nagar, Pant Nagar, Ghatkopar East, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0518072,
+                    "lng": 72.824739
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.05317372989272,
+                        "lng": 72.82609122989273
+                    },
+                    "southwest": {
+                        "lat": 19.05047407010727,
+                        "lng": 72.82339157010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mehaboom Khan Statue",
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111490178448668325017\">jaipal jadhav</a>"
+                    ],
+                    "photo_reference": "AcYSjRgncuiNF-3IH1_n84yVMiwVqum_IQ-nkWXgdoWUTHUk7luk623MGYpuoObg1rFWsVFcZpgdAbpt_yJxE5lnXU16SrgF_SyQ3aG3jN8eqtk-WIsbMf1r78DYGJVOiSDAonU2OWjWIak4eUx9k3RdgPijJnSrREag4s87JvzDvdohtrtr",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJjar8hy_J5zsRidBgd7B-YZQ",
+            "rating": 5,
+            "reference": "ChIJjar8hy_J5zsRidBgd7B-YZQ",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "3R2F+PVH, MT Carmel Rd, Mount Mary, Bandra West, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0537804,
+                    "lng": 72.82991419999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.05514572989272,
+                        "lng": 72.83126227989273
+                    },
+                    "southwest": {
+                        "lat": 19.05244607010728,
+                        "lng": 72.82856262010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Irfaan Khan mural",
+            "place_id": "ChIJs_TdT-HJ5zsRnSOQc57uhXs",
+            "plus_code": {
+                "compound_code": "3R3H+GX Mumbai, Maharashtra",
+                "global_code": "7JFJ3R3H+GX"
+            },
+            "rating": 0,
+            "reference": "ChIJs_TdT-HJ5zsRnSOQc57uhXs",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "13, 34, Waroda Rd, Ranwar, Bandra West, Mumbai"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 19.077034,
+                    "lng": 72.89887399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07839257989272,
+                        "lng": 72.90023027989272
+                    },
+                    "southwest": {
+                        "lat": 19.07569292010728,
+                        "lng": 72.89753062010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Jay Bhim",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102293981388567179562\">vihaan Joshi</a>"
+                    ],
+                    "photo_reference": "AcYSjRi6Yy-AUi_aZNfTSdPH0cos_23z3Nh5vUVUk3WsemyjOVTrDzpgiUUY-pgDA142jzsPsSxkNO2D_aau_S5FxmqFpMsX5Q1IrXcZwlVTjRQvEGLs4A4rX829SIKHiOGI-2-OHYWBaRgdyC6VWZYTp4M4QVlnOXXxAadTwOwjbC0lG9h4",
+                    "width": 2268
+                }
+            ],
+            "place_id": "ChIJoQX2HyjG5zsRwCRxxzQ8ix0",
+            "rating": 2.9,
+            "reference": "ChIJoQX2HyjG5zsRwCRxxzQ8ix0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "3VGX+RG9, ONGC Colony, Vidya Vihar East, Vidyavihar, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0447039,
+                    "lng": 72.8393692
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.04606857989273,
+                        "lng": 72.84075002989272
+                    },
+                    "southwest": {
+                        "lat": 19.04336892010728,
+                        "lng": 72.83805037010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Koli Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115856831318272446704\">shakil ansari</a>"
+                    ],
+                    "photo_reference": "AcYSjRj7ECgD-sZbgzkj_NLzesHmXOvQfa6B-joj_6_-Zd2mjU9Z29a5TRJ3dBrinORr6Nff7I-GA3JWWbH9usP_kxbdwl5tVfXxlJtffQfbY4Zmf9x4zYJ1VmBjuoMP1kjRPhAFhGHNZ3GJJwHsTKynGw9stjHNeZQVQcANuiTkaqcN_AYY",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJu2G1KDDJ5zsRWRNwKPBl2DQ",
+            "rating": 4.3,
+            "reference": "ChIJu2G1KDDJ5zsRWRNwKPBl2DQ",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 166,
+            "vicinity": "2RVQ+VPQ, Mahim West, Mahim, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.1170089,
+                    "lng": 72.91025830000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.11839967989272,
+                        "lng": 72.91165012989272
+                    },
+                    "southwest": {
+                        "lat": 19.11570002010728,
+                        "lng": 72.90895047010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "J. Dey Square",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116914269757342431628\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgk3DeGA119ndbONlacsqvHchV0xVKXgFRD04q_QobByt32nlHfmZmKpqBWQA2kluc0N_E9fs7IKn-OOuUIa_5LNzuKledQjxX0lBKuwMxZbU8I06cJHK8wz9E17wNMDU-3a7kbsaW0E0SxB4owjXrq8kNoWXEswVVeC05BxcH57X7H",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJm14FG8nH5zsRdgsqQUerYvE",
+            "rating": 4.3,
+            "reference": "ChIJm14FG8nH5zsRdgsqQUerYvE",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "4W86+R42, Central Ave, Hiranandani Gardens, Powai, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.097765,
+                    "lng": 72.82666499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.09912612989272,
+                        "lng": 72.82807572989272
+                    },
+                    "southwest": {
+                        "lat": 19.09642647010728,
+                        "lng": 72.82537607010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mermaid Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110912700876951016273\">Apurva Waigankar</a>"
+                    ],
+                    "photo_reference": "AcYSjRim8WgmZJYb7UHEi1lDpFRkrAZM0m-DBsTEiNPWIDHeNpZGR8MQZhUWv54C2GGp6dZJgXBhqP52bdqx-t1SC7bvTavc6sAQPblRRenGROaZObZNM9NWJkt4y_nEG47-x8DhOePVu8vu3yPIdjhjdxMgUPB_V2q4b83qe3paDRrBBxqF",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJATkl4ZXJ5zsR7h7JPrY3kF0",
+            "plus_code": {
+                "compound_code": "3RXG+4M Mumbai, Maharashtra",
+                "global_code": "7JFJ3RXG+4M"
+            },
+            "rating": 3.9,
+            "reference": "ChIJATkl4ZXJ5zsR7h7JPrY3kF0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "1, Juhu Tara Rd, Airport Area, Juhu, Mumbai"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 19.1652487,
+                    "lng": 72.848947
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.16659922989273,
+                        "lng": 72.85029682989271
+                    },
+                    "southwest": {
+                        "lat": 19.16389957010728,
+                        "lng": 72.84759717010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Hemant Karkare Memorial",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102366758278604030340\">lokesh garg</a>"
+                    ],
+                    "photo_reference": "AcYSjRiWPl9_oD4O5XrYK9UbcHabBPi5ijCqLvQhN6uTb6aPLR-pG0wuLKM7B9Tu36A22xTv-5OxRbZHJPsM9t5QC-V3uKXd_je-XDpcddmkrVrUF-kqOLev_0msJRjpQpVu2wU6ZaU1YIMMiYTdaho79ENuYyqcKFxdXltggFtFg-xg4rWR",
+                    "width": 3200
+                }
+            ],
+            "place_id": "ChIJ4T9xpFq25zsRJjeScmYbawc",
+            "plus_code": {
+                "compound_code": "5R8X+3H Mumbai, Maharashtra",
+                "global_code": "7JFJ5R8X+3H"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ4T9xpFq25zsRJjeScmYbawc",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "Opp Goregaon Railway Station, Kakaji Nagar, Jawahar Nagar, Goregaon West, Mumbai"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 19.0716899,
+                    "lng": 72.8968429
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.07305657989273,
+                        "lng": 72.89818172989273
+                    },
+                    "southwest": {
+                        "lat": 19.07035692010728,
+                        "lng": 72.89548207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Multiple gods",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103809177575096346956\">Ronit rokade</a>"
+                    ],
+                    "photo_reference": "AcYSjRh6Pa30YIqg247TRWpX4ptFr-v7OlG_BN50DNzp4WALUOBWi0pzoQKqEG8DvMuNnrqqj207I6RR34Men2ULvgEBkNnkV--NriKSJaUKwC3vdTSMF1X0KyfT6YbRDMwUUVAEa__J_N-s2ptuQqkQEPiBQMiyOgIhvhHWcsXg5iM7LA-E",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJsYIRu53I5zsRTk7JE_yj1P0",
+            "plus_code": {
+                "compound_code": "3VCW+MP Mumbai, Maharashtra",
+                "global_code": "7JFJ3VCW+MP"
+            },
+            "rating": 0,
+            "reference": "ChIJsYIRu53I5zsRTk7JE_yj1P0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "106, Sainath Mandir Chowk, Tilak Nagar, Kurla, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0418892,
+                    "lng": 72.81835939999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.04380847989272,
+                        "lng": 72.81983372989272
+                    },
+                    "southwest": {
+                        "lat": 19.04110882010728,
+                        "lng": 72.81713407010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bandra Fort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102170261529287583846\">Mehul Doshi</a>"
+                    ],
+                    "photo_reference": "AcYSjRhR0Ahsc0KJ9UxkSdYT2u4r_iHwrhmF8ZEh84nQlwx02TFsTASOu__cNig4IrIFp0_XWr6ToziM5aEkQfGvldDdzDsgNsfrxn2Gtx-Gd9tQVZybFTv9_tb9Cu-swnWyYxylp8boTufo6WfjRo8VptgPULdm7MUuNrfhGdAxm8MaKhNT",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJL-M37E_J5zsRvCVUI05gHL0",
+            "rating": 4.4,
+            "reference": "ChIJL-M37E_J5zsRvCVUI05gHL0",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25921,
+            "vicinity": "2RR9+Q85, Byramji Jeejeebhoy Road, Bandstand Road, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0384729,
+                    "lng": 72.8907385
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.03981802989272,
+                        "lng": 72.89213652989272
+                    },
+                    "southwest": {
+                        "lat": 19.03711837010728,
+                        "lng": 72.88943687010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Chhatrapati Shivaji Maharaj Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101804604082113551045\">Avadhut Sutar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhbnH6izyWhSePijOwZzQ8XX7rGlae9clxyKmiuGEF7Mjx6djG1B4ROq79MTgoB4xw4AafMT1wZsbLC05Jkbgktvd7KA5-Q-B7mfUUzStcMX2EGEc1gj-PXGMpHBKwTSsvfeN2CnNHNvA6_n7jBKF1NU2diGtqck_SjC38mMoO7CY1h",
+                    "width": 3072
+                }
+            ],
+            "place_id": "ChIJPZq8EFPP5zsR31nxPU28zlM",
+            "plus_code": {
+                "compound_code": "2VQR+97 Mumbai, Maharashtra",
+                "global_code": "7JFJ2VQR+97"
+            },
+            "rating": 4.3,
+            "reference": "ChIJPZq8EFPP5zsR31nxPU28zlM",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 225,
+            "vicinity": "1, Duleep Singh Marg, HP Nagar West, Chembur, Mumbai"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 19.0006679,
+                    "lng": 72.86012649999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.00211017989272,
+                        "lng": 72.86127742989271
+                    },
+                    "southwest": {
+                        "lat": 18.99941052010728,
+                        "lng": 72.85857777010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sewri Fort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3022,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114882758719378851909\">Kiran Mengale</a>"
+                    ],
+                    "photo_reference": "AcYSjRiSLORBlSpBjgDRbPABE4Yxz9IMIi5x90eMfiCm4f7ZdY4yqHdW3dZwWRt2CVsJudRP43mrv15UXDUv_36uie19fs-BYEhb5eW28pG7gr5KWGKIa5U6I_b3Ooq_fRupLvvdoth7xKf7PnJY32ateUQ5Q4OxMMlO1VMyDPTLZgOIIeNe",
+                    "width": 4030
+                }
+            ],
+            "place_id": "ChIJO-qS_ATP5zsRfAJybniVUPE",
+            "plus_code": {
+                "compound_code": "2V26+73 Mumbai, Maharashtra",
+                "global_code": "7JFJ2V26+73"
+            },
+            "rating": 4,
+            "reference": "ChIJO-qS_ATP5zsRfAJybniVUPE",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1215,
+            "vicinity": "31, Sewri Ford Road, MPT, Sewri, Mumbai"
+        }
+    ],
+    "status": "OK"
+}

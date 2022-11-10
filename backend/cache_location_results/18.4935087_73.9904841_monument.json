@@ -1,0 +1,441 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.492614,
+                    "lng": 74.025657
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.49409062989272,
+                        "lng": 74.02755412989272
+                    },
+                    "southwest": {
+                        "lat": 18.49139097010728,
+                        "lng": 74.02485447010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "World Peace Dome",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116175923410895968312\">shubhmohan singh</a>"
+                    ],
+                    "photo_reference": "AcYSjRjH2qoYdCkSWmazt_-rUZ59owykacNrxJn73Ddc2y4VRAAyeZRUcIqcHDEh-J01W4nOMEUuQaAbutTjFRxS_cr88uHnHwOm8gh7n3ebZtF8ser5mU0RtWjTL5Ak1wn2dchtT9U_Qmu8gfGdMh-vmut59_KSVAU_dqO8Lrd6ggly-G5s",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJt5kbMzPpwjsR1YYS0iXIPfk",
+            "plus_code": {
+                "compound_code": "F2VG+27 Loni Kalbhor, Maharashtra",
+                "global_code": "7JCPF2VG+27"
+            },
+            "rating": 4.4,
+            "reference": "ChIJt5kbMzPpwjsR1YYS0iXIPfk",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 98,
+            "vicinity": "Railway station, Vishwarajbaug, MIT-ADT University Campus, Solapur Rd, Loni Kalbhor"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.572357,
+                    "lng": 74.02165219999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.57373737989272,
+                        "lng": 74.02304297989272
+                    },
+                    "southwest": {
+                        "lat": 18.57103772010728,
+                        "lng": 74.02034332010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Chhatrapati Shivaji Maharaj monument",
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105815753245164204771\">shekhar lokhande</a>"
+                    ],
+                    "photo_reference": "AcYSjRgwTGpi2VCAn0_dYkW0-2e6y8Az7YN_01Ow9x9vxLlXaPafEjkv4uzWZNgEMIias_vhblYhDxxns1Wnc_9urgBzqFKPIwgVQybOdK7CrS_X5Ab8JH68zN7zLub8JYI1DVnFNLVdzzNTcdAvH956v3tGoVueDCwr5kJF6vMW-Fe9jo9B",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJRTvRk4DDwjsRUQ-PSOuUA7g",
+            "rating": 5,
+            "reference": "ChIJRTvRk4DDwjsRUQ-PSOuUA7g",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "H2CC+WJG, Kesnand"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4988648,
+                    "lng": 73.8955561
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.50021727989272,
+                        "lng": 73.89689662989272
+                    },
+                    "southwest": {
+                        "lat": 18.49751762010728,
+                        "lng": 73.89419697010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Chatrapati Shivajiraje Bhosale Statue",
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106593717463422462120\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhZCwbQ7rTSuy464mu6oi_WOZnH4ufWcGrPtkhRtNQpGKq2LiLsuUNR75o1LU_xPpu48BO0RtAkclE-Uz6lCV1rFJFzEOWYfbXmqq2LZTHLS3ULoeuDNt69_gF2Bqw4vcBEg6BM6VPLPV6iBAMiJ2adArZqWjgrO-ByjqqKdgJlIt_C",
+                    "width": 908
+                }
+            ],
+            "place_id": "ChIJFSDA7ejBwjsR6niomsbqJqY",
+            "plus_code": {
+                "compound_code": "FVXW+G6 Pune, Maharashtra",
+                "global_code": "7JCMFVXW+G6"
+            },
+            "rating": 0,
+            "reference": "ChIJFSDA7ejBwjsR6niomsbqJqY",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Pune Cantonment, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5815669,
+                    "lng": 73.9780956
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.58298692989272,
+                        "lng": 73.97945797989273
+                    },
+                    "southwest": {
+                        "lat": 18.58028727010728,
+                        "lng": 73.97675832010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "\u0936\u094d\u0930\u0940\u092e\u0902\u0924 \u0938\u0941\u092d\u0947\u0926\u093e\u0930 \u092a\u093f\u0932\u093e\u091c\u0940\u0930\u093e\u0935 \u091c\u093e\u0927\u0935\u0930\u093e\u0935 \u0938\u094d\u092e\u093e\u0930\u0915",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101332552144798730544\">kamesh barguje</a>"
+                    ],
+                    "photo_reference": "AcYSjRioRewo5HW-yuVEjXRzsDcd_h5agEevv0mVx4-xuF9YNPipTVIuk3CPw4LDOlChwfSdATRZFKlWAX-BRDqxmY8ZcbbHLNEJHOgp6GBTo062s491GAf2nDT93CNUfm27RJDYmsw3Y0tFMfnNfLkYTyR6pXTRs5vmWAM3uJ6TH3FNqVZA",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJkSlWCQ7DwjsRLGbs-W8eAm0",
+            "plus_code": {
+                "compound_code": "HXJH+J6 Pune, Maharashtra",
+                "global_code": "7JCMHXJH+J6"
+            },
+            "rating": 5,
+            "reference": "ChIJkSlWCQ7DwjsRLGbs-W8eAm0",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "57, Wageshwar Temple Rd, Wagholi, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5618245,
+                    "lng": 73.931226
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.56316562989273,
+                        "lng": 73.93254877989273
+                    },
+                    "southwest": {
+                        "lat": 18.56046597010728,
+                        "lng": 73.92984912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Chatrapati Shivaji Maharaj Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112158988886145460960\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRicYow5H-hpktrwysokzwq5cetKjU0IR0jcgxESKiYmAknrmfLeY6g7zUGN3gLAqjTmJ7_WnxendygqbUoDmMdbA4UV9X3Rp4Jph5gOasGzG_VUB5H-wkCZwU_sp1QW95S0YJkxS8MHYXkjOCPLFhl56qrmHc3wU76wh5Bpp38RV5M2",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJ00KhZl7BwjsR3sOeQWamR3U",
+            "rating": 4.5,
+            "reference": "ChIJ00KhZl7BwjsR3sOeQWamR3U",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1295,
+            "vicinity": "HW6J+PFH, Shivaji Maharaj Chowk, Kharadi, Mathura Nagar, Chandan Nagar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4915682,
+                    "lng": 73.8972862
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.49285522989272,
+                        "lng": 73.89863597989272
+                    },
+                    "southwest": {
+                        "lat": 18.49015557010728,
+                        "lng": 73.89593632010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mahadji Shinde Chhatri",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105520426961513818132\">105520426961513818132</a>"
+                    ],
+                    "photo_reference": "AcYSjRgVCY2Au4jIg7WUKx3M1n0M8Dm0IjE5wrMxgLtXvl3-ErMtj9p-_8vDnaWjOTWeqjDXwImFZ0EHCoj2xAltU4NWMslrmfBfa1pPJl2FhzF4dCv8VFzwkC92ELeBl1TQGlEMdIlErR_vomjByc6hqy3JQ9-E_tEHHH7Uj792zeRWfFrn",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJkWVv59bBwjsRHarg2LI6ikI",
+            "rating": 4.3,
+            "reference": "ChIJkWVv59bBwjsRHarg2LI6ikI",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3384,
+            "vicinity": "FVRW+MW3, Wanawadi Rd, Pune Cantonment, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5516893,
+                    "lng": 73.9020915
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.55429945,
+                        "lng": 73.90290725
+                    },
+                    "southwest": {
+                        "lat": 18.55073045,
+                        "lng": 73.89963545
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Gandhi National Memorial Society",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108703826141501099125\">Vijay Singh Parihar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhcjEYm9et4Iooubibubj3oS8zU4NIjznPnxUB6TZMjN4ljnrCV5MYPyjQ-KpxANHeQDlaHV6kvYkNTrmsiNKIxXs6FqqZK7ppKuXBIScUp6gugJOjRQTKAtx4ROZcYTWXF7nRPCfRzepMFBcuDBcrGap_2SpVzp9MDx0cKKhTzsIpH",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJTa5Z1hnBwjsRs2RBI8fKFFc",
+            "plus_code": {
+                "compound_code": "HW22+JR Pune, Maharashtra",
+                "global_code": "7JCMHW22+JR"
+            },
+            "rating": 4.3,
+            "reference": "ChIJTa5Z1hnBwjsRs2RBI8fKFFc",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 110,
+            "vicinity": "Agakhan Palace, Nagar Road, Kalyani Nagar, Pune"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.4120617,
+                    "lng": 74.04945
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.41299722989272,
+                        "lng": 74.05033052989272
+                    },
+                    "southwest": {
+                        "lat": 18.41029757010728,
+                        "lng": 74.04763087010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Malhargad killa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2252,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116900127695685276451\">Suraj Ghavate</a>"
+                    ],
+                    "photo_reference": "AcYSjRjoVrsJ-sjxCGG4zMVrmxmZOOgLD5lVFSEIGwVFUrh4-rjUuHoMokS69IM8S6WMMblSPMdZAzhaJoGDymwlYKFoRb8slMilWw3gyPrieAtDXOqe4VPbgbKM3EOH-YoS0F6a4u1-B90pBEtLrFjUTImNVAiLal2-1WDeex6-hkqgd5ty",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ7apmuQvmwjsRm7XVAGIFNec",
+            "plus_code": {
+                "compound_code": "C26X+RQ Kalewadi, Maharashtra",
+                "global_code": "7JCPC26X+RQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ7apmuQvmwjsRm7XVAGIFNec",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3915,
+            "vicinity": "Kalewadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.5524942,
+                    "lng": 73.90145629999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.55461834999999,
+                        "lng": 73.90280109999999
+                    },
+                    "southwest": {
+                        "lat": 18.55178615,
+                        "lng": 73.8997647
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Aga Khan Palace",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3511,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116828988690974323690\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjQ9Z19GTBf-VvPQVykeNyEqrUW-dOqIZzuzh-S9TG2Y3JkRIiVJ125aDFl1OPFLbMF159TTwA-vk41lGM70pf0HmputYu4G8KxByRxiRKCZiUsnWJ3xfdfNBdszU3BajYouF5xGo-e__zx-kaSa9xKsGyzGa_0_t0O7Xtm7mCXftnY",
+                    "width": 2992
+                }
+            ],
+            "place_id": "ChIJGxtxaBfBwjsR9GnVR3SpG6w",
+            "rating": 4.3,
+            "reference": "ChIJGxtxaBfBwjsR9GnVR3SpG6w",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19901,
+            "vicinity": "HW22+XHW, Nagar Road, Samrat Ashok Rd, Pune"
+        }
+    ],
+    "status": "OK"
+}

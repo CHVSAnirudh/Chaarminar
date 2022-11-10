@@ -1,0 +1,188 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6643911,
+                    "lng": 73.77119669999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.66593532989272,
+                        "lng": 73.77241532989271
+                    },
+                    "southwest": {
+                        "lat": 18.66323567010728,
+                        "lng": 73.76971567010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Statue of Chhatrapati Shivaji Maharaj and Sant Tukaram",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 625,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108769645880721629820\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjW2rYTmpd1QdQxZC9Iwdodlf9ubi7f87kQrF2QPPC9cBAaTzXACEJzJvMhmK0H8K-6oXYso_yRHb30-F0jr4pLjlfr3fItTtGWxTEgh26wzVY6lbn7KcHtyOsLHs271FuFIjzKGoF4Ap1M1GuixLwhVLh06AoEynREOtV1-2h0YhpZ",
+                    "width": 1068
+                }
+            ],
+            "place_id": "ChIJfzrlnWC3wjsRD50Arc9c73U",
+            "rating": 4.5,
+            "reference": "ChIJfzrlnWC3wjsRD50Arc9c73U",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 372,
+            "vicinity": "MQ7C+QF4, Akurdi, Chinchwad, Nigdi, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6979774,
+                    "lng": 73.7144805
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.69932647989273,
+                        "lng": 73.71583202989271
+                    },
+                    "southwest": {
+                        "lat": 18.69662682010728,
+                        "lng": 73.71313237010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "\u0936\u094d\u0930\u0940 \u0905\u092e\u0930 \u0926\u0947\u0935\u0940 \u092a\u093e\u0932\u0916\u0940 \u092d\u0941\u092f\u093e\u0930\u0940 \u092e\u093e\u0930\u094d\u0917",
+            "photos": [
+                {
+                    "height": 4080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104804559966011204632\">sanjay mali</a>"
+                    ],
+                    "photo_reference": "AcYSjRgyzW_iGh2HqwKEWOe1BkME6Po0FQcFptAf4jUfeoZfJa7reD1Z42GgZqIfmffID5cVClPa2G7FxhwA9b2bSzC0fSujS1efngczWRcAfgQAEUlQSjBqxyZ9vq-ZDL2x6hFMQ2ACzvnIxswyQdOM5KB6nj9KMhxoTnO8jWqdvxXqFH_-",
+                    "width": 3072
+                }
+            ],
+            "place_id": "ChIJmZNK7VSxwjsRLbXgopVX8_A",
+            "rating": 5,
+            "reference": "ChIJmZNK7VSxwjsRLbXgopVX8_A",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "MPX7+5QX, Talegaon Dabhade R"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.6163141,
+                    "lng": 73.76573719999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.61758122989272,
+                        "lng": 73.76720732989271
+                    },
+                    "southwest": {
+                        "lat": 18.61488157010727,
+                        "lng": 73.76450767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Chatrapati Shivaji Maharaj Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101479808025051274473\">deepankar kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRjao2gzQ5585xKKUZ5feVbQ5RoZqHbujpBgQCpqtPRbAHIzBScB90QmtxQgwsGKjeidqDLNgltQfQFvyY8I3kxWMSuXCMxtcPPgSO_1t5D6AuAmVahtIL326c23W1aAVqE7UlcxlRxNHFRbMbl8fUwhqkv52m30LZB0siR4fqd0cisE",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJl7K1cJ65wjsRgZc8MM7gJ7g",
+            "rating": 4.6,
+            "reference": "ChIJl7K1cJ65wjsRgZc8MM7gJ7g",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 235,
+            "vicinity": "JQ88+G7H, Dange Chowk, Thergaon, Pimpri-Chinchwad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 18.7339451,
+                    "lng": 73.6634854
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 18.73529102989272,
+                        "lng": 73.66483547989272
+                    },
+                    "southwest": {
+                        "lat": 18.73259137010728,
+                        "lng": 73.66213582010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Dr Babasaheb Ambedkar Niwas Sthaan",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3472,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101909168090254572668\">Amit Pazare</a>"
+                    ],
+                    "photo_reference": "AcYSjRjm0wApkzSUepU1JTHkjDtfdE7nJ8hX-KW60WtNnw6B6UqyqH60wkp4T-qXXreDHxBC128zGDNmLyZYXm158eNECY0k8ft85cSukqmmQcELyO1pKRITEgX_UCUiFG-pEvWQaQEOL92uYAoCdkw0BDfUpIOnTVADyEG9c9vGvlsdFGSn",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJH3KW8fqxwjsRLn_OVWAabXQ",
+            "rating": 4.7,
+            "reference": "ChIJH3KW8fqxwjsRLn_OVWAabXQ",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 236,
+            "vicinity": "PMM7+H9H, Swaraj Nagari, Talegaon Dabhade"
+        }
+    ],
+    "status": "OK"
+}

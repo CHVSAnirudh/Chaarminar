@@ -1,0 +1,240 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8278526,
+                    "lng": 78.03690089999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.82923212989272,
+                        "lng": 78.03823227989271
+                    },
+                    "southwest": {
+                        "lat": 15.82653247010728,
+                        "lng": 78.03553262010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Love kurnool monument",
+            "place_id": "ChIJe-sUoOHntTsR__2afl2KC9g",
+            "plus_code": {
+                "compound_code": "R2HP+4Q Kurnool, Andhra Pradesh",
+                "global_code": "7J7WR2HP+4Q"
+            },
+            "rating": 5,
+            "reference": "ChIJe-sUoOHntTsR__2afl2KC9g",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Paradise hotel, Madavanagar, River View Colony, Kurnool"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8359766,
+                    "lng": 78.0236994
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.83734022989272,
+                        "lng": 78.02493327989272
+                    },
+                    "southwest": {
+                        "lat": 15.83464057010728,
+                        "lng": 78.02223362010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Rajeev Gandhi Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116888978544669859833\">KIRAN KUMAR ETTA</a>"
+                    ],
+                    "photo_reference": "AcYSjRgOe_bzFduS3TYmGu5rspHu2e2LAvXVey0WxlQOGqeI_lim6y2T1Sru20BLIw8I3k_wgquPrQ9VGY0-6zmjN_nvf-uaw1q27Ad1MJQ1F5UGkl6JeDpug1dqTlYLEkUykTGHm_mOuwDXHrDpEbqjjSMe_lezKidZhAT5B9vy4K4PQwu4",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJNcAWi03ntTsRtNjyg-Y9GGQ",
+            "plus_code": {
+                "compound_code": "R2PF+9F Kurnool, Andhra Pradesh",
+                "global_code": "7J7WR2PF+9F"
+            },
+            "rating": 4.2,
+            "reference": "ChIJNcAWi03ntTsRtNjyg-Y9GGQ",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "45-142-20b, Rd Number 3, Avanthi Nagar, SVR Colony, Kurnool"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8272515,
+                    "lng": 78.04650649999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.82859847989272,
+                        "lng": 78.04799607989271
+                    },
+                    "southwest": {
+                        "lat": 15.82589882010728,
+                        "lng": 78.04529642010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Tomb of Abdul Wahab Khan",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111874061234070622586\">Tandava Kuppa</a>"
+                    ],
+                    "photo_reference": "AcYSjRh8wnnyBahfHUBUggiMsknB_h6OWnFgt_OliKdjFu5R0oFL3I-K7V4j163bOq959hvS1dOG362HILXb9emFFH437Zcq67FX_9wVL9a473dYEPQ8YD79ultd1tJco7p9kVFAXMDfS61Ps-bp45zePu2je_JYT4SJacAjLPPuJ21FSvNw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9BqaDTntTsRAu5XdmLVXPY",
+            "plus_code": {
+                "compound_code": "R2GW+WJ Kurnool, Andhra Pradesh",
+                "global_code": "7J7WR2GW+WJ"
+            },
+            "rating": 4.4,
+            "reference": "ChIJE9BqaDTntTsRAu5XdmLVXPY",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 144,
+            "vicinity": "Abdul Wahab Khan Gumbad, Osmania College Rd, Peta, KVR Garden Colony, Kurnool"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.7389947,
+                    "lng": 78.0347363
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.74011672989272,
+                        "lng": 78.03566737989273
+                    },
+                    "southwest": {
+                        "lat": 15.73741707010728,
+                        "lng": 78.03296772010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Jagannatha Gattu Cave Temple, A.P.State Protected Monument",
+            "photos": [
+                {
+                    "height": 4016,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105430911348525539849\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRisJ4_GkKyOsDwbIon2gYb1ZwWmXD7xicHnxLWUJclK2gydWMGJ887_U3gAkQgUISP8T8JbCbcTds7nVpEJ4KCfWw29WZpsk9V9Ckn8x_dAcgbZQ-TuoJhjKHe01UqB4NtKX1RQz-DOhnnbQuXThmUWfxNXYkDEewUWf_2SiUiI-a7d",
+                    "width": 3008
+                }
+            ],
+            "place_id": "ChIJjwt2xg7ctTsRdHoSIy-vD1Q",
+            "rating": 4.6,
+            "reference": "ChIJjwt2xg7ctTsRdHoSIy-vD1Q",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 103,
+            "vicinity": "P2QM+HVX, Kurnool District, Laxmipuram"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 15.8338657,
+                    "lng": 78.0486258
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 15.83523722989272,
+                        "lng": 78.04985497989273
+                    },
+                    "southwest": {
+                        "lat": 15.83253757010728,
+                        "lng": 78.04715532010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Konda Reddy Fort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1616,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114040723587261566723\">Nani Jessi</a>"
+                    ],
+                    "photo_reference": "AcYSjRgktqQLMabomHXyRW3NMl4wwWhHSds8xc3ElEzfbY2yRFLwY_46UeJfJz3bYM51iTa_jrGd2ot3n3X27L7gWr8KgHwV2Dop1fl24qNMYGb-QsGS-Es49LgsVDaYLDWRL2rwdRa86Ix7SARIZkCHo4-YMcR-cqkxKEyHd4TsmqwMe5su",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJAQBALmTntTsRLcmKZYo8y-U",
+            "plus_code": {
+                "compound_code": "R2MX+GF Kurnool, Andhra Pradesh",
+                "global_code": "7J7WR2MX+GF"
+            },
+            "rating": 4.5,
+            "reference": "ChIJAQBALmTntTsRLcmKZYo8y-U",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21509,
+            "vicinity": "Old Bus Stand Area, Kurnool"
+        }
+    ],
+    "status": "OK"
+}

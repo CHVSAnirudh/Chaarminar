@@ -1,0 +1,469 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7342519,
+                    "lng": 77.3400935
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.73660255,
+                        "lng": 77.34140947989272
+                    },
+                    "southwest": {
+                        "lat": 17.73346835,
+                        "lng": 77.33870982010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Mannaekhelli Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108048613316290984973\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgiC2mnDwu3xissJaOEKq7_JY0-ID5vjk45Mg3Y48swfmKCuDjWjlnfJ_3EepAuinYQhar3U0iIvNrfBQO3d8W1ppe9GoJ3e2k3tQkUvcytP9cVmposTAZ5wVITouhshia85N_rghJmK5gTekinEf-Mp7UJp65_4LG8lriyxCaFVLv7",
+                    "width": 4560
+                }
+            ],
+            "place_id": "ChIJYxydFs7RzjsRkuOntd_SBfc",
+            "rating": 4.2,
+            "reference": "ChIJYxydFs7RzjsRkuOntd_SBfc",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 39,
+            "vicinity": "P8MR+P24, Bidar"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6471161,
+                    "lng": 77.348816
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64847287989272,
+                        "lng": 77.35002279999999
+                    },
+                    "southwest": {
+                        "lat": 17.64577322010727,
+                        "lng": 77.3451956
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Bahirapur Forest. \u0cac\u0cb6\u0cbf\u0cb0\u0caa\u0cc1\u0cb0\u0ccd \u0c85\u0cb0\u0ca3\u0ccd\u0caf",
+            "place_id": "ChIJvy-GOc_SzjsRAvO8w0S-W28",
+            "rating": 5,
+            "reference": "ChIJvy-GOc_SzjsRAvO8w0S-W28",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "J8WX+RGW, Bashirapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.66618,
+                    "lng": 77.4263587
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.66757572989272,
+                        "lng": 77.42773162989272
+                    },
+                    "southwest": {
+                        "lat": 17.66487607010728,
+                        "lng": 77.42503197010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Vijaylaxmi farm poll house",
+            "place_id": "ChIJj4qdLebNzjsRpD4q5k_hzqg",
+            "rating": 0,
+            "reference": "ChIJj4qdLebNzjsRpD4q5k_hzqg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MC8G+FGH, Bemalkheda"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6944358,
+                    "lng": 77.4403872
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.69580902989273,
+                        "lng": 77.44174537989272
+                    },
+                    "southwest": {
+                        "lat": 17.69310937010728,
+                        "lng": 77.43904572010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "TO LAKE",
+            "place_id": "ChIJSZiun3fNzjsR-TXtz6Q7gGg",
+            "rating": 0,
+            "reference": "ChIJSZiun3fNzjsR-TXtz6Q7gGg",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MCVR+Q5C, Bhangoor Service Rd, Bhangoor"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6739903,
+                    "lng": 77.3575594
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.67512847989272,
+                        "lng": 77.35891397989272
+                    },
+                    "southwest": {
+                        "lat": 17.67242882010728,
+                        "lng": 77.35621432010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Ganesh Garden Bashirapur",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104998711830869669542\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjiXC22pGvlqPMtQ_R8E_PExiVQhVErtIhZZkYTNNFMe6TOYI992ZUcJfF2hNrECa-9XWdKnyhSPsJ_j9ZUnhw9yj73YaGrmA_lt4-AI9IHZTswyMa9bxG3cgdZYZaOPAUPVC4rwPNGgvy00az_S1w24Jd9knfvGY00AsQl7863Cmp1",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJxV6AbY3SzjsR0bvjjokZe3A",
+            "rating": 3.3,
+            "reference": "ChIJxV6AbY3SzjsR0bvjjokZe3A",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "M9F5+H2V, Bashirapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7459951,
+                    "lng": 77.4549772
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74735152989272,
+                        "lng": 77.45599772989272
+                    },
+                    "southwest": {
+                        "lat": 17.74465187010728,
+                        "lng": 77.45329807010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Akhnus Farm",
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102519560640198985038\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRiiHvNSjouOTy2isNwz4UE7nUQzBmV3e410jpCWw7zNkLtyoniZeuTlHU5wlsIxTZkpGxeo1A6lLECDCO8sJAZWCw7pyb2CvEDqS0j9XfumErB4Jgjf3JY7XIXJB7SEJvI-_bVpSQSAyoSSWlTzBecUyEv-rPzDWSJmKemaniJK_qVf",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJAxS096TOzjsRXggY1wmFAfM",
+            "plus_code": {
+                "compound_code": "PFW3+9X Tadpalli, Karnataka",
+                "global_code": "7J9VPFW3+9X"
+            },
+            "rating": 3.8,
+            "reference": "ChIJAxS096TOzjsRXggY1wmFAfM",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Tadpalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.8024112,
+                    "lng": 77.4099265
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.80427092989272,
+                        "lng": 77.41145902989273
+                    },
+                    "southwest": {
+                        "lat": 17.80157127010728,
+                        "lng": 77.40875937010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sawrikar Lake View Farms",
+            "place_id": "ChIJAf2DGSXPzjsRDS2RetMM3Jo",
+            "rating": 0,
+            "reference": "ChIJAf2DGSXPzjsRDS2RetMM3Jo",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "RC25+XX7, Chatnalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6481097,
+                    "lng": 77.3644657
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64881847989272,
+                        "lng": 77.36631510000001
+                    },
+                    "southwest": {
+                        "lat": 17.64611882010728,
+                        "lng": 77.3589175
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Bashirapur Mallanghat Forest. \u0cac\u0cb6\u0cbf\u0cb0\u0caa\u0cc1\u0cb0\u0ccd \u0cae\u0cb2\u0ccd\u0cb2\u0ca3 \u0c98\u0c9f\u0ccd\u0c9f \u0c85\u0cb0\u0ca3\u0ccd\u0caf",
+            "place_id": "ChIJ7Q31W7DSzjsRzmqkTgi7QUo",
+            "rating": 5,
+            "reference": "ChIJ7Q31W7DSzjsRzmqkTgi7QUo",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "J9X7+6QW, Bashirapur"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7473857,
+                    "lng": 77.2928537
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.74873552989272,
+                        "lng": 77.29420352989271
+                    },
+                    "southwest": {
+                        "lat": 17.74603587010728,
+                        "lng": 77.29150387010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Saleem patel \ud83c\udf04\ud83c\udf3e",
+            "place_id": "ChIJwxzIsq_RzjsR4_inW1nE250",
+            "rating": 5,
+            "reference": "ChIJwxzIsq_RzjsR4_inW1nE250",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "P7WV+X45, Mangalgi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.6397844,
+                    "lng": 77.37941599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.64100867989272,
+                        "lng": 77.3807764298927
+                    },
+                    "southwest": {
+                        "lat": 17.63830902010728,
+                        "lng": 77.37807677010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Temple Garden",
+            "photos": [
+                {
+                    "height": 4800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104998711830869669542\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRi1hhqtfhekYzW8lw7xzUWfLd7fhJNZILLhmeF8dR3YHY1iAZY07ipnliRHSREJT6LzYu6jqD10IaCjZkpsKNa4kM7kHSA5J7Eq7cojS103VaJBpEOSf4C_99iiioakiWe9J66jqWDlXOSu8vMbhGbIhfOHV-q4AiA57KAZJCzrrV7k",
+                    "width": 2304
+                }
+            ],
+            "place_id": "ChIJ1Yhc2UnNzjsRUP384Rj2Ips",
+            "rating": 5,
+            "reference": "ChIJ1Yhc2UnNzjsRUP384Rj2Ips",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "J9QH+WQ7, Polakpalli"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.7352228,
+                    "lng": 77.3409242
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.73691067989272,
+                        "lng": 77.34222612989274
+                    },
+                    "southwest": {
+                        "lat": 17.73421102010728,
+                        "lng": 77.33952647010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Camden Gardens",
+            "photos": [
+                {
+                    "height": 1856,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114696225325463165996\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgpq8SytSt_1i0isdsg82aU9iIZg5xNH64L2bLU3kw2AEDA4LfISkbJEOnVXTG1cR31xJBluO6mnyVTJxj7CsAa0RoxxlipIEX0TNXFh50zcPMKNSyuGrOtnhkzmR4T8VVxaJCA9umm7SE3tBFyxSZQ9BrnoVRc3V95LQzL7xnV_Ctb",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJI3-1JqXRzjsR2fs5XMN7y-8",
+            "rating": 5,
+            "reference": "ChIJI3-1JqXRzjsR2fs5XMN7y-8",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "P8PR+39M, Bambalgi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.707336,
+                    "lng": 77.39777699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.7135541,
+                        "lng": 77.4001635
+                    },
+                    "southwest": {
+                        "lat": 17.7052633,
+                        "lng": 77.3969815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Hanmanthraya munoor",
+            "place_id": "ChIJ82JujubNzjsRliXTP7xsRf4",
+            "rating": 0,
+            "reference": "ChIJ82JujubNzjsRliXTP7xsRf4",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "P94X+W4, Magdal"
+        }
+    ],
+    "status": "OK"
+}

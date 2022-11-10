@@ -1,0 +1,930 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRgW85rSoY_20yz9EEbH0lT6qRH73iP39f4sPMaNe6JFOP2Mq3WYC5LY6po7d-ivIEhZW9t2RtDl2hCkglueIoXxJZHAAMDI5hpBOW9CrmH_q_BJHGrfKEjJqyRFumITBxfBTsGcU12QnB5Zjv587X8ZIkSb7-RvXtbC78-K9dZ8FEmUDYuh8eZZ5E4uUyczycHpDHiF8L_3yyUFZfVecIailOA3V36eWtjd_Zj69Ot_DjBAYXkWhv-L1daQhzVcQiRm7xrIVEDyJhuqDNoepGSp4RtCoIlsKytuEQaE1PrdXZhVxydlpTk0iNN8iqs0SZ-sUfTokCewcnyIoQohpKeenNrY8cuSjauiEEj5KRKZ_XKmJrTr8lMfri0mgfg8DBz8XrxQswp00ad0kqqCLds2xZtDBGJQ97sFGkGdizwZu83zCvhNNWPpNA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9436986,
+                    "lng": 77.585228
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.94506007989272,
+                        "lng": 77.58663367989273
+                    },
+                    "southwest": {
+                        "lat": 12.94236042010728,
+                        "lng": 77.58393402010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ashoka Pillar Monument",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110923387350070108438\">Namratha N. Shet</a>"
+                    ],
+                    "photo_reference": "AcYSjRi43NebRZBqr86trRstQSwZnqY85T3xl4ba5PlOqFjp5ffcCrQunBWY5uu4AyIxs7JTVHbII-3p7BWETz6-HprwtIen33czOyfJynLzaH34Kp4TbGiglgL9CiHb2dUFUVe8c29LgNJODgOsWkL6rq7aXPRhdvvOck__GMf8fTWXbdWA",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJK5UVK5UVrjsRMFgrDKedF5E",
+            "rating": 4.5,
+            "reference": "ChIJK5UVK5UVrjsRMFgrDKedF5E",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4540,
+            "vicinity": "WHVP+F3H, Kankanpalya Rd, 2nd Block, Mavalli, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9779159,
+                    "lng": 77.58218839999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.97977647989272,
+                        "lng": 77.58345797989271
+                    },
+                    "southwest": {
+                        "lat": 12.97707682010728,
+                        "lng": 77.58075832010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bhagath Singh's Monument",
+            "place_id": "ChIJCebDrFoXrjsR4aOJVFDZMYw",
+            "rating": 0,
+            "reference": "ChIJCebDrFoXrjsR4aOJVFDZMYw",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "XHHJ+5V8, Freedom Park, Seshadri Rd, Gandhi Nagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9221207,
+                    "lng": 77.64475809999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.92342987989272,
+                        "lng": 77.64614677989272
+                    },
+                    "southwest": {
+                        "lat": 12.92073022010728,
+                        "lng": 77.64344712010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Agara Lake Park Monument",
+            "photos": [
+                {
+                    "height": 3274,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108665419668382646484\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRjuSdN22IIO5C14RO3p0WjxwRSoGrq3c87MfSZ9tvvn37sErLUqxu1-LIbDiJFdRpqCgKOG-hje0KdXExjICa63nvUn-Fx3FJmyg1MLOWa6sw-4azqDcLKfptV0OOqjgfRgYC92fk92QRtIsvpE2Ko5RneVbNseQvdiR9vSqmIsR0FL",
+                    "width": 1517
+                }
+            ],
+            "place_id": "ChIJY6VXOAgVrjsR_qfHscpb0kw",
+            "rating": 4,
+            "reference": "ChIJY6VXOAgVrjsR_qfHscpb0kw",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "WJCV+RWR, 100 Feet Ring Rd, Agara Village, 1st Sector, HSR Layout, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.949338,
+                    "lng": 77.5580263
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.95072742989272,
+                        "lng": 77.55945817989273
+                    },
+                    "southwest": {
+                        "lat": 12.94802777010728,
+                        "lng": 77.55675852010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Kempegowda Tower (South West)",
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100511402481352312806\">lokesh m</a>"
+                    ],
+                    "photo_reference": "AcYSjRjoTjhgGf9sKNF8Wz7ydHRiWB5giSREYK-Qj3dms1wc7BAEPVj2ElsBvj-JB5f5i9kwOk1AzRUawagD00GYvVhP_eQuL9T32o-ZXp5QT2j3JtvBIHyO7BsFVc7IGw677ksUq90iqlL-y2l0EdBsDZ9jh3gmmbOQKS9-Ox_jZ6EYYE9t",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJnQnych0-rjsR0GKEX5xfpvE",
+            "plus_code": {
+                "compound_code": "WHX5+P6 Bengaluru, Karnataka",
+                "global_code": "7J4VWHX5+P6"
+            },
+            "rating": 3.9,
+            "reference": "ChIJnQnych0-rjsR0GKEX5xfpvE",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32,
+            "vicinity": "6/5, 4th Main Rd, Brindavan Nagar, Dhobi Ghat, Srinagar, Kempegowda Nagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0462917,
+                    "lng": 77.6801765
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.04764337989272,
+                        "lng": 77.68145607989271
+                    },
+                    "southwest": {
+                        "lat": 13.04494372010728,
+                        "lng": 77.67875642010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Alpha Granites",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104735277956107664835\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgOeibv_Ri1EfyOqEjn2oXPnYiPcnwL6itXw2MYyNW3k_5RnflEThXeyNHjaYc6GpaTeU9euogX34-whJXAht9ExXtNLkoHw0h88CcpgvvokA4I-XQuXwVVNuiB6G25QQLg9esc2Eya126qOlxy5HJtpHy4tztfr8uHsZUfbwSUrCYj",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJ-2sR5HARrjsR01hWIBh0n9Y",
+            "plus_code": {
+                "compound_code": "2MWJ+G3 Bengaluru, Karnataka",
+                "global_code": "7J5V2MWJ+G3"
+            },
+            "rating": 5,
+            "reference": "ChIJ-2sR5HARrjsR01hWIBh0n9Y",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Plot No. 162, K Channasandra Main Rd, opposite Willow Park Apartments, K Channasandra, Bengaluru"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 13.0047067,
+                    "lng": 77.5716475
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.00609797989272,
+                        "lng": 77.5730041798927
+                    },
+                    "southwest": {
+                        "lat": 13.00339832010728,
+                        "lng": 77.57030452010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "\u0c9b\u0ca4\u0ccd\u0cb0\u0caa\u0ca4\u0cbf \u0cb6\u0cbf\u0cb5\u0cbe\u0c9c\u0cbf \u0cae\u0cb9\u0cbe\u0cb0\u0cbe\u0c9c \u0cb6\u0cbf\u0cb2\u0cbe\u0cb6\u0cbe\u0cb8\u0ca8",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2299,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104287959504712208275\">Bharath Jadhav</a>"
+                    ],
+                    "photo_reference": "AcYSjRgMBk_VZT-8zJOpvVJ51MgwCJnaB3gx1PO5ZT4U0IPZt-ZY-y6s2vU9o75MV1-zq1vC9dwdPYpAseKB84ySDAzu2i0-7bqMMjv2WI5ieSY8NExyo4XJz30qG3-aYf2ObNs9WMJy0vItRKUQa88P1LRmBlvHM5LDwudEEyfRv_Vl_ChM",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJi-thGlEXrjsRdcNyRmPK4Z4",
+            "rating": 5,
+            "reference": "ChIJi-thGlEXrjsRdcNyRmPK4Z4",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "2H3C+VM6, Vyalikaval, Kodandarampura, Malleswaram, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9768354,
+                    "lng": 77.5988017
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.97812142989272,
+                        "lng": 77.60011862989272
+                    },
+                    "southwest": {
+                        "lat": 12.97542177010728,
+                        "lng": 77.59741897010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Queen Victoria Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2336,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105159337758494895173\">Kiran K</a>"
+                    ],
+                    "photo_reference": "AcYSjRg0fF3nrRmu2LmlP4KSnAhlHPUSuzOz1pk3tF3KT0t1N7vs8TSzPVmT-ij1HeS187dLoZCF3DytSJVe4FiSYvqG7apSAqbuypgNV72rHy1dJ9NSCEGVlNHV_bNTn1ajo1YnNAcmZm90etsfCYsaMuzOLKXFi_EPnhL2JfkEMIY8n7NS",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJt1dr5HoWrjsRZTh4sE2NHFU",
+            "plus_code": {
+                "compound_code": "XHGX+PG Bengaluru, Karnataka",
+                "global_code": "7J4VXHGX+PG"
+            },
+            "rating": 4.3,
+            "reference": "ChIJt1dr5HoWrjsRZTh4sE2NHFU",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 122,
+            "vicinity": "30/A, Nrupathunga Rd, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9471713,
+                    "lng": 77.61909179999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.94853592989272,
+                        "lng": 77.62044877989271
+                    },
+                    "southwest": {
+                        "lat": 12.94583627010728,
+                        "lng": 77.61774912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/monument_pinlet",
+            "name": "Dr.B.R Ambedkar Statue",
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107960651633143159223\">David Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRhLN643tLd477hR3rSTNfzfAam06ZlWmPJ7aYxB4-uF29qKKyYNMlNUXGddXMbO99zy2epcBeVpHmcJ3td67KKowikrAIyrd8Cfiw7NqDu0CL875r6DZ5PrFD0KwGRDawU6i4502SsYUHb1V3rzVpCFtHTgD4ZCQo2kWnW1RxXFA6mz",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJR44s9TcUrjsR0eC_-coHZ-o",
+            "plus_code": {
+                "compound_code": "WJW9+VJ Bengaluru, Karnataka",
+                "global_code": "7J4VWJW9+VJ"
+            },
+            "rating": 3.2,
+            "reference": "ChIJR44s9TcUrjsR0eC_-coHZ-o",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "M.R David Kumar, 80ft road, Rajendra Nagar, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.97631,
+                    "lng": 77.5943126
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.97763992989272,
+                        "lng": 77.59574997989272
+                    },
+                    "southwest": {
+                        "lat": 12.97494027010728,
+                        "lng": 77.59305032010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sir Mark Cubbon Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103405250503373162598\">vsblr</a>"
+                    ],
+                    "photo_reference": "AcYSjRh70uzzxCDK1vOMjM2fkuUDXz_i7BwuaS9y4Pntm-dr-sVYdF7yDUknfQ31AeBDM3VGPkSlVTHQGanAakujGR3tbpMwHRxp04e0v3nAGWQBBEfDiZS-vvq-UDNsXArzNYvmyiUPvEK1-EmjfynIGz2Nc4OxStrPuiBZIA2Q2kV0itkq",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJszABzHEWrjsRuuyEFE1AhWI",
+            "rating": 4.2,
+            "reference": "ChIJszABzHEWrjsRuuyEFE1AhWI",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "XHGV+GPG, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9336548,
+                    "lng": 77.607333
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.93500492989272,
+                        "lng": 77.60865532989271
+                    },
+                    "southwest": {
+                        "lat": 12.93230527010728,
+                        "lng": 77.60595567010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Bhagat Singh, Sangollirayanna, Subhash Chandra Bose Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111457898509251270374\">chirag vinod</a>"
+                    ],
+                    "photo_reference": "AcYSjRjJsnG_iHrVu10qyCE-tD_khYJRnkhQB_bdnBS6awZe4Vi0Z33Ptdlp0plc5MoSI8Lk3X9cTLgNwFh_JJakLto7HteP7FX3YNKhj2xaX03geuSz4VGP12JxntDR45EgIC9u_-zMsqbicdi5w-pJIKeLdU40picp4Xl7mrUMRTHrKRd3",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJC9KysO4VrjsRSEhv3NXpM-o",
+            "rating": 4.5,
+            "reference": "ChIJC9KysO4VrjsRSEhv3NXpM-o",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "WJM4+FW8, SG Palya Main Rd, Venkateshwara Layout, S.G. Palya, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9854791,
+                    "lng": 77.59048469999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.98669902989272,
+                        "lng": 77.5916662798927
+                    },
+                    "southwest": {
+                        "lat": 12.98399937010728,
+                        "lng": 77.58896662010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "National Military Memorial Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113190757056739081171\">Atul Kakkar</a>"
+                    ],
+                    "photo_reference": "AcYSjRgMV2bXMljL63VmK7z2BipZeg5-eXQ-jdpDkDHwlcyyovR_5_7mdqRSJJba0hEuQ9MZ3IOyF0Z0O_3kqt-1JrHS3uPrGt2uwXx2EuBCvue91NfRvKk7Wiog4mGHLWmgEF4wW1e1V4QQF0RaAusK1JNCwCgYvnlyTM-45bI0HXSCxNed",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJP4i732sWrjsR_2ctlGEZYzA",
+            "plus_code": {
+                "compound_code": "XHPR+55 Bengaluru, Karnataka",
+                "global_code": "7J4VXHPR+55"
+            },
+            "rating": 4.5,
+            "reference": "ChIJP4i732sWrjsR_2ctlGEZYzA",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 574,
+            "vicinity": "2, Millers Road, Vasanth Nagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.943627,
+                    "lng": 77.6238115
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.94501212989272,
+                        "lng": 77.62522067989272
+                    },
+                    "southwest": {
+                        "lat": 12.94231247010728,
+                        "lng": 77.62252102010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "NGV arch",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109573972961939201553\">kingunais</a>"
+                    ],
+                    "photo_reference": "AcYSjRhfXh50LVzj-Slsvyy-GokJ7LCuox7UmrwdTiB7V7cAMx1WCUtKcJ-VIWY6QuIxtWXkNKMRQOZX4chBTDWBcFQvb5OGmJsmKghliXY8JHndXg1TjyLfWyuOwXXngXS4S_JGdHClc7qS9Aq82tZUXtMiWuGoA7rtUXxtsuUTdnfNH6L_",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJt_hoLOYVrjsR19To9xUtfTQ",
+            "rating": 5,
+            "reference": "ChIJt_hoLOYVrjsR19To9xUtfTQ",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "WJVF+FG3, NGV Main Rd, National Games Village Complex, KHB Games Village, Koramangala, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.973051,
+                    "lng": 77.581481
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.97444562989272,
+                        "lng": 77.58286172989271
+                    },
+                    "southwest": {
+                        "lat": 12.97174597010728,
+                        "lng": 77.58016207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Quit India Monument",
+            "place_id": "ChIJKQABS78XrjsRzPbuinsf_kI",
+            "plus_code": {
+                "compound_code": "XHFJ+6H Bengaluru, Karnataka",
+                "global_code": "7J4VXHFJ+6H"
+            },
+            "rating": 0,
+            "reference": "ChIJKQABS78XrjsRzPbuinsf_kI",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "3, Dr Ambedkar Rd, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.961365,
+                    "lng": 77.6148674
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.96271907989272,
+                        "lng": 77.61615697989271
+                    },
+                    "southwest": {
+                        "lat": 12.96001942010728,
+                        "lng": 77.61345732010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ambedkar Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113548193396723144924\">Joy</a>"
+                    ],
+                    "photo_reference": "AcYSjRhR_XXXJ0HukmK6uAd58GPnAw3Wa1Xp4NsJJY16urhfXlL3FcADGpuWJ2YJoTQwOF4DPXbjVbGQYb9PC0ZCSsLV-W4eh0APa8_KfZZ_wmtuMdx8GDG2OT3f6UP3_gvuF81VjRSzjmaiiOwnWUrsW1WOw_spAIKOANNCpTjie6c9Xhhs",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJMcQ3uS4UrjsR4i01k8npzPo",
+            "plus_code": {
+                "compound_code": "XJ67+GW Bengaluru, Karnataka",
+                "global_code": "7J4VXJ67+GW"
+            },
+            "rating": 4.1,
+            "reference": "ChIJMcQ3uS4UrjsR4i01k8npzPo",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 736,
+            "vicinity": "Austin Town, Neelasandra, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9578334,
+                    "lng": 77.57524459999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.95919297989272,
+                        "lng": 77.57654512989272
+                    },
+                    "southwest": {
+                        "lat": 12.95649332010728,
+                        "lng": 77.57384547010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Tipu Sultan's Armoury",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107400081064665462855\">Krishnapriya Aribam</a>"
+                    ],
+                    "photo_reference": "AcYSjRhpeel_wnzl4eGmzDryX2KTJqTYPgJPW37Crh0U5vpG4_UUz9LAxR8P4YvDRhFjuekCjQEEeWhB7yh9cutDiymBZqa_62uet3PxP6j6OJelNOc-hELEnHv0JP2bPzbiKlouyrGer3s8YKDMpdR0Mxd9mtQeLc-ErkgMg1y_08De3GyG",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJdda0AuUVrjsR2LwvE8z7ITc",
+            "rating": 4,
+            "reference": "ChIJdda0AuUVrjsR2LwvE8z7ITc",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 163,
+            "vicinity": "XH5G+44F, Kalasipalam New Exte, City Market, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9628018,
+                    "lng": 77.5758862
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.96423612989272,
+                        "lng": 77.57745527989273
+                    },
+                    "southwest": {
+                        "lat": 12.96153647010728,
+                        "lng": 77.57475562010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bangalore Fort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3549,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103071092387651894363\">Saleem Bullet</a>"
+                    ],
+                    "photo_reference": "AcYSjRjZr9Amblk0UoL7Z-jSRvUubghMJY2Q1R7WSLrLH23781PchVF6XALqG6BZHCO29yu8-cgXcTXBw4fYl5XEjA-OMfwKZIYqweuQbDKvCj8tvgsDT3gnk9PYTkEffb0TkwlFl-npHPjWSFKz3jjtJBk7YuCNhJzFE-z5ZPnq2JLeiovb",
+                    "width": 4594
+                }
+            ],
+            "place_id": "ChIJVx06BOMVrjsR1-a9CQJZpLI",
+            "rating": 4,
+            "reference": "ChIJVx06BOMVrjsR1-a9CQJZpLI",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19825,
+            "vicinity": "XH7G+49C, Krishna Rajendra Rd, New Tharagupet, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0173222,
+                    "lng": 77.5671322
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.01858012989272,
+                        "lng": 77.56873722989272
+                    },
+                    "southwest": {
+                        "lat": 13.01588047010728,
+                        "lng": 77.56603757010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "J.N.Tata Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 9216,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107011638615658815049\">AMBARISH MALLICK</a>"
+                    ],
+                    "photo_reference": "AcYSjRix8AvWBtGrDRtvgdPxoxU4e-S3e4Bg99nkvPihO3jev4iQOWh7ii15cbohbPmUxUIkH5dsc_hgHy4ObMOmzFFbLs8wpILw2K2uEQyJpALiWUWtEwUq5bcYxUS3fv0iy48m78ik2pSWoVRVbx8cjyktMOeJVm-quhLerlyoJzGSDuU5",
+                    "width": 6912
+                }
+            ],
+            "place_id": "ChIJVeEvrtYXrjsRirZJg38Xe9A",
+            "rating": 4.7,
+            "reference": "ChIJVeEvrtYXrjsRirZJg38Xe9A",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 259,
+            "vicinity": "2H88+WVC, Amra Marg, IISC Main Building, Mathikere, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9593513,
+                    "lng": 77.5736415
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.96099437989272,
+                        "lng": 77.57511222989271
+                    },
+                    "southwest": {
+                        "lat": 12.95829472010728,
+                        "lng": 77.57241257010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Tipu Sultan's Summer Palace",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114510196221123160204\">subhash subs</a>"
+                    ],
+                    "photo_reference": "AcYSjRjDFGhh-zHlBzwmjtjZx2Zk1f_kURuWeDab6YyTyFK5ZuItoqaR_Vl_1amJwJvXugYzbbJ6r-kinyizmmzWegylSptfcrjcBe46IUf4uii3stH24fyWDh1On42uYnBotxvTv4-v0F2by2r3MOA_AZPs7U9CppjdLN1FEb0eq0-crBdn",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJAeY0tOQVrjsRdZ8hleP7aRo",
+            "rating": 3.9,
+            "reference": "ChIJAeY0tOQVrjsRdZ8hleP7aRo",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22291,
+            "vicinity": "XH5F+PFR, Tippu Sultan Palace Rd, Chamrajpet, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 12.9486198,
+                    "lng": 77.5894246
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.95042912989272,
+                        "lng": 77.59096602989273
+                    },
+                    "southwest": {
+                        "lat": 12.94772947010728,
+                        "lng": 77.58826637010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kempegowda Tower",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1810,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112629721090469105585\">Bhuvanesh Gowda</a>"
+                    ],
+                    "photo_reference": "AcYSjRgLRrB_wSGRroEOowOBaiH4LbvKgoa5AundpmHpYb9EE6UlxPiVa7bvf5h71gr1lNdQ3eNfq33A1z7C7dcCmxssOy4USAbsE39GjSKoxOAiUlTu-BiXx88DLWbNxiY3NJtpzRGZNVTgboMJoh386p9G3RkBAI4PGa1-v_5ONc8XAwcm",
+                    "width": 805
+                }
+            ],
+            "place_id": "ChIJPRBVR8EVrjsR_PgtU_5dEKY",
+            "rating": 4.3,
+            "reference": "ChIJPRBVR8EVrjsR_PgtU_5dEKY",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 244,
+            "vicinity": "WHXQ+CQV, Mavalli, Bengaluru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 13.0153452,
+                    "lng": 77.5542088
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.01676162989272,
+                        "lng": 77.55559312989273
+                    },
+                    "southwest": {
+                        "lat": 13.01406197010728,
+                        "lng": 77.55289347010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Swami Vivekananda Statue",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2178,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107038065487726225359\">Mukesh acharya</a>"
+                    ],
+                    "photo_reference": "AcYSjRjHh6DKKpg5b7is0wdUmS-KKrLUCVSOzgup32yKxywUs2HsYyqKL4c7FT2IcngsuVC1lufvWNzOcY9Xna0-NSgvNBhKNTF6MrqCuMgXkU6QSukA4mBvOBzSj-KpsBaPPRU7ZlYXE2bMalrVkwh92eNo2E6ELOksno6vAjknMwlI_BlE",
+                    "width": 1501
+                }
+            ],
+            "place_id": "ChIJ_webb3k9rjsRu_MRrFSMjZQ",
+            "plus_code": {
+                "compound_code": "2H83+4M Bengaluru, Karnataka",
+                "global_code": "7J5V2H83+4M"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ_webb3k9rjsRu_MRrFSMjZQ",
+            "scope": "GOOGLE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "18, Tumkur Rd, Dr.Ambedkar Nagar, Yeswanthpur, Bengaluru"
+        }
+    ],
+    "status": "OK"
+}

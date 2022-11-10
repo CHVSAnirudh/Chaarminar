@@ -1,0 +1,838 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AcYSjRj0MJxnSVE_wKKQ6HhNn1AWk67tZa_pRjVc7_4W4pXZiLvM-04ojNUDlVzNHFgC8H46FDSqO7hufedsoHNrK02qSfARSXsWQVELW1NdsFeBvvxDPGDaJx8eUTJYs38Gi5KtiEKcTJLZ5rFCyISe7Rgzte5XxH-cdJgkniKyG8KRfwvQfYgXOBDD2nzmHY9YARddbvRjpgcGPOXymlqdAyb1BqdXOX5Z5EA5OsXovSmVTnwtuHXmTaYP446oEKIoMd5NHfrDriKryLGZ2aOu9RpbnttQrQ0ZkQ_Gu3vNB6PjtFejmpf4WNXK9LITIR6o0FC4DcPu0qIompgIZ1Gy-BLr7akuyBc_gY7GkYkeN7MOP2wejOcUn_5Zgp4rhHJ9VPeLXpIl9VpepiRDTuJo5uC6p1Qa0L36yBShiW9gTwebUpQiE0pbWHw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5117894,
+                    "lng": 78.57459879999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.51313867989272,
+                        "lng": 78.57594462989272
+                    },
+                    "southwest": {
+                        "lat": 17.51043902010728,
+                        "lng": 78.57324497010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJr3vJMKmdyzsRh2iLBwYyOUk",
+            "rating": 0,
+            "reference": "ChIJr3vJMKmdyzsRh2iLBwYyOUk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "GH6F+PR9, Vishwakarma nagar, Ambedkar Nagar, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4087015,
+                    "lng": 78.6026459
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41005112989272,
+                        "lng": 78.60394762989273
+                    },
+                    "southwest": {
+                        "lat": 17.40735147010728,
+                        "lng": 78.60124797010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJA2NUHNWfyzsRQnSlL65vlGY",
+            "rating": 0,
+            "reference": "ChIJA2NUHNWfyzsRQnSlL65vlGY",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "CJ53+F2Q, Srinvas, Prashanth Nagar Colony Road, Medipally, Canara Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4261597,
+                    "lng": 78.61191560000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42752742989272,
+                        "lng": 78.61316992989272
+                    },
+                    "southwest": {
+                        "lat": 17.42482777010727,
+                        "lng": 78.61047027010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "pochamma temple",
+            "place_id": "ChIJsRBKW56fyzsRW1wJGrVKRrM",
+            "rating": 0,
+            "reference": "ChIJsRBKW56fyzsRW1wJGrVKRrM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "CJG6+FQ7, VSSD Nagar, Narepally, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4875076,
+                    "lng": 78.60224389999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.48885617989272,
+                        "lng": 78.60359322989272
+                    },
+                    "southwest": {
+                        "lat": 17.48615652010728,
+                        "lng": 78.60089357010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJj30JJvqcyzsRFDsNfAzweRQ",
+            "rating": 4.3,
+            "reference": "ChIJj30JJvqcyzsRFDsNfAzweRQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "FJQ2+2V4, Nagaram Rd, Shilpa Nagar, Cherlapalli, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4198742,
+                    "lng": 78.5796479
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42125497989272,
+                        "lng": 78.58100597989272
+                    },
+                    "southwest": {
+                        "lat": 17.41855532010728,
+                        "lng": 78.57830632010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Bangaru Maisamma Temple (New)",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114982743859062589959\">Guduru Narasimharao</a>"
+                    ],
+                    "photo_reference": "AcYSjRhVTTWKNKfWLp3buOcqTSe9PmIQxWcBkkdbl8f0SmXlUxe7R_gCALay-kilNo7M6d23VKA-0NVEbIoPiqknrsx2Sc_T_zV76J9zyfybMCVVBvSTEnbwafCY8P_LPGXTg2iyY-abDWbX_rGZyd5l7MNgQo5EmwqUkHaxomJcqmSrZN2f",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJG21U77qeyzsRaGQuJoJolj4",
+            "rating": 4.5,
+            "reference": "ChIJG21U77qeyzsRaGQuJoJolj4",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 129,
+            "vicinity": "CH9H+WVR, Sri Sai Ram Nagar Colony, Boduppal, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4231235,
+                    "lng": 78.579122
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42440572989272,
+                        "lng": 78.58045202989273
+                    },
+                    "southwest": {
+                        "lat": 17.42170607010728,
+                        "lng": 78.57775237010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Chittaramma Temple",
+            "place_id": "ChIJswwtSpifyzsR2nZjuvGPh1E",
+            "rating": 0,
+            "reference": "ChIJswwtSpifyzsR2nZjuvGPh1E",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "CHFH+6MR, Annapurna Colony, Boduppal, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.5069221,
+                    "lng": 78.6192702
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.50827192989272,
+                        "lng": 78.62061797989271
+                    },
+                    "southwest": {
+                        "lat": 17.50557227010728,
+                        "lng": 78.61791832010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pochamma Temple",
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106015959730333249294\">Shivarathri Ramya Ramya</a>"
+                    ],
+                    "photo_reference": "AcYSjRixmQ8sc2Gu4wqx9wvPHgPQi0GWJzNkoIU-MKuuhYkm33Z103qSklZSxXtcn5Gj5UGat5-G7P4q64o7L20-I4_cSNjiu9OJnslrZtao7b-RILDHGocqdC90u2dFmwE5egFNbStKQSkJGqDEBor62C4wRNlgQkPVQYnaNjLlfaghf84N",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJH1d6aCKdyzsRhGmNpslRFrA",
+            "rating": 4.2,
+            "reference": "ChIJH1d6aCKdyzsRhGmNpslRFrA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "GJ49+QP6, Laxmi nagar colony, Bandlaguda, Chiryala Village, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4295685,
+                    "lng": 78.58686449999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43091082989272,
+                        "lng": 78.58815512989271
+                    },
+                    "southwest": {
+                        "lat": 17.42821117010728,
+                        "lng": 78.58545547010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pochamma Temple",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111875142961720255525\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhkBT8FvhpkpzWX84fe8n0sF4jrKPNviPJtNm4ZRIKShM0KZwt1vB48aGs7BEuiEzIDlOFOjYdoecJgmlZysNa3bht4oj6upsu7LC9o9iqliFF8P26xXncjlF3c7z9G6zxpA3qPK4xNp85W8ZN3wNYKrBZ1FQUj7FIul8emHfCMt8yE",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJ3-MMvaGeyzsRnit6JoFZpLI",
+            "rating": 4.5,
+            "reference": "ChIJ3-MMvaGeyzsRnit6JoFZpLI",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "CHHP+RPH, L N Colony, Rajalingam Colony, Boduppal, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.416314,
+                    "lng": 78.5965545
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41762112989272,
+                        "lng": 78.59780842989272
+                    },
+                    "southwest": {
+                        "lat": 17.41492147010728,
+                        "lng": 78.59510877010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Anjaneya Swami Temple",
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111345464727301311209\">shiva shankara chary</a>"
+                    ],
+                    "photo_reference": "AcYSjRiPi7mQhOs-Lk2fYOT0RsafAGO9ReKaexHbpG7NyOLOZAiEqE0h-5c-IFalb7CdfA2iOxZsbsSdwtNUYtIWaqr4VQPMwo5DU6hfn1wKdUzIBLbHOVQU6LggwAVm5hDHVqWbItZDgebkPLEf5DrJATVvoOAHikQ58bDHL5L6t5V0Uflu",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJx4aQ2pOeyzsRplnVktCAXp8",
+            "rating": 4.6,
+            "reference": "ChIJx4aQ2pOeyzsRplnVktCAXp8",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "CH8W+GJF, NIN Colony, Buddha Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.399082,
+                    "lng": 78.575329
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.40045122989272,
+                        "lng": 78.57673257989272
+                    },
+                    "southwest": {
+                        "lat": 17.39775157010728,
+                        "lng": 78.57403292010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pochamma Temple",
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115337148775301285349\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRgdbhwlRB5JvxKcDier8PMC-odcn15YEmrIO54Qy8cXpjvjnb6KRGeCkqR2QrT13KGDhQRmk6MtM89UtCodPWYxNG_wY8uN5nVfLN8HMbtrhJYlm4wX1vsTVMg3lXCHDDTLj5oA4r63oaDkVso2ppOvpKE8MhrDPPkqAd2kvhW3k2iQ",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJhZVyE8KfyzsRf-uPf0haPcs",
+            "rating": 4,
+            "reference": "ChIJhZVyE8KfyzsRf-uPf0haPcs",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "9HXG+J4P, Shanti Nagar, Uppal, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3904323,
+                    "lng": 78.6058133
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39182542989272,
+                        "lng": 78.60711362989272
+                    },
+                    "southwest": {
+                        "lat": 17.38912577010728,
+                        "lng": 78.60441397010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman Temple",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 769,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104535460875859543991\">Kishore Kumar</a>"
+                    ],
+                    "photo_reference": "AcYSjRiU8fsADJ96DJHduKDdJ42DxRTu2bivbj4PKb4DMkrEIRi-KkEXISZBCMtpDkElm9iMmlobf-_YnzK610IIuR2df4HooiHWh3t6woVFGT8iQVDpXUwZgu57_ZzO54FDN_-OU9Yh1hlVPK5aFeHQwQTAdyQIRr9ksttjGZ2ZZ_m313JC",
+                    "width": 1025
+                }
+            ],
+            "place_id": "ChIJ550U2P2eyzsRXxD6lBRNraw",
+            "plus_code": {
+                "compound_code": "9JR4+58 Hyderabad, Telangana",
+                "global_code": "7J9W9JR4+58"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ550U2P2eyzsRXxD6lBRNraw",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "1-45, Peerzadiguda Rd, Rayancha Enclave, Parvathapuram, Parvathapur, Peerzadiguda Rd, Rayancha Enclave, Parvathapuram, Parvathapur, Peerzadiguda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.3926544,
+                    "lng": 78.5913876
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.39400827989272,
+                        "lng": 78.59271272989271
+                    },
+                    "southwest": {
+                        "lat": 17.39130862010728,
+                        "lng": 78.59001307010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shiva temple",
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106725869184590731757\">Sivaram Akuri</a>"
+                    ],
+                    "photo_reference": "AcYSjRhr-SQQvIMOyO-V3FR76Yr4rCVbi8XuP4ttwYI8_Yfg4wNk-6H1w8IeMCiA2FaMgAC9wDtcLVV-7PqxaiQPyx-l1eaKuWSFGHeUgDLOfhPaUtkpJPWUwjKZJ1Vyf-1wqLPwpA42-_I0db7QHxU_N6KCtiIYugE8Rw4xw5vZ6ZVfJFHG",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJHYQn2OCeyzsRQpulg-QJNJs",
+            "rating": 4.4,
+            "reference": "ChIJHYQn2OCeyzsRQpulg-QJNJs",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "9HVR+2HX, BK Kurma Nagar, Peerzadiguda, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4918382,
+                    "lng": 78.5931935
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.49319197989272,
+                        "lng": 78.59452607989273
+                    },
+                    "southwest": {
+                        "lat": 17.49049232010728,
+                        "lng": 78.59182642010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "place_id": "ChIJSyINDfKcyzsR6YGNhT8JP9k",
+            "plus_code": {
+                "compound_code": "FHRV+P7 Secunderabad, Telangana",
+                "global_code": "7J9WFHRV+P7"
+            },
+            "rating": 4.4,
+            "reference": "ChIJSyINDfKcyzsR6YGNhT8JP9k",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "500083, Venkataramana Colony, Tarapuri Colony, Dammaiguda, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4099919,
+                    "lng": 78.5739595
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.41138532989272,
+                        "lng": 78.57531457989272
+                    },
+                    "southwest": {
+                        "lat": 17.40868567010727,
+                        "lng": 78.57261492010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Komaramma Temple, Dwaraka Nagar, Boduppal",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106747780912862383134\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhJ8ueqjPT1cQ7b-hcgp7VSeN2OjXTlDUBaAYcaEmBP53zPQx4f3lXHVq7RMIe0tAmAVFbQKv20m5Bu1o3_RqFJ7L3PoyTHPm-YWuvKbVjYm94ZAzlqzkDU3FClKgaAbVbZTFx59kVGlc9T_PvP5Kk4Yo4jv88xYu_tilXiTNemtBwJ",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJRUXlKLaeyzsRfROYYfJtaEg",
+            "rating": 4.5,
+            "reference": "ChIJRUXlKLaeyzsRfROYYfJtaEg",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37,
+            "vicinity": "CH6F+2WQ Municipality, Kalyanpuri Colony Rd, Dwaraka Nagar, Balaji Hill Colony, Boduppal, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4333534,
+                    "lng": 78.6036691
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43470612989272,
+                        "lng": 78.60501797989272
+                    },
+                    "southwest": {
+                        "lat": 17.43200647010728,
+                        "lng": 78.60231832010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pochamma Temple",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100551682503408005299\">ajay reddy</a>"
+                    ],
+                    "photo_reference": "AcYSjRgPGcKNEusVnvzG_TnDeG7l-dT0olvxRI6MG5P23NIGnVduVPhqgNSS1YN4L1uSEUkmWVrsCweP4wy2Z4h2czGJmtT-yyxSyE-NXI7A_mBpi7hE9muxsWLB4HTLzeoNUFacLeqGL0iVwO9zi8b6WCF7N8I7I0JOpO7WqtLhi0B7Yf3D",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJQR1ZXYKeyzsRlWI7MoipslM",
+            "rating": 4.4,
+            "reference": "ChIJQR1ZXYKeyzsRlWI7MoipslM",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 53,
+            "vicinity": "CJM3+8FV, Chengicherla, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4655993,
+                    "lng": 78.6714519
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.46695722989272,
+                        "lng": 78.67287787989271
+                    },
+                    "southwest": {
+                        "lat": 17.46425757010728,
+                        "lng": 78.67017822010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanuman Temple",
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102100995353714866646\">Sree Krishna</a>"
+                    ],
+                    "photo_reference": "AcYSjRhNouPfc2HZqm87LbDRCCjHBDHNwA4AivKPs8XIvZiGm2OznuZr-cqus4ghGnOdrDhSZmdD72B_esws5ECiD4w07aP39p62RwIIl-mka_gsi0hCt25TFPZ9xfizI7nrL2PZvRwSiVrtK9DBM1nnmI6qb0bfmOHsR7uIMS2MAd4UF3nC",
+                    "width": 3468
+                }
+            ],
+            "place_id": "ChIJj-M1Vzx2yzsR9sLF1vtaShQ",
+            "rating": 4.3,
+            "reference": "ChIJj-M1Vzx2yzsR9sLF1vtaShQ",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28,
+            "vicinity": "FM8C+6HG, Padamatisaiguda"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4350118,
+                    "lng": 78.59728539999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.43635877989272,
+                        "lng": 78.59864832989273
+                    },
+                    "southwest": {
+                        "lat": 17.43365912010728,
+                        "lng": 78.59594867010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Temple",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106838520696398173334\">ganesh g</a>"
+                    ],
+                    "photo_reference": "AcYSjRhCEC2__IZ3X9wvxC7iKs3IH4t8dK5M7hVsiLpy8ZLLDLYQLPaqRL4cmvJ6KE_GtLIgZbcwsw6v2-IL6jhsBbRy7-YOLPTOeH-uwNYdlPXGS1mxJrglfjyIA4Dvaj3Yu9eNTqNY5P-6u_ndJt8gsaxozKUxjifrCgfJnNUp_75rme4p",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJAwf-AvOdyzsRt9aRjM8ISOA",
+            "rating": 5,
+            "reference": "ChIJAwf-AvOdyzsRt9aRjM8ISOA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "CHPW+2W3, Chengicherla, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4845434,
+                    "lng": 78.58016889999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.48584842989272,
+                        "lng": 78.58154657989272
+                    },
+                    "southwest": {
+                        "lat": 17.48314877010727,
+                        "lng": 78.57884692010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Shiva Sai Temple",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107103655543428747296\">A Google User</a>"
+                    ],
+                    "photo_reference": "AcYSjRhC17Qj67s8sLOBVB2wG-cpc6d0_3aW_zwslos-RRChcK-jivY70KpghlQpmVitOiTonqHa1VHVvyqEg-N98FBna3JIBb-g1Bz93OSAyrqU7V93rRSyJ_UjzaOSNzcTBxD_2NkiRPYlGl2M_PP1updDPuHgKhwiRm3NddivNj8TktqD",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJm09x34icyzsR-O8Ntxwx3Jc",
+            "rating": 4.5,
+            "reference": "ChIJm09x34icyzsR-O8Ntxwx3Jc",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 82,
+            "vicinity": "FHMJ+R37, ECIL, Shiva Sai Nagar, Kapra, Secunderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4208795,
+                    "lng": 78.5954544
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.42220197989272,
+                        "lng": 78.59680827989273
+                    },
+                    "southwest": {
+                        "lat": 17.41950232010728,
+                        "lng": 78.59410862010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Hanumann temple",
+            "place_id": "ChIJ2camxpCeyzsRihRSe-h9xzA",
+            "rating": 4.5,
+            "reference": "ChIJ2camxpCeyzsRihRSe-h9xzA",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "CHCW+85W, Sri Laxmi Nagar Colony Rd, Srilaxmi Nagar, West Hanuman Nagar, Buddha Nagar, Hyderabad"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 17.4437838,
+                    "lng": 78.6769266
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 17.44505717989272,
+                        "lng": 78.67829097989271
+                    },
+                    "southwest": {
+                        "lat": 17.44235752010728,
+                        "lng": 78.67559132010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+            "name": "Pochamma Temple",
+            "place_id": "ChIJlSrPlbV3yzsRqYLgfQMaNBk",
+            "rating": 5,
+            "reference": "ChIJlSrPlbV3yzsRqYLgfQMaNBk",
+            "scope": "GOOGLE",
+            "types": [
+                "hindu_temple",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "CMVG+GQ7, Ghatkesar"
+        }
+    ],
+    "status": "OK"
+}
