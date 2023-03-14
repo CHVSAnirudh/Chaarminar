@@ -20,6 +20,11 @@ python3 -m venv .env
 source .env/bin/activate
 pip install -r requirements.txt
 ```
+Following command will the run the backend app in development mode.
+Open [http://localhost:5000/docs](http://localhost:5000/docs) to view the FastAPI Swagger UI in your browser.
+```python
+python app.py
+```
 
 ### Frontend Installation
 Navigate inside the frontend folder, then execute the following set of commands.
